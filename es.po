@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-05 13:22+0200\n"
+"PO-Revision-Date: 2021-05-07 14:02+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -51561,7 +51561,7 @@ msgid "Site Admin"
 msgstr "Site Admin"
 
 msgid "Slick carousel"
-msgstr "Slick carousel"
+msgstr "Carrusel Slick"
 
 msgid "Terms list"
 msgstr "Lista de términos"
@@ -51856,9 +51856,11 @@ msgstr "Contenido de las diapositivas"
 msgid "Slide interval"
 msgstr "Intervalo de deslizamiento"
 
+#, fuzzy
 msgid "Column Wrapper Content"
-msgstr ""
+msgstr "Contenido de la Envoltura de la Columna"
 
+#, fuzzy
 msgid "Column content"
 msgstr "Contenido de columna"
 
@@ -51866,80 +51868,94 @@ msgid ""
 "Customize the styling of this component by adding CSS classes. Separate multiple "
 "classes by spaces."
 msgstr ""
+"Personalice el estilo de este componente añadiendo clases CSS. Separe varias clases "
+"con espacios."
 
 msgid "Column style"
 msgstr "Estilo de columna"
 
+#, fuzzy
 msgid "Modal body"
-msgstr ""
+msgstr "Cuerpo Modal"
 
+#, fuzzy
 msgid "Modal button text"
-msgstr ""
+msgstr "Botón de texto Modal"
 
+#, fuzzy
 msgid "Modal footer"
-msgstr ""
+msgstr "Footer Modal"
 
 msgid "Modal title"
-msgstr ""
+msgstr "Título Modal"
 
+#, fuzzy
 msgid "Tab body"
-msgstr ""
+msgstr "Cuerpo Tab"
 
+#, fuzzy
 msgid "Tab name"
-msgstr ""
+msgstr "Nombre Tab"
 
 msgid "Accordion"
-msgstr ""
+msgstr "Acordeón"
 
 msgid "Accordion Section"
-msgstr ""
+msgstr "Sección de Acordeón"
 
 msgid "Drupal Block"
-msgstr ""
+msgstr "Bloque de Drupal"
 
 msgid "Carousel"
 msgstr "Carrusel"
 
+#, fuzzy
 msgid "Column Wrapper"
-msgstr ""
+msgstr "Envoltorio de Columna"
 
 msgid "Columns (Equal)"
-msgstr ""
+msgstr "Columnas (Igual)"
 
 msgid "Columns (Three Uneven)"
-msgstr ""
+msgstr "Columnas (Tres Desiguales)"
 
 msgid "Columns (Two Uneven)"
-msgstr ""
+msgstr "Columnas (Dos Desiguales)"
 
 msgid "Modal"
-msgstr ""
+msgstr "Modal"
 
 msgid "Rich Text"
-msgstr ""
+msgstr "Texto Enriquecido"
 
+#, fuzzy
 msgid "Tab Section"
-msgstr ""
+msgstr "Sección Tab"
 
 msgid "A responsive and easy to customize slider block."
-msgstr ""
+msgstr "Un bloque slide responsive y fácil de personalizar."
 
 msgid "Carousel slides"
-msgstr ""
+msgstr "Slides carrusel"
 
 msgid "Varbase Carousel"
-msgstr ""
+msgstr "Carrusel Varbase"
 
 msgid ""
 "<button type=\"button\" data-role=\"none\" class=\"slick-prev\" aria-label="
 "\"Previous\" tabindex=\"0\" role=\"button\">Previous</button>"
 msgstr ""
+"<button type=\"button\" data-role=\"none\" class=\"slick-prev\" aria-label="
+"\"Previous\" tabindex=\"0\" role=\"button\">Anterior</button>"
 
 msgid ""
 "<button type=\"button\" data-role=\"none\" class=\"slick-next\" aria-label=\"Next\" "
 "tabindex=\"0\" role=\"button\">Next</button>"
 msgstr ""
+"<button type=\"button\" data-role=\"none\" class=\"slick-next\" aria-label=\"Next\" "
+"tabindex=\"0\" role=\"button\">Siguiente</button>"
 
+#, fuzzy
 msgid ""
 "div.bs-callout|Callout\r\n"
 "div.bs-callout.bs-callout-danger|Callout danger\r\n"
@@ -51962,63 +51978,91 @@ msgid ""
 "div.panel-body|Panel body\r\n"
 "div.panel-footer|Panel footer"
 msgstr ""
+"div.bs-callout|Callout\r\n"
+"div.bs-callout.bs-callout-danger|Callout danger\r\n"
+"div.bs-callout.bs-callout-warning|Callout warning\r\n"
+"div.bs-callout.bs-callout-info|Callout Info\r\n"
+"div.well|Well\r\n"
+"div.well.well-lg|Well large\r\n"
+"div.well.well-sm|Well small\r\n"
+"div.alert.alert-success|Alert success\r\n"
+"div.alert.alert-info|Alert info\r\n"
+"div.alert.alert-warning|Alert warning\r\n"
+"div.alert.alert-danger|Alert danger\r\n"
+"div.panel.panel-primary|Panel primary\r\n"
+"div.panel.panel-success|Panel success\r\n"
+"div.panel.panel-info|Panel info\r\n"
+"div.panel.panel-warning|Panel warning\r\n"
+"div.panel.panel-danger|Panel danger\r\n"
+"div.panel-heading|Panel heading\r\n"
+"div.panel-title|Panel title\r\n"
+"div.panel-body|Panel body\r\n"
+"div.panel-footer|Panel footer"
 
 msgid "Simple editor"
-msgstr ""
+msgstr "Editor simple"
 
 msgid "HTML code"
-msgstr ""
+msgstr "Código HTML"
 
 msgid "Rich editor"
-msgstr ""
+msgstr "Editor enriquecido"
 
 msgid "Linkit: All Nodes"
-msgstr ""
+msgstr "Linkit: Todos los Nodos"
 
 msgid "Slide title"
-msgstr ""
+msgstr "Título del slide"
 
 msgid "Slide information"
-msgstr ""
+msgstr "Información del slide"
 
 msgid "Media Hero Slider"
-msgstr ""
+msgstr "Slider de Media Hero"
 
 msgid "Slide text"
-msgstr ""
+msgstr "Texto del Slide"
 
+#, fuzzy
 msgid "Call for action link"
-msgstr ""
+msgstr "llamada al action link"
 
 msgid "Slide media (image/video)"
-msgstr ""
+msgstr "Multimedia del Slide (imagen/vídeo)"
 
 msgid "Hero slider"
-msgstr ""
+msgstr "Slider de Hero"
 
 msgid "A rich hero slider that allows you to display video and/or image slides."
 msgstr ""
+"Un Slider de Hero enriquecido que permite mostrar diapositivas de vídeo y/o "
+"imágenes."
 
 msgid "Varbase Slick"
-msgstr ""
+msgstr "Slick de Verbase"
 
 msgid "Media Hero Slider Creation"
-msgstr ""
+msgstr "Creación de Slider de Media Hero"
 
 msgid "Creating a Hero Slide"
-msgstr ""
+msgstr "Creando un Slider de Hero"
 
+#, fuzzy
 msgid ""
 "This tour will take you through the main features of the hero slide creation.\r\n"
 "\r\n"
 "Lets start!"
 msgstr ""
+"Este tour le llevará a través de las principales características de la creación de "
+"Slides de Hero.\n"
+"\n"
+"¡Comencemos!"
 
 msgid "Slide Content"
-msgstr ""
+msgstr "Contenido de Slide"
 
 msgid "Add the content of the slide in the Slide title and Slide text."
-msgstr ""
+msgstr "Añada el contenido del slide en el Título del slide y en el texto del slide."
 
 msgid "Add The Slide to The Queue"
 msgstr ""
