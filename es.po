@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-10 13:50+0200\n"
+"PO-Revision-Date: 2021-05-05 15:43+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Language: es\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.3\n"
 
 msgid "Content type"
 msgstr "Tipo de contenido"
@@ -52344,7 +52344,7 @@ msgid "Traditional 4:3"
 msgstr "Tradicional 4:3"
 
 msgid "Traditional 4:3  television and computer monitor standard."
-msgstr "Tradicional 4:3  estándar de televisión y monitores de ordenador."
+msgstr "Tradicional 4:3 Television y Monitor estándar"
 
 msgid "Editor Media Browser"
 msgstr ""
@@ -52353,7 +52353,7 @@ msgid "Drop image files here to upload them"
 msgstr "Arrastre archivos de imagen aquí para subirlos"
 
 msgid "Select image(s)"
-msgstr "Seleccionar imagen(es)"
+msgstr "Seleccionar imágen(es)"
 
 msgid "Drop video files here to upload them"
 msgstr "Arrastre archivos de vídeo aquí para subirlos"
@@ -52389,10 +52389,10 @@ msgid "Multiple Media Browser"
 msgstr "Navegador Múltiple de Multimedia"
 
 msgid "Video Browser"
-msgstr "Navegador de Vídeo"
+msgstr "Navegador de Video"
 
 msgid "Drop video file here to upload it"
-msgstr "Arrastre un archivo aquí para subirlo"
+msgstr "Arrastra videos aquí para subirlos"
 
 msgid "Show in media library"
 msgstr "Mostrar en la biblioteca de multimedia"
@@ -52787,19 +52787,19 @@ msgid "Hierarchical paths for basic pages"
 msgstr ""
 
 msgid "Database server"
-msgstr ""
+msgstr "Servidor de base de datos"
 
 msgid "Default database server."
-msgstr ""
+msgstr "Servidor base de datos por defecto"
 
 msgid "Default policy"
-msgstr ""
+msgstr "política por defecto"
 
 msgid "Access metatag plugins report"
 msgstr ""
 
 msgid "SEO Admin"
-msgstr ""
+msgstr "Administrador del SEO"
 
 msgid " Varbase Dashboard"
 msgstr ""
@@ -52811,7 +52811,7 @@ msgid "Create New Content"
 msgstr ""
 
 msgid "Quick Links"
-msgstr ""
+msgstr "Enlaces rápidos"
 
 msgid "My Site Overview"
 msgstr ""
@@ -52851,7 +52851,7 @@ msgid ""
 msgstr ""
 
 msgid "Your Content Statistics"
-msgstr ""
+msgstr "Tus estadísticas de contenido"
 
 msgid ""
 "Finally, once you start adding content to your site, your content's statistics will "
@@ -52859,7 +52859,7 @@ msgid ""
 msgstr ""
 
 msgid "Welcome to Varbase"
-msgstr ""
+msgstr "Bienvenido a Varbase"
 
 msgid "Tour Switch"
 msgstr ""
@@ -52952,22 +52952,22 @@ msgid "Menu position rules"
 msgstr ""
 
 msgid "Etiquetas"
-msgstr ""
+msgstr "Etiquetas"
 
 msgid "Archivo"
-msgstr ""
+msgstr "Archivo"
 
 msgid "Galería"
-msgstr ""
+msgstr "Galería"
 
 msgid "Imagen"
 msgstr ""
 
 msgid "Video remoto"
-msgstr ""
+msgstr "Video remoto"
 
 msgid "Vídeo"
-msgstr ""
+msgstr "Vídeo"
 
 msgid "JavaScript Snippets"
 msgstr ""
@@ -52994,13 +52994,13 @@ msgid "Simple XML Sitemap"
 msgstr ""
 
 msgid "Mail System"
-msgstr ""
+msgstr "Sistema de email"
 
 msgid "Persistent Login"
 msgstr ""
 
 msgid "Mail templates"
-msgstr ""
+msgstr "Plantillas de email"
 
 msgid "Swift Mailer"
 msgstr ""
@@ -53045,7 +53045,7 @@ msgid "Login destinations"
 msgstr ""
 
 msgid "User protect"
-msgstr ""
+msgstr "Proteger al usuario"
 
 msgid "CAPTCHA module settings"
 msgstr ""
@@ -53113,7 +53113,7 @@ msgid "List Taxonomy Menus"
 msgstr ""
 
 msgid "Manage pages."
-msgstr ""
+msgstr "Administrar páginas"
 
 msgid "Manage layouts for entities and configure fields etc."
 msgstr ""
@@ -53377,13 +53377,13 @@ msgid "Join the Drupal Community"
 msgstr ""
 
 msgid "Get started"
-msgstr ""
+msgstr "Empezar"
 
 msgid "Administer custom permissions"
 msgstr ""
 
 msgid "Change Layout"
-msgstr ""
+msgstr "Cambiar Layout"
 
 msgid "Manage Content"
 msgstr ""
@@ -53448,7 +53448,7 @@ msgid "View Session"
 msgstr ""
 
 msgid "Cache clear"
-msgstr ""
+msgstr "Limpiar caché"
 
 msgid "Container Info"
 msgstr ""
@@ -53463,10 +53463,10 @@ msgid "Events Info"
 msgstr ""
 
 msgid "Layouts Info"
-msgstr ""
+msgstr "Información de los Layouts(Diseños)"
 
 msgid "Edit configuration."
-msgstr ""
+msgstr "Editar configuración"
 
 msgid "Overview of layouts available to the site."
 msgstr ""
@@ -53475,13 +53475,13 @@ msgid "Edit state system values."
 msgstr ""
 
 msgid "Bloque básico"
-msgstr ""
+msgstr "Bloque básico"
 
 msgid "Edit subqueue"
-msgstr ""
+msgstr "Editar subcola"
 
 msgid "Embedded entity"
-msgstr ""
+msgstr "Entidad embebida"
 
 msgid "Embedded @buttonLabel"
 msgstr ""
@@ -53490,16 +53490,16 @@ msgid "Edit @buttonLabel"
 msgstr ""
 
 msgid "Insert entity"
-msgstr ""
+msgstr "Insertar entidad"
 
 msgid "Edit entity"
-msgstr ""
+msgstr "Editar entidad"
 
 msgid "Go to front page"
 msgstr ""
 
 msgid "New Updates in Varbase 8.7.4"
-msgstr ""
+msgstr "Nuevas actualizaciones en Varbase 8.7.4"
 
 msgid "Use blurred image loading effect for lazy-loaded images"
 msgstr ""
@@ -53508,19 +53508,19 @@ msgid "Completed @time by @user"
 msgstr ""
 
 msgid "New Updates in Varbase 8.7.3"
-msgstr ""
+msgstr "Nuevas actualizaciones en Varbase 8.7.3"
 
 msgid "Enable Script Manager"
 msgstr ""
 
 msgid "New Updates in Varbase 8.7.2"
-msgstr ""
+msgstr "Nuevas actualizaciones en Varbase 8.7.2"
 
 msgid "Ability to use Drupal Tokens inside WYSIWYG editor"
 msgstr ""
 
 msgid "New Updates in Varbase 8.7.1"
-msgstr ""
+msgstr "Nuevas actualizaciones en Varbase 8.7.1"
 
 msgid "Add a new Gallery media type"
 msgstr ""
@@ -53532,20 +53532,20 @@ msgid "Remove language button from the Rich Editor text format"
 msgstr ""
 
 msgid "New Updates in Varbase 8.6.10"
-msgstr ""
+msgstr "Nuevas actualizaciones en Varbase 8.6.10"
 
 msgid ""
 "Fix regression of responsive image styles when updating to Bootstrap 4 breakpoints"
 msgstr ""
 
 msgid "New Updates in Varbase 8.6.9"
-msgstr ""
+msgstr "Nuevas actualizaciones en Varbase 8.6.9"
 
 msgid "Change all responsive image styles to make use of Bootstrap 4 breakpoints"
 msgstr ""
 
 msgid "New Updates in Varbase 8.6.8"
-msgstr ""
+msgstr "Nuevas actualizaciones en Varbase 8.6.8"
 
 msgid "Enable Length Indicator module to be used by entities"
 msgstr ""
@@ -53563,7 +53563,7 @@ msgid "Add title Length Indicator to the Blog post content type"
 msgstr ""
 
 msgid "New Updates in Varbase 8.6.7"
-msgstr ""
+msgstr "Nuevas actualizaciones en Varbase 8.6.7"
 
 msgid "Enhance the usability of admin views (Content, Media, and People)"
 msgstr ""
@@ -53604,64 +53604,64 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Entityqueue"
-msgstr ""
+msgstr "Cola de entidad"
 
 msgid "Webform [DEPRECATED]"
-msgstr ""
+msgstr "Webform [DEPRECATED]"
 
 msgid "Webform Demo"
-msgstr ""
+msgstr "Webform Demo"
 
 msgid "Webform example"
-msgstr ""
+msgstr "Ejemplo de webform"
 
 msgid "Webform [EXPERIMENTAL]"
-msgstr ""
+msgstr "Webform [EXPERIMENTAL]"
 
 msgid "styleguide"
-msgstr ""
+msgstr "Guía de estilos"
 
 msgid "Social"
-msgstr ""
+msgstr "Social"
 
 msgid "Slick"
-msgstr ""
+msgstr "Slick"
 
 msgid "Field Types"
-msgstr ""
+msgstr "Tipos de campo"
 
 msgid "Web Services"
-msgstr ""
+msgstr "Servicios web"
 
 msgid "OpenAPI"
-msgstr ""
+msgstr "OpenAPI"
 
 msgid "Varbase Blocks"
-msgstr ""
+msgstr "Bloques de Varbase"
 
 msgid "Masonry"
-msgstr ""
+msgstr "Albañilería(Constructor)"
 
 msgid "Image Optimize"
-msgstr ""
+msgstr "Optimizar imagen"
 
 msgid "File metadata"
-msgstr ""
+msgstr "Archivos de metadatos"
 
 msgid "Performance and scalability"
-msgstr ""
+msgstr "Rendimiento y escalabilidad\t"
 
 msgid "Blazy"
-msgstr ""
+msgstr "Llamativo"
 
 msgid "Chaos tool suite"
 msgstr "Juego de herramienta Chaos"
 
 msgid "Chaos tool suite (Experimental)"
-msgstr ""
+msgstr "Juego de herramienta Chaos(Experimental)"
 
 msgid "Example modules"
-msgstr ""
+msgstr "Módulos de ejemplo"
 
 msgid "Commerce (contrib)"
 msgstr "Commerce (contrib)"
@@ -53727,6 +53727,8 @@ msgid ""
 "Caches pages for anonymous users and can be used when external page cache is not "
 "available."
 msgstr ""
+"Almacena páginas en caché para usuarios anónimos y se puede utilizar cuando la "
+"caché de página externa no está disponible."
 
 msgid "Manages the creation, configuration, and display of media items."
 msgstr "Gestiona la creación, configuración y visualización de elementos multimedia."
@@ -53741,6 +53743,8 @@ msgstr ""
 msgid ""
 "Allows users to create search pages based on plugins provided by other modules."
 msgstr ""
+"Permite a los usuarios crear páginas de búsqueda basadas en complementos "
+"proporcionados por otros módulos."
 
 msgid "Allows users to directly edit the configuration of blocks on the current page."
 msgstr ""
@@ -53762,7 +53766,7 @@ msgstr ""
 "por otros módulos."
 
 msgid "Adds menu links to the Admin Toolbar."
-msgstr ""
+msgstr "Agrega enlaces de menú a la barra de herramientas de administración."
 
 msgid ""
 "Provides a workaround for the common problem that users with 'Use the "
@@ -53770,50 +53774,66 @@ msgid ""
 "permission for. Once the issue <a href='https://www.drupal.org/node/296693'>https://"
 "www.drupal.org/node/296693</a> be solved, this module will be deprecated."
 msgstr ""
+"Proporciona una solución para el problema común de que los usuarios con el permiso "
+"\"Usar las páginas de administración y ayuda\" ven los enlaces de menú para los que "
+"no tienen permiso de acceso. Una vez que se resuelva el problema  <a href='https://"
+"www.drupal.org/node/296693'> https://www.drupal.org/node/296693 </a>, este módulo "
+"quedará obsoleto."
 
 msgid "Provides search of admin toolbar items."
 msgstr ""
+"Proporciona búsqueda de elementos de la barra de herramientas de administración."
 
 msgid "Adminimal styling brought to admin toolbar."
-msgstr ""
+msgstr "Estilo administrativo llevado a la barra de herramientas de administración."
 
 msgid "Agent on remote Drupal sites for the main DRD module."
-msgstr ""
+msgstr "Agente en sitios remotos de Drupal para el módulo DRD principal."
 
 msgid ""
 "Allows to give roles per menu admin permissions without giving them full administer "
 "menu permission."
 msgstr ""
+"Permite otorgar permisos de administrador a roles por menú sin otorgarles el "
+"permiso de administrador completo del menú."
 
 msgid "Creates a general shield for the site."
-msgstr ""
+msgstr "Crea un escudo general para el sitio."
 
 msgid "Total Control Administration Dashboard"
-msgstr ""
+msgstr "Panel de administración de control total"
 
 msgid "Declare all the consumers of your API"
-msgstr ""
+msgstr "Declarar a todos los consumidores de su API."
 
 msgid "The OAuth 2.0 Authorization Framework"
-msgstr ""
+msgstr "El marco de autorización de OAuth 2.0"
 
 msgid ""
 "Provides integration with <a target=\"_blank\" href=\"https://ace.c9.io/\">Ace code "
 "editor</a>."
 msgstr ""
+"Proporciona integración con  <a target=\"_blank\" href=\"https://ace.c9.io/\"> "
+"editor de código Ace </a>."
 
 msgid "Provides basic Blazy integration for lazy loading and multi-serving images."
 msgstr ""
+"Proporciona una integración básica de Blazy para imágenes de carga diferida e "
+"imágenes múltiples."
 
 msgid "Provides Blazy configuration UI."
-msgstr ""
+msgstr "Proporciona la interfaz de usuario de configuración de Blazy."
 
 msgid ""
 "Adds specific permissions for administering block content and block content types."
 msgstr ""
+"Agrega permisos específicos para administrar contenido de bloque y tipos de "
+"contenido de bloque."
 
 msgid "Provides an additional formatter for text field, text area and text format."
 msgstr ""
+"Proporciona un formateador adicional para el campo de texto, el área de texto y el "
+"formato de texto."
 
 msgid "Provides the ability to group your fields on both form and display."
 msgstr ""
@@ -95688,54 +95708,65 @@ msgid "The URL of the order."
 msgstr "La URL del pedido."
 
 msgid "Shipment Item"
-msgstr ""
+msgstr "Artículo de envío"
 
 msgid ""
 "Flag to control whether this webform should be open or closed to new submissions."
 msgstr ""
+"Marcar para controlar si este formulario web debe estar abierto o cerrado para "
+"nuevos envíos."
 
 msgid ""
 "The URL that can used to delete the webform submission. The webform must be "
 "configured to allow users to delete a submission using a secure token."
 msgstr ""
+"La URL que se puede utilizar para eliminar el envío del formulario web. El "
+"formulario web debe configurarse para permitir que los usuarios eliminen un envío "
+"mediante un token seguro."
 
 msgid ""
 "The state raw value untranslated of the webform submission. (Unsaved, Draft, "
 "Completed, Updated, Locked, or Converted)"
 msgstr ""
+"El valor bruto del estado sin traducir del envío del formulario web. (No guardado, "
+"Borrador, Completado, Actualizado, Bloqueado o Convertido)"
 
 msgid ""
 "The state of the webform submission. (unsaved, draft, completed, updated, locked, "
 "or converted)"
 msgstr ""
+"El estado del envío del formulario web. (no guardado, borrador, completado, "
+"actualizado, bloqueado o convertido)"
 
 msgid ""
 "The %element-title is using the following invalid characters: @invalid-characters."
 msgstr ""
+"El %element-title utiliza los siguientes caracteres no válidos: @ invalid-"
+"characters."
 
 msgid "SALUD OCULAR"
-msgstr ""
+msgstr "SALUD OCULAR"
 
 msgid "FERTILIDAD"
-msgstr ""
+msgstr "FERTILIDAD"
 
 msgid "Control de peso"
-msgstr ""
+msgstr "Control de peso"
 
 msgid "Suplementación Nutricional"
-msgstr ""
+msgstr "Suplementación Nutricional"
 
 msgid "Nurición Adultos"
-msgstr ""
+msgstr "Nutrición Adultos"
 
 msgid "Nutrición Infantil"
-msgstr ""
+msgstr "Nutrición Infantil"
 
 msgid "Colágenos"
-msgstr ""
+msgstr "Colágenos"
 
 msgid "Polvo"
-msgstr ""
+msgstr "Polvo"
 
 msgid ""
 "Enter a number to limit the number of items or 'delta' to print a specific delta "
@@ -95743,85 +95774,94 @@ msgid ""
 "display them all. Note that depending on the formatter settings, this option might "
 "not always work."
 msgstr ""
+"Ingrese un número para limitar el número de elementos o 'delta' para imprimir un "
+"delta específico (generalmente configurado en vistas o encontrado en entidad-> "
+"ds_delta). <br />  Déjelo en blanco para mostrarlos todos. Tenga en cuenta que, "
+"según la configuración del formateador, es posible que esta opción no siempre "
+"funcione."
 
 msgid "Comprimidos"
-msgstr ""
+msgstr "Comprimidos"
 
 msgid "Líquido"
-msgstr ""
+msgstr "Líquido"
 
 msgid "Devel Render"
-msgstr ""
+msgstr "Devel Render"
 
 msgid "All unsaved changes have been reverted."
-msgstr ""
+msgstr "Todos los cambios no guardados se han revertido."
 
 msgid "Infecciones Urinarias"
-msgstr ""
+msgstr "Infecciones Urinarias"
 
 msgid "Uso Diario"
-msgstr ""
+msgstr "Uso Diario"
 
 msgid "Encías"
-msgstr ""
+msgstr "Encías"
 
 msgid "Blanqueadoras"
-msgstr ""
+msgstr "Blanqueadoras"
 
 msgid "Dientes Sensibles"
-msgstr ""
+msgstr "Dientes Sensibles"
 
 msgid "Pastas de Dientes Sensibles"
-msgstr ""
+msgstr "Pastas de Dientes Sensibles"
 
 msgid "Halitosis"
-msgstr ""
+msgstr "Halitosis"
 
 msgid "Boca Seca"
-msgstr ""
+msgstr "Boca Seca"
 
 msgid "Ortodoncia"
-msgstr ""
+msgstr "Ortodoncia"
 
 msgid "Aftas y Lesiones Bucales"
-msgstr ""
+msgstr "Infecciones Urinarias"
 
 msgid "Cepillos de Dientes"
-msgstr ""
+msgstr "Cepillos de Dientes"
 
 msgid "Cepillos Eléctricos"
-msgstr ""
+msgstr "Cepillos Eléctricos"
 
 msgid "Irrigadores Bucales"
-msgstr ""
+msgstr "Irrigadores Bucales"
 
 msgid "Higiene Interdental"
-msgstr ""
+msgstr "Higiene Interdental"
 
 msgid "Dentaduras y Férulas"
-msgstr ""
+msgstr "Dentaduras y Férulas"
 
 msgid "Manage content export yaml"
-msgstr ""
+msgstr "Administrar yaml de exportación de contenido"
 
 msgid ""
 "Determines the size or amount of each interval or step the slider takes between the "
 "min and max."
 msgstr ""
+"Determina el tamaño o la cantidad de cada intervalo o paso que da el control "
+"deslizante entre el mínimo y el máximo."
 
 msgid ""
 "The full specified value range of the slider (Range maximum - Range minimum) must "
 "be evenly divisible by the step."
 msgstr ""
+"El rango de valores especificado completo del control deslizante (Rango máximo - "
+"Rango mínimo) debe ser divisible uniformemente por el paso."
 
 msgid "The step must be a positive number of up to 5 decimal places."
-msgstr ""
+msgstr "El paso debe ser un número positivo de hasta 5 decimales."
 
 msgid "Select a format for the exposed sort options."
-msgstr ""
+msgstr "Seleccione un formato para las opciones de clasificación expuestas."
 
 msgid "Combine sort order with sort by"
-msgstr ""
+msgstr "Combinar sort order con sort by"
 
 msgid ""
 "Combines the sort by options and order (ascending or decending) into a single "
@@ -95830,6 +95870,11 @@ msgid ""
 "order should first be exposed by selecting <em>Allow people to choose the sort "
 "order</em>."
 msgstr ""
+"Combina la clasificación por opciones y el orden (ascendente o descendente) en una "
+"sola lista. Use esto para mostrar \"Opción1 (ascendente)\", \"Opción1 "
+"(descendente)\", \"Opción2 (ascendente)\", \"Opción2 (descendente)\" en un solo "
+"elemento de formulario. Primero se debe mostrar el orden de clasificación "
+"seleccionando <em> Permitir que las personas elijan el orden de clasificación </em>."
 
 msgid ""
 "Use this field to rewrite the text displayed for combined sort options and sort "
@@ -95842,67 +95887,86 @@ msgid ""
 "altogether. The order the options appear will be changed to match the order of "
 "options in this field."
 msgstr ""
+"Utilice este campo para reescribir el texto que se muestra para las opciones de "
+"clasificación y el orden de clasificación combinados. Utilice el formato de "
+"current_text | replacement_text, un reemplazo por línea. Por ejemplo: <pre>\n"
+"Fecha de publicación Asc | Más antiguo primero\n"
+"Fecha de publicación Desc | El más nuevo primero\n"
+"Título Asc | A -> Z\n"
+"Título Desc | Z -> A</pre> Deje el texto de reemplazo en blanco para eliminar una "
+"opción por completo. El orden en que aparecen las opciones se cambiará para que "
+"coincida con el orden de las opciones en este campo."
 
 msgid "Include a \"Reset sort\" option"
-msgstr ""
+msgstr "Incluir una opción \"Restablecer orden\""
 
 msgid "Adds a \"Reset sort\" link; Views will use the default sort order."
 msgstr ""
+"Agrega un enlace \"Restablecer clasificación\"; Las vistas utilizarán el orden de "
+"clasificación predeterminado. "
 
 msgid "\"Reset sort\" label"
-msgstr ""
+msgstr "Etiqueta \"Restablecer clasificación\""
 
 msgid "This cannot be left blank if the above option is checked"
-msgstr ""
+msgstr "No se puede dejar en blanco si la opción anterior está marcada."
 
 msgid "Make sort options collapsible"
-msgstr ""
+msgstr "Hacer que las opciones de ordenación sean plegables"
 
 msgid "Puts the sort options in a collapsible details element."
-msgstr ""
+msgstr "Coloca las opciones de clasificación en un elemento de detalles plegable."
 
 msgid "Collapsible details element title"
-msgstr ""
+msgstr "Título del elemento de detalles contraíbles"
 
 msgid "This cannot be left blank or there will be no way to show/hide sort options."
 msgstr ""
+"Esto no se puede dejar en blanco o no habrá forma de mostrar u ocultar las opciones "
+"de clasificación."
 
 msgid "Advanced sort options"
-msgstr ""
+msgstr "Opciones de clasificación avanzadas"
 
 msgid "Exposed filter @filter"
-msgstr ""
+msgstr "Filtro expuesto @filter"
 
 msgid "jQuery UI Slider"
-msgstr ""
+msgstr "jQuery UI Slider/Deslizable JQuery UI"
 
 msgid "Range minimum"
-msgstr ""
+msgstr "Rango mínimo"
 
 msgid ""
 "The minimum allowed value for the jQuery range slider. It can be positive, "
 "negative, or zero and have up to 11 decimal places."
 msgstr ""
+"El valor mínimo permitido para el control deslizante de rango de jQuery. Puede ser "
+"positivo, negativo o cero y tener hasta 11 decimales."
 
 msgid "Range maximum"
-msgstr ""
+msgstr "Rango máximo"
 
 msgid ""
 "The maximum allowed value for the jQuery range slider. It can be positive, "
 "negative, or zero and have up to 11 decimal places."
 msgstr ""
+"El valor máximo permitido para el control deslizante de rango de jQuery. Puede ser "
+"positivo, negativo o cero y tener hasta 11 decimales."
 
 msgid "Whether to slide handle smoothly when user click outside handle on the bar."
 msgstr ""
+"Ya sea para deslizar la manija suavemente cuando el usuario hace clic en la manija "
+"exterior de la barra."
 
 msgid "Animation speed in milliseconds"
-msgstr ""
+msgstr "Velocidad de animación en milisegundos"
 
 msgid "The number of milliseconds to run the animation (e.g. 1000)."
-msgstr ""
+msgstr "La cantidad de milisegundos para ejecutar la animación (por ejemplo, 1000)."
 
 msgid "The orientation of the jQuery range slider."
-msgstr ""
+msgstr "La orientación del control deslizante de rango de jQuery."
 
 msgid "Admin comment form"
 msgstr "Formulario de comentarios del administrador"
@@ -95917,66 +95981,68 @@ msgstr ""
 msgid ""
 "Displays order specific messaging for PayPal Credit; requires an Order ID argument."
 msgstr ""
+"Muestra mensajes específicos del pedido para el crédito de PayPal; requiere un "
+"argumento de ID de pedido."
 
 msgid "The parent product."
 msgstr "El producto principal."
 
 msgid "Fluido Hidratación Facial"
-msgstr ""
+msgstr "Fluido Hidratación Facial"
 
 msgid "Fluido"
-msgstr ""
+msgstr "Fluido"
 
 msgid "Exfoliante"
-msgstr ""
+msgstr "Exfoliante"
 
 msgid "Anticelulíticas y Reductoras"
-msgstr ""
+msgstr "Anticelulíticas y Reductoras"
 
 msgid "Loción"
-msgstr ""
+msgstr "Loción"
 
 msgid "Aceites y Emulsiones"
-msgstr ""
+msgstr "Aceites y Emulsiones"
 
 msgid "Geles"
-msgstr ""
+msgstr "Geles"
 
 msgid "Oleogeles"
-msgstr ""
+msgstr "Oleogeles"
 
 msgid "Ronquido y Respiración"
-msgstr ""
+msgstr "Ronquido y Respiración"
 
 msgid "Action @label created from bulk_update_fields module."
-msgstr ""
+msgstr "Action @label creada a partir del módulo bulk_update_fields."
 
 msgid "Bulk Update Fields to Another Value"
-msgstr ""
+msgstr "Actualizar campos de forma masiva a otro valor"
 
 msgid "Bulk update exlude fields"
-msgstr ""
+msgstr "La actualización masiva excluye los campos"
 
 msgid "Exclude fields"
-msgstr ""
+msgstr "Excluir campos"
 
 msgid "Select Fields to Alter"
-msgstr ""
+msgstr "Seleccionar campos para alterar"
 
 msgid "Bulk Update Fields"
-msgstr ""
+msgstr "Campos de actualización masiva"
 
 msgid "Default variation"
 msgstr "Variación por defecto"
 
 msgid "Enter New Values in Appropriate Fields"
-msgstr ""
+msgstr "Ingrese nuevos valores en los campos apropiados"
 
 msgid "Views Bulk Operations confirm execution"
-msgstr ""
+msgstr "Las operaciones masivas de vistas confirman la ejecución"
 
 msgid "Administer Bulk Update Fields"
-msgstr ""
+msgstr "Administrar campos de actualización masiva"
 
 msgid "Exclude Bulk Update Fields"
 msgstr ""
@@ -96020,136 +96086,138 @@ msgid "Tratamiento Brotes"
 msgstr ""
 
 msgid "Roll-On"
-msgstr ""
+msgstr "Roll-On"
 
 msgid "Spray"
-msgstr ""
+msgstr "Spray"
 
 msgid "Cabello"
-msgstr ""
+msgstr "Cabello"
 
 msgid "Íntima"
-msgstr ""
+msgstr "Íntima"
 
 msgid "Hidratación Atopía"
-msgstr ""
+msgstr "Hidratación Atopía"
 
 msgid "Higiene Atopía"
-msgstr ""
+msgstr "Higiene Atopía"
 
 msgid "Labiales Solares"
-msgstr ""
+msgstr "Labiales Solares"
 
 msgid "Protección Facial"
-msgstr ""
+msgstr "Protección Facial"
 
 msgid "Protección Corporal"
-msgstr ""
+msgstr "Protección Corporal"
 
 msgid "Postsolares Infantiles"
-msgstr ""
+msgstr "Postsolares Infantiles"
 
 msgid "Packs Promocionales Niños"
-msgstr ""
+msgstr "Packs Promocionales Niños"
 
 msgid "Solares Específicos"
-msgstr ""
+msgstr "Solares Específicos"
 
 msgid "Antimanchas"
-msgstr ""
+msgstr "Antimanchas"
 
 msgid "Rosácea, Cuperosis"
-msgstr ""
+msgstr "Rosácea, Cuperosis"
 
 msgid "Sensibles e Intolerantes"
-msgstr ""
+msgstr "Sensibles e Intolerantes"
 
 msgid "Heridas y Lesiones"
-msgstr ""
+msgstr "Heridas y Lesiones"
 
 msgid "Pies (Compeed)"
-msgstr ""
+msgstr "Pies (Compeed)"
 
 msgid "Elementos Protección"
-msgstr ""
+msgstr "Elementos Protección"
 
 msgid "Cuidado Corporal"
-msgstr ""
+msgstr "Cuidado Corporal"
 
 msgid "Cremas y Sprays"
-msgstr ""
+msgstr "Cremas y Sprays"
 
 msgid "Parches y Bolsas"
-msgstr ""
+msgstr "Parches y Bolsas"
 
 msgid "Adultos"
-msgstr ""
+msgstr "Adultos"
 
 msgid "Aparatos Eléctricos"
-msgstr ""
+msgstr "Aparatos Eléctricos"
 
 msgid "Packs Piojos"
-msgstr ""
+msgstr "Packs Piojos"
 
 msgid "Lesiones Pie"
-msgstr ""
+msgstr "Lesiones Pie"
 
 msgid "Test Diagnóstico"
-msgstr ""
+msgstr "Test Diagnóstico"
 
 msgid "Aftersun y Postsolares"
-msgstr ""
+msgstr "Aftersun y Postsolares"
 
 msgid "Pulxiómetros"
-msgstr ""
+msgstr "Pulxiómetros"
 
 msgid "Otros Accesorios Ortopedia"
-msgstr ""
+msgstr "Otros Accesorios Ortopedia"
 
 msgid "Pastas Dientes Uso Diario"
-msgstr ""
+msgstr "Pastas Dientes Uso Diario"
 
 msgid "Pastas Dientes Encías"
-msgstr ""
+msgstr "Pastas Dientes Encías"
 
 msgid "Pastas Dientes Blanqueadoras"
-msgstr ""
+msgstr "Pastas Dientes Blanqueadoras"
 
 msgid "Provides a WebP processor to derive webp images from other file formats."
 msgstr ""
+"Proporciona un procesador WebP para derivar imágenes webp de otros formatos de "
+"archivo."
 
 msgid "Implements WebP derivatives in core Responsive Images"
-msgstr ""
+msgstr "Implementa derivados de WebP en imágenes receptivas centrales"
 
 msgid "Geles Dientes Sensibles"
-msgstr ""
+msgstr "Geles Dientes Sensibles"
 
 msgid "Pastas Dientes Halitosis"
-msgstr ""
+msgstr "Pastas Dientes Halitosis"
 
 msgid "Pastas Dientes Boca Seca"
-msgstr ""
+msgstr "Pastas Dientes Boca Seca"
 
 msgid "Spray Boca Seca"
-msgstr ""
+msgstr "Spray Boca Seca"
 
 msgid "Pastas Dientes Ortodoncia"
-msgstr ""
+msgstr "Pastas Dientes Ortodoncia"
 
 msgid "Limpiadores Linguales"
-msgstr ""
+msgstr "Limpiadores Linguales"
 
 msgid "Fajas y Braguitas"
-msgstr ""
+msgstr "Fajas y Braguitas"
 
 msgid "Alimentación Bebé"
-msgstr ""
+msgstr "Alimentación Bebé"
 
 msgid "Leche Inicio 1"
-msgstr ""
+msgstr "Leche Inicio 1"
 
 msgid "Leches Continuación 2"
-msgstr ""
+msgstr "Leches Continuación 2"
 
 msgid ""
 "You can choose to show the banner only to visitors from EU countries. In order to "
@@ -96158,68 +96226,76 @@ msgid ""
 "\">geoip</a> module or enable the <a href=\"http://www.php.net/manual/en/function."
 "geoip-country-code-by-name.php\">geoip_country_code_by_name()</a> PHP function."
 msgstr ""
+"Puede optar por mostrar el banner solo a los visitantes de países de la UE. Para "
+"lograr esto, debe instalar el módulo <a href=\"http://drupal.org/project/smart_ip"
+"\"> smart_ip </a> o instalar el módulo <a href=\"http://drupal.org /project/geoip "
+"\">  geoip </a> o habilite el <a href=\"http://www.php.net/manual/en/function.geoip-"
+"country-code-by-name.php\"> geoip_country_code_by_name () </a> Función PHP."
 
 msgid ""
 "Indexes items in the database. Supports several advanced features, but should not "
 "be used for large sites."
 msgstr ""
+"Indiza elementos en la base de datos. Admite varias funciones avanzadas, pero no "
+"debe usarse para sitios grandes."
 
 msgid "Backend"
-msgstr ""
+msgstr "Backend"
 
 msgid "Choose a backend to use for this server."
-msgstr ""
+msgstr "Elija un backend para usar con este servidor."
 
 msgid "The minimum number of characters a word must consist of to be indexed"
-msgstr ""
+msgstr "El número mínimo de caracteres que debe tener una palabra para ser indexada."
 
 msgid "Match whole words only"
-msgstr ""
+msgstr "Coincidir solo con palabras completas"
 
 msgid "Match on parts of a word"
-msgstr ""
+msgstr "Coincidir en partes de una palabra"
 
 msgid "Match words starting with given keywords"
-msgstr ""
+msgstr "Coincidir palabras que comienzan con palabras clave determinadas"
 
 msgid "Configure %plugin backend"
-msgstr ""
+msgstr "Configurar %plugin backend"
 
 msgid "Placeholder Text"
-msgstr ""
+msgstr "Texto del marcador(Placeholder)"
 
 msgid "Enter the text to be displayed in the search field (placeholder text)"
 msgstr ""
+"Ingrese el texto que se mostrará en el campo de búsqueda (texto del placeholder)"
 
 msgid "Better Search Text Options"
-msgstr ""
+msgstr "Mejores opciones de texto de búsqueda"
 
 msgid "Background Fade"
-msgstr ""
+msgstr "Desvanecer"
 
 msgid "Expand on Hover"
-msgstr ""
+msgstr "Desplegar al pasar el ratón"
 
 msgid "Expand Icon on Hover"
-msgstr ""
+msgstr "Desplegar ícono al pasar el mouse"
 
 msgid "Slide Icon on Hover"
-msgstr ""
+msgstr "Deslizar ícono al pasar el mouse"
 
 msgid "Select Theme"
-msgstr ""
+msgstr "Seleccionar Tema"
 
 msgid "Select the theme to use for the search block."
-msgstr ""
+msgstr "Selecciona el tema a usar para el bloque de busqueda"
 
 msgid "Search Box Size"
-msgstr ""
+msgstr "Bloque de Barra de Busqueda"
 
 msgid "Better Search Theme Options"
-msgstr ""
+msgstr "Opciones Better Search Theme "
 
 msgid "Enable Better Search on search pages"
-msgstr ""
+msgstr "Activar Better Search on páginas de busqueda"
 
 msgid "If true, the Drupal search pages will be altered by this module."
 msgstr ""
@@ -96234,7 +96310,7 @@ msgid "Better Search options for search pages"
 msgstr ""
 
 msgid "Better Search settings"
-msgstr ""
+msgstr "Configuracioón Better Search"
 
 msgid ""
 "The submission of the current form can cause the deletion of entities that are "
@@ -96300,31 +96376,31 @@ msgid "OpenAPI Resources"
 msgstr ""
 
 msgid "Cart remove item"
-msgstr ""
+msgstr "Eliminar artículo del carrito"
 
 msgid "Cart collection"
-msgstr ""
+msgstr "Colección de carritos"
 
 msgid "Cart items update"
 msgstr ""
 
 msgid "Cart add"
-msgstr ""
+msgstr "Añadir carrito"
 
 msgid "Cart coupons"
 msgstr ""
 
 msgid "Cart clear"
-msgstr ""
+msgstr "Vaciar carrito"
 
 msgid "Cart item update"
-msgstr ""
+msgstr "Actualizar carrito"
 
 msgid "Cart canonical"
-msgstr ""
+msgstr "URL canónica"
 
 msgid "Resource name"
-msgstr ""
+msgstr "Nombre del recurso"
 
 msgid "@label <sup>(read-only)</sup>"
 msgstr ""
@@ -96339,40 +96415,40 @@ msgid ""
 msgstr ""
 
 msgid "COVID"
-msgstr ""
+msgstr "COVID"
 
 msgid "NUTRICIÓN"
-msgstr ""
+msgstr "NUTRICIÓN"
 
 msgid "OCULAR"
-msgstr ""
+msgstr "OCULAR"
 
 msgid "COSMÉTICA"
-msgstr ""
+msgstr "COSMÉTICA"
 
 msgid "Desinfección"
-msgstr ""
+msgstr "Desinfección"
 
 msgid "Termómetros Infrarrojos"
-msgstr ""
+msgstr "Termómetros Infrarrojos"
 
 msgid "Otros Covid"
-msgstr ""
+msgstr "Otros Covid"
 
 msgid "Lagrimas e Irritación"
-msgstr ""
+msgstr "Lagrimas e Irritación"
 
 msgid "Ojos Secos"
-msgstr ""
+msgstr "Ojos Secos"
 
 msgid "Ojos Muy Secos"
-msgstr ""
+msgstr "Ojos Muy Secos"
 
 msgid "Barrera Lipídica"
-msgstr ""
+msgstr "Barrera Lipídica"
 
 msgid "Complementos Nutricionales"
-msgstr ""
+msgstr "Complementos Nutricionales"
 
 msgid "Sorry, we only have %qty in stock and you've asked for %qty_asked."
 msgstr ""
@@ -96381,22 +96457,22 @@ msgid "Sorry, we only have %qty in stock and you already added %qty_o to your ca
 msgstr ""
 
 msgid "Complementos Alimenticios"
-msgstr ""
+msgstr "Complementos Alimenticios"
 
 msgid "Respiratorio"
-msgstr ""
+msgstr "Respiratorio"
 
 msgid "Digestivo"
-msgstr ""
+msgstr "Digestivo"
 
 msgid "Mala Digestión e Intolerancias"
-msgstr ""
+msgstr "Mala Digestión e Intolerancias"
 
 msgid "Contorno Ojos"
-msgstr ""
+msgstr "Contorno Ojos"
 
 msgid "commerce_shipping"
-msgstr ""
+msgstr "commerce_shipping"
 
 msgid "username_enumeration_prevention"
 msgstr ""
@@ -96428,7 +96504,7 @@ msgid ""
 msgstr ""
 
 msgid "Select the map to use."
-msgstr ""
+msgstr "Seleccione el mapa a utilizar."
 
 msgid ""
 "A fully qualified PHP class name. The map class must extend from \\FileEye\\MimeMap"
@@ -96436,7 +96512,7 @@ msgid ""
 msgstr ""
 
 msgid "Mapping commands"
-msgstr ""
+msgstr "Mapeo de comandos"
 
 msgid ""
 "The commands below alter the default MIME type mapping. More information in the "
@@ -96450,7 +96526,7 @@ msgid "MIME Type"
 msgstr "Tipo MIME"
 
 msgid "Aliases"
-msgstr ""
+msgstr "Alias"
 
 msgid "List of MIME types and their file extensions."
 msgstr ""
@@ -96661,7 +96737,7 @@ msgid ""
 msgstr ""
 
 msgid "Escape character"
-msgstr ""
+msgstr "Teclas de escape"
 
 msgid ""
 "Indicates the character used for escaping. Defaults to a backslash (<code>\\</"
@@ -96675,46 +96751,49 @@ msgid "Strips HTML tags from CSV cell values."
 msgstr ""
 
 msgid "Trim whitespace"
-msgstr ""
+msgstr "Quitar espacios en blanco"
 
 msgid "Trims whitespace from beginning and end of CSV cell values."
 msgstr ""
 
 msgid "UTF-8"
-msgstr ""
+msgstr "UTF-8"
 
 msgid "Encoding"
-msgstr ""
+msgstr "Codificación"
 
 msgid "Determines the encoding used for CSV cell values."
-msgstr ""
+msgstr "Determina la codificación utilizada para los valores de celda CSV."
 
 msgid "Include unicode signature (<a href=\"@bom\" target=\"_blank\">BOM</a>)."
-msgstr ""
+msgstr "Incluya la firma Unicode (<a href=\"@bom\" target=\"_blank\"> BOM </a>)."
 
 msgid "Only use Symfony serializer->encode method"
-msgstr ""
+msgstr "Utilice únicamente el serializador Symfony-> método de codificación"
 
 msgid ""
 "Skips the symfony data normalize method when rendering data export to increase "
 "performance on large datasets. <strong>(Only use when not exporting nested data)</"
 "strong>"
 msgstr ""
+"Omite el método de normalización de datos de Symfony al procesar la exportación de "
+"datos para aumentar el rendimiento en grandes conjuntos de datos. <strong> (Usar "
+"solo cuando no se exportan datos anidados) </strong>"
 
 msgid "CSV settings"
-msgstr ""
+msgstr "Configuración de CSV"
 
 msgid "The @order_item_entity_type for this @entity_type."
 msgstr "El @order_item_entity_type para esta @entity_type."
 
 msgid "Extends the core Typed Data API with new APIs and features."
-msgstr ""
+msgstr "Extiende la API de datos tipificados principal con nuevas API y funciones."
 
 msgid "React on events and conditionally evaluate actions."
 msgstr "Reaccionar en eventos y evaluar acciones de forma condicional."
 
 msgid "Drush support for Views Data Export."
-msgstr ""
+msgstr "Compatibilidad con Drush para la exportación de datos de vistas."
 
 msgid ""
 "The filename that will be suggested to the browser for downloading purposes. You "
@@ -100635,13 +100714,13 @@ msgid "5 Seconds"
 msgstr "5 segundos"
 
 msgid "Index @limit items in batches of @batch_size items"
-msgstr ""
+msgstr "Indexar elementos de @limit en lotes de elementos de @batch_size"
 
 msgid "enabled (<a href=\":url\">disable</a>)"
-msgstr ""
+msgstr "Habilitado (<a href=\":url\"> deshabilitar </a>)"
 
 msgid "Datasource"
-msgstr ""
+msgstr "Fuente de datos"
 
 msgid ""
 "There is 1 item indexed on the server for this index. (<a href=\":url\">More "
@@ -100650,33 +100729,45 @@ msgid_plural ""
 "There are @count items indexed on the server for this index. (<a href=\":url\">More "
 "information</a>)"
 msgstr[0] ""
+"Hay 1 elemento indexado en el servidor para este índice. (<a href=\":url\"> Más "
+"información </a>)"
 msgstr[1] ""
+"Hay varios elementos indexados en el servidor para este índice.  (<a href=\":url\"> "
+"Más información </a>)"
 
 msgid "During cron runs, 1 item will be indexed per batch."
 msgid_plural "During cron runs, @count items will be indexed per batch."
-msgstr[0] ""
+msgstr[0] "Durante las ejecuciones cron, se indexará 1 elemento por lote."
 msgstr[1] ""
+"Durante las ejecuciones cron, los elementos de @count se indexarán por lote."
 
 msgid "Rebuild tracking information"
-msgstr ""
+msgstr "Reconstruir la información de seguimiento"
 
 msgid ""
 "All indexed data for this index will be deleted from the search server. Searches on "
 "this index will not return any results until items are reindexed. This action "
 "cannot be undone."
 msgstr ""
+"Todos los datos indexados para este índice se eliminarán del servidor de búsqueda. "
+"Las búsquedas en este índice no arrojarán ningún resultado hasta que los elementos "
+"se vuelvan a indexar. Esta acción no se puede deshacer."
 
 msgid "Are you sure you want to clear the indexed data for the search index %name?"
 msgstr ""
+"¿Está seguro de que desea borrar los datos indexados para el índice de búsqueda "
+"%name?"
 
 msgid "All items were successfully deleted from search index %name."
-msgstr ""
+msgstr "Todos los elementos se eliminaron correctamente del índice de búsqueda% name."
 
 msgid "Completed about @percentage% of the indexing operation (@current of @total)."
 msgstr ""
+"Completado aproximadamente un @ percent% de la operación de indexación (@current of "
+"@total)."
 
 msgid "Load more items"
-msgstr ""
+msgstr "Cargar más elementos"
 
 msgid "Login by username/email address"
 msgstr "Email o Nombre de usuario"
@@ -100685,19 +100776,19 @@ msgid "You can use your username or email address to login."
 msgstr "Puedes usar tu email o nombre de usuario para iniciar sesión."
 
 msgid "Login by email address"
-msgstr ""
+msgstr "Iniciar sesión con correo electrónico"
 
 msgid "You can use your email address only to login."
-msgstr ""
+msgstr "Puede utilizar su dirección de correo electrónico solo para iniciar sesión."
 
 msgid "Email or Username"
-msgstr ""
+msgstr "Email o nombre de usuario"
 
 msgid "Mail Login"
-msgstr ""
+msgstr "Inicio de sesión de correo"
 
 msgid "Configure mail login options."
-msgstr ""
+msgstr "Configure las opciones de inicio de sesión de correo."
 
 msgid "Context type"
 msgstr "Tipo de contexto"
@@ -100711,4 +100802,4 @@ msgstr ""
 "o la descripción."
 
 msgid "security"
-msgstr ""
+msgstr "seguridad"
