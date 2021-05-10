@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-05 15:43+0200\n"
+"PO-Revision-Date: 2021-05-10 17:41+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -96051,39 +96051,39 @@ msgid "Allows a user to bulk update fields from one value to another."
 msgstr ""
 
 msgid "Allows a user to exclude fields."
-msgstr ""
+msgstr "Permite a un usuario excluir campos."
 
 msgid "View list content exported and import it via backend"
-msgstr ""
+msgstr "Ver el contenido de la lista exportado e importarlo a través de backend"
 
 msgid ""
 "Are you sure you want to alter @count_fields fields on @count_entities entities?"
 msgstr ""
 
 msgid "Updating Fields..."
-msgstr ""
+msgstr "Actualizando campos ..."
 
 msgid "One field processed"
 msgid_plural "@count fields processed"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Un campo procesado"
+msgstr[1] "@count campos procesados"
 
 msgid "One entity"
 msgid_plural "@count entities"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Una entidad"
+msgstr[1] "@count entidades"
 
 msgid "Bulk update fields from one value to another"
-msgstr ""
+msgstr "Campos de actualización masiva de un valor a otro"
 
 msgid "Nariz"
-msgstr ""
+msgstr "Nariz"
 
 msgid "Higiene Corporal"
-msgstr ""
+msgstr "Higiene Corporal"
 
 msgid "Tratamiento Brotes"
-msgstr ""
+msgstr "Tratamiento Brotes"
 
 msgid "Roll-On"
 msgstr "Roll-On"
@@ -96301,13 +96301,13 @@ msgid "If true, the Drupal search pages will be altered by this module."
 msgstr ""
 
 msgid "Hide the submit button on search pages"
-msgstr ""
+msgstr "Ocultar el botón enviar en las páginas de búsqueda"
 
 msgid "A form_alter adds a visually-hidden class to the Submit button."
-msgstr ""
+msgstr "Un form_alter agrega una clase visualmente oculta al botón Enviar."
 
 msgid "Better Search options for search pages"
-msgstr ""
+msgstr "Mejores opciones de búsqueda para las páginas de búsqueda"
 
 msgid "Better Search settings"
 msgstr "Configuracioón Better Search"
@@ -96361,19 +96361,19 @@ msgid "Explore"
 msgstr ""
 
 msgid "View/Download"
-msgstr ""
+msgstr "Ver descarga"
 
 msgid "Explore with %interface"
-msgstr ""
+msgstr "Explorar con %interface"
 
 msgid "ReDoc"
-msgstr ""
+msgstr "ReDoc"
 
 msgid "Swagger UI"
-msgstr ""
+msgstr "Swagger UI"
 
 msgid "OpenAPI Resources"
-msgstr ""
+msgstr "Recursos OpenAPI"
 
 msgid "Cart remove item"
 msgstr "Eliminar artículo del carrito"
@@ -96382,13 +96382,13 @@ msgid "Cart collection"
 msgstr "Colección de carritos"
 
 msgid "Cart items update"
-msgstr ""
+msgstr "Actualizar carrito"
 
 msgid "Cart add"
 msgstr "Añadir carrito"
 
 msgid "Cart coupons"
-msgstr ""
+msgstr "Cupones de descuento"
 
 msgid "Cart clear"
 msgstr "Vaciar carrito"
@@ -96403,16 +96403,19 @@ msgid "Resource name"
 msgstr "Nombre del recurso"
 
 msgid "@label <sup>(read-only)</sup>"
-msgstr ""
+msgstr "@label <sup>(read-only)</sup>"
 
 msgid "REST resources"
-msgstr ""
+msgstr "Recursos de REST"
 
 msgid ""
 "Here you can enable and disable available resources. Once a resource has been "
 "enabled, you can restrict its formats and authentication by clicking on its \"Edit"
 "\" link."
 msgstr ""
+"Aquí puede habilitar y deshabilitar los recursos disponibles. Una vez que se ha "
+"habilitado un recurso, puede restringir sus formatos y autenticación haciendo clic "
+"en su enlace \"Editar\"."
 
 msgid "COVID"
 msgstr "COVID"
@@ -96535,31 +96538,34 @@ msgid "List of file extensions and their MIME types."
 msgstr ""
 
 msgid "Sophron - MIME Types"
-msgstr ""
+msgstr "Sophron - MIME Tipos"
 
 msgid ""
 "<strong>Sophron</strong> provides an extensive MIME types management API, enhancing "
 "Drupal core capabilities. It integrates with the <a href=\":mimemap_url\">FileEye/"
 "MimeMap</a> PHP library."
 msgstr ""
+"<strong>Sophron </strong> proporciona una extensa API de administración de tipos "
+"MIME, que mejora las capacidades centrales de Drupal. Se integra con la biblioteca "
+"PHP <a href=\":mimemap_url\"> FileEye / MimeMap </a>."
 
 msgid "Tos y Garganta Niños"
-msgstr ""
+msgstr "Tos y Garganta Niños"
 
 msgid "Resfriado y Mocos Niños"
-msgstr ""
+msgstr "Resfriado y Mocos Niños"
 
 msgid "Estreñimiento y Cólicos Niños"
-msgstr ""
+msgstr "Estreñimiento y Cólicos Niños"
 
 msgid "Diarrea y Flora Intestinal Niños"
-msgstr ""
+msgstr "Diarrea y Flora Intestinal Niños"
 
 msgid "Apetito Niños"
-msgstr ""
+msgstr "Apetito Niños"
 
 msgid "Nerviosismo y Sueño Niños"
-msgstr ""
+msgstr "Nerviosismo y Sueño Niños"
 
 msgid "Enable transforming for uploaded images."
 msgstr ""
@@ -100543,16 +100549,16 @@ msgid ""
 msgstr ""
 
 msgid "Punctuation, Connector Characters"
-msgstr ""
+msgstr "Puntuación, caracteres del conector"
 
 msgid "Punctuation, Dash Characters"
-msgstr ""
+msgstr "Puntuacion, Caracteres Dash"
 
 msgid "Punctuation, Close Characters"
-msgstr ""
+msgstr "Puntuación, caracteres de cierre"
 
 msgid "Punctuation, Final quote Characters"
-msgstr ""
+msgstr "Puntuación, caracteres de citas de cierre"
 
 msgid "Punctuation, Initial quote Characters"
 msgstr ""
@@ -100564,46 +100570,46 @@ msgid "Punctuation, Open Characters"
 msgstr ""
 
 msgid "Other, Control Characters"
-msgstr ""
+msgstr "Otro, control de caractéres"
 
 msgid "Other, Format Characters"
-msgstr ""
+msgstr "Otros, caracteres de formato"
 
 msgid "Other, Private Use Characters"
-msgstr ""
+msgstr "Otro, Uso privado de caracteres"
 
 msgid "Mark, Spacing Combining Characters"
-msgstr ""
+msgstr "Marca, caracteres de combinación de espacios"
 
 msgid "Mark, Enclosing Characters"
-msgstr ""
+msgstr "Marca, caracteres adjuntos/encerrados"
 
 msgid "Mark, Nonspacing Characters"
-msgstr ""
+msgstr "Marca/simbolo sin caracteres espaciados"
 
 msgid "Symbol, Currency Characters"
-msgstr ""
+msgstr "Símbolo, Caracteres de moneda"
 
 msgid "Symbol, Modifier Characters"
-msgstr ""
+msgstr "Símbolo, Modificador de caracteres"
 
 msgid "Symbol, Math Characters"
-msgstr ""
+msgstr "Símbolo, carácter matemático"
 
 msgid "Symbol, Other Characters"
-msgstr ""
+msgstr "Símbolo, otras letras"
 
 msgid "Separator, Line Characters"
-msgstr ""
+msgstr "Separador,Línea de teclas"
 
 msgid "Separator, Paragraph Characters"
-msgstr ""
+msgstr "Separador, caracteres de párrafo"
 
 msgid "Separator, Space Characters"
-msgstr ""
+msgstr "Separador, teclas de espacio"
 
 msgid "Ignored character properties"
-msgstr ""
+msgstr "Propiedades de carácter ignoradas"
 
 msgid "Strip by character property"
 msgstr ""
@@ -100612,6 +100618,8 @@ msgid ""
 "Specify <a href=\":url\">Unicode character properties</a> of characters to be "
 "ignored."
 msgstr ""
+"Especifique <a href=\":url\"> propiedades de caracteres Unicode </a> de los "
+"caracteres que se ignorarán."
 
 msgid ""
 "If the <a href=\"http://snowball.tartarus.org/algorithms/english/stemmer.html"
@@ -100620,15 +100628,24 @@ msgid ""
 "word in the text and \"STEM\" is the resulting stem. List each exception on a "
 "separate line."
 msgstr ""
+"Si el <a href=\"http://snowball.tartarus.org/algorithms/english/stemmer.html\"> "
+"algoritmo </a> no deriva palabras en su conjunto de datos de la forma deseada, "
+"puede ingresar excepciones específicas en el forma de WORD = STEM, donde \"WORD\" "
+"es la palabra original en el texto y \"STEM\" es la raíz resultante. Enumere cada "
+"excepción en una línea separada."
 
 msgid ""
 "Enter a list of stopwords, each on a separate line, that will be removed from "
 "content before it is indexed and from search terms before searching. <a href=\":url"
 "\">More info about stopwords.</a>."
 msgstr ""
+"Ingrese una lista de palabras vacías, cada una en una línea separada, que se "
+"eliminarán del contenido antes de que se indexe y de los términos de búsqueda antes "
+"de realizar la búsqueda. <a href=\":url\"> Más información sobre palabras "
+"irrelevantes </a>."
 
 msgid "Ignored characters"
-msgstr ""
+msgstr "Caracteres ignorados"
 
 msgid ""
 "Specify the characters that should be removed prior to processing. Dots, dashes, "
@@ -100636,6 +100653,11 @@ msgid ""
 "acronyms and URLs. Specify the characters as the inside of a <a href=\":pcre-url"
 "\">PCRE character class</a>."
 msgstr ""
+"Especifique los caracteres que deben eliminarse antes del procesamiento. Los "
+"puntos, guiones y guiones bajos se ignoran de forma predeterminada para permitir un "
+"comportamiento de búsqueda significativo con acrónimos y URL. Especifique los "
+"caracteres como el interior de una <a href=\":pcre-url\"> clase de carácter PCRE </"
+"a>."
 
 msgid ""
 "Specify the characters that should be regarded as whitespace and therefore used as "
@@ -100643,45 +100665,58 @@ msgid ""
 "\">PCRE character class</a>. Leave empty to use a <a href=\":doc-url\">default</a> "
 "which should be suitable for most languages with a Latin alphabet."
 msgstr ""
+"Especifique los caracteres que deben considerarse espacios en blanco y, por lo "
+"tanto, usarse como delimitadores de palabras. Especifique los caracteres como el "
+"interior de una <a href=\":pcre-url\"> clase de carácter PCRE </a>. Déjelo en "
+"blanco para usar un <a href=\":doc-url\"> predeterminado </a> que debería ser "
+"adecuado para la mayoría de los idiomas con alfabeto latino."
 
 msgid ""
 "Whether to apply a simple Chinese/Japanese/Korean tokenizer based on overlapping "
 "sequences. Does not affect other languages."
 msgstr ""
+"Ya sea para aplicar un tokenizador chino / japonés / coreano simple basado en "
+"secuencias superpuestas. No afecta a otros idiomas."
 
 msgid "Default boost for items from this datasource"
-msgstr ""
+msgstr "Aumento predeterminado para elementos de esta fuente de datos"
 
 msgid "A boost of 1 is the default. Assign a boost of 0 to not score the item at all."
 msgstr ""
+"Un aumento de 1 es el valor predeterminado. Asigne un impulso de 0 para no puntuar "
+"el elemento en absoluto."
 
 msgid "Use datasource default"
-msgstr ""
+msgstr "Usar fuente de datos predeterminada"
 
 msgid "Boost for the %bundle bundle"
-msgstr ""
+msgstr "Boost para the %bundle bundle"
 
 msgid "Boost settings for %datasource"
-msgstr ""
+msgstr "Ajustes de Boost para %datasource"
 
 msgid "Manage processors for search index %label"
-msgstr ""
+msgstr "Editar el índice de búsqueda %label"
 
 msgid "Expose searched fields"
-msgstr ""
+msgstr "Exponer campos de búsqueda"
 
 msgid ""
 "Expose the list of searched fields. This allows users to narrow the search to the "
 "desired fields."
 msgstr ""
+"Exponga la lista de campos buscados. Esto permite a los usuarios limitar la "
+"búsqueda a los campos deseados."
 
 msgid "Searched fields identifier"
-msgstr ""
+msgstr "Campos de búsqueda"
 
 msgid ""
 "This will appear in the URL after the ? to identify this searched fields form "
 "element."
 msgstr ""
+"Esto aparecerá en la URL después de ? para identificar este elemento de formulario "
+"de campos buscados."
 
 msgid "video"
 msgstr "video"
