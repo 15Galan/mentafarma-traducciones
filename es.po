@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-07 14:02+0200\n"
+"PO-Revision-Date: 2021-05-10 13:50+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -48279,8 +48279,8 @@ msgstr "De la librería"
 
 msgid "1 place"
 msgid_plural "@count places"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 lugar"
+msgstr[1] "@count lugares"
 
 #, fuzzy
 msgid "Last Password Reset"
@@ -49066,6 +49066,7 @@ msgstr ""
 msgid "Likert: Ten Scale"
 msgstr "Likert: Escala de 10"
 
+#, fuzzy
 msgid ""
 "1: 1\n"
 "2: 2\n"
@@ -49078,6 +49079,16 @@ msgid ""
 "9: 9\n"
 "10: 10\n"
 msgstr ""
+"1: 1\n"
+"2: 2\n"
+"3: 3\n"
+"4: 4\n"
+"5: 5\n"
+"6: 6\n"
+"7: 7\n"
+"8: 8\n"
+"9: 9\n"
+"10: 10\n"
 
 msgid "Likert: Would You"
 msgstr "Likert: ¿Querría?"
@@ -52065,25 +52076,29 @@ msgid "Add the content of the slide in the Slide title and Slide text."
 msgstr "Añada el contenido del slide en el Título del slide y en el texto del slide."
 
 msgid "Add The Slide to The Queue"
-msgstr ""
+msgstr "Añadir el Slide a la Cola"
 
 msgid ""
 "Then add the slide the \"Media Hero Slider\" queue to push it to the queue directly."
 msgstr ""
+"A continuación, añada el Slide a la cola \"Media Hero Slider\" para empujarla "
+"directamente a la cola."
 
 msgid "Preview and Save"
-msgstr ""
+msgstr "Previsualizar y Guardar"
 
 msgid "Preview your slide, then publish and save."
-msgstr ""
+msgstr "Previsualice su slide, luego publíquela y guárdela."
 
 msgid ""
 "Shows a list of media hero sliders, which are connected to the Media Hero Slider "
 "entity queue"
 msgstr ""
+"Muestra una lista de slides de media hero, que están conectadas a la cola de "
+"entidades de Media Hero Slider"
 
 msgid "<div class=\"slick__text\">{{ field_brief }} </div>"
-msgstr ""
+msgstr "<div class=\"slick__text\">{{ field_brief }} </div>"
 
 msgid ""
 "<p> Media Hero Slider </p>\n"
@@ -52091,438 +52106,449 @@ msgid ""
 "<a class=\"btn btn-primary hidden-anonymous visible-admin add-slider\" href=\"[site:"
 "url]/node/add/varbase_heroslider_media/\"> Add One Now </a>"
 msgstr ""
+"<p> Media Hero Slider </p>\n"
+"<p> ¡No hay Sliders ahora mismo! </p>\n"
+"<a class=\"btn btn-primary hidden-anonymous visible-admin add-slider\" href=\"[site:"
+"url]/node/add/varbase_heroslider_media/\"> Añadir Slider </a>"
 
 msgid "Page content"
-msgstr ""
+msgstr "Contenido de la página"
 
 msgid "Enter title here"
-msgstr ""
+msgstr "Introduzca el título aquí"
 
 msgid "Page description"
-msgstr ""
+msgstr "Descripción de la página"
 
 msgid ""
 "The description text is displayed on overview pages. Additionally, it is used for "
 "Google and Facebook snippets."
 msgstr ""
+"El texto de la descripción se muestra en las páginas de resumen. Además, se utiliza "
+"para los snippets de Google y Facebook."
 
 msgid "Content: Landing page"
-msgstr ""
+msgstr "Contenido: Pagina de aterrizaje"
 
 msgid "[node:field_description]"
-msgstr ""
+msgstr "[node:field_description]"
 
 msgid ""
 "Use <em>Landing pages</em> to build multi-component pages with custom layouts to "
 "display content in a modern way."
 msgstr ""
+"Utilice las <em>páginas de aterrizaje</em> para construir páginas de varios "
+"componentes con diseños personalizados para mostrar el contenido de una manera "
+"moderna."
 
 msgid "Hierarchical paths for landing pages"
-msgstr ""
+msgstr "Rutas jerárquicas para páginas de aterrizaje"
 
 msgid "Entity Browser"
-msgstr ""
+msgstr "Navegador de Entidades"
 
 msgid "Simplified"
-msgstr ""
+msgstr "Simplificado"
 
 msgid "Entity Browser Preview"
-msgstr ""
+msgstr "Previsualizador de Navegador de Entidades"
 
 msgid "Field Preview"
-msgstr ""
+msgstr "Presvisualización de Campo"
 
 msgid "Large (Full width)"
-msgstr ""
+msgstr "Grande (Ancho completo)"
 
 msgid "Medium (1/2 of width)"
-msgstr ""
+msgstr "Mediano (1/2 del ancho)"
 
 msgid "Size 01 auto"
-msgstr ""
+msgstr "Tamaño 01 auto"
 
 msgid "Size 01 square 1:1"
-msgstr ""
+msgstr "Tamaño 01 cuadrado 1:1"
 
 msgid "Size 01 standard 16:9"
-msgstr ""
+msgstr "Tamaño 01 estándar 16:9"
 
 msgid "Size 01 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 01 tradicional 4:3"
 
 msgid "Size 02 auto"
-msgstr ""
+msgstr "Tamaño 02 auto"
 
 msgid "Size 02 square 1:1"
-msgstr ""
+msgstr "Tamaño 02 cuadrado 1:1"
 
 msgid "Size 02 standard 16:9"
-msgstr ""
+msgstr "Tamaño 02 estándar 16:9"
 
 msgid "Size 02 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 02 tradicional 4:3"
 
 msgid "Size 03 auto"
-msgstr ""
+msgstr "Tamaño 03 auto"
 
 msgid "Size 03 square 1:1"
-msgstr ""
+msgstr "Tamaño 03 cuadrado 1:1"
 
 msgid "Size 03 standard 16:9"
-msgstr ""
+msgstr "Tamaño 03 estándar 16:9"
 
 msgid "Size 03 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 03 tradicional 4:3"
 
 msgid "Size 04 auto"
-msgstr ""
+msgstr "Tamaño 04 auto"
 
 msgid "Size 04 square 1:1"
-msgstr ""
+msgstr "Tamaño 04 cuadrado 1:1"
 
 msgid "Size 04 standard 16:9"
-msgstr ""
+msgstr "Tamaño 04 estándar 16:9"
 
 msgid "Size 04 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 04 tradicional 4:3"
 
 msgid "Size 05 auto"
-msgstr ""
+msgstr "Tamaño 05 auto"
 
 msgid "Size 05 square 1:1"
-msgstr ""
+msgstr "Tamaño 05 cuadrado 1:1"
 
 msgid "Size 05 standard 16:9"
-msgstr ""
+msgstr "Tamaño 05 estándar 16:9"
 
 msgid "Size 05 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 05 tradicional 4:3"
 
 msgid "Size 06 auto"
-msgstr ""
+msgstr "Tamaño 06 auto"
 
 msgid "Size 06 square 1:1"
-msgstr ""
+msgstr "Tamaño 06 cuadrado 1:1"
 
 msgid "Size 06 standard 16:9"
-msgstr ""
+msgstr "Tamaño 06 estándar 16:9"
 
 msgid "Size 06 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 06 tradicional 4:3"
 
 msgid "Size 07 auto"
-msgstr ""
+msgstr "Tamaño 07 auto"
 
 msgid "Size 07 square 1:1"
-msgstr ""
+msgstr "Tamaño 07 cuadrado 1:1"
 
 msgid "Size 07 standard 16:9"
-msgstr ""
+msgstr "Tamaño 07 estándar 16:9"
 
 msgid "Size 07 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 07 tradicional 4:3"
 
 msgid "Size 08 auto"
-msgstr ""
+msgstr "Tamaño 08 auto"
 
 msgid "Size 08 square 1:1"
-msgstr ""
+msgstr "Tamaño 08 cuadrado 1:1"
 
 msgid "Size 08 standard 16:9"
-msgstr ""
+msgstr "Tamaño 08 estándar 16:9"
 
 msgid "Size 08 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 08 tradicional 4:3"
 
 msgid "Size 09 auto"
-msgstr ""
+msgstr "Tamaño 09 auto"
 
 msgid "Size 09 square 1:1"
-msgstr ""
+msgstr "Tamaño 09 cuadrado 1:1"
 
 msgid "Size 09 standard 16:9"
-msgstr ""
+msgstr "Tamaño 09 estándar 16:9"
 
 msgid "Size 09 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 09 tradicional 4:3"
 
 msgid "Size 10 auto"
-msgstr ""
+msgstr "Tamaño 10 cuadrado 1:1"
 
 msgid "Size 10 square 1:1"
-msgstr ""
+msgstr "Tamaño 10 auto"
 
 msgid "Size 10 standard 16:9"
-msgstr ""
+msgstr "Tamaño 10 estándar 16:9"
 
 msgid "Size 10 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 10 tradicional 4:3"
 
 msgid "Size 11 auto"
-msgstr ""
+msgstr "Tamaño 11 auto"
 
 msgid "Size 11 square 1:1"
-msgstr ""
+msgstr "Tamaño 11 cuadrado 1:1"
 
 msgid "Size 11 standard 16:9"
-msgstr ""
+msgstr "Tamaño 11 estándar 16:9"
 
 msgid "Size 11 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 11 tradicional 4:3"
 
 msgid "Size 12 auto"
-msgstr ""
+msgstr "Tamaño 12 cuadrado 1:1"
 
 msgid "Size 12 square 1:1"
-msgstr ""
+msgstr "Tamaño 12 auto"
 
 msgid "Size 12 standard 16:9"
-msgstr ""
+msgstr "Tamaño 12 tradicional 4:3"
 
 msgid "Size 12 traditional 4:3"
-msgstr ""
+msgstr "Tamaño 12 tradicional 4:3"
 
 msgid "Size Edge-to-Edge auto"
-msgstr ""
+msgstr "Tamaño Borde-a-Borde auto"
 
 msgid "Size Edge-to-Edge 4:1"
-msgstr ""
+msgstr "Tamaño Borde-a-Borde 4:1"
 
 msgid "Size Edge-to-Edge square 1:1"
-msgstr ""
+msgstr "Tamaño Borde-a-Borde cuadrado 1:1"
 
 msgid "Size Edge-to-Edge standard 16:9"
-msgstr ""
+msgstr "Tamaño Borde-a-Borde estándar 16:9"
 
 msgid "Size Edge-to-Edge traditional 4:3"
-msgstr ""
+msgstr "Tamaño Borde-a-Borde tradicional 4:3"
 
 msgid "Small (1/4 of width)"
-msgstr ""
+msgstr "Pequeño (1/4 del ancho)"
 
 msgid "Square 1:1"
-msgstr ""
+msgstr "Cuadrado 1:1"
 
 msgid "Image aspect ratios 1:1 classic square image"
 msgstr ""
 
 msgid "Standard 16:9"
-msgstr ""
+msgstr "Estándar 16:9"
 
 msgid ""
 "16:9 The most common aspect ratio for televisions and computer monitors, and is "
 "also the international standard format of HDTV, Full HD"
 msgstr ""
+"16:9 La relación de aspecto más común para televisiones y monitores de ordenador, "
+"así como el formato estándar internacional para HDTV, Full HD"
 
 msgid "Traditional 4:3"
-msgstr ""
+msgstr "Tradicional 4:3"
 
 msgid "Traditional 4:3  television and computer monitor standard."
-msgstr ""
+msgstr "Tradicional 4:3  estándar de televisión y monitores de ordenador."
 
 msgid "Editor Media Browser"
 msgstr ""
 
 msgid "Drop image files here to upload them"
-msgstr ""
+msgstr "Arrastre archivos de imagen aquí para subirlos"
 
 msgid "Select image(s)"
-msgstr ""
+msgstr "Seleccionar imagen(es)"
 
 msgid "Drop video files here to upload them"
-msgstr ""
+msgstr "Arrastre archivos de vídeo aquí para subirlos"
 
 msgid "Select video(s)"
-msgstr ""
+msgstr "Seleccionar vídeo(s)"
 
 msgid "Upload video"
-msgstr ""
+msgstr "Subir vídeo"
 
 msgid "Editor Multiple Image Browser"
 msgstr ""
 
 msgid "Use selected"
-msgstr ""
+msgstr "Usar el seleccionado"
 
 msgid "Editor Multiple Media Browser"
 msgstr ""
 
 msgid "Upload video(s)"
-msgstr ""
+msgstr "Subir vídeo(s)"
 
 msgid "Upload image(s)"
-msgstr ""
+msgstr "Subir imagen(es)"
 
 msgid "Media Browser"
-msgstr ""
+msgstr "Navegador de Multimedia"
 
 msgid "Multiple Image Browser"
-msgstr ""
+msgstr "Navegador Múltiple de Imagen"
 
 msgid "Multiple Media Browser"
-msgstr ""
+msgstr "Navegador Múltiple de Multimedia"
 
 msgid "Video Browser"
-msgstr ""
+msgstr "Navegador de Vídeo"
 
 msgid "Drop video file here to upload it"
-msgstr ""
+msgstr "Arrastre un archivo aquí para subirlo"
 
 msgid "Show in media library"
-msgstr ""
+msgstr "Mostrar en la biblioteca de multimedia"
 
 msgid "Media items"
-msgstr ""
+msgstr "Items multimedia"
 
 msgid "Cover Image"
-msgstr ""
+msgstr "Imagen de Portada"
 
 msgid "Blazy Blurry"
 msgstr ""
 
 msgid "Display 01 (100xAuto)"
-msgstr ""
+msgstr "Presentación 01 (100xAuto)"
 
 msgid "Display 01 (100xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 01 (100xCuadrado 1:1)"
 
 msgid "Display 01 (100xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 01 (100xEstándar 16:9)"
 
 msgid "Display 01 (100xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 01 (100xTradicional 4:3)"
 
 msgid "Display 02 (200xAuto)"
-msgstr ""
+msgstr "Presentación 02 (200xAuto)"
 
 msgid "Display 02 (200xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 02 (200xCuadrado 1:1)"
 
 msgid "Display 02 (200xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 02 (200xEstándar 16:9)"
 
 msgid "Display 02 (200xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 02 (200xTradicional 4:3)"
 
 msgid "Display 03 (300xAuto)"
-msgstr ""
+msgstr "Presentación 03 (300xAuto)"
 
 msgid "Display 03 (300xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 03 (300xCuadrado 1:1)"
 
 msgid "Display 03 (300xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 03 (300xEstándar 16:9)"
 
 msgid "Display 03 (300xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 03 (300xTradicional 4:3)"
 
 msgid "Display 04 (400xAuto)"
-msgstr ""
+msgstr "Presentación 04 (400xAuto)"
 
 msgid "Display 04 (400xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 04 (400xCuadrado 1:1)"
 
 msgid "Display 04 (400xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 04 (400xEstándar 16:9)"
 
 msgid "Display 04 (400xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 04 (400xTradicional 4:3)"
 
 msgid "Display 05 (500xAuto)"
-msgstr ""
+msgstr "Presentación 05 (500xAuto)"
 
 msgid "Display 05 (500xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 05 (500xCuadrado 1:1)"
 
 msgid "Display 05 (500xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 05 (500xEstándar 16:9)"
 
 msgid "Display 05 (500xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 05 (500xTradicional 4:3)"
 
 msgid "Display 06 (600xAuto)"
-msgstr ""
+msgstr "Presentación 06 (600xAuto)"
 
 msgid "Display 06 (600xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 06 (600xCuadrado 1:1)"
 
 msgid "Display 06 (600xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 06 (600xEstándar 16:9)"
 
 msgid "Display 06 (600xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 06 (600xTradicional 4:3)"
 
 msgid "Display 07 (700xAuto)"
-msgstr ""
+msgstr "Presentación 07 (700xAuto)"
 
 msgid "Display 07 (700xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 07 (700xCuadrado 1:1)"
 
 msgid "Display 07 (700xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 07 (700xEstándar 16:9)"
 
 msgid "Display 07 (700xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 07 (700xTradicional 4:3)"
 
 msgid "Display 08 (800xAuto)"
-msgstr ""
+msgstr "Presentación 08 (800xAuto)"
 
 msgid "Display 08 (800xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 08 (800xCuadrado 1:1)"
 
 msgid "Display 08 (800xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 08 (800xEstándar 16:9)"
 
 msgid "Display 08 (800xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 08 (800xTradicional 4:3)"
 
 msgid "Display 09 (900xAuto)"
-msgstr ""
+msgstr "Presentación 09 (900xAuto)"
 
 msgid "Display 09 (900xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 09 (900xCuadrado 1:1)"
 
 msgid "Display 09 (900xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 09 (900xEstándar 16:9)"
 
 msgid "Display 09 (900xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 09 (900xTradicional 4:3)"
 
 msgid "Display 10 (1000xAuto)"
-msgstr ""
+msgstr "Presentación 10 (1000xAuto)"
 
 msgid "Display 10 (1000xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 10 (1000xCuadrado 1:1)"
 
 msgid "Display 10 (1000xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 10 (1000xEstándar 16:9)"
 
 msgid "Display 10 (1000xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 10 (1000xTradicional 4:3)"
 
 msgid "Display 11 (1100xAuto)"
-msgstr ""
+msgstr "Presentación 11 (1100xAuto)"
 
 msgid "Display 11 (1100xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 11 (1100xCuadrado 1:1)"
 
 msgid "Display 11 (1100xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 11 (1100xEstándar 16:9)"
 
 msgid "Display 11 (1100xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 11 (1100xTradicional 4:3)"
 
 msgid "Display 12 (1200xAuto)"
-msgstr ""
+msgstr "Presentación 12 (1200xAuto)"
 
 msgid "Display 12 (1200xSquare 1:1)"
-msgstr ""
+msgstr "Presentación 12 (1200xCuadrado 1:1)"
 
 msgid "Display 12 (1200xStandard 16:9)"
-msgstr ""
+msgstr "Presentación 12 (1200xEstándar 16:9)"
 
 msgid "Display 12 (1200xTraditional 4:3)"
-msgstr ""
+msgstr "Presentación 12 (1200xTradicional 4:3)"
 
 msgid "Display Edge-to-Edge auto"
 msgstr ""
@@ -57038,7 +57064,7 @@ msgstr "Dirección"
 
 msgctxt "Address label"
 msgid "Street address line 2"
-msgstr ""
+msgstr "Dirección 2"
 
 msgctxt "Address label"
 msgid "City"
@@ -57046,11 +57072,11 @@ msgstr "Ciudad"
 
 msgctxt "Address label"
 msgid "State"
-msgstr ""
+msgstr "Estado"
 
 msgctxt "Address label"
 msgid "Zip code"
-msgstr ""
+msgstr "Código postal"
 
 msgid ""
 "The alternative URL for this store. Use a relative path. For example, \"/my-store\"."
@@ -63318,19 +63344,19 @@ msgstr ""
 
 msgctxt "workflow state"
 msgid "Draft"
-msgstr ""
+msgstr "Borrador"
 
 msgctxt "workflow state"
 msgid "Completed"
-msgstr ""
+msgstr "Completado"
 
 msgctxt "workflow state"
 msgid "Canceled"
-msgstr ""
+msgstr "Cancelado"
 
 msgctxt "workflow state"
 msgid "Fulfillment"
-msgstr ""
+msgstr "Completar"
 
 msgid "Generate variation titles based on attribute values."
 msgstr "Generar títulos de variación basados en los valores de los atributos."
@@ -65645,7 +65671,7 @@ msgstr ""
 
 msgctxt "layout_region"
 msgid "Content"
-msgstr ""
+msgstr "Contenido"
 
 msgid "Real-timeSeo formatter"
 msgstr ""
@@ -67668,11 +67694,11 @@ msgstr ""
 
 msgctxt "paragraphs"
 msgid "Content"
-msgstr ""
+msgstr "Contenido"
 
 msgctxt "paragraphs"
 msgid "Behavior"
-msgstr ""
+msgstr "Comportamiento"
 
 msgid "to %type"
 msgstr ""
@@ -77641,7 +77667,7 @@ msgstr ""
 
 msgctxt "banner_footer_saturno"
 msgid "A veces debemos detener el tiempo para poder continuar"
-msgstr ""
+msgstr "A veces debemos detener el tiempo para poder continuar"
 
 msgid "Strings have been added"
 msgstr ""
@@ -77651,14 +77677,14 @@ msgstr ""
 
 msgctxt "continue_shopping"
 msgid "Continue shopping"
-msgstr ""
+msgstr "Seguir comprando"
 
 msgid "Fix 404 pages with URL redirects"
 msgstr ""
 
 msgctxt "legal_notice"
 msgid "Legal notice"
-msgstr ""
+msgstr "Aviso legal"
 
 msgid "Click the button below to run the security checklist and review the results."
 msgstr ""
@@ -79402,9 +79428,10 @@ msgstr ""
 msgid "PayPal Checkout payment process"
 msgstr ""
 
+#, fuzzy
 msgctxt "form_login_signup"
 msgid "Signup"
-msgstr ""
+msgstr "Inscribirse"
 
 msgid "Administer EU Cookie Compliance banner"
 msgstr ""
@@ -79477,7 +79504,7 @@ msgstr ""
 
 msgctxt "shipping_price_text_product"
 msgid "Envío gratis a partir de 50 €, en España"
-msgstr ""
+msgstr "Envío gratis a partir de 50 €, en España"
 
 msgid "shipping_price_text_product"
 msgstr "envío gratis a partir de 50 €, en España"
@@ -80878,11 +80905,11 @@ msgstr ""
 
 msgctxt "layout_region"
 msgid "Left"
-msgstr ""
+msgstr "Izquierda"
 
 msgctxt "layout_region"
 msgid "Right"
-msgstr ""
+msgstr "Derecha"
 
 msgid "with suffix"
 msgstr ""
@@ -96918,7 +96945,7 @@ msgstr ""
 
 msgctxt "workflow transition"
 msgid "Place order"
-msgstr ""
+msgstr "Realizar pedido"
 
 msgid "@count webform"
 msgid_plural "@count webforms"
@@ -96927,11 +96954,11 @@ msgstr[1] ""
 
 msgctxt "workflow transition"
 msgid "Fulfill order"
-msgstr ""
+msgstr "Completar pedido"
 
 msgctxt "workflow transition"
 msgid "Cancel order"
-msgstr ""
+msgstr "Cancelar pedido"
 
 msgid "Order balance"
 msgstr "Saldo de pedido"
@@ -96953,11 +96980,11 @@ msgstr ""
 
 msgctxt "workflow transition"
 msgid "Send shipment"
-msgstr ""
+msgstr "Enviar envío"
 
 msgctxt "workflow transition"
 msgid "Cancel shipment"
-msgstr ""
+msgstr "Cancelar envío"
 
 msgid "Resend confirmation"
 msgstr ""
