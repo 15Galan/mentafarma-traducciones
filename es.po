@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Language: es\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 msgid "Content type"
 msgstr "Tipo de contenido"
@@ -52344,7 +52344,7 @@ msgid "Traditional 4:3"
 msgstr "Tradicional 4:3"
 
 msgid "Traditional 4:3  television and computer monitor standard."
-msgstr "Tradicional 4:3 Television y Monitor estándar"
+msgstr "Tradicional 4:3  estándar de televisión y monitores de ordenador."
 
 msgid "Editor Media Browser"
 msgstr "Navegador de Editor de Multimedia"
@@ -52353,7 +52353,7 @@ msgid "Drop image files here to upload them"
 msgstr "Arrastre archivos de imagen aquí para subirlos"
 
 msgid "Select image(s)"
-msgstr "Seleccionar imágen(es)"
+msgstr "Seleccionar imagen(es)"
 
 msgid "Drop video files here to upload them"
 msgstr "Arrastre archivos de vídeo aquí para subirlos"
@@ -52794,10 +52794,10 @@ msgid "Database server"
 msgstr "Servidor de base de datos"
 
 msgid "Default database server."
-msgstr ""
+msgstr "Servidor de base de datos por defecto."
 
 msgid "Default policy"
-msgstr ""
+msgstr "Política por defecto"
 
 msgid "Access metatag plugins report"
 msgstr "Acceder al informe de plugins de metatag"
@@ -52815,7 +52815,7 @@ msgid "Create New Content"
 msgstr "Crear Contenido Nuevo"
 
 msgid "Quick Links"
-msgstr ""
+msgstr "Enlaces Rápidos"
 
 msgid "My Site Overview"
 msgstr "Resumen de Mi Sitio"
@@ -52865,7 +52865,7 @@ msgstr ""
 "estadísticas directamente en su panel de control.<p>"
 
 msgid "Your Content Statistics"
-msgstr ""
+msgstr "Estadísticas de Su Contenido"
 
 msgid ""
 "Finally, once you start adding content to your site, your content's statistics will "
@@ -53029,13 +53029,13 @@ msgid "Simple XML Sitemap"
 msgstr "Simple XML Sitemap"
 
 msgid "Mail System"
-msgstr ""
+msgstr "Mail System"
 
 msgid "Persistent Login"
 msgstr "Persistent Login"
 
 msgid "Mail templates"
-msgstr ""
+msgstr "Plantillas de correo"
 
 msgid "Swift Mailer"
 msgstr "Swift Mailer"
