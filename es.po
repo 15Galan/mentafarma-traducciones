@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-10 13:50+0200\n"
+"PO-Revision-Date: 2021-05-11 11:38+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -760,7 +760,7 @@ msgid "Anchor"
 msgstr "Anclaje"
 
 msgid "Display"
-msgstr "Presentación"
+msgstr "Visualización"
 
 msgid "Node type"
 msgstr "Tipo de nodo"
@@ -4903,7 +4903,7 @@ msgid "Drupal core"
 msgstr "Núcleo de Drupal"
 
 msgid "Book navigation block display"
-msgstr "Presentación del bloque de navegación del libro"
+msgstr "Visualización del bloque de navegación del libro"
 
 msgid "Relations"
 msgstr "Relaciones"
@@ -9463,7 +9463,7 @@ msgid "This field stores the ID of a file as an integer value."
 msgstr "Este campo alamacena la ID de un archivo como un valor de número entero."
 
 msgid "Enable <em>Display</em> field"
-msgstr "Activar campo <em>Presentación</em>"
+msgstr "Activar campo <em>Visualización</em>"
 
 msgid ""
 "The display option allows users to choose if a file should be shown when viewing "
@@ -12279,7 +12279,7 @@ msgid "Weight for row @number"
 msgstr "Peso para la fila @number"
 
 msgid "Label display for @title"
-msgstr "Presentación de etiqueta de @title"
+msgstr "Visualización de etiqueta de @title"
 
 msgid "Formatter for @title"
 msgstr "Formateador para @title"
@@ -13426,7 +13426,7 @@ msgid ""
 "Checking this option will cause the group Display Type and Separator values to be "
 "ignored."
 msgstr ""
-"Marcar esta opción hará que se ignoren los valores de agrupar Tipo de Presentación "
+"Marcar esta opción hará que se ignoren los valores de agrupar Tipo de Visualización "
 "y Separadores."
 
 msgid "Multiple field settings"
@@ -14277,7 +14277,7 @@ msgid "@view : @display"
 msgstr "@view : @display"
 
 msgid "View: @view - Display: @display"
-msgstr "Vista: @view - Presentación: @display"
+msgstr "Vista: @view - Visualización: @display"
 
 msgid "Transform the case"
 msgstr "Transformar de mayúscula a minúscula o viceversa"
@@ -17482,10 +17482,10 @@ msgid "My Editor"
 msgstr "Mi editor"
 
 msgid "Entity display"
-msgstr "Presentación de entidad"
+msgstr "Visualización de entidad"
 
 msgid "Entity form display"
-msgstr "Presentación de formulario de entidad"
+msgstr "Visualización de formulario de entidad"
 
 msgid "Display the ID of the referenced entities."
 msgstr "Muestra el ID de las entidades referenciadas."
@@ -19415,7 +19415,7 @@ msgid "Change text format?"
 msgstr "¿Cambiar el formato de texto?"
 
 msgid "Entity view display"
-msgstr "Presentación de la vista de entidad"
+msgstr "Visualización de la vista de entidad"
 
 msgid "Managing and displaying entity reference fields"
 msgstr "Gestionando y visualizando los campos de referencia de la entidad"
@@ -24555,7 +24555,7 @@ msgid "Entity reference selection plugin settings"
 msgstr "Configuración de la extensión de selección de referencia a entidad"
 
 msgid "Display in native language"
-msgstr "Presentación en el idioma nativo"
+msgstr "Visualización en el idioma nativo"
 
 msgid "@local-task-title@active"
 msgstr "@local-task-title@active"
@@ -32939,7 +32939,7 @@ msgid ""
 "View display '@id': Comment field formatter '@name' was disabled because it is "
 "using the comment view display '@display' (@mode) that was just disabled."
 msgstr ""
-"Presentación de Vista '@id': El formateador de campo de comentario '@name' se ha "
+"Visualización de Vista '@id': El formateador de campo de comentario '@name' se ha "
 "desactivado porque está usando el modo de presentación de comentario "
 "'@display' (@mode) que se acaba de desactivar."
 
@@ -52328,7 +52328,7 @@ msgid "Square 1:1"
 msgstr "Cuadrado 1:1"
 
 msgid "Image aspect ratios 1:1 classic square image"
-msgstr ""
+msgstr "Relaciones de aspecto de la imagen 1:1 imagen cuadrada clásica"
 
 msgid "Standard 16:9"
 msgstr "Estándar 16:9"
@@ -52347,7 +52347,7 @@ msgid "Traditional 4:3  television and computer monitor standard."
 msgstr "Tradicional 4:3  estándar de televisión y monitores de ordenador."
 
 msgid "Editor Media Browser"
-msgstr ""
+msgstr "Navegador de Editor de Multimedia"
 
 msgid "Drop image files here to upload them"
 msgstr "Arrastre archivos de imagen aquí para subirlos"
@@ -52365,13 +52365,13 @@ msgid "Upload video"
 msgstr "Subir vídeo"
 
 msgid "Editor Multiple Image Browser"
-msgstr ""
+msgstr "Navegador Múltiple de Editor de Imagen"
 
 msgid "Use selected"
 msgstr "Usar el seleccionado"
 
 msgid "Editor Multiple Media Browser"
-msgstr ""
+msgstr "Navegador Múltiple de Editor de Multimedia"
 
 msgid "Upload video(s)"
 msgstr "Subir vídeo(s)"
@@ -52407,435 +52407,442 @@ msgid "Blazy Blurry"
 msgstr ""
 
 msgid "Display 01 (100xAuto)"
-msgstr "Presentación 01 (100xAuto)"
+msgstr "Visualización 01 (100xAuto)"
 
 msgid "Display 01 (100xSquare 1:1)"
-msgstr "Presentación 01 (100xCuadrado 1:1)"
+msgstr "Visualización 01 (100xCuadrado 1:1)"
 
 msgid "Display 01 (100xStandard 16:9)"
-msgstr "Presentación 01 (100xEstándar 16:9)"
+msgstr "Visualización 01 (100xEstándar 16:9)"
 
 msgid "Display 01 (100xTraditional 4:3)"
-msgstr "Presentación 01 (100xTradicional 4:3)"
+msgstr "Visualización 01 (100xTradicional 4:3)"
 
 msgid "Display 02 (200xAuto)"
-msgstr "Presentación 02 (200xAuto)"
+msgstr "Visualización 02 (200xAuto)"
 
 msgid "Display 02 (200xSquare 1:1)"
-msgstr "Presentación 02 (200xCuadrado 1:1)"
+msgstr "Visualización 02 (200xCuadrado 1:1)"
 
 msgid "Display 02 (200xStandard 16:9)"
-msgstr "Presentación 02 (200xEstándar 16:9)"
+msgstr "Visualización 02 (200xEstándar 16:9)"
 
 msgid "Display 02 (200xTraditional 4:3)"
-msgstr "Presentación 02 (200xTradicional 4:3)"
+msgstr "Visualización 02 (200xTradicional 4:3)"
 
 msgid "Display 03 (300xAuto)"
-msgstr "Presentación 03 (300xAuto)"
+msgstr "Visualización 03 (300xAuto)"
 
 msgid "Display 03 (300xSquare 1:1)"
-msgstr "Presentación 03 (300xCuadrado 1:1)"
+msgstr "Visualización 03 (300xCuadrado 1:1)"
 
 msgid "Display 03 (300xStandard 16:9)"
-msgstr "Presentación 03 (300xEstándar 16:9)"
+msgstr "Visualización 03 (300xEstándar 16:9)"
 
 msgid "Display 03 (300xTraditional 4:3)"
-msgstr "Presentación 03 (300xTradicional 4:3)"
+msgstr "Visualización 03 (300xTradicional 4:3)"
 
 msgid "Display 04 (400xAuto)"
-msgstr "Presentación 04 (400xAuto)"
+msgstr "Visualización 04 (400xAuto)"
 
 msgid "Display 04 (400xSquare 1:1)"
-msgstr "Presentación 04 (400xCuadrado 1:1)"
+msgstr "Visualización 04 (400xCuadrado 1:1)"
 
 msgid "Display 04 (400xStandard 16:9)"
-msgstr "Presentación 04 (400xEstándar 16:9)"
+msgstr "Visualización 04 (400xEstándar 16:9)"
 
 msgid "Display 04 (400xTraditional 4:3)"
-msgstr "Presentación 04 (400xTradicional 4:3)"
+msgstr "Visualización 04 (400xTradicional 4:3)"
 
 msgid "Display 05 (500xAuto)"
-msgstr "Presentación 05 (500xAuto)"
+msgstr "Visualización 05 (500xAuto)"
 
 msgid "Display 05 (500xSquare 1:1)"
-msgstr "Presentación 05 (500xCuadrado 1:1)"
+msgstr "Visualización 05 (500xCuadrado 1:1)"
 
 msgid "Display 05 (500xStandard 16:9)"
-msgstr "Presentación 05 (500xEstándar 16:9)"
+msgstr "Visualización 05 (500xEstándar 16:9)"
 
 msgid "Display 05 (500xTraditional 4:3)"
-msgstr "Presentación 05 (500xTradicional 4:3)"
+msgstr "Visualización 05 (500xTradicional 4:3)"
 
 msgid "Display 06 (600xAuto)"
-msgstr "Presentación 06 (600xAuto)"
+msgstr "Visualización 06 (600xAuto)"
 
 msgid "Display 06 (600xSquare 1:1)"
-msgstr "Presentación 06 (600xCuadrado 1:1)"
+msgstr "Visualización 06 (600xCuadrado 1:1)"
 
 msgid "Display 06 (600xStandard 16:9)"
-msgstr "Presentación 06 (600xEstándar 16:9)"
+msgstr "Visualización 06 (600xEstándar 16:9)"
 
 msgid "Display 06 (600xTraditional 4:3)"
-msgstr "Presentación 06 (600xTradicional 4:3)"
+msgstr "Visualización 06 (600xTradicional 4:3)"
 
 msgid "Display 07 (700xAuto)"
-msgstr "Presentación 07 (700xAuto)"
+msgstr "Visualización 07 (700xAuto)"
 
 msgid "Display 07 (700xSquare 1:1)"
-msgstr "Presentación 07 (700xCuadrado 1:1)"
+msgstr "Visualización 07 (700xCuadrado 1:1)"
 
 msgid "Display 07 (700xStandard 16:9)"
-msgstr "Presentación 07 (700xEstándar 16:9)"
+msgstr "Visualización 07 (700xEstándar 16:9)"
 
 msgid "Display 07 (700xTraditional 4:3)"
-msgstr "Presentación 07 (700xTradicional 4:3)"
+msgstr "Visualización 07 (700xTradicional 4:3)"
 
 msgid "Display 08 (800xAuto)"
-msgstr "Presentación 08 (800xAuto)"
+msgstr "Visualización 08 (800xAuto)"
 
 msgid "Display 08 (800xSquare 1:1)"
-msgstr "Presentación 08 (800xCuadrado 1:1)"
+msgstr "Visualización 08 (800xCuadrado 1:1)"
 
 msgid "Display 08 (800xStandard 16:9)"
-msgstr "Presentación 08 (800xEstándar 16:9)"
+msgstr "Visualización 08 (800xEstándar 16:9)"
 
 msgid "Display 08 (800xTraditional 4:3)"
-msgstr "Presentación 08 (800xTradicional 4:3)"
+msgstr "Visualización 08 (800xTradicional 4:3)"
 
 msgid "Display 09 (900xAuto)"
-msgstr "Presentación 09 (900xAuto)"
+msgstr "Visualización 09 (900xAuto)"
 
 msgid "Display 09 (900xSquare 1:1)"
-msgstr "Presentación 09 (900xCuadrado 1:1)"
+msgstr "Visualización 09 (900xCuadrado 1:1)"
 
 msgid "Display 09 (900xStandard 16:9)"
-msgstr "Presentación 09 (900xEstándar 16:9)"
+msgstr "Visualización 09 (900xEstándar 16:9)"
 
 msgid "Display 09 (900xTraditional 4:3)"
-msgstr "Presentación 09 (900xTradicional 4:3)"
+msgstr "Visualización 09 (900xTradicional 4:3)"
 
 msgid "Display 10 (1000xAuto)"
-msgstr "Presentación 10 (1000xAuto)"
+msgstr "Visualización 10 (1000xAuto)"
 
 msgid "Display 10 (1000xSquare 1:1)"
-msgstr "Presentación 10 (1000xCuadrado 1:1)"
+msgstr "Visualización 10 (1000xCuadrado 1:1)"
 
 msgid "Display 10 (1000xStandard 16:9)"
-msgstr "Presentación 10 (1000xEstándar 16:9)"
+msgstr "Visualización 10 (1000xEstándar 16:9)"
 
 msgid "Display 10 (1000xTraditional 4:3)"
-msgstr "Presentación 10 (1000xTradicional 4:3)"
+msgstr "Visualización 10 (1000xTradicional 4:3)"
 
 msgid "Display 11 (1100xAuto)"
-msgstr "Presentación 11 (1100xAuto)"
+msgstr "Visualización 11 (1100xAuto)"
 
 msgid "Display 11 (1100xSquare 1:1)"
-msgstr "Presentación 11 (1100xCuadrado 1:1)"
+msgstr "Visualización 11 (1100xCuadrado 1:1)"
 
 msgid "Display 11 (1100xStandard 16:9)"
-msgstr "Presentación 11 (1100xEstándar 16:9)"
+msgstr "Visualización 11 (1100xEstándar 16:9)"
 
 msgid "Display 11 (1100xTraditional 4:3)"
-msgstr "Presentación 11 (1100xTradicional 4:3)"
+msgstr "Visualización 11 (1100xTradicional 4:3)"
 
 msgid "Display 12 (1200xAuto)"
-msgstr "Presentación 12 (1200xAuto)"
+msgstr "Visualización 12 (1200xAuto)"
 
 msgid "Display 12 (1200xSquare 1:1)"
-msgstr "Presentación 12 (1200xCuadrado 1:1)"
+msgstr "Visualización 12 (1200xCuadrado 1:1)"
 
 msgid "Display 12 (1200xStandard 16:9)"
-msgstr "Presentación 12 (1200xEstándar 16:9)"
+msgstr "Visualización 12 (1200xEstándar 16:9)"
 
 msgid "Display 12 (1200xTraditional 4:3)"
-msgstr "Presentación 12 (1200xTradicional 4:3)"
+msgstr "Visualización 12 (1200xTradicional 4:3)"
 
 msgid "Display Edge-to-Edge auto"
-msgstr ""
+msgstr "Visualización Borde-a-Borde auto"
 
 msgid "Display Edge-to-Edge 4:1"
-msgstr ""
+msgstr "Visualización Borde-a-Borde 4:1"
 
 msgid "Display Edge-to-Edge 4:1 max md"
-msgstr ""
+msgstr "Visualización Borde-a-Borde 4:1 max md"
 
 msgid "Display Edge-to-Edge 4:1 max sm"
-msgstr ""
+msgstr "Visualización Borde-a-Borde 4:1 max sm"
 
 msgid "Display Edge-to-Edge 4:1 max xs"
-msgstr ""
+msgstr "Visualización Borde-a-Borde 4:1 max xs"
 
 msgid "Display Edge-to-Edge square 1:1"
-msgstr ""
+msgstr "Visualización Borde-a-Borde cuadrada 1:1"
 
 msgid "Display Edge-to-Edge standard 16:9"
-msgstr ""
+msgstr "Visualización Borde-a-Borde estándar 16:9"
 
 msgid "Display Edge-to-Edge traditional 4:3"
-msgstr ""
+msgstr "Visualización Borde-a-Borde tradicional 4:3"
 
 msgid "Field Preview (150x150)"
-msgstr ""
+msgstr "Previsualización de Campo (150x150)"
 
 msgid "Social Large (1200x630)"
-msgstr ""
+msgstr "Social Grande (1200x630)"
 
 msgid "Social Medium (600x315)"
-msgstr ""
+msgstr "Social Mediana (600x315)"
 
 msgid "Social Small (280x150)"
-msgstr ""
+msgstr "Social Pequeño (280x150)"
 
 msgid "Use the gallery for a reusable set of images or videos."
-msgstr ""
+msgstr "Utilice la galería para un conjunto de imágenes o vídeos reutilizables."
 
 msgid "Display 01 responsive auto"
-msgstr ""
+msgstr "Visualización 01 responsive auto"
 
 msgid "Display 01 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 01 responsive cuadrada 1:1"
 
 msgid "Display 01 responsive standard 16:9"
-msgstr ""
+msgstr "Visualización 01 responsive estándar 16:9"
 
 msgid "Display 01 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 01 responsive tradicional 4:3"
 
 msgid "Display 02 responsive auto"
-msgstr ""
+msgstr "Visualización 02 responsive auto"
 
 msgid "Display 02 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 02 responsive cuadrada 1:1"
 
 msgid "Display 02 responsive standard 16:9"
-msgstr ""
+msgstr "Visualización 02 responsive estándar 16:9"
 
 msgid "Display 02 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 02 responsive tradicional 4:3"
 
 msgid "Display 03 responsive auto"
-msgstr ""
+msgstr "Visualización 03 responsive auto"
 
 msgid "Display 03 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 03 responsive cuadrada 1:1"
 
 msgid "Display 03 responsive standard 16:9"
-msgstr ""
+msgstr "Visualización 03 responsive estándar 16:9"
 
 msgid "Display 03 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 03 responsive tradicional 4:3"
 
 msgid "Display 04 responsive auto"
-msgstr ""
+msgstr "Visualización 04 responsive auto"
 
 msgid "Display 04 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 04 responsive cuadrada 1:1"
 
 msgid "Display 04 responsive standard 16:9"
-msgstr ""
+msgstr "Visualización 04 responsive estándar 16:9"
 
 msgid "Display 04 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 04 responsive tradicional 4:3"
 
 msgid "Display 05 responsive auto"
-msgstr ""
+msgstr "Visualización 05 responsive auto"
 
 msgid "Display 05 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 05 responsive cuadrada 1:1"
 
 msgid "Display 05 responsive standard 16:9"
-msgstr ""
+msgstr "Visualización 05 responsive estándar 16:9"
 
 msgid "Display 05 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 05 responsive tradicional 4:3"
 
 msgid "Display 06 responsive auto"
-msgstr ""
+msgstr "Visualización 06 responsive auto"
 
 msgid "Display 06 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 06 responsive cuadrada 1:1"
 
 msgid "Display 06 responsive standard 16:9"
-msgstr ""
+msgstr "Visualización 06 responsive estándar 16:9"
 
 msgid "Display 06 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 06 responsive tradicional 4:3"
 
 msgid "Display 07 responsive auto"
-msgstr ""
+msgstr "Visualización 07 responsive auto"
 
 msgid "Display 07 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 07 responsive cuadrada 1:1"
 
 msgid "Display 07 responsive standard 16:9"
-msgstr ""
+msgstr "Visualización 07 responsive estándar 16:9"
 
 msgid "Display 07 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 07 responsive tradicional 4:3"
 
 msgid "Display 08 responsive auto"
-msgstr ""
+msgstr "Visualización 08 responsive auto"
 
 msgid "Display 08 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 08 responsive cuadrada 1:1"
 
 msgid "Display 08 responsive standard 16:9"
-msgstr ""
+msgstr "Visualización 08 responsive estándar 16:9"
 
 msgid "Display 08 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 08 responsive tradicional 4:3"
 
 msgid "Display 09 responsive auto"
-msgstr ""
+msgstr "Visualización 09 responsive auto"
 
 msgid "Display 09 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 09 responsive cuadrada 1:1"
 
 msgid "Display 09 responsive standard 16:9"
 msgstr ""
+"Visualización 09 responsive estándar 16:9Visualización 09 responsive cuadrada 1:1"
 
 msgid "Display 09 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 09 responsive tradicional 4:3"
 
 msgid "Display 10 responsive auto"
-msgstr ""
+msgstr "Visualización 10 responsive auto"
 
 msgid "Display 10 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 10 responsive cuadrada 1:1"
 
 msgid "Display 10 responsive standard 16:9"
-msgstr ""
+msgstr "Visualización 10 responsive estándar 16:9"
 
 msgid "Display 10 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 10 responsive tradicional 4:3"
 
 msgid "Display 11 responsive auto"
-msgstr ""
+msgstr "Visualización 11 responsive auto"
 
 msgid "Display 11 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 11 responsive cuadrada 1:1"
 
 msgid "Display 11 responsive standard 16:9"
-msgstr ""
+msgstr "Visualización 11 responsive estándar 16:9"
 
 msgid "Display 11 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 11 responsive tradicional 4:3"
 
 msgid "Display 12 responsive auto"
-msgstr ""
+msgstr "Visualización 12 responsive auto"
 
 msgid "Display 12 responsive square 1:1"
-msgstr ""
+msgstr "Visualización 12 responsive cuadrada 1:1"
 
 msgid "Display 12 responsive standard 16:9"
-msgstr ""
+msgstr "Visualización 12 responsive estándar 16:9"
 
 msgid "Display 12 responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización 12 responsive tradicional 4:3"
 
 msgid "Display Edge-to-Edge responsive auto"
-msgstr ""
+msgstr "Visualización Borde-a-Borde responsive auto"
 
 msgid "Display Edge-to-Edge responsive 4:1"
-msgstr ""
+msgstr "Visualización Borde-a-Borde responsive 4:1"
 
 msgid "Display Edge-to-Edge responsive square 1:1"
-msgstr ""
+msgstr "Visualización Borde-a-Borde responsive cuadrada 1:1"
 
 msgid "Display Edge-to-Edge responsive standard 16:9"
-msgstr ""
+msgstr "Visualización Borde-a-Borde responsive estándar 16:9"
 
 msgid "Display Edge-to-Edge responsive traditional 4:3"
-msgstr ""
+msgstr "Visualización Borde-a-Borde responsive tradicional 4:3"
 
 msgid "Varbase Gallery"
-msgstr ""
+msgstr "Galería de Varbase"
 
 msgid "Media Entity Browsers"
-msgstr ""
+msgstr "Navegadores de Entidad Multimedia"
 
 msgid ""
 "Browser view to select media content form the library of images, media, files in "
 "the site"
 msgstr ""
+"Vista del navegador para seleccionar el contenido multimedia de la biblioteca de "
+"imágenes, multimedia, archivos en el sitio"
 
 msgid "Media: Browser Teaser"
 msgstr ""
 
 msgid "There are no media items to display. Add new media content"
-msgstr ""
+msgstr "No hay elementos multimedia para mostrar. Añada nuevo contenido multimedia"
 
 msgid "Shows a list of filtered media types (images and videos) only."
 msgstr ""
+"Muestra una lista de tipos de multimedia filtrados (imágenes y vídeos) solamente."
 
 msgid "Skip first"
-msgstr ""
+msgstr "Saltar primero"
 
 msgid "full_html"
-msgstr ""
+msgstr "full_html"
 
 msgid "Sort options"
-msgstr ""
+msgstr "Opciones de ordenación"
 
 msgid "Media: Entity Browser Preview"
-msgstr ""
+msgstr "Multimedia: Previsualización de Navegador de Multimedia"
 
 msgid "There are no videos to display. Upload videos from your computer."
-msgstr ""
+msgstr "No hay vídeos para mostrar. Suba los vídeos desde su ordenador."
 
 msgid "Hierarchical paths for basic pages"
-msgstr ""
+msgstr "Rutas jerárquicas para las páginas básicas"
 
 msgid "Database server"
-msgstr ""
+msgstr "Servidor de base de datos"
 
 msgid "Default database server."
-msgstr ""
+msgstr "Servidor de base de datos por defecto."
 
 msgid "Default policy"
-msgstr ""
+msgstr "Política por defecto"
 
 msgid "Access metatag plugins report"
-msgstr ""
+msgstr "Acceder al informe de plugins de metatag"
 
 msgid "SEO Admin"
-msgstr ""
+msgstr "Administrador SEO"
 
 msgid " Varbase Dashboard"
-msgstr ""
+msgstr " Panel de control de Varbase"
 
 msgid "Varbase Dashboard User"
-msgstr ""
+msgstr "Usuario del Panel de Control de Varbase"
 
 msgid "Create New Content"
-msgstr ""
+msgstr "Crear Contenido Nuevo"
 
 msgid "Quick Links"
-msgstr ""
+msgstr "Enlaces Rápidos"
 
 msgid "My Site Overview"
-msgstr ""
+msgstr "Resumen de Mi Sitio"
 
 msgid "Varbase Dashboard Masonry"
-msgstr ""
+msgstr "Mampostería del Panel de control de Varbase"
 
 msgid "Varbase Dashboard Tour"
-msgstr ""
+msgstr "Tour del Panel de control de Varbase"
 
 msgid "Welcome to Your Dashboard"
-msgstr ""
+msgstr "Bienvenido a Tu Panel de Control"
 
 msgid ""
 "<p>As an editor or a site manager, this dashboard includes quick access links and "
 "summarized information for you.</p>\r\n"
 "<p>Press \"Next\" to get a quick overview of its elements.</p>"
 msgstr ""
+"<p>Como editor o gestor del sitio, este panel incluye enlaces de acceso rápido e "
+"información resumida para ti.</p>\r\n"
+"<p>Pulsa \"Siguiente\" para obtener una visión rápida de sus elementos.</p>"
 
 msgid "Your Account"
-msgstr ""
+msgstr "Tu Cuenta"
 
 msgid "You can always edit your account by going clicking this button."
-msgstr ""
+msgstr "Siempre puede editar su cuenta haciendo clic en este botón."
 
 msgid ""
 "<p>This block will list the most important content for you or your editors to "
@@ -52844,33 +52851,44 @@ msgid ""
 "Panel edit page</b>. <em>If you don't have permission to do so, contact your site "
 "administrator.</em></p>"
 msgstr ""
+"<p>Este bloque listará el contenido más importante para que usted o sus editores lo "
+"creen.</p>\r\n"
+"<p>Puede editar qué tipos de contenido deben aparecer aquí yendo a la página de "
+"edición del <b>Panel del Control</b>. <em>Si no tiene permiso para hacerlo, "
+"contacte con el administrador de su sitio.</em></p>"
 
 msgid ""
 "<p>Connect your Google Analytics account to your site to start seeing stats "
 "directly in your dashboard.<p>"
 msgstr ""
+"<p>Conecte su cuenta de Google Analytics a su sitio para empezar a ver las "
+"estadísticas directamente en su panel de control.<p>"
 
 msgid "Your Content Statistics"
-msgstr ""
+msgstr "Estadísticas de Su Contenido"
 
 msgid ""
 "Finally, once you start adding content to your site, your content's statistics will "
 "appear here."
 msgstr ""
+"Por último, una vez que empiece a añadir contenido a su sitio, las estadísticas de "
+"su contenido aparecerán aquí."
 
 msgid "Welcome to Varbase"
-msgstr ""
+msgstr "Bienvenido a Varbase"
 
 msgid "Tour Switch"
-msgstr ""
+msgstr "Tour de Switch"
 
 msgid ""
 "Remember! You can always switch on or off the tour from this button. Tours will "
 "give you valuable tips and information while navigating through your site."
 msgstr ""
+"¡Recuerde! Siempre puede activar o desactivar el tour desde este botón. Los tours "
+"le darán consejos valiosos e información mientras navega por su sitio."
 
 msgid "Editing Your Homepage"
-msgstr ""
+msgstr "Editando Su Página de Inicio"
 
 msgid ""
 "You can edit your homepage and customize what to appear in it from the tray at the "
@@ -52878,48 +52896,62 @@ msgid ""
 "<hr />\r\n"
 "<b>Change Layout  |  Manage Content  |  Edit</b>"
 msgstr ""
+"Puede editar su página de inicio y personalizar lo que debe aparecer en ella desde "
+"la bandeja de la parte inferior de la página.\r\n"
+"<hr />\r\n"
+"<b>Cambiar diseño  |  Gestionar contenido  |  Editar</b>"
 
 msgid "Start Configuring Your Site Structure"
-msgstr ""
+msgstr "Comience a configurar la Estructura de Su Sitio"
 
 msgid ""
 "Define your content types, fields, taxonomy, views, and other structural building "
 "blocks from here."
 msgstr ""
+"Defina sus tipos de contenido, campos, taxonomía, vistas y otros bloques "
+"estructurales desde aquí."
 
 msgid "Define Your Site Settings"
-msgstr ""
+msgstr "Defina los Ajustes de Su Sitio"
 
 msgid ""
 "Other configuration for your site such as registration, search settings, web "
 "services, multilingual settings and content authoring can be managed from here."
 msgstr ""
+"Desde aquí se pueden gestionar otras configuraciones de su sitio, como el registro, "
+"la configuración de búsqueda, los servicios web, la configuración multilingüe y la "
+"creación de contenidos."
 
 msgid "Site's Content"
-msgstr ""
+msgstr "Contenido del Sitio"
 
 msgid "All your site's content, media, and files can be found here."
 msgstr ""
+"Todo el contenido, la multimedia y los archivos de su sitio se pueden encontrar "
+"aquí."
 
 msgid "Your Dashboard"
-msgstr ""
+msgstr "Su Panel de Control"
 
 msgid ""
 "Your dashboard includes quick links for creating content, viewing content stats, "
 "and a Google Analytics overview of your site's traffic once you go live."
 msgstr ""
+"El panel de control incluye enlaces rápidos para la creación de contenidos, la "
+"visualización de las estadísticas de los contenidos y una visión general de Google "
+"Analytics sobre el tráfico de su sitio una vez que se pone en marcha."
 
 msgid "Image position"
-msgstr ""
+msgstr "Posición de la imagen"
 
 msgid "Fields style"
-msgstr ""
+msgstr "Estilo de los campos"
 
 msgid "Text and image"
-msgstr ""
+msgstr "Texto e imagen"
 
 msgid "Launched in thread @current_thread"
-msgstr ""
+msgstr "Lanzado en el hilo @current_thread"
 
 msgid "Requires Drupal core:"
 msgstr "Requiere el núcleo de Drupal:"
@@ -52928,103 +52960,107 @@ msgid "@low_version_number to @high_version_number"
 msgstr "@low_version_number a @high_version_number"
 
 msgid "Cleaned up @count expired locks"
-msgstr ""
+msgstr "Limpiado @count locks expirados"
 
 msgid "Varbase"
-msgstr ""
+msgstr "Varbase"
 
 msgid ""
 "<p>Congratulations, you have installed Varbase!</p><p>If you are not redirected to "
 "the front page in 5 seconds, Please <a href=\"@url\">click here</a> to proceed to "
 "your installed site.</p>"
 msgstr ""
+"<p>Felicidades, ¡ha instalado Varbase!</p><p>Si no es redirigido a la página "
+"principal en 5 segundos, por favor <a href=\"@url\">haga clic aquí</a> para "
+"proceder a su sitio instalado.</p>"
 
 msgid "Página básica"
-msgstr ""
+msgstr "Página básica"
 
 msgid "Página de entrada"
-msgstr ""
+msgstr "Página de entrada"
 
 msgid "Entityqueues"
-msgstr ""
+msgstr "Colas de Entidades"
 
 msgid "Menu position rules"
-msgstr ""
+msgstr "Reglas de posición del menú"
 
 msgid "Etiquetas"
-msgstr ""
+msgstr "Etiquetas"
 
 msgid "Archivo"
-msgstr ""
+msgstr "Archivo"
 
 msgid "Galería"
-msgstr ""
+msgstr "Galería"
 
 msgid "Imagen"
-msgstr ""
+msgstr "Imagen"
 
 msgid "Video remoto"
-msgstr ""
+msgstr "Video remoto"
 
 msgid "Vídeo"
-msgstr ""
+msgstr "Vídeo"
 
 msgid "JavaScript Snippets"
-msgstr ""
+msgstr "Snippets de JavaScript"
 
 msgid "Crop types"
-msgstr ""
+msgstr "Tipos de recortes"
 
 msgid "Media Library settings"
-msgstr ""
+msgstr "Ajustes de la Biblioteca de Multimedia"
 
 msgid "CKEditor Media Embed"
-msgstr ""
+msgstr "Editor embebido CKEditor de Multimedia"
 
 msgid "Libraries UI"
-msgstr ""
+msgstr "Libraries UI"
 
 msgid "Google Analytics Reports API"
-msgstr ""
+msgstr "API de Google Analytics Reports"
 
 msgid "Real-time SEO Admin Settings"
-msgstr ""
+msgstr "Ajustes de Adminsitración de SEO en tiempo real"
 
 msgid "Simple XML Sitemap"
-msgstr ""
+msgstr "Simple XML Sitemap"
 
 msgid "Mail System"
-msgstr ""
+msgstr "Mail System"
 
 msgid "Persistent Login"
-msgstr ""
+msgstr "Persistent Login"
 
 msgid "Mail templates"
-msgstr ""
+msgstr "Plantillas de correo"
 
 msgid "Swift Mailer"
-msgstr ""
+msgstr "Swift Mailer"
 
 msgid "Security Kit settings"
-msgstr ""
+msgstr "Ajustes de Security Kit"
 
 msgid "Delete orphaned composite entities"
-msgstr ""
+msgstr "Eliminar entidades compuestas huérfanas"
 
 msgid "Google Tag Manager"
-msgstr ""
+msgstr "Gestor de Gootgle Tag"
 
 msgid "Coffee"
-msgstr ""
+msgstr "Coffee"
 
 msgid "Responsive preview"
-msgstr ""
+msgstr "Previsualización responsive"
 
+#, fuzzy
 msgid "Content Lock"
-msgstr ""
+msgstr "Bloqueo de Contenido"
 
 msgid "Pathologic configuration"
-msgstr ""
+msgstr "Configuración de Pathologic"
 
 msgid "Entity clone settings"
 msgstr ""
@@ -84419,7 +84455,7 @@ msgid ""
 msgstr ""
 
 msgid "Slideshow"
-msgstr "Presentación de diapositivas"
+msgstr "Visualización de diapositivas"
 
 msgid "An automatic slideshow to a content group / gallery."
 msgstr ""
