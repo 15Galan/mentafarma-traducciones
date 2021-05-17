@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-11 11:38+0200\n"
+"PO-Revision-Date: 2021-05-14 12:08+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Language: es\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 msgid "Content type"
 msgstr "Tipo de contenido"
@@ -6547,7 +6547,7 @@ msgid "Use AJAX"
 msgstr "Usar AJAX"
 
 msgid "Change whether or not this display will use AJAX."
-msgstr "Cambiar se esta presentación debe usar o no AJAX."
+msgstr "Cambiar si esta presentación debe usar o no AJAX."
 
 msgid "Mini"
 msgstr "Mini"
@@ -13747,7 +13747,7 @@ msgid "Empty display extender"
 msgstr "Extensor  de visualización vacía"
 
 msgid "Raw value from URL"
-msgstr "Valor sin formato desde el URL"
+msgstr "Valor sin formato desde la URL"
 
 msgid "Apply (all displays)"
 msgstr "Aplicar (todas las presentaciones)"
@@ -48438,8 +48438,8 @@ msgid ""
 "Please review your submission. Your submission is not complete until you press the "
 "\"Submit\" button!"
 msgstr ""
-"Por favor, revise su presentación. Su envío no está completo hasta que no pulse el "
-"botón \"Enviar\"."
+"Por favor, revise su presentación. ¡Su envío no está completo hasta que no pulse el "
+"botón \"Enviar\"!"
 
 msgid "A partially-completed form was found. Please complete the remaining portions."
 msgstr ""
@@ -52344,7 +52344,7 @@ msgid "Traditional 4:3"
 msgstr "Tradicional 4:3"
 
 msgid "Traditional 4:3  television and computer monitor standard."
-msgstr "Tradicional 4:3 Television y Monitor estándar"
+msgstr "Tradicional 4:3  estándar de televisión y monitores de ordenador."
 
 msgid "Editor Media Browser"
 msgstr "Navegador de Editor de Multimedia"
@@ -52353,7 +52353,7 @@ msgid "Drop image files here to upload them"
 msgstr "Arrastre archivos de imagen aquí para subirlos"
 
 msgid "Select image(s)"
-msgstr "Seleccionar imágen(es)"
+msgstr "Seleccionar imagen(es)"
 
 msgid "Drop video files here to upload them"
 msgstr "Arrastre archivos de vídeo aquí para subirlos"
@@ -52794,16 +52794,16 @@ msgid "Database server"
 msgstr "Servidor de base de datos"
 
 msgid "Default database server."
-msgstr ""
+msgstr "Servidor de base de datos por defecto."
 
 msgid "Default policy"
-msgstr ""
+msgstr "Política por defecto"
 
 msgid "Access metatag plugins report"
 msgstr "Acceder al informe de plugins de metatag"
 
 msgid "SEO Admin"
-msgstr ""
+msgstr "Administrador de SEO"
 
 msgid " Varbase Dashboard"
 msgstr " Panel de control de Varbase"
@@ -52815,7 +52815,7 @@ msgid "Create New Content"
 msgstr "Crear Contenido Nuevo"
 
 msgid "Quick Links"
-msgstr ""
+msgstr "Enlaces Rápidos"
 
 msgid "My Site Overview"
 msgstr "Resumen de Mi Sitio"
@@ -52865,7 +52865,7 @@ msgstr ""
 "estadísticas directamente en su panel de control.<p>"
 
 msgid "Your Content Statistics"
-msgstr ""
+msgstr "Estadísticas de Su Contenido"
 
 msgid ""
 "Finally, once you start adding content to your site, your content's statistics will "
@@ -53029,13 +53029,13 @@ msgid "Simple XML Sitemap"
 msgstr "Simple XML Sitemap"
 
 msgid "Mail System"
-msgstr ""
+msgstr "Mail System"
 
 msgid "Persistent Login"
 msgstr "Persistent Login"
 
 msgid "Mail templates"
-msgstr ""
+msgstr "Plantillas de correo"
 
 msgid "Swift Mailer"
 msgstr "Swift Mailer"
@@ -53063,168 +53063,180 @@ msgid "Pathologic configuration"
 msgstr "Configuración de Pathologic"
 
 msgid "Entity clone settings"
-msgstr ""
+msgstr "Ajustes de clonado de entidad"
 
 msgid "Entity Usage Settings"
-msgstr ""
+msgstr "Ajustes de Uso de entidad"
 
 msgid "Paragraphs library item settings"
-msgstr ""
+msgstr "Ajustes de la biblioteca de ítems de Paragraphs"
 
 msgid "Paragraphs features"
-msgstr ""
+msgstr "Funcionalidades de Paragraphs"
 
 msgid "Charts default configuration"
-msgstr ""
+msgstr "Configuración por defecto de Charts"
 
 msgid "Login destinations"
-msgstr ""
+msgstr "Aterrizajes del login"
 
 msgid "User protect"
 msgstr "Proteger al usuario"
 
 msgid "CAPTCHA module settings"
-msgstr ""
+msgstr "Ajustes del módulo CAPTCHA"
 
 msgid "Varbase general settings"
-msgstr ""
+msgstr "Ajustes generales de Varbase"
 
 msgid "Varbase Media settings"
-msgstr ""
+msgstr "Ajustes de Multimedia de Varbase"
 
 msgid "Varbase Bootstrap Paragraphs settings"
-msgstr ""
+msgstr "Ajustes de Varbase Bootstrap Paragraphs"
 
 msgid "Varbase settings"
-msgstr ""
+msgstr "Ajustes de Varbase"
 
 msgid "Checklists"
-msgstr ""
+msgstr "Checklists"
 
 msgid "Events Log Track"
-msgstr ""
+msgstr "Events Log Track"
 
 msgid "Metatag plugins"
-msgstr ""
+msgstr "Plugins de Metatag"
 
 msgid "Webform plugins"
-msgstr ""
+msgstr "Plugins de Webform"
 
 msgid "Rebuild theme registry"
-msgstr ""
+msgstr "Reconstruir el registro de temas"
 
 msgid "Flush views cache"
-msgstr ""
+msgstr "Vaciar la caché de vistas"
 
 msgid "State editor"
-msgstr ""
+msgstr "Editor del Estado"
 
 msgid "Element Info"
-msgstr ""
+msgstr "Información del Elemento"
 
+#, fuzzy
 msgid "Devel Toolbar Settings"
-msgstr ""
+msgstr "Devel Toolbar Settings"
 
 msgid ""
 "See an overview of your site and get access to various useful functions and "
 "shortcuts."
 msgstr ""
+"Vea una visión general de su sitio y acceda a varias funciones y atajos útiles."
 
 msgid "Manage paragraphs library items."
-msgstr ""
+msgstr "Gestionar la biblioteca de ítems de paragraphs."
 
 msgid "Manage entity queues."
-msgstr ""
+msgstr "Gestionar colas de entidades."
 
 msgid "Manage HTML snippets included in the page."
-msgstr ""
+msgstr "Gestionar snippets HTML incluidos en la página."
 
 msgid "Configure settings for menu positions."
-msgstr ""
+msgstr "Configurar ajustes para las posiciones de los menús."
 
 msgid "Configure rules for menu positions."
-msgstr ""
+msgstr "Configurar reglas para las posiciones de los menús."
 
 msgid "List Taxonomy Menus"
-msgstr ""
+msgstr "Listar Menús de Taxonomía"
 
 msgid "Manage pages."
-msgstr "Administrar páginas"
+msgstr "Gestionar páginas."
 
 msgid "Manage layouts for entities and configure fields etc."
-msgstr ""
+msgstr "Gestionar los diseños de las entidades y configurar los campos, etc."
 
 msgid "Create webforms and manage submissions."
-msgstr ""
+msgstr "Crear formularios web y gestionar los envíos."
 
 msgid "Global Mail System configuration."
-msgstr ""
+msgstr "Configuración de Global Mail System."
 
 msgid "Manage automatic site maintainenance tasks."
-msgstr ""
+msgstr "Gestionar las tareas automáticas de mantenimiento del sitio."
 
 msgid ""
 "Configure tracking behavior to get insights into your website traffic and marketing "
 "effectiveness."
 msgstr ""
+"Configure el comportamiento de seguimiento para obtener información sobre el "
+"tráfico de su sitio web y la eficacia del marketing."
 
 msgid ""
 "Configure the website integration with GTM and the resultant capturing of website "
 "analytics."
 msgstr ""
+"Configurar la integración del sitio web con GTM y la consiguiente captura de la "
+"analítica del sitio web."
 
 msgid "Edit mails being sent out by Drupal."
-msgstr ""
+msgstr "Editar los correos enviados por Drupal."
 
 msgid "Change lifetime and token limit"
-msgstr ""
+msgstr "Cambiar la vida útil y el límite de tokens"
 
 msgid "Configure Swift Mailer transport and message settings."
-msgstr ""
+msgstr "Configure los ajustes de transporte y mensajes de Swift Mailer."
 
+#, fuzzy
 msgid ""
 "Delete revisions of entities that are no longer used in Entity Reference Revisions "
 "fields."
 msgstr ""
+"Eliminar las revisiones de las entidades que ya no se utilizan en los campos de "
+"Revisiones de Referencia de Entidades."
 
 msgid "Manage Security Kit settings."
-msgstr ""
+msgstr "Gestionar ajustes de Security Kit."
 
 msgid "Customize the destination that the user is redirected to after login."
 msgstr ""
+"Personaliza el destino al que se redirige al usuario después de iniciar la sesión."
 
 msgid "Administer how and where CAPTCHA is used."
-msgstr ""
+msgstr "Administrar cómo y dónde se utiliza el CAPTCHA."
 
 msgid "Protect individual users and/or roles from editing operations."
-msgstr ""
+msgstr "Proteger a los usuarios individuales y/o roles de las operaciones de edición."
 
 msgid "Set the default library, behavior, and style of charts."
 msgstr ""
+"Establezca la biblioteca, el comportamiento y el estilo de los gráficos por defecto."
 
 msgid "Configure how entity fields are compared."
-msgstr ""
+msgstr "Configurar cómo se comparan los campos de la entidad."
 
 msgid "Configure Entity Usage settings"
-msgstr ""
+msgstr "Configurar los ajustes de Entity Usage"
 
 msgid "Entity clone settings."
-msgstr ""
+msgstr "Ajustes de clonado de entidad."
 
 msgid "Manage Linkit profiles."
-msgstr ""
+msgstr "Gestionar perfiles Linkit."
 
 msgid "Manage entity browsers."
-msgstr ""
+msgstr "Gestionar los navegadores de entidades."
 
 msgid "Configure Paragraphs library item."
-msgstr ""
+msgstr "Configurar la biblioteca de ítems de Paragraphs."
 
 msgid "Configure how Pathologic adjusts link and image paths in content."
 msgstr ""
+"Configure cómo Pathologic ajusta las rutas de enlaces e imágenes en el contenido."
 
 msgid "Administer content locking settings."
-msgstr ""
+msgstr "Administrar la configuración del bloqueo de contenidos."
 
 msgid "Configure settings for paragraphs features module."
 msgstr ""
@@ -53502,7 +53514,7 @@ msgid "Layouts Info"
 msgstr "Información de los Layouts(Diseños)"
 
 msgid "Edit configuration."
-msgstr "Editar configuración"
+msgstr "Editar configuración."
 
 msgid "Overview of layouts available to the site."
 msgstr ""
@@ -53655,7 +53667,7 @@ msgid "Webform [EXPERIMENTAL]"
 msgstr "Webform [EXPERIMENTAL]"
 
 msgid "styleguide"
-msgstr "Guía de estilos"
+msgstr "guía de estilos"
 
 msgid "Social"
 msgstr "Social"
@@ -53685,7 +53697,7 @@ msgid "File metadata"
 msgstr "Archivos de metadatos"
 
 msgid "Performance and scalability"
-msgstr "Rendimiento y escalabilidad\t"
+msgstr "Rendimiento y escalabilidad."
 
 msgid "Blazy"
 msgstr "Llamativo"
@@ -53840,7 +53852,7 @@ msgid "Total Control Administration Dashboard"
 msgstr "Panel de administración de control total"
 
 msgid "Declare all the consumers of your API"
-msgstr "Declarar a todos los consumidores de su API."
+msgstr "Declarar a todos los consumidores de su API"
 
 msgid "The OAuth 2.0 Authorization Framework"
 msgstr "El marco de autorización de OAuth 2.0"
@@ -72797,7 +72809,7 @@ msgid "The following replacement tokens are available for this argument."
 msgstr "Las siguientes cadenas de reemplazo están disponibles para este argumento."
 
 msgid "Current page path (Google Analytics Reports)"
-msgstr ""
+msgstr "Ruta de la página actual (Google Analytics Reports)"
 
 msgid "Product ID from URL"
 msgstr "ID del producto de la URL"
@@ -92256,7 +92268,7 @@ msgid "Access the webform help page"
 msgstr ""
 
 msgid "Current user cart IDs"
-msgstr "IDs de carritos de los usuarios actuales"
+msgstr "IDs del carrito del usuario actual"
 
 msgid "Saved config sucessfully!"
 msgstr ""
@@ -95939,13 +95951,13 @@ msgstr "Incluir una opción \"Restablecer orden\""
 msgid "Adds a \"Reset sort\" link; Views will use the default sort order."
 msgstr ""
 "Agrega un enlace \"Restablecer clasificación\"; Las vistas utilizarán el orden de "
-"clasificación predeterminado. "
+"clasificación predeterminado."
 
 msgid "\"Reset sort\" label"
 msgstr "Etiqueta \"Restablecer clasificación\""
 
 msgid "This cannot be left blank if the above option is checked"
-msgstr "No se puede dejar en blanco si la opción anterior está marcada."
+msgstr "No se puede dejar en blanco si la opción anterior está marcada"
 
 msgid "Make sort options collapsible"
 msgstr "Hacer que las opciones de ordenación sean plegables"
@@ -96282,7 +96294,7 @@ msgid "Choose a backend to use for this server."
 msgstr "Elija un backend para usar con este servidor."
 
 msgid "The minimum number of characters a word must consist of to be indexed"
-msgstr "El número mínimo de caracteres que debe tener una palabra para ser indexada."
+msgstr "El número mínimo de caracteres que debe tener una palabra para ser indexada"
 
 msgid "Match whole words only"
 msgstr "Coincidir solo con palabras completas"
@@ -96322,13 +96334,14 @@ msgid "Select Theme"
 msgstr "Seleccionar Tema"
 
 msgid "Select the theme to use for the search block."
-msgstr "Selecciona el tema a usar para el bloque de busqueda"
+msgstr "Selecciona el tema a usar para el bloque de busqueda."
 
 msgid "Search Box Size"
 msgstr "Bloque de Barra de Busqueda"
 
+#, fuzzy
 msgid "Better Search Theme Options"
-msgstr "Opciones Better Search Theme "
+msgstr "Opciones de Better Search Theme"
 
 msgid "Enable Better Search on search pages"
 msgstr "Activar Better Search on páginas de busqueda"
@@ -100788,7 +100801,7 @@ msgid "Index @limit items in batches of @batch_size items"
 msgstr "Indexar elementos de @limit en lotes de elementos de @batch_size"
 
 msgid "enabled (<a href=\":url\">disable</a>)"
-msgstr "Habilitado (<a href=\":url\"> deshabilitar </a>)"
+msgstr "habilitado (<a href=\":url\"> deshabilitar </a>)"
 
 msgid "Datasource"
 msgstr "Fuente de datos"
