@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-14 12:08+0200\n"
+"PO-Revision-Date: 2021-05-19 13:25+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Language: es\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.3\n"
 
 msgid "Content type"
 msgstr "Tipo de contenido"
@@ -13464,7 +13464,7 @@ msgstr ""
 "este filtro."
 
 msgid "Load default filter from term page"
-msgstr "Cargar filtro predeterminado de página de término"
+msgstr "Cargar el filtro predeterminado de la página de término"
 
 msgid "Transform dashes in URL to spaces in term name filter values"
 msgstr ""
@@ -13862,7 +13862,7 @@ msgstr ""
 
 msgid "Load default filter from node page, that's good for related taxonomy blocks"
 msgstr ""
-"Cargar el filtro predeterminado desde la página nodo. Esto es bueno para bloques de "
+"Cargar el filtro predeterminado de la página nodo; esto es bueno para bloques de "
 "taxonomía relacionados"
 
 msgid "Path component"
@@ -53352,37 +53352,38 @@ msgid "Configuration Ignore settings"
 msgstr ""
 
 msgid "Preview page layout"
-msgstr ""
+msgstr "Previsualización del layout de la página"
 
 msgid "<span class=\"visually-hidden\">Layout preview</span>"
-msgstr ""
+msgstr "<span class=\"visually-hidden\">Previsualización del layout</span>"
 
 msgid "Configure devices"
-msgstr ""
+msgstr "Configurar dispositivos"
 
 msgid "Pending updates"
-msgstr ""
+msgstr "Actualizaciones pendientes"
 
 msgid "Use alt+d to start Coffee and search for a page to go to"
-msgstr ""
+msgstr "Use ALT+D para arrancar Coffe y buscar una página a la que ir"
 
 msgid "Go to"
-msgstr ""
+msgstr "Ir a"
 
 msgid "Development menu"
-msgstr ""
+msgstr "Menú de desarrollo"
 
 msgid "Welcome to"
-msgstr ""
+msgstr "Bienvenido a"
 
 msgid "Brought to you by"
-msgstr ""
+msgstr "Traido a ti por"
 
 msgid "Vardot"
-msgstr ""
+msgstr "Vardot"
 
+#, fuzzy
 msgid ", Varbase is the ultimate "
-msgstr ""
+msgstr ", Varbase es el definitivo"
 
 msgid ""
 " starter kit distribution that accelerates building any website for small "
@@ -53390,125 +53391,132 @@ msgid ""
 "built highly customizable full-featured distributions targeted towards the needs of "
 "every industry."
 msgstr ""
+" distribución de kit de inicio que acelera la construcción de cualquier sitio web "
+"para las pequeñas empresas, las empresas globales, y todo lo demás. Utilizando "
+"Varbase, hemos construido distribuciones completas altamente personalizables "
+"dirigidas a las necesidades de cada industria."
 
 msgid "Contact us"
-msgstr ""
+msgstr "Contáctenos"
 
 msgid " today to accelerate your launching plans!"
-msgstr ""
+msgstr " hoy para acelerar sus planes de lanzamiento!"
 
 msgid "News, Media, and Entertainment"
-msgstr ""
+msgstr "Noticias, Multimedia y Entretenimiento"
 
 msgid "Higher Educations Institutions"
-msgstr ""
+msgstr "Instituciones Educativas Prestigiosas"
 
 msgid "Schools and Educational Institutions"
-msgstr ""
+msgstr "Colegios e Instituciones Educativas"
 
 msgid "Nonprofit Organizations"
-msgstr ""
+msgstr "Organizaciones sin ánimo de lucro"
 
 msgid "Construction/Manufacturing Enterprises"
-msgstr ""
+msgstr "Empresas de Construcción/Manufactura"
 
 msgid "...and Many Other Distributions!"
-msgstr ""
+msgstr "...y otras tantas Distribuciones!"
 
 msgid "Contact Vardot for Full-featured Websites"
-msgstr ""
+msgstr "Contacte con Vardot para obtener Sitios Web completos"
 
 msgid "Get Professional Support"
-msgstr ""
+msgstr "Obtenga Soporte Profesional"
 
 msgid "Join the Drupal Community"
-msgstr ""
+msgstr "Únase a la Comunidad de Drupal"
 
 msgid "Get started"
 msgstr "Empezar"
 
 msgid "Administer custom permissions"
-msgstr ""
+msgstr "Administrar permisos personalizados"
 
 msgid "Change Layout"
 msgstr "Cambiar Layout"
 
 msgid "Manage Content"
-msgstr ""
+msgstr "Gestionar Contenido"
 
 msgid "Edit existing \"<strong><%- label %></strong>\" content"
-msgstr ""
+msgstr "Editar el contenido de \"<strong><%- label %></strong>\" existente"
 
 msgid ""
 "This page is being edited by another user, and is locked from editing by others. "
 "Would you like to break this lock?"
 msgstr ""
+"Esta página está siendo editada por otro usuario, y está bloqueada para que otros "
+"no puedan editarla. ¿Le gustaría romper este bloqueo?"
 
 msgid "Are you sure you want to cancel your changes?"
-msgstr ""
+msgstr "¿Seguro que quiere cancelar sus cambios?"
 
 msgid "Block: <%- label %>"
-msgstr ""
+msgstr "Bloque: <%- label %>"
 
 msgid "Search current category"
-msgstr ""
+msgstr "Buscar en la categoría actual"
 
 msgid "Search all categories"
-msgstr ""
+msgstr "Buscar en todas las categorías"
 
 msgid "Configure <strong><%- label %></strong> block"
-msgstr ""
+msgstr "Configurar el bloque <strong><%- label %></strong>"
 
 msgid "Create new <strong><%- label %></strong> content"
-msgstr ""
+msgstr "Crear un nuevo contenido <strong><%- label %></strong>"
 
 msgid "Configure <strong><%- label %></strong> layout"
-msgstr ""
+msgstr "Configurar el layout de <strong><%- label %></strong>"
 
 msgid "Current Layout"
-msgstr ""
+msgstr "Layout Actual"
 
 msgid "Region: <%- name %>"
-msgstr ""
+msgstr "Región: <%- name %>"
 
 msgid "Change orientation"
-msgstr ""
+msgstr "Cambiar orientación"
 
 msgid "@displayWidth@width by @displayHeight, @dpi, @orientation"
-msgstr ""
+msgstr "@displayWidth@width por @displayHeight, @dpi, @orientation"
 
 msgid "(link is external)"
-msgstr ""
+msgstr "(link es externo)"
 
 msgid "(link sends email)"
-msgstr ""
+msgstr "(link envía email)"
 
 msgid "Reinstall Modules"
-msgstr ""
+msgstr "Reinstalar Módulos"
 
 msgid "Entity Info"
-msgstr ""
+msgstr "Información de Entidad"
 
 msgid "Field Info"
-msgstr ""
+msgstr "Información de Campo"
 
+#, fuzzy
 msgid "View Session"
-msgstr ""
+msgstr "Vista de Sesión"
 
 msgid "Cache clear"
 msgstr "Limpiar caché"
 
 msgid "Container Info"
-msgstr ""
+msgstr "Información del Contenedor"
 
 msgid "Routes Info"
-msgstr ""
+msgstr "Información de las Rutas"
 
 msgid "Current route info"
-msgstr ""
+msgstr "Información de la ruta actual"
 
 msgid "Events Info"
-msgstr ""
+msgstr "Información de Eventos"
 
 msgid "Layouts Info"
 msgstr "Información de los Layouts(Diseños)"
@@ -53517,10 +53525,11 @@ msgid "Edit configuration."
 msgstr "Editar configuración."
 
 msgid "Overview of layouts available to the site."
-msgstr ""
+msgstr "Visión general de los diseños disponibles para el sitio."
 
+#, fuzzy
 msgid "Edit state system values."
-msgstr ""
+msgstr "Editar los valores del sistema de estados."
 
 msgid "Bloque básico"
 msgstr "Bloque básico"
@@ -53532,10 +53541,10 @@ msgid "Embedded entity"
 msgstr "Entidad embebida"
 
 msgid "Embedded @buttonLabel"
-msgstr ""
+msgstr "@buttonLabel embebido"
 
 msgid "Edit @buttonLabel"
-msgstr ""
+msgstr "Editar @buttonLabel"
 
 msgid "Insert entity"
 msgstr "Insertar entidad"
@@ -53544,40 +53553,43 @@ msgid "Edit entity"
 msgstr "Editar entidad"
 
 msgid "Go to front page"
-msgstr ""
+msgstr "Ir a la página principal"
 
 msgid "New Updates in Varbase 8.7.4"
 msgstr "Nuevas actualizaciones en Varbase 8.7.4"
 
 msgid "Use blurred image loading effect for lazy-loaded images"
 msgstr ""
+"Utilizar el efecto de carga de imágenes borrosas para las imágenes de carga lenta"
 
 msgid "Completed @time by @user"
-msgstr ""
+msgstr "Completado @time por @user"
 
 msgid "New Updates in Varbase 8.7.3"
 msgstr "Nuevas actualizaciones en Varbase 8.7.3"
 
 msgid "Enable Script Manager"
-msgstr ""
+msgstr "Habilitar Script Manager"
 
 msgid "New Updates in Varbase 8.7.2"
 msgstr "Nuevas actualizaciones en Varbase 8.7.2"
 
 msgid "Ability to use Drupal Tokens inside WYSIWYG editor"
-msgstr ""
+msgstr "Habilidad de usar los Tokens de Drupal dentro del editor WYSIWYG"
 
 msgid "New Updates in Varbase 8.7.1"
 msgstr "Nuevas actualizaciones en Varbase 8.7.1"
 
+#, fuzzy
 msgid "Add a new Gallery media type"
-msgstr ""
+msgstr "Añadir un nuevo tipo de multimedia de la Galería"
 
+#, fuzzy
 msgid "Improved Entity Browsers"
-msgstr ""
+msgstr "Improved Entity Browsers"
 
 msgid "Remove language button from the Rich Editor text format"
-msgstr ""
+msgstr "Eliminar el botón de idioma del formato de Texto Enriquecido del editor"
 
 msgid "New Updates in Varbase 8.6.10"
 msgstr "Nuevas actualizaciones en Varbase 8.6.10"
@@ -53591,18 +53603,22 @@ msgstr "Nuevas actualizaciones en Varbase 8.6.9"
 
 msgid "Change all responsive image styles to make use of Bootstrap 4 breakpoints"
 msgstr ""
+"Cambiar todos los estilos de imágenes responsive para hacer uso de los puntos de "
+"ruptura de Bootstrap 4"
 
 msgid "New Updates in Varbase 8.6.8"
 msgstr "Nuevas actualizaciones en Varbase 8.6.8"
 
 msgid "Enable Length Indicator module to be used by entities"
-msgstr ""
+msgstr "Habilitar el módulo Length Indicator para que las entidades lo usen"
 
+#, fuzzy
 msgid "Add title Length Indicator to the Basic page content type"
-msgstr ""
+msgstr "Añadir Length Indicator del título al tipo de contenido Página Básica"
 
+#, fuzzy
 msgid "Add title Length Indicator to the Landing page content type"
-msgstr ""
+msgstr "Añadir Length Indicator del título al tipo de contenido página de Aterrizaje"
 
 msgid "Add title Length Indicator to the Hero slider content type"
 msgstr ""
@@ -53615,41 +53631,46 @@ msgstr "Nuevas actualizaciones en Varbase 8.6.7"
 
 msgid "Enhance the usability of admin views (Content, Media, and People)"
 msgstr ""
+"Mejorar la usabilidad de las vistas de administración (Contenido, Multimedia y "
+"Personas)"
 
 msgid "Enable lazy loading for media in frontend (Images, Videos, Remote Videos)"
 msgstr ""
+"Habilitar la carga lenta para la multimedia en el frontend (Imágenes, Vídeos, "
+"Vídeos Remotos)"
 
+#, fuzzy
 msgid "Enable nicely designed HTML emails"
-msgstr ""
+msgstr "Permitir emails con HTML bien diseñado"
 
 msgid "Last updated @date by @user"
-msgstr ""
+msgstr "Modificado por última vez el @date por @user"
 
 msgid "Varbase update instructions"
-msgstr ""
+msgstr "Instrucciones de actualización de Varbase"
 
 msgid "@complete of @total (@percent%)"
-msgstr ""
+msgstr "@complete de @total (@percent%)"
 
 msgid "Show item descriptions"
-msgstr ""
+msgstr "Mostrar descripciones de los artículos"
 
 msgid "Hide item descriptions"
-msgstr ""
+msgstr "Ocultar descripciones de los artículos"
 
 msgid "Expand layout to include item descriptions."
-msgstr ""
+msgstr "Expandir el layout para incluir las descripciones de los artículos."
 
 msgid "Compress layout by hiding item descriptions."
-msgstr ""
+msgstr "Comprimir el layout para ocultar las descripciones de los artículos."
 
 msgid "Your changes will be lost if you leave the page without saving."
-msgstr ""
+msgstr "Sus cambios se perderán si abandona la página sin guardar."
 
 msgid "%title progress has been saved. 1 item changed."
 msgid_plural "%title progress has been saved. @count items changed."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%title progreso guardado. 1 artículo modificado."
+msgstr[1] "%title progreso guardado. @count artículos modificados."
 
 msgid "Entityqueue"
 msgstr "Cola de entidad"
@@ -53883,19 +53904,26 @@ msgstr ""
 "Proporciona un formateador adicional para el campo de texto, el área de texto y el "
 "formato de texto."
 
+#, fuzzy
 msgid "Provides the ability to group your fields on both form and display."
 msgstr ""
+"Proporciona la habilidad de agrupar sus campos tanto en el formulario como en la "
+"visualización."
 
 msgid ""
 "Provides a widget for inline management (creation, modification, removal) of "
 "referenced entities. "
 msgstr ""
+"Proporciona un widget para la gestión en línea (creación, modificación, "
+"eliminación) de las entidades referenciadas. "
 
 msgid "Adds an optional length indicator to fields"
-msgstr ""
+msgstr "Añade un indicador de longitud opcional a los campos"
 
 msgid "Provides a more robust alternative to \"summary or trimmed\" textfield format"
 msgstr ""
+"Proporciona una alternativa más robusta al formato de campo de texto \"resumido o "
+"recortado\""
 
 msgid ""
 "Provides a number of utility and helper APIs for Drupal developers and site "
@@ -53906,24 +53934,32 @@ msgstr ""
 
 msgid "Provides improvements to blocks that will one day be added to Drupal core."
 msgstr ""
+"Proporciona mejoras a los bloques que algún día se añadirán al núcleo de Drupal."
 
 msgid ""
 "A set of improvements to the core Views code that allows for greater control over "
 "Blocks."
 msgstr ""
+"Un conjunto de mejoras en el código del núcleo de las Vistas que permite un mayor "
+"control sobre los Bloques."
 
+#, fuzzy
 msgid ""
 "This plugin module adds the better link dialog and anchor related features to "
 "CKEditor in Drupal 8"
 msgstr ""
+"Este módulo plugin añade el mejor diálogo de enlace y las características "
+"relacionadas con el ancla a CKEditor en Drupal 8"
 
 msgid ""
 "Enables CKEditor 2 bi directional Buttons. One for Right To Left text direction "
 "(RTL) and another for Left To Right (LTR)."
 msgstr ""
+"Permite a CKEditor 2 botones bidireccionales. Uno para la dirección de texto de "
+"derecha a izquierda (RTL) y otro para la de izquierda a derecha (LTR)."
 
 msgid "Adds the Media Embed CKEditor plugins to Drupal."
-msgstr ""
+msgstr "Añade los plugins Media Embed CKEditor a Drupal."
 
 msgid "Defines common functionality for all Commerce modules."
 msgstr "Define la funcionalidad común para todos los módulos de Commerce."
@@ -53967,59 +54003,72 @@ msgid "Provides tax functionality."
 msgstr "Proporciona funcionalidad de impuestos."
 
 msgid "Provides a demo store for Commerce."
-msgstr ""
+msgstr "Proporciona una tienda de demostración para el comercio."
 
 msgid ""
 "Allows defining prices for specific stores, customers, quantities using price lists."
 msgstr ""
+"Permite definir precios para tiendas, clientes y cantidades específicas mediante "
+"listas de precios."
 
 msgid "Provides core shipping functionality."
-msgstr ""
+msgstr "Proporciona la funcionalidad principal de envío."
 
 msgid ""
 "Config Filter allows other modules to interact with a ConfigStorage through filter "
 "plugins."
 msgstr ""
+"Config Filter permite a otros módulos interactuar con un ConfigStorage a través de "
+"plugins de filtrado."
 
 msgid "Ignore certain configuration during import"
-msgstr ""
+msgstr "Ignorar cierta configuración durante la importación"
 
 msgid "Helper tool for generation and applying of configuration updates."
 msgstr ""
+"Herramienta de ayuda para la generación y aplicación de actualizaciones de "
+"configuración."
 
 msgid "Provide integration of Update Helper module with checklist."
 msgstr ""
+"Proporcionar la integración del módulo Update Helper con la lista de comprobación."
 
 msgid "Allows to have separate layout overrides per translation."
-msgstr ""
+msgstr "Permite tener anulaciones de diseño separadas por traducción."
 
 msgid "Open blocks in a modal in the Layout Builder UI."
-msgstr ""
+msgstr "Abrir bloques en un modal en el Layout Builder UI."
 
 msgid "Manage which fields & layouts are available in Layout Builder"
-msgstr ""
+msgstr "Gestionar qué campos y diseños están disponibles en el Layout Builder"
 
 msgid "Alters the Layout Builder UI for better usability"
-msgstr ""
+msgstr "Altera la interfaz de usuario del Layout Builder para mejorar la usabilidad"
 
 msgid ""
 "Prevents multiple users from trying to edit a content entity simultaneously to "
 "prevent edit conflicts."
 msgstr ""
+"Impide que varios usuarios intenten editar una entidad de contenido simultáneamente "
+"para evitar conflictos de edición."
 
 msgid "Provides the CAPTCHA API for adding challenges to arbitrary forms."
-msgstr ""
+msgstr "Proporciona la API CAPTCHA para añadir retos a formularios arbitrarios."
 
 msgid ""
 "Protect your website from spam and abuse while letting real people pass through "
 "with ease."
 msgstr ""
+"Proteja su sitio web contra el spam y los abusos, al tiempo que deja pasar a las "
+"personas reales con facilidad."
 
 msgid "Allows editing of e-mail templates."
-msgstr ""
+msgstr "Permite editar las plantillas de correo electrónico."
 
 msgid "Provides a user interface for per-module and site-wide mail_system selection."
 msgstr ""
+"Proporciona una interfaz de usuario para la selección mail_system tanto por módulo "
+"como por sitio."
 
 msgid "Allow for site emails to be sent through an SMTP server of your choice."
 msgstr ""
