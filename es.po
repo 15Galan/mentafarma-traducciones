@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-19 13:25+0200\n"
+"PO-Revision-Date: 2021-05-20 17:28+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -53239,117 +53239,126 @@ msgid "Administer content locking settings."
 msgstr "Administrar la configuración del bloqueo de contenidos."
 
 msgid "Configure settings for paragraphs features module."
-msgstr ""
+msgstr "Configurar los ajustes del módulo de características de paragraphs."
 
 msgid "Select what menus coffee should search."
-msgstr ""
+msgstr "Seleccione en qué menús debe buscar coffee."
 
 msgid "External Links administration page."
-msgstr ""
+msgstr "Página de administración de External Links."
 
 msgid "Add and modify tours."
-msgstr ""
+msgstr "Añadir y modificar tours."
 
 msgid "Manage Devices used for the responsive preview"
-msgstr ""
+msgstr "Gestionar los Dispositivos utilizados para la vista previa responsive"
 
 msgid "Create and configure search indexes and servers."
-msgstr ""
+msgstr "Crear y configurar índices y servidores de búsqueda."
 
 msgid "Configure, add content to and generate XML sitemaps."
-msgstr ""
+msgstr "Configurar, añadir contenido y generar mapas de sitio XML."
 
 msgid ""
 "Helper functions, pages, and blocks to assist Drupal developers. The devel blocks "
 "can be managed via the block administration page."
 msgstr ""
+"Funciones, páginas y bloques de ayuda para los desarrolladores de Drupal. Los "
+"bloques devel se pueden gestionar a través de la página de administración de "
+"bloques."
 
 msgid "Configure Real-time SEO for Drupal settings"
-msgstr ""
+msgstr "Configurar el SEO en tiempo real para los ajustes de Drupal"
 
 msgid "Configure provider to use with CKEditor Media Embed plugin."
-msgstr ""
+msgstr "Configurar el proveedor para usar con el plugin CKEditor Media Embed."
 
 msgid "Manage crop types."
-msgstr ""
+msgstr "Gestionar tipos de recortes."
 
 msgid "Manage Media Library settings."
-msgstr ""
+msgstr "Gestionar ajustes de Media Library."
 
 msgid "Provide all libraries information availables."
-msgstr ""
+msgstr "Proporcionar toda la información disponible de las bibliotecas."
 
 msgid "Create password policies."
-msgstr ""
+msgstr "Crear políticas de contraseñas."
 
 msgid "Configuring security settings."
-msgstr ""
+msgstr "Configuración de los ajustes de seguridad."
 
 msgid "Configuring Varbase general settings."
-msgstr ""
+msgstr "Configuración de los ajustes generales de Varbase."
 
 msgid "Configuring Varbase Bootstrap Paragraphs."
-msgstr ""
+msgstr "Configuración de Varbase Bootstrap Paragraphs."
 
 msgid "Configuring Varbase Media."
-msgstr ""
+msgstr "Configuración de Varbase Media."
 
 msgid "Configuring Varbase settings."
-msgstr ""
+msgstr "Configuración de los ajustes de Varbase."
 
 msgid "Manage the content workflow."
 msgstr "Administrar el flujo de trabajo de contenido."
 
 msgid "Define the roles that can be assigned via the 'Assign roles' permission."
-msgstr ""
+msgstr "Defina los roles que se pueden asignar mediante el permiso \"Asignar roles\"."
 
 msgid "Get report about cud operation performed by the user on the website."
 msgstr ""
+"Obtenga un informe sobre la operación de cud realizada por el usuario en el sitio "
+"web."
 
 msgid "Get an overview of your installed checklists with progress details."
 msgstr ""
+"Obtenga una visión general de sus listas de control instaladas con detalles del "
+"progreso."
 
 msgid "Overview of plugins used in metatag."
-msgstr ""
+msgstr "Resumen de los plugins utilizados en el metatag."
 
 msgid "Overview of plugins used by the Webform module."
-msgstr ""
+msgstr "Resumen de los plugins utilizados por el módulo Webform."
 
 msgid "Updates report"
-msgstr ""
+msgstr "Informe de actualización"
 
 msgid "Transport settings"
-msgstr ""
+msgstr "Ajustes de transporte"
 
 msgid "Test e-mail settings"
-msgstr ""
+msgstr "Probar la configuración del correo electrónico"
 
 msgid "C3.js-exclusive default configuration"
-msgstr ""
+msgstr "Configuración por defecto de C3.js-exclusive"
 
 msgid "CAPTCHA examples"
-msgstr ""
+msgstr "Ejemplos de CAPTCHA"
 
 msgid "Configure how Swift Mailer will compose messages."
-msgstr ""
+msgstr "Configure el modo en que Swift Mailer redactará los mensajes."
 
 msgid "Send a test e-mail to verify that the configuration works."
 msgstr ""
+"Envíe un correo electrónico de prueba para verificar que la configuración funciona."
 
 msgid "Configure how Swift Mailer will send e-mails."
-msgstr ""
+msgstr "Configure cómo enviará los correos electrónicos Swift Mailer."
 
 msgid "An overview of the available challenge types with examples.'"
-msgstr ""
+msgstr "Una visión general de los tipos de desafíos disponibles con ejemplos\"."
 
 msgid "Administer the Google No CAPTCHA reCAPTCHA web service."
-msgstr ""
+msgstr "Administrar el servicio web No CAPTCHA reCAPTCHA de Google."
 
 msgid "Set C3.js-exclusive configuration."
-msgstr ""
+msgstr "Establecer la configuración C3.js-exclusiva."
 
+#, fuzzy
 msgid "Configuration Ignore settings"
-msgstr ""
+msgstr "Configuración Ignorar los ajustes"
 
 msgid "Preview page layout"
 msgstr "Previsualización del layout de la página"
@@ -53597,6 +53606,8 @@ msgstr "Nuevas actualizaciones en Varbase 8.6.10"
 msgid ""
 "Fix regression of responsive image styles when updating to Bootstrap 4 breakpoints"
 msgstr ""
+"Corregir la regresión de los estilos de imagen responsive al actualizar a los "
+"puntos de ruptura de Bootstrap 4"
 
 msgid "New Updates in Varbase 8.6.9"
 msgstr "Nuevas actualizaciones en Varbase 8.6.9"
@@ -53621,10 +53632,10 @@ msgid "Add title Length Indicator to the Landing page content type"
 msgstr "Añadir Length Indicator del título al tipo de contenido página de Aterrizaje"
 
 msgid "Add title Length Indicator to the Hero slider content type"
-msgstr ""
+msgstr "Añadir el título Length Indicator al tipo de contenido Hero slider"
 
 msgid "Add title Length Indicator to the Blog post content type"
-msgstr ""
+msgstr "Añadir el título Length Indicator al tipo de contenido Blog post"
 
 msgid "New Updates in Varbase 8.6.7"
 msgstr "Nuevas actualizaciones en Varbase 8.6.7"
@@ -54076,185 +54087,218 @@ msgstr ""
 "servidor SMTP de su elección."
 
 msgid "Installs Swift Mailer as a mail system."
-msgstr ""
+msgstr "Instala Swift Mailer como sistema de correo."
 
 msgid "Please uninstall this module."
-msgstr ""
+msgstr "Por favor, desinstale este módulo."
 
 msgid "Provides a configuration data and structure inspector tool."
 msgstr ""
+"Proporciona una herramienta de inspección de datos y estructuras de configuración."
 
 msgid "Generate dummy users, nodes, menus, taxonomy terms..."
-msgstr ""
+msgstr "Generar usuarios ficticios, nodos, menús, términos de taxonomía..."
 
 msgid ""
 "Enable this module to activate development mode on your Drupal site. Eg. Twig "
 "debugging, no cache, verbose error logging, etc."
 msgstr ""
+"Habilite este módulo para activar el modo de desarrollo en su sitio Drupal. Por "
+"ejemplo, depuración de Twig, sin caché, registro de errores verboso, etc."
 
 msgid "Enables administrators to package configuration into modules."
-msgstr ""
+msgstr "Permite a los administradores empaquetar la configuración en módulos."
 
 msgid "Provides the user interface for Features."
-msgstr ""
+msgstr "Proporciona la interfaz de usuario para Features."
 
 msgid "Helps building and editing tours."
-msgstr ""
+msgstr "Ayuda a construir y editar recorridos."
 
 msgid "Provides a UI to manage guided tours."
-msgstr ""
+msgstr "Proporciona una interfaz de usuario para gestionar las visitas guiadas."
 
 msgid "Drupal Web Profiler."
-msgstr ""
+msgstr "Drupal Web Profiler."
 
 msgid "This module is going to generate layouts with Bootstrap grid system."
-msgstr ""
+msgstr "Este módulo va a generar diseños con el sistema de cuadrícula de Bootstrap."
 
 msgid "Provides a way to place blocks on a custom page."
-msgstr ""
+msgstr "Proporciona una forma de colocar bloques en una página personalizada."
 
 msgid "Provides a simple UI for Page Manager."
-msgstr ""
+msgstr "Proporciona una interfaz de usuario sencilla para Page Manager."
 
 msgid ""
 "This module has a set of template view modes that we typically use (some of them) "
 "in each website."
 msgstr ""
+"Este módulo tiene un conjunto de modos de vista de plantillas que solemos utilizar "
+"(algunos de ellos) en cada sitio web."
 
 msgid "Demonstrates how to use the Charts module without Views."
-msgstr ""
+msgstr "Demuestra cómo utilizar el módulo Charts sin Vistas."
 
 msgid "Defines an example action with all possible options."
-msgstr ""
+msgstr "Define una acción de ejemplo con todas las opciones posibles."
 
 msgid "Allows users to collect entities in arbitrarily ordered lists."
 msgstr ""
+"Permite a los usuarios recopilar entidades en listas ordenadas arbitrariamente."
 
 msgid ""
 "A handy module to populate a form element in the sidebar of node's add and edit "
 "pages to allow editors to add content to entityqueues directly from add/edit forms."
 msgstr ""
+"Un módulo práctico para rellenar un elemento de formulario en la barra lateral de "
+"las páginas de adición y edición de nodos para permitir a los editores añadir "
+"contenido a las colas de entidades directamente desde los formularios de adición/"
+"edición."
 
 msgid "Provides automated subqueues for each entity of a given entity type."
 msgstr ""
+"Proporciona subcolas automatizadas para cada entidad de un tipo de entidad "
+"determinado."
 
 msgid ""
 "Logs general CUD events performed by the user (using the forms) on the website."
 msgstr ""
+"Registra los eventos CUD generales realizados por el usuario (utilizando los "
+"formularios) en el sitio web."
 
 msgid "Logs file CUD events performed by the user."
-msgstr ""
+msgstr "Registra los eventos CUD del archivo realizados por el usuario."
 
 msgid "Logs node CUD events performed by the user."
-msgstr ""
+msgstr "Registra los eventos CUD del nodo realizados por el usuario."
 
 msgid "Logs menu CUD events performed by the user."
-msgstr ""
+msgstr "Registra los eventos CUD del menú realizados por el usuario."
 
 msgid "Logs taxonomy vocabulary and term CUD events performed by the user."
 msgstr ""
+"Registra los eventos del vocabulario de taxonomía y del término CUD realizados por "
+"el usuario."
 
 msgid "Logs user CUD events performed by the user."
-msgstr ""
+msgstr "Registra los eventos CUD realizados por el usuario."
 
 msgid "Logs user authentication (login logout and request password)."
 msgstr ""
+"Registra la autenticación del usuario (inicio de sesión y solicitud de contraseña)."
 
 msgid "Logs workflows events performed by the user."
-msgstr ""
+msgstr "Registra los eventos de los flujos de trabajo realizados por el usuario."
 
 msgid ""
 "Allows your site to be tracked by Google Analytics by adding a Javascript tracking "
 "code to every page."
 msgstr ""
+"Permite que su sitio sea rastreado por Google Analytics añadiendo un código de "
+"seguimiento Javascript a cada página."
 
 msgid "Display statistics from Google Analytics using Views."
-msgstr ""
+msgstr "Visualizar las estadísticas de Google Analytics mediante Vistas."
 
 msgid ""
 "API to access statistics from the <a href=\"https://developers.google.com/analytics/"
 "devguides/reporting/core/v3/\">Google Analytics Core Reporting API</a>."
 msgstr ""
+"API para acceder a las estadísticas de <a href=\"https://developers.google.com/"
+"analytics/devguides/reporting/core/v3/\">Google Analytics Core Reporting API</a>."
 
 msgid "Allows your website analytics to be managed using Google Tag Manager."
-msgstr ""
+msgstr "Permite gestionar la analítica de su sitio web mediante Google Tag Manager."
 
 msgid "Provides an example implementation of the Checklist API."
-msgstr ""
+msgstr "Proporciona un ejemplo de implementación de Checklist API."
 
 msgid "Provides fields for storing measurements and their units."
-msgstr ""
+msgstr "Proporciona campos para almacenar medidas y sus unidades."
 
 msgid "Provides a file metadata plugin for EXIF image information."
 msgstr ""
+"Proporciona un plugin de metadatos de archivo para la información de la imagen EXIF."
 
 msgid "Provides a file metadata plugin for TTF/OTF/WOFF font information."
 msgstr ""
+"Proporciona un plugin de metadatos de archivo para la información de fuentes TTF/"
+"OTF/WOFF."
 
 msgid "Provides a service to manage file metadata."
-msgstr ""
+msgstr "Proporciona un servicio para gestionar los metadatos de los archivos."
 
 msgid ""
 "Resizes images based on width and height attributes and optionally link to the "
 "original image."
 msgstr ""
+"Redimensiona las imágenes en función de los atributos de anchura y altura y, "
+"opcionalmente, enlaza con la imagen original."
 
 msgid "Charts module integration with Billboard.js Charts."
-msgstr ""
+msgstr "Integración del módulo Charts con Billboard.js Charts."
 
 msgid "Charts module integration with C3 Charts."
-msgstr ""
+msgstr "Integración del módulo Charts con C3 Charts."
 
 msgid "Charts module integration with Chart.js."
-msgstr ""
+msgstr "Integración del módulo Charts con Charts.js."
 
 msgid ""
 "A charting API for Drupal that provides chart elements and integration with Views."
 msgstr ""
+"Una API de gráficos para Drupal que proporciona elementos de gráficos e integración "
+"con Vistas."
 
 msgid "Create Charts blocks without the need for Views."
-msgstr ""
+msgstr "Cree bloques de Charts sin necesidad de Vistas."
 
 msgid "Charts module integration with Google Charts."
-msgstr ""
+msgstr "Integración del módulo Charts con Google Charts."
 
 msgid "Charts module integration with Highcharts library."
-msgstr ""
+msgstr "Integración del módulo Charts con la librería Highcharts."
 
+#, fuzzy
 msgid ""
 "Define pipelines for image optimization and provide integration with core image "
 "styles."
 msgstr ""
+"Definir los conductos para la optimización de imágenes y proporcionar la "
+"integración con los estilos de imagen principales."
 
 msgid "Make the login screens better :)"
-msgstr ""
+msgstr "Mejora las pantallas de acceso :)"
 
 msgid "Modify behavior and appearance of external links."
-msgstr ""
+msgstr "Modificar el comportamiento y la apariencia de los links externos."
 
 msgid "Provides a component that previews a page in various device dimensions."
 msgstr ""
+"Proporciona un componente que previsualiza una página en varias dimensiones de "
+"dispositivo."
 
 msgid "Provides jQuery UI library."
-msgstr ""
+msgstr "Proporciona la librería jQuery UI."
 
 msgid "Provides jQuery UI Draggable library."
-msgstr ""
+msgstr "Proporciona la librería jQuery UI Draggable."
 
 msgid "Provides jQuery UI Droppable library."
-msgstr ""
+msgstr "Proporciona la librer jQuery UI Droppable."
 
 msgid "Provides an API for integrating the jQuery Masonry plugin with Drupal."
-msgstr ""
+msgstr "Proporciona una API para integrar el plugin jQuery Masonry con Drupal."
 
 msgid "Embed a taxonomy tree into a menu"
-msgstr ""
+msgstr "Incorporar un árbol de taxonomía en un menú"
 
 msgid "Provides the ability to migrate field groups from D6/D7 to D8."
-msgstr ""
+msgstr "Ofrece la posibilidad de migrar grupos de campos de D6/D7 a D8."
 
 msgid "@module_name (<span class=\"admin-missing\">missing</span>)"
-msgstr ""
+msgstr "@module_name (<span class=\"admin-missing\">missing</span>)"
 
 msgid "Allows users to translate configuration text."
 msgstr "Permite a los usuarios traducir textos de configuración."
