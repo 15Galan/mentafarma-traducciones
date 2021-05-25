@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-24 13:43+0200\n"
+"PO-Revision-Date: 2021-05-25 11:16+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -757,9 +757,6 @@ msgstr "Región"
 msgid "Anchor"
 msgstr "Anclaje"
 
-msgid "Display"
-msgstr "Presentación"
-
 msgid "Node type"
 msgstr "Tipo de nodo"
 
@@ -906,9 +903,6 @@ msgstr "Archivos"
 
 msgid "User ID"
 msgstr "ID de Usuario"
-
-msgid "Error"
-msgstr "Error"
 
 msgid "Options"
 msgstr "Opciones"
@@ -3672,9 +3666,6 @@ msgstr "Excepciones"
 
 msgid "The parent comment"
 msgstr "El comentario padre"
-
-msgid "1 minute"
-msgstr "1 minuto"
 
 msgid "Permission"
 msgstr "Permiso"
@@ -50454,9 +50445,6 @@ msgstr "Divisa del pedido"
 msgid "Shipment weight"
 msgstr ""
 
-msgid "Total discounted product quantity"
-msgstr "Cantidad total descontada del producto"
-
 msgid "Error"
 msgid_plural "Errores"
 msgstr[0] ""
@@ -77044,9 +77032,6 @@ msgid "advagg_js_minify"
 msgstr ""
 
 msgid "redirect"
-msgstr ""
-
-msgid "Creates a fancy javascript based popup login window"
 msgstr ""
 
 msgid "<em class=\"placeholder\">SEO checklist</em> found 1 unchecked item that was already completed and checked it for you. Save the form to record the change."
