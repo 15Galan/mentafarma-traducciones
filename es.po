@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-26 10:54+0200\n"
+"PO-Revision-Date: 2021-05-26 13:44+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -84560,22 +84560,22 @@ msgid "Provides an \"add to cart\" confirmation screen."
 msgstr ""
 
 msgid "Add to cart confirmation"
-msgstr ""
+msgstr "Confirmación de adición a la cesta"
 
 msgid "Commerce add to cart confirmation"
-msgstr ""
+msgstr "Confirmación de la cesta de la compra"
 
 msgid "Item successfully added to your cart"
 msgstr "Item successfully added to your cart"
 
 msgid "Go to cart"
-msgstr ""
+msgstr "Ir a al carrito"
 
 msgid "Style guide"
-msgstr ""
+msgstr "Guía de estilo"
 
 msgid "Forms, button - disabled"
-msgstr ""
+msgstr "Formularios, botón - desactivado"
 
 msgid "ID: %property"
 msgstr ""
@@ -84705,44 +84705,44 @@ msgid "Description: %property"
 msgstr ""
 
 msgid "The hero is a large block that typically appears at the top of the page and contains a large full-bleed image and a title. Typically found on homepages and marketing pages."
-msgstr ""
+msgstr "El héroe es un gran bloque que suele aparecer en la parte superior de la página y contiene una gran imagen a todo color y un título. Suele aparecer en las páginas de inicio y de marketing."
 
 msgid "It contains a media element — typically an image — on the left with a headline and text on the right. It is a versatile pattern that contain content such as blog posts, user information, and other content types."
-msgstr ""
+msgstr "Contiene un elemento multimedia -típicamente una imagen- a la izquierda con un titular y texto a la derecha. Es un patrón versátil que contiene contenidos como entradas de blog, información del usuario y otros tipos de contenido."
 
 msgid "It contains a headline and text underneath it. It is a versatile pattern that contain content such as blog posts, news, and other content types."
-msgstr ""
+msgstr "Contiene un titular y un texto debajo de él. Es un patrón versátil que contiene contenido como entradas de blog, noticias y otros tipos de contenido."
 
 msgid "Node entity autocomplete"
-msgstr ""
+msgstr "Autocompletar entidad de nodo"
 
 msgid "Button - disabled"
-msgstr ""
+msgstr "Botón - desactivado"
 
 msgid "Clone Vista\r\n"
 "en contexto: Tipo de entidad Vista"
-msgstr ""
+msgstr "Clonar vista"
 
 msgid "This will be able to extract the URL from an image field if the field is configured properly."
-msgstr ""
+msgstr "Esto podrá extraer la URL de un campo de imagen si el campo está configurado correctamente."
 
 msgid "Publication date."
-msgstr ""
+msgstr "Fecha de publicación."
 
 msgid "To create a list, provide a token for a multiple value field, or a comma-separated list of values."
-msgstr ""
+msgstr "Para crear una lista, proporcione un token para un campo de valor múltiple, o una lista de valores separada por comas."
 
 msgid "OR Provide the machine name of the view, and the machine name of the display, separated by a colon, i.e. 'view_name:display_id'. This will create a <a href=':url'>Summary View</a> list, which assumes each list item contains the url to a view page for the entity. The view rows should contain content (like teaser views) rather than fields for this to work correctly."
 msgstr ""
 
 msgid "The end of the availability of the product or service included in the offer."
-msgstr ""
+msgstr "El fin de la disponibilidad del producto o servicio incluido en la oferta."
 
 msgid "Date after which the item is no longer available."
-msgstr ""
+msgstr "Fecha a partir de la cual el artículo deja de estar disponible."
 
 msgid "The date after which the price will no longer be available."
-msgstr ""
+msgstr "La fecha a partir de la cual el precio dejará de estar disponible."
 
 msgid "representativeOfPage"
 msgstr ""
@@ -84751,232 +84751,233 @@ msgid "True or False, whether this element is accessible for free."
 msgstr ""
 
 msgid "List of class names of the parts of the web page that are not free, i.e. '.first-class', '.second-class'. Do NOT surround class names with quotation marks!"
-msgstr ""
+msgstr "Lista de nombres de clase de las partes de la página web que no son libres, es decir, '.first-class', '.second-class'. ¡NO rodee los nombres de las clases con comillas!"
 
 msgid "The name of the work."
-msgstr ""
+msgstr "El nombre de la obra."
 
 msgid "Absolute URL of the canonical Web page for the work."
-msgstr ""
+msgstr "URL absoluta de la página web canónica de la obra."
 
 msgid "Urls and social media links, comma-separated list of absolute URLs."
-msgstr ""
+msgstr "Urls y enlaces de redes sociales, lista separada por comas de URLs absolutas."
 
 msgid "The logo of the organization. For AMP pages, Google requires a image no larger than 600 x 60."
-msgstr ""
+msgstr "El logotipo de la organización. Para las páginas AMP, Google requiere una imagen que no supere los 600 x 60."
 
 msgid "Separate xpaths by comma, as in: :example"
-msgstr ""
+msgstr "Separe los xpaths con una coma, como en: :ejemplo"
 
 msgid "Separate selectors by comma, as in: :example"
-msgstr ""
+msgstr "Separe los selectores con una coma, como en: :ejemplo"
 
 msgid "The number of ratings included."
-msgstr ""
+msgstr "El número de valoraciones incluye."
 
 msgid "The author of this review."
-msgstr ""
+msgstr "El autor de esta revisión."
 
 msgid "The rating of this review."
-msgstr ""
+msgstr "La calificación de esta revisión."
 
 msgid "target"
-msgstr ""
+msgstr "objetivo"
 
 msgid "Indicates a target EntryPoint for an Action."
-msgstr ""
+msgstr "Indica un punto de entrada de destino para una acción."
 
 msgid "Globally unique @id of the thing, usually a url, used to to link other properties to this object."
-msgstr ""
+msgstr "@id globalmente único del objeto, normalmente una url, utilizado para vincular otras propiedades a este objeto."
 
 msgid "Name of the thing."
-msgstr ""
+msgstr "El nombre de la cosa."
 
 msgid "Absolute URL of the canonical Web page for the thing."
-msgstr ""
+msgstr "URL absoluta de la página web canónica de la cosa."
 
 msgid "result"
-msgstr ""
+msgstr "resultado"
 
 msgid "The result produced in the action. e.g. John wrote a book."
-msgstr ""
+msgstr "El resultado producido en la acción. Por ejemplo, Juan escribió un libro."
 
 msgid "itemCondition"
 msgstr ""
 
 msgid "The region where the offer is valid."
-msgstr ""
+msgstr "La región donde la oferta es válida."
 
 msgid "The region where the offer is not valid."
-msgstr ""
+msgstr "La región donde la oferta no es válida."
 
 msgid "expectsAcceptanceOf"
 msgstr ""
 
 msgid "An Offer which must be accepted before the user can perform the Action. For example, the user may need to buy a movie before being able to watch it."
-msgstr ""
+msgstr "Una oferta que debe ser aceptada antes de que el usuario pueda realizar la acción. Por ejemplo, el usuario puede necesitar comprar una película antes de poder verla."
 
 msgid "query"
-msgstr ""
+msgstr "consulta"
 
 msgid "The query used on this action, i.e. https://query.example.com/search?q={search_term_string}."
-msgstr ""
+msgstr "La consulta utilizada en esta acción, es decir, https://query.example.com/search?q={search_term_string}."
 
+#, fuzzy
 msgid "query-input"
-msgstr ""
+msgstr "consulta-entrada"
 
 msgid "The placeholder for the query, i.e. required name=search_term_string."
-msgstr ""
+msgstr "El marcador de posición para la consulta, es decir, obligatorio name=search_term_string."
 
 msgid "Hierarchical Term Formatter"
-msgstr ""
+msgstr "Formateador de términos jerárquicos"
 
 msgid "Order other total count"
-msgstr ""
+msgstr "Ordenar otro recuento total"
 
 msgid "Order total for views with order item id argument"
-msgstr ""
+msgstr "Total del pedido para las vistas con el argumento del ID del artículo del pedido"
 
 msgid "Displays the order other total field, requires an Order ID argument."
-msgstr ""
+msgstr "Muestra el campo de otro total de la orden, requiere un argumento de ID de la orden."
 
 msgid "Displays the order other total field, requires an Order Item ID argument."
-msgstr ""
+msgstr "Muestra el campo de otro total de la orden, requiere un argumento de ID de artículo de la orden."
 
 msgid "Combines multiple carts so that users only ever have one."
-msgstr ""
+msgstr "Combina varios carros para que los usuarios sólo tengan uno."
 
 msgid "Filter by the depth value."
-msgstr ""
+msgstr "Filtrar por el valor de la profundidad."
 
 msgid "Administer Mail Login"
-msgstr ""
+msgstr "Administrar el acceso al correo"
 
 msgid "No items"
-msgstr ""
+msgstr "No hay artículos"
 
 msgid "Product has taxonomy term ID (with depth)"
-msgstr ""
+msgstr "El producto tiene un ID de término de taxonomía (con profundidad)"
 
 msgid "Display products if it has the selected taxonomy terms, or children of the selected terms."
-msgstr ""
+msgstr "Muestra los productos si tiene los términos de taxonomía seleccionados, o los hijos de los términos seleccionados."
 
 msgid "Reference field"
-msgstr ""
+msgstr "Campo de referencia"
 
 msgid "The field name (machine name) in the product type, which is referencing to a taxonomy. For example field_product_category."
-msgstr ""
+msgstr "El nombre del campo (nombre de la máquina) en el tipo de producto, que hace referencia a una taxonomía. Por ejemplo, field_product_category."
 
 msgid "lazySizes library"
 msgstr ""
 
 msgid "Provides taxonomy filter with depth for Drupal Commerce product entity."
-msgstr ""
+msgstr "Proporciona un filtro de taxonomía con profundidad para la entidad de producto de Drupal Commerce."
 
 msgid "The lazySizes library needs to be <a href=\":url\">downloaded</a> and extracted into the <kbd>@path</kbd> folder in your Drupal installation directory. The name of the extracted folder has to be <em>lazysizes</em>. If you <a href=\":packagist\">manage assets via Composer</a>, you can use <kbd>composer require bower-asset/lazysizes</kbd> to download the library."
 msgstr ""
 
 msgid "Configure the Token arguement. Use tokens to avoid redundant data. For example, a 'keyword' value of \"example\" will be shown on all content using this configuration, whereas using the [node:title] automatically inserts the \"keywords\" values from the current entity (node, term, etc)."
-msgstr ""
+msgstr "Configurar el argumento de las fichas. Utilice tokens para evitar datos redundantes. Por ejemplo, un valor de \"palabra clave\" de \"ejemplo\" se mostrará en todo el contenido que utilice esta configuración, mientras que al utilizar el [nodo:título] se insertan automáticamente los valores de \"palabras clave\" de la entidad actual (nodo, término, etc.)."
 
 msgid "Browse available tokens"
-msgstr ""
+msgstr "Examinar los tokens disponibles"
 
 msgid "Get fields raw values"
-msgstr ""
+msgstr "Obtener los valores brutos de los campos"
 
 msgid "Get raw values of fields (only fields are supported).<br/>For example, get ID instead of title for entity reference fields."
 msgstr ""
 
 msgid "Multiple values handling condition"
-msgstr ""
+msgstr "Condición de manejo de valores múltiples"
 
 msgid "You should authorize multiple values at the bottom of this form."
-msgstr ""
+msgstr "Debe autorizar varios valores en la parte inferior de este formulario."
 
 msgid "Show debug"
-msgstr ""
+msgstr "Mostrar depuración"
 
 msgid "Show as a message the argument value for debugging purposes."
-msgstr ""
+msgstr "Mostrar como mensaje el valor del argumento para fines de depuración."
 
 msgid "Values from a specific color field item."
-msgstr ""
+msgstr "Valores de un elemento de campo de color específico."
 
 msgid "Hex style color values."
-msgstr ""
+msgstr "Valores de color de estilo hexadecimal."
 
 msgid "With Opacity"
-msgstr ""
+msgstr "Con opacidad"
 
 msgid "HEX style color with opacity"
-msgstr ""
+msgstr "Estilo de color HEX con opacidad"
 
 msgid "RGB style color values."
-msgstr ""
+msgstr "Valores de color estilo RGB."
 
 msgid "RGB Color value for blue only expressed as an int."
-msgstr ""
+msgstr "RGB Valor de color sólo para el azul expresado como entero."
 
 msgid "RGB Color value for opacity only expressed as a float."
-msgstr ""
+msgstr "Valor de color RGB para la opacidad sólo expresado como un flotante."
 
 msgid "Color value expressed as rgba(xx,xx,xx,x.x)."
-msgstr ""
+msgstr "Valor del color expresado como rgba(xx,xx,xx,x.x)."
 
 msgid "RGB Color value for red only expressed as an int."
-msgstr ""
+msgstr "RGB Valor de color sólo para el rojo expresado como entero."
 
 msgid "RGB Color value for green only expressed as an int."
-msgstr ""
+msgstr "Valor RGB de color sólo para el verde expresado como entero."
 
 msgid "HEX values from a specific color field item"
-msgstr ""
+msgstr "Valores HEX de un elemento de campo de color específico"
 
 msgid "Tokens related to Metatags."
-msgstr ""
+msgstr "Tokens relacionadas con Metatags."
 
 msgid "Settings data for advanced use"
-msgstr ""
+msgstr "Datos de configuración para uso avanzado"
 
 msgid "The referenced display Id"
-msgstr ""
+msgstr "La pantalla de referencia Id"
 
 msgid "RGB Values from a specific color field item."
-msgstr ""
+msgstr "Valores RGB de un elemento de campo de color específico."
 
 msgid "Cookie variable from cookie"
-msgstr ""
+msgstr "Variable de la cookie desde la cookie"
 
 msgid "Session variable from session"
-msgstr ""
+msgstr "Variable de sesión de la sesión"
 
 msgid "Cookie variable key"
-msgstr ""
+msgstr "Clave variable de la cookie"
 
 msgid "Key of Cookie variable, e.g. for $_COOKIE[\"key\"], the key would be \"key\"."
-msgstr ""
+msgstr "Clave de la variable Cookie, por ejemplo, para $_COOKIE[\"key\"], la clave sería \"key\"."
 
 msgid "If cookie variable is not set, what should be the fallback value."
-msgstr ""
+msgstr "Si la variable de la cookie no está establecida, cuál debería ser el valor de reserva."
 
 msgid "You may use user tokens."
-msgstr ""
+msgstr "Puede utilizar tokens de usuario."
 
 msgid "Session variable key"
-msgstr ""
+msgstr "Clave de la variable de sesión"
 
 msgid "Keys of SESSION variable seperated by ::, e.g. for $_SESSION[\"key1\"][\"key2\"], the key would be \"key1::key2\"."
-msgstr ""
+msgstr "Claves de la variable SESSION separadas por:  p.e. para $_SESSION[\"key1\"][\"key2\"], la clave seria \"key1::key2\"."
 
 msgid "If session variable is not set, what should be the fallback value."
-msgstr ""
+msgstr "Si la variable de sesión no está establecida, cuál debería ser el valor de reserva."
 
 msgid "Cache Maximum Age."
-msgstr ""
+msgstr "Edad máxima de caché."
 
 msgid "If session variable changes in between session set it to 0."
-msgstr ""
+msgstr "Si la variable de sesión cambia entre una sesión y otra, póngala a 0."
 
 msgid "Move the @block_label block"
 msgstr "Mueve el bloque @block_label"
