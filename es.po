@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-26 10:06+0200\n"
+"PO-Revision-Date: 2021-05-26 10:54+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -6756,7 +6756,7 @@ msgid "PHP Mbstring Extension"
 msgstr "Extensión Mbstring de PHP"
 
 msgid "Unicode library"
-msgstr "Biblioteca Unicode"
+msgstr "Librería Unicode"
 
 msgid "Could not convert XML encoding %s to UTF-8."
 msgstr "No se pudo convertir la codificación de XML %s a UTF-8."
@@ -10577,7 +10577,7 @@ msgid "Editing"
 msgstr "Editando"
 
 msgid "GD library PNG support"
-msgstr "Funcionalidad PNG de la biblioteca GD"
+msgstr "Funcionalidad PNG de la librería GD"
 
 msgid "The date the comment was most recently updated."
 msgstr "La fecha en la que se actualizó por última vez el comentario."
@@ -21069,7 +21069,7 @@ msgid "Formats an aggregator item or feed title with an optional link."
 msgstr "Formatea un agregador de elemento o título del canal de noticias con un enlace opcional."
 
 msgid "Empty block library behavior"
-msgstr "Comportamiento de biblioteca de bloque vacío"
+msgstr "Comportamiento de librería de bloque vacío"
 
 msgid "Provides a link to add a new block."
 msgstr "Provee un enlace para añadir un nuevo bloque."
@@ -21351,7 +21351,7 @@ msgid "Tests install profiles in the config importer."
 msgstr "Probar perfiles de instalación en el importador de configuración."
 
 msgid "Media library"
-msgstr "Biblioteca de medios"
+msgstr "Librería de Media"
 
 msgid "Plural variants"
 msgstr "Variantes plurales"
@@ -24196,10 +24196,10 @@ msgid "There is not enough memory available to PHP to change this theme's color 
 msgstr "PHP no tiene suficiente memoria disponible para cambiar el esquema de color de este tema. Necesita al menos %size más. Comprueba la <a href=\"http://php.net/manual/ini.core.php#ini.sect.resource-limits\">documentación de PHP</a> para más información."
 
 msgid "The GD library for PHP is enabled, but was compiled without PNG support. Check the <a href=\"http://php.net/manual/ref.image.php\">PHP image documentation</a> for information on how to correct this."
-msgstr "La biblioteca GD de PHP está activada pero se ha compilado sin tener en cuenta PNG. Revise el enlace <a href=\"http://php.net/manual/ref.image.php\">Documentación de imagen PHP</a> para más información para corregirlo."
+msgstr "La librería GD de PHP está activada pero se ha compilado sin tener en cuenta PNG. Revise el enlace <a href=\"http://php.net/manual/ref.image.php\">Documentación de imagen PHP</a> para más información para corregirlo."
 
 msgid "The GD library for PHP is missing or outdated. Check the <a href=\"http://php.net/manual/book.image.php\">PHP image documentation</a> for information on how to correct this."
-msgstr "La biblioteca GD de PHP no se encuentra o está desactualizada. Revisa el enlace  <a href=\"http://php.net/manual/book.image.php\">PHP image documentation</a> para más información sobre como corrregir esto."
+msgstr "La librería GD de PHP no se encuentra o está desactualizada. Revisa el enlace  <a href=\"http://php.net/manual/book.image.php\">PHP image documentation</a> para más información sobre como corrregir esto."
 
 msgid "Completed step @current of @total."
 msgstr "Completado el paso @current de @total."
@@ -24343,7 +24343,7 @@ msgid "The following modules are experimental: @modules"
 msgstr "Los siguientes módulos son experimentales: @modules"
 
 msgid "The GD Library for PHP is enabled, but was compiled without support for functions used by the rotate and desaturate effects. It was probably compiled using the official GD libraries from http://www.libgd.org instead of the GD library bundled with PHP. You should recompile PHP --with-gd using the bundled GD library. See <a href=\"http://php.net/manual/book.image.php\">the PHP manual</a>."
-msgstr "La biblioteca GD para PHP está habilitada, pero fue compilada sin soporte para las funciones utilizadas por los efectos de rotación y desaturar. Probablemente fue compilada a partir de las bibliotecas oficiales de GD http://www.libgd.org en lugar de la biblioteca GD incorporada con PHP. Se debería recompilar PHP --con-gd usando la librería GD. Ver <a href=\"http://php.net/manual/book.image.php\"> el manual de PHP </a>."
+msgstr "La librería GD para PHP está habilitada, pero fue compilada sin soporte para las funciones utilizadas por los efectos de rotación y desaturar. Probablemente fue compilada a partir de las librerías oficiales de GD http://www.libgd.org en lugar de la librería GD incorporada con PHP. Se debería recompilar PHP --con-gd usando la librería GD. Ver <a href=\"http://php.net/manual/book.image.php\"> el manual de PHP </a>."
 
 msgid "The vocabulary name."
 msgstr "El nombre del vocabulario."
@@ -24429,7 +24429,7 @@ msgid "Blocks in the block library belong to <a href=\":types\">Custom block typ
 msgstr "Bloques en la librería de bloque pertenecen a <a href=\":types\">Tipos de bloque personalizado</a>, cada uno con sus propios campos y configuración de visualización. Después de crear un bloque, colóquelo en una región desde la página <a href=\":blocks\">Diseño de bloque</a>."
 
 msgid "Each block type has its own fields and display settings. Create blocks of each type on the <a href=\":block-library\">Blocks</a> page in the custom block library."
-msgstr "Cada tipo de bloque tiene sus propios campos y configuración de visualización. Cree bloques de cada tipo, en la biblioteca de <a href=\":block-library\">Bloques</a> personalizados."
+msgstr "Cada tipo de bloque tiene sus propios campos y configuración de visualización. Cree bloques de cada tipo, en la librería de <a href=\":block-library\">Bloques</a> personalizados."
 
 msgid "Describe this comment type. The text will be displayed on the <em>Comment types</em> administration overview page."
 msgstr "Describir este tipo de comentario. El texto se mostrará en la página de general de administración de <em>Tipos de comentario</em>."
@@ -25306,7 +25306,7 @@ msgid "RDF mappings items"
 msgstr "Elementos de mapeo RDF"
 
 msgid "The fallback image style is typically the smallest size image you expect to appear in this space. Because the responsive images module uses the Picturefill library so that responsive images can work in older browsers, the fallback image should only appear on a site if an error occurs."
-msgstr "El estilo de imagen de respaldo suele ser una imagen de tamaño más pequeño de la que espera que aparezca en este espacio. Debido a que el módulo responsive images utiliza la biblioteca Picturefill para que las imágenes de respaldo puedan funcionar en navegadores antiguos, la imagen de respaldo sólo aparecerá en un sitio si se produce un error."
+msgstr "El estilo de imagen de respaldo suele ser una imagen de tamaño más pequeño de la que espera que aparezca en este espacio. Debido a que el módulo responsive images utiliza la librería de Picturefill para que las imágenes de respaldo puedan funcionar en navegadores antiguos, la imagen de respaldo sólo aparecerá en un sitio si se produce un error."
 
 msgid "While you have the option to provide only one image style per breakpoint, the sizes option allows you to provide more options to browsers as to which image file it can display, even when using multiple breakpoints for art direction. Breakpoints are defined in the configuration files of the theme."
 msgstr "Si bien tiene la opción de proporcionar sólo un estilo de imagen por punto de interrupción, la opción de tamaños le permite ofrecer más opciones a los navegadores en cuanto a qué archivo de imagen puede mostrar, incluso cuando se utilizan varios puntos de interrupción para la dirección artística. Los puntos de interrupción se definen en los archivos de configuración del tema."
@@ -25628,7 +25628,7 @@ msgstr[0] "1 bloque esta disponible en la lista modificada."
 msgstr[1] "@count bloques están disponibles en la lista modificada."
 
 msgid "The Custom Block module allows you to create and manage custom <em>block types</em> and <em>content-containing blocks</em> from the <a href=\":block-library\">Custom block library</a> page. Custom block types have fields; see the <a href=\":field-help\">Field module help</a> for more information. Once created, custom blocks can be placed in regions just like blocks provided by other modules; see the <a href=\":blocks\">Block module help</a> page for details. For more information, see the <a href=\":online-help\">online documentation for the Custom Block module</a>."
-msgstr "El módulo Bloque Personalizado permite crear y manejar <em>tipos de bloques</em> personalizados y <em>bloques con contenido</em> de la página <a href=\":block-library\">Biblioteca personalizada de bloques</a>. Ver <a href=\":field-help\">ayuda del campo del módulo</a> para más información. Una vez creado, los bloques personalizados pueden ser colocados en regiones tal como bloques proveídos por otros módulos; ver la página de<a href=\":blocks\">ayuda del bloque del módulo</a> para los detalles. Para más información, ver la <a href=\":online-help\">documentación online para el módulo bloque personalizado</a>."
+msgstr "El módulo Bloque Personalizado permite crear y manejar <em>tipos de bloques</em> personalizados y <em>bloques con contenido</em> de la página <a href=\":block-library\">Librería personalizada de bloques</a>. Ver <a href=\":field-help\">ayuda del campo del módulo</a> para más información. Una vez creado, los bloques personalizados pueden ser colocados en regiones tal como bloques proveídos por otros módulos; ver la página de<a href=\":blocks\">ayuda del bloque del módulo</a> para los detalles. Para más información, ver la <a href=\":online-help\">documentación online para el módulo bloque personalizado</a>."
 
 msgctxt "Validation"
 msgid "Book outline."
@@ -25755,13 +25755,13 @@ msgid "Creating media items"
 msgstr "Creando elementos multimedia"
 
 msgid "When a new media item is created, the Media module records basic information about it, including the author, date of creation, and the <a href=\":media-type\">media type</a>. It also manages the <em>publishing options</em>, which define whether or not the item is published. Default settings can be configured for each type of media on your site."
-msgstr "Cuando se crea un nuevo elemento de mdios, el módulo Media registra información básica, incluyendo el autor, fecha de creación y <a href=\":media-type\">tipo de medio</a>. También gestiona las <em>opciones de publicación</em>, que definen si un objeto está publicado o no. Los ajustes por defecto pueden configurarse para cada tipo de medio en su sitio."
+msgstr "Cuando se crea un nuevo elemento de medios, el módulo Media registra información básica, incluyendo el autor, fecha de creación y <a href=\":media-type\">tipo de medio</a>. También gestiona las <em>opciones de publicación</em>, que definen si un objeto está publicado o no. Los ajustes por defecto pueden configurarse para cada tipo de medio en su sitio."
 
 msgid "Creating custom media types"
 msgstr "Crear tipos multimedia personalizados"
 
 msgid "The Media module gives users with the <em>Administer media types</em> permission the ability to <a href=\":media-new\">create new media types</a> in addition to the default ones already configured. Each media type has an associated media source (such as the image source) which support thumbnail generation and metadata extraction. Fields managed by the <a href=\":field\">Field module</a> may be added for storing that metadata, such as width and height, as well as any other associated values."
-msgstr "El módulo Media otorga a los usuarios con el permiso <em>Administrat tipos de medio</em> la capacidad de <a href=\":media-new\">crear nuevos tipos de medios</a> además de los que vienen configurados por defecto. Cada tipo de medio tiene asociada una fuente (como la fuente de imagen) que soporta la generación de miniaturas y la extracción de metadatos. Los campos gestionados por el  <a href=\":field\">módulo Field</a> pueden incluirse para almacenar los metadatos, por ejemplo anchura y altura, así como cualquier otro valor asociado."
+msgstr "El módulo Media otorga a los usuarios con el permiso <em>Administrar tipos de medio</em> la capacidad de <a href=\":media-new\">crear nuevos tipos de medios</a> además de los que vienen configurados por defecto. Cada tipo de medio tiene asociada una fuente (como la fuente de imagen) que soporta la generación de miniaturas y la extracción de metadatos. Los campos gestionados por el <a href=\":field\">módulo Field</a> pueden incluirse para almacenar los metadatos, por ejemplo anchura y altura, así como cualquier otro valor asociado."
 
 msgid "The Media module also enables you to create multiple versions of any media item, and revert to older versions using the <em>Revision information</em> settings."
 msgstr "El módulo Media también te permite crear múltiples versiones de cualquier elemento multimedia, y volver a versiones anteriores usando la configuración de <em>Información de revisiones.</em>."
@@ -25791,7 +25791,7 @@ msgid "To view a revision, you also need permission to view the media item."
 msgstr "Para ver una revisión, usted también necesita permiso para ver el elemento multimedia."
 
 msgid "Full URI to a folder where the media icons will be installed"
-msgstr "URI completa hacia una carpeta en donde los iconos de media seran instalados"
+msgstr "URI completa hacia una carpeta donde los iconos de media seran instalados"
 
 msgid "Whether the thumbnail downloads should be queued"
 msgstr "Si las descargas de miniaturas deben ponerse en cola"
@@ -29729,7 +29729,7 @@ msgid "Paragraphs"
 msgstr "Parráfos"
 
 msgid "Paragraphs library item"
-msgstr "Elemento de la biblioteca de párrafos"
+msgstr "Elemento de la librería de Paragraphs"
 
 msgid "Paragraph"
 msgstr "Párrafo"
@@ -31286,7 +31286,7 @@ msgid "access"
 msgstr "acceso"
 
 msgid "Libraries"
-msgstr "Bibliotecas"
+msgstr "Librerías"
 
 msgid "View latest"
 msgstr "Ver los últimos"
@@ -32286,7 +32286,7 @@ msgid "The %variant variant of the %library library could not be found."
 msgstr "No se encontró la variante %variant de la librería %library."
 
 msgid "Allows version-dependent and shared usage of external libraries."
-msgstr "Permite el uso compartido y dependientes de la versión de bibliotecas externas."
+msgstr "Permite el uso compartido y dependientes de la versión de librerías externas."
 
 msgid "E-mail"
 msgstr "Correo electrónico"
@@ -34107,22 +34107,22 @@ msgid "The user ID of the library item author."
 msgstr "El ID de usuario del autor del material de la biblioteca."
 
 msgid "Provides a library for reusing paragraphs."
-msgstr "Proporciona una biblioteca para reutilizar Paragraphs."
+msgstr "Proporciona una librería para reutilizar Paragraphs."
 
 msgid "Add library item"
-msgstr "Añadir un elemento de la biblioteca"
+msgstr "Añadir un elemento de la librería"
 
 msgid "Allow to manage the library of re-usable paragraphs."
-msgstr "Permite gestionar la biblioteca de Paragraphs reutilizables."
+msgstr "Permite gestionar la librería de Paragraphs reutilizables."
 
 msgid "Create paragraph library item"
-msgstr "Crear un artículo de la biblioteca de Paragraphs"
+msgstr "Crear un artículo de la librería de Paragraphs"
 
 msgid "Edit paragraph library item"
-msgstr "Editar el artículo de la biblioteca de Paragraphs"
+msgstr "Editar el elemento de la librería de Paragraphs"
 
 msgid "Allow conversion to paragraph library item"
-msgstr "Permitir la conversión a un elemento de la biblioteca de Paragraphs"
+msgstr "Permitir la conversión a un elemento de la librería de Paragraphs"
 
 msgid "Revisions for %label"
 msgstr "Revisiones para %label"
@@ -34158,13 +34158,13 @@ msgid "The paragraph bundle"
 msgstr "La colección de campos de Paragraphs"
 
 msgid "Paragraphs library browser"
-msgstr "Navegador de la biblioteca de Paragraphs"
+msgstr "Navegador de la librería de Paragraphs"
 
 msgid "Paragraphs library"
-msgstr "Biblioteca de Paragraphs"
+msgstr "Librería de Paragraphs"
 
 msgid "No library items available."
-msgstr "No hay artículos de la biblioteca disponibles."
+msgstr "No hay elementos de la librería disponibles."
 
 msgid "Paragraph types that are used in moderated content requires non-translatable fields to be edited in the original language form and this must be checked."
 msgstr "Los tipos de Paragraph que se utilizan en el contenido moderado requieren que los campos no traducibles se editen en el formato del idioma original y esto debe comprobarse."
@@ -41643,7 +41643,7 @@ msgid "Crop types"
 msgstr "Tipos de recortes"
 
 msgid "Media Library settings"
-msgstr "Ajustes de la Biblioteca de Multimedia"
+msgstr "Ajustes de Media Library"
 
 msgid "CKEditor Media Embed"
 msgstr "Editor embebido CKEditor de Multimedia"
@@ -41701,7 +41701,7 @@ msgid "Entity Usage Settings"
 msgstr "Ajustes de Uso de entidad"
 
 msgid "Paragraphs library item settings"
-msgstr "Ajustes de la biblioteca de ítems de Paragraphs"
+msgstr "Ajustes de la librería de elementos de Paragraphs"
 
 msgid "Paragraphs features"
 msgstr "Funcionalidades de Paragraphs"
@@ -41762,7 +41762,7 @@ msgid "See an overview of your site and get access to various useful functions a
 msgstr "Vea una visión general de su sitio y acceda a varias funciones y atajos útiles."
 
 msgid "Manage paragraphs library items."
-msgstr "Gestionar la biblioteca de ítems de paragraphs."
+msgstr "Gestionar la librería de elementos de paragraphs."
 
 msgid "Manage entity queues."
 msgstr "Gestionar colas de entidades."
@@ -41826,7 +41826,7 @@ msgid "Protect individual users and/or roles from editing operations."
 msgstr "Proteger a los usuarios individuales y/o roles de las operaciones de edición."
 
 msgid "Set the default library, behavior, and style of charts."
-msgstr "Establezca la biblioteca, el comportamiento y el estilo de los gráficos por defecto."
+msgstr "Establezca la librería, el comportamiento y el estilo de los gráficos por defecto."
 
 msgid "Configure how entity fields are compared."
 msgstr "Configurar cómo se comparan los campos de la entidad."
@@ -41844,7 +41844,7 @@ msgid "Manage entity browsers."
 msgstr "Gestionar los navegadores de entidades."
 
 msgid "Configure Paragraphs library item."
-msgstr "Configurar la biblioteca de ítems de Paragraphs."
+msgstr "Configurar la librería de elementos de Paragraphs."
 
 msgid "Configure how Pathologic adjusts link and image paths in content."
 msgstr "Configure cómo Pathologic ajusta las rutas de enlaces e imágenes en el contenido."
@@ -41889,7 +41889,7 @@ msgid "Manage Media Library settings."
 msgstr "Gestionar ajustes de Media Library."
 
 msgid "Provide all libraries information availables."
-msgstr "Proporcionar toda la información disponible de las bibliotecas."
+msgstr "Proporcionar toda la información disponible de las librerías."
 
 msgid "Create password policies."
 msgstr "Crear políticas de contraseñas."
@@ -41994,9 +41994,8 @@ msgstr "Traido a ti por"
 msgid "Vardot"
 msgstr "Vardot"
 
-#, fuzzy
 msgid ", Varbase is the ultimate "
-msgstr ", Varbase es el definitivo"
+msgstr ", Varbase es el definitivo "
 
 msgid " starter kit distribution that accelerates building any website for small businesses, global enterprises, and everything in between. Utilizing Varbase, we've built highly customizable full-featured distributions targeted towards the needs of every industry."
 msgstr " distribución de kit de inicio que acelera la construcción de cualquier sitio web para las pequeñas empresas, las empresas globales, y todo lo demás. Utilizando Varbase, hemos construido distribuciones completas altamente personalizables dirigidas a las necesidades de cada industria."
@@ -42773,7 +42772,7 @@ msgid "Media Entity Twitter provider."
 msgstr "Proveedor de Entidad Multimedia de Twitter."
 
 msgid "Connects Drupal to the OpenAPI Javascript Library"
-msgstr "Conecta Drupal con la biblioteca OpenAPI Javascript"
+msgstr "Conecta Drupal con la librería de OpenAPI Javascript"
 
 msgid "Provides plugin system for OpenAPI/Swagger Interface libraries."
 msgstr "Proporciona un sistema de plugins para las librerías de OpenAPI/Swagger Interface."
@@ -42833,7 +42832,7 @@ msgid "Provides a library of layouts for content-editors to select from"
 msgstr "Ofrece una biblioteca de diseños para que los editores de contenidos puedan seleccionarlos"
 
 msgid "This module will display all libraries information in your website"
-msgstr "Este módulo mostrará toda la información de las bibliotecas en su sitio web"
+msgstr "Este módulo mostrará toda la información de las librerías en su sitio web"
 
 msgid "Provides a widget to allow settings of link attributes for menu links."
 msgstr "Proporciona un widget para permitir la configuración de los atributos de los enlaces del menú."
@@ -43378,7 +43377,7 @@ msgid "Provides a form element to collect valid location information (address, l
 msgstr "Proporciona un elemento de formulario para recoger información válida sobre la ubicación (dirección, longitud, latitud, geolocalización) utilizando la geocodificación y el autocompletado de lugares de la API de Google Maps. El programa jQuery: Geocoding and Places Autocomplete Plugin library no se mantiene."
 
 msgid "Provides a webform element for toggling a single on/off state. The Toogles library is not being maintained and has major accessibility issues."
-msgstr "Proporciona un elemento de formulario web para alternar un único estado de encendido/apagado. La biblioteca Toogles no se mantiene y tiene importantes problemas de accesibilidad."
+msgstr "Proporciona un elemento de formulario web para alternar un único estado de encendido/apagado. La librería de Toogles no se mantiene y tiene importantes problemas de accesibilidad."
 
 msgid "Provides a 'Card' container element for fast clientside multistep form pagination."
 msgstr "Proporciona un elemento contenedor 'Card' para la paginación rápida de formularios de varios pasos en el lado del cliente."
@@ -43408,7 +43407,7 @@ msgid "Learn more about the <a href=\":about_href\">Webform module and Drupal</a
 msgstr "Más información sobre el módulo <a href=\":about_href\">Webform y Drupal</a>"
 
 msgid "Please make sure to install additional <a href=\":libraries_href\">third-party libraries</a>, <a href=\":submodules_href\">sub-modules</a> and optional <a href=\":addons_href\">add-ons</a>."
-msgstr "Asegúrese de instalar <a href=\":libraries_href\">bibliotecas de terceros</a>, <a href=\":submódulos_href\">submódulos</a> y <a href=\":addons_href\">add-ons opcionales</a>."
+msgstr "Asegúrese de instalar <a href=\":libraries_href\">librerías de terceros</a>, <a href=\":submódulos_href\">submódulos</a> y <a href=\":addons_href\">add-ons opcionales</a>."
 
 msgid "The <strong>Handlers configuration</strong> page allows administrators to enable/disable handlers and configure default email settings and messages."
 msgstr "La página <strong>Configuración de gestores</strong> permite a los administradores activar/desactivar los gestores y configurar los ajustes y mensajes de correo electrónico por defecto."
@@ -43432,10 +43431,10 @@ msgid "The Webform module utilizes third-party Open Source libraries to enhance 
 msgstr "El módulo Webform utiliza librerías de código abierto de terceros para mejorar los elementos de los formularios web y proporcionar funcionalidades adicionales."
 
 msgid "It is recommended that these libraries are installed in your Drupal installations /libraries or /web/libraries directory."
-msgstr "Se recomienda instalar estas bibliotecas en el directorio /libraries o /web/libraries de su instalación de Drupal."
+msgstr "Se recomienda instalar estas librerías en el directorio /libraries o /web/libraries de su instalación de Drupal."
 
 msgid "If these libraries are not installed, they will be automatically loaded from a CDN."
-msgstr "Si estas bibliotecas no están instaladas, se cargarán automáticamente desde una CDN."
+msgstr "Si estas librerías no están instaladas, se cargarán automáticamente desde una CDN."
 
 msgid "All libraries are optional and can be excluded via the admin settings form."
 msgstr "Todas las bibliotecas son opcionales y pueden ser excluidas a través del formulario de configuración del administrador."
@@ -45354,28 +45353,28 @@ msgid "Provides CAPTCHA for adding challenges to arbitrary forms."
 msgstr "Proporciona CAPTCHA para añadir retos a formularios arbitrarios."
 
 msgid "Ace library"
-msgstr ""
+msgstr "Librería de Ace"
 
 msgid "Webform: SPAM protection"
-msgstr ""
+msgstr "Webform: protección de SPAM"
 
 msgid "Color Field library: jQuery Simple Color"
-msgstr ""
+msgstr "Librería de Color Field: jQuery Simple Color"
 
 msgid "Color Field library: Spectrum"
-msgstr ""
+msgstr "Librería de Color Field: Spectrum"
 
 msgid "Devel module enabled"
-msgstr ""
+msgstr "Módulo Devel habilitado"
 
 msgid "Webform: External libraries"
-msgstr ""
+msgstr "Webform: librerías externas"
 
 msgid "Webform: Private files"
-msgstr ""
+msgstr "Webform: Archivos privados"
 
 msgid "Webform: HTML email support"
-msgstr ""
+msgstr "Webform: soporte de email HTML"
 
 msgid "Username enumeration prevention"
 msgstr ""
@@ -45458,16 +45457,16 @@ msgid "Imported the selected currencies."
 msgstr "Se importaron las divisas seleccionadas."
 
 msgid "Drush bootstrap phase : @function()"
-msgstr ""
+msgstr "Fase de Drush bootstrap: @function()"
 
 msgid "Found command: @command (commandfile=@commandfile)"
-msgstr ""
+msgstr "Comando encontrado: @command (commandfile=@commandfile)"
 
 msgid "Backup your code, files, and database into a single file."
-msgstr ""
+msgstr "Haga una copia de seguridad de su código, archivos y base de datos en un solo archivo."
 
 msgid "Optional. Site specifications, delimited by commas. Typically, list subdirectory name(s) under /sites."
-msgstr ""
+msgstr "Opcional. Especificaciones del sitio, delimitadas por comas. Por lo general, enumera los nombres de los subdirectorios bajo /sites."
 
 msgid "A key in the $skip_tables array. @see example.drushrc.php. Optional."
 msgstr ""
@@ -61433,8 +61432,8 @@ msgstr ""
 
 msgid "<em class=\"placeholder\">SEO checklist</em> found 1 unchecked item that was already completed and checked it for you. Save the form to record the change."
 msgid_plural "<em class=\"placeholder\">SEO checklist</em> found 11 unchecked items that were already completed and checked them for you. Save the form to record the changes."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<em class=\"placeholder\">SEO checklist</em> ha encontrado 1 elemento sin marcar que ya estaba completado y lo ha marcado por usted. Guarde el formulario para registrar el cambio."
+msgstr[1] "<em class=\"placeholder\">SEO checklist</em> ha encontrado 11 elementos sin marcar que ya estaban completadoss y los ha marcado por usted. Guarde el formulario para registrar el cambio."
 
 msgid "Blog about it"
 msgstr ""
@@ -77036,8 +77035,8 @@ msgstr ""
 
 msgid "<em class=\"placeholder\">SEO checklist</em> found 1 unchecked item that was already completed and checked it for you. Save the form to record the change."
 msgid_plural "<em class=\"placeholder\">SEO checklist</em> found 16 unchecked items that were already completed and checked them for you. Save the form to record the changes."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<em class=\"placeholder\">SEO checklist</em> found 1 unchecked item that was already completed and checked it for you. Save the form to record the change."
+msgstr[1] "<em class=\"placeholder\">SEO checklist</em> found 16 unchecked items that were already completed and checked them for you. Save the form to record the changes."
 
 msgid "Clear saved progress"
 msgstr ""
@@ -81592,7 +81591,7 @@ msgid "<em>Books</em> have a built-in hierarchical navigation. Use for handbooks
 msgstr "Los <em>libros</em> tienen una navegación jerárquica. Úselos para manuales o tutoriales."
 
 msgid "Media Library"
-msgstr "Biblioteca de contenidos multimedia"
+msgstr "Media Library"
 
 msgid "Add a new custom block"
 msgstr "Añadir un nuevo bloque personalizado"
