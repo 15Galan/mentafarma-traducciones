@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-25 11:16+0200\n"
+"PO-Revision-Date: 2021-05-26 10:06+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -11400,7 +11400,7 @@ msgid "The class to provide on each row."
 msgstr "La clase a proporcionar en cada fila."
 
 msgid "You may use field tokens from as per the \"Replacement patterns\" used in \"Rewrite the output of this field\" for all fields."
-msgstr "Puedes usar comodines de campo, de acuerdo a los \"Patrones de remplazo\" que se utiliza en \"Reescribir la salida de este campo\" para todos los campos."
+msgstr "Puede usar tokens de campos, de acuerdo a los \"Patrones de remplazo\" que se utiliza en \"Reescribir la salida de este campo\" para todos los campos."
 
 msgid "The class to provide on the wrapper, outside the list."
 msgstr "La clase a proporcionar al contenedor, fuera de la lista."
@@ -12756,7 +12756,7 @@ msgid "Block count"
 msgstr "Número de bloques"
 
 msgid "You may use HTML code in this field. The following tokens are supported:"
-msgstr "Puede usar código HTML en este campo. Se admiten los siguientes comodines:"
+msgstr "Puede usar código HTML en este campo. Se admiten los siguientes tokens:"
 
 msgid "Result summary"
 msgstr "Resumen de resultados"
@@ -12867,7 +12867,7 @@ msgid "Default translation"
 msgstr "Traducción predeterminada"
 
 msgid "This field supports tokens."
-msgstr "Este campo admite comodines."
+msgstr "Este campo admite tokens."
 
 msgid "Twig"
 msgstr "Twig"
@@ -15037,7 +15037,7 @@ msgid "Available global token replacements"
 msgstr "Reemplazos globales de token disponibles"
 
 msgid "Override the title of this view when it is empty. The available global tokens below can be used here."
-msgstr "Sobrescribir el título de esta vista cuando está vacía. Los comodines globales, disponibles a continuación, se pueden utilizar aquí."
+msgstr "Sobrescribir el título de esta vista cuando está vacía. Los tokens globales, disponibles a continuación, se pueden utilizar aquí."
 
 msgid "Administrative comment"
 msgstr "Comentarios administrativos"
@@ -23405,7 +23405,7 @@ msgid "Configure how content is filtered when displayed, including which HTML ta
 msgstr "Configura cómo se filtra el contenido cuando se muestra en pantalla, incluyendo qué etiquetas HTML se utilizan y activan filtros proporcionados por el módulo."
 
 msgid "A list of HTML tags that can be used. By default only the <em>lang</em> and <em>dir</em> attributes are allowed for all HTML tags. Each HTML tag may have attributes which are treated as allowed attribute names for that HTML tag. Each attribute may allow all values, or only allow specific values. Attribute names or values may be written as a prefix and wildcard like <em>jump-*</em>. JavaScript event attributes, JavaScript URLs, and CSS are always stripped."
-msgstr "Una lista de etiquetas HTML que pueden ser usados. De manera predeterminada, los atributos <em>lang</em> y <em>dir</em> están permitidos todas las etiquetas HTML. Cada etiqueta HTML puede tener atributos que han sido tratados como nombre de atributo permitidos para esa etiqueta HTML. Cada atributo puede permitir todos los valores o solo permitir algunos valores específicos. Los nombre de atributos o los valores pueden ser escritos como prefijo y comodin como <em>jump-*</em>. Los atributos de eventos Javascript, URL de Javascript y CSS siempre están restringidos."
+msgstr "Una lista de etiquetas HTML que pueden ser usados. De manera predeterminada, los atributos <em>lang</em> y <em>dir</em> están permitidos todas las etiquetas HTML. Cada etiqueta HTML puede tener atributos que han sido tratados como nombre de atributo permitidos para esa etiqueta HTML. Cada atributo puede permitir todos los valores o solo permitir algunos valores específicos. Los nombres de atributos o los valores pueden ser escritos como prefijo y comodín como <em>jump-*</em>. Los atributos de eventos Javascript, URL de Javascript y CSS siempre están restringidos."
 
 msgid "Configure languages for content, interface, and configuration."
 msgstr "Configurar idiomas para el contenido, interfaz, y configuración."
@@ -27529,7 +27529,7 @@ msgid "Short description of the image used by screen readers and displayed when 
 msgstr "Breve descripción de la imagen utilizada por los lectores de pantalla y se muestra cuando la imagen no es cargada. Se recomienda habilitar este campo."
 
 msgid "No contextual ID tokens specified."
-msgstr "No hay comodines contextuales de ID especificados."
+msgstr "No hay tokens contextuales de ID especificados."
 
 msgid "The {node}.language to which this comment is a reply. Site default language is used as a fallback if node does not have a language."
 msgstr "El idioma de {node} al que responde este comentario. El lenguaje por defecto del sitio se usa por defecto si el nodo no tiene idioma."
@@ -30364,7 +30364,7 @@ msgid "tag"
 msgstr "etiqueta"
 
 msgid "Tokens"
-msgstr "Comodines"
+msgstr "Tokens"
 
 msgid "Extras"
 msgstr "Extras"
@@ -32307,7 +32307,7 @@ msgid "Profile"
 msgstr "Perfil"
 
 msgid "Available tokens"
-msgstr "Comodines disponibles"
+msgstr "Tokens disponibles"
 
 msgid "Open in new window"
 msgstr "Abrir en ventana nueva"
@@ -35552,13 +35552,13 @@ msgid "The name of the menu."
 msgstr "El nombre del menú."
 
 msgid "No tokens available."
-msgstr "No hay comodines disponibles."
+msgstr "No hay tokens disponibles."
 
 msgid "Click a token to insert it into the field you've last clicked."
 msgstr "Haga clic en un token para insertarlo en el último campo que ha seleccionado."
 
 msgid "Provides a user interface for the Token API and some missing core tokens."
-msgstr "Proporciona una interfaz de usuario para el API de comodines, además de algunos comodines que faltan en el núcleo de Drupal."
+msgstr "Proporciona una interfaz de usuario para el API de Token, además de algunos tokens que faltan en el núcleo de Drupal."
 
 msgid "Insert this token into your form"
 msgstr "Inserte este comodín en su formulario"
@@ -35588,7 +35588,7 @@ msgid "The URL of the one-time login page for the user account."
 msgstr "La URL de la página de ingreso de uso único para la cuenta de usuario."
 
 msgid "Tokens related to menu links."
-msgstr "Comodines relacionados con los enlaces de menú."
+msgstr "Tokens relacionados con los enlaces de menú."
 
 msgid "The unique ID of the menu link."
 msgstr "El ID único del enlace de menú."
@@ -35603,7 +35603,7 @@ msgid "The menu link's parent."
 msgstr "El padre del enlace de menú."
 
 msgid "Tokens related to the current page request."
-msgstr "Comodines relacionados con la solicitud de la página actual."
+msgstr "Tokens relacionados con la solicitud de la página actual."
 
 msgid "The book page associated with the node."
 msgstr "La página de libro asociada al nodo."
@@ -35615,7 +35615,7 @@ msgid "The menu link's root."
 msgstr "La raíz del enlace de menú."
 
 msgid "Tokens related to the current date and time."
-msgstr "Comodines relacionados con la fecha y hora actuales."
+msgstr "Tokens relacionados con la fecha y hora actuales."
 
 msgid "The URL of the @entity."
 msgstr "La URL de la @entity."
@@ -35624,7 +35624,7 @@ msgid "The content type of the node."
 msgstr "El tipo de contenido del nodo."
 
 msgid "Tokens related to content types."
-msgstr "Comodines relacionados con los tipos de contenido."
+msgstr "Tokens relacionados con los tipos de contenido."
 
 msgid "The name of the content type."
 msgstr "El nombre del tipo de contenido."
@@ -35654,7 +35654,7 @@ msgid "The specific argument of the current page (e.g. 'arg:1' on the page 'node
 msgstr "El argumento específico de la página actual (Ejemplo: 'arg:1' en la página 'node/1' retorna '1')."
 
 msgid "Tokens related to URLs."
-msgstr "Comodines relacionados con las URL."
+msgstr "Tokens relacionados con las URL."
 
 msgid "The relative URL."
 msgstr "La URL relativa."
@@ -35663,7 +35663,7 @@ msgid "The absolute URL."
 msgstr "La URL absoluta."
 
 msgid "Tokens related to menus."
-msgstr "Comodines relacionados con menús."
+msgstr "Tokens relacionados con menús."
 
 msgid "The unique machine-readable name of the menu."
 msgstr "El único nombre legible por la máquina del menú."
@@ -35690,7 +35690,7 @@ msgid "The URL without the protocol and trailing backslash."
 msgstr "La URL sin el protocolo ni la barra final."
 
 msgid "Tokens related to arrays of strings."
-msgstr "Comodines relacionados con arrays de cadenas."
+msgstr "Tokens relacionados con arrays de cadenas."
 
 msgid "The first element of the array."
 msgstr "El primer elemento de la matriz."
@@ -35735,7 +35735,7 @@ msgid "@type field."
 msgstr "Campo de tipo @type."
 
 msgid "No tokens available"
-msgstr "No hay comodines disponibles"
+msgstr "No hay tokens disponibles"
 
 msgid "Token registry caches cleared."
 msgstr "El registro caché de símbolos se ha borrado."
@@ -35768,7 +35768,7 @@ msgid "Tokens for lists of @type values."
 msgstr "Cadenas de reemplazo para listas de valores de @type."
 
 msgid "Browse available tokens."
-msgstr "Ojear comodines disponibles."
+msgstr "Ver tokens disponibles."
 
 msgid "@type field. Also known as %labels."
 msgstr "@type campo. También conocido como %labels."
@@ -84537,10 +84537,10 @@ msgid "Email or Username"
 msgstr "Email o nombre de usuario"
 
 msgid "Mail Login"
-msgstr "Inicio de sesión de correo"
+msgstr "Mail Login"
 
 msgid "Configure mail login options."
-msgstr "Configure las opciones de inicio de sesión de correo."
+msgstr "Configure las opciones de login con email."
 
 msgid "Context type"
 msgstr "Tipo de contexto"
