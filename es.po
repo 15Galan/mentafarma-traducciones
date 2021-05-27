@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-26 10:54+0200\n"
+"PO-Revision-Date: 2021-05-27 17:44+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -37388,14 +37388,16 @@ msgstr "Eliminar envío"
 msgid "Lock submission"
 msgstr "Bloquear envío"
 
+#, fuzzy
 msgid "Star/Flag submission"
-msgstr ""
+msgstr "Marcar propuesta"
 
 msgid "Unlock submission"
 msgstr "Desbloquear envío"
 
+#, fuzzy
 msgid "Unstar/unflag submission"
-msgstr ""
+msgstr "Desmarcar propuesta"
 
 msgid "This form has not yet been opened to submissions."
 msgstr "Este formulario aún no se ha abierto a los envíos."
@@ -41445,8 +41447,9 @@ msgstr "Navegadores de Entidad Multimedia"
 msgid "Browser view to select media content form the library of images, media, files in the site"
 msgstr "Vista del navegador para seleccionar el contenido multimedia de la biblioteca de imágenes, multimedia, archivos en el sitio"
 
+#, fuzzy
 msgid "Media: Browser Teaser"
-msgstr ""
+msgstr "Media: Browser Teaser"
 
 msgid "There are no media items to display. Add new media content"
 msgstr "No hay elementos multimedia para mostrar. Añada nuevo contenido multimedia"
@@ -45377,31 +45380,31 @@ msgid "Webform: HTML email support"
 msgstr "Webform: soporte de email HTML"
 
 msgid "Username enumeration prevention"
-msgstr ""
+msgstr "Prevención de la enumeración de nombres de usuarios"
 
 msgid "Google Analytics module"
-msgstr ""
+msgstr "Módulo de Google Analytics"
 
 msgid "Drupal core security coverage"
 msgstr "Cobertura de seguridad del núcleo de Drupal"
 
 msgid "Google Analytics Reports API authorization"
-msgstr ""
+msgstr "Autorización de la API de Google Analytics Reports"
 
 msgid "Session cookie lifetime"
-msgstr ""
+msgstr "Tiempo de vida de la sesión de la cookie"
 
 msgid "PHP APCu caching"
 msgstr "Almacenamiento en caché PHP APCu"
 
 msgid "Blazy library"
-msgstr ""
+msgstr "Librería de Blazy"
 
 msgid "Slick library"
-msgstr ""
+msgstr "Librería de Slick"
 
 msgid "Experimental themes enabled"
-msgstr ""
+msgstr "Temas experimentales habilitados"
 
 msgid "Add store"
 msgstr "Añadir tienda"
@@ -45469,421 +45472,423 @@ msgid "Optional. Site specifications, delimited by commas. Typically, list subdi
 msgstr "Opcional. Especificaciones del sitio, delimitadas por comas. Por lo general, enumera los nombres de los subdirectorios bajo /sites."
 
 msgid "A key in the $skip_tables array. @see example.drushrc.php. Optional."
-msgstr ""
+msgstr "Una clave en el array $skip_tables. @see example.drushrc.php. Opcional."
 
 msgid "A key in the $structure_tables array. @see example.drushrc.php. Optional."
-msgstr ""
+msgstr "Una clave en el array $structure_tables. @see example.drushrc.php. Opcional."
 
 msgid "A key in the $tables array. Optional."
-msgstr ""
+msgstr "Una clace en el array $skip_tables. @see example.drushrc.php. Opcional."
 
 msgid "A comma-separated list of tables to exclude completely. Optional."
-msgstr ""
+msgstr "Una lista separada por comas de las tablas a excluir completamente. Opcional."
 
 msgid "A comma-separated list of tables to include for structure, but not data. Optional."
-msgstr ""
+msgstr "Una lista separada por comas de las tablas a incluir para la estructura, pero no para los datos. Opcional."
 
 msgid "A comma-separated list of tables to transfer. Optional."
-msgstr ""
+msgstr "Una lista separada por comas de las tablas a transferir. Opcional."
 
 msgid "Describe the archive contents."
-msgstr ""
+msgstr "Describe el contenido del archivo."
 
 msgid "Add tags to the archive manifest. Delimit multiple by commas."
-msgstr ""
+msgstr "Añadir etiquetas al manifiesto del archivo. Delimitar múltiples por comas."
 
 msgid "The full path and filename in which the archive should be stored. If omitted, it will be saved to the drush-backups directory and a filename will be generated."
-msgstr ""
+msgstr "La ruta completa y el nombre de archivo en el que se debe guardar el archivo. Si se omite, se guardará en el directorio de drush-backups y se generará un nombre de archivo."
 
 msgid "Do not fail if the destination file exists; overwrite it instead. Default is --no-overwrite."
-msgstr ""
+msgstr "No fallar si el archivo de destino existe; sobrescribirlo en su lugar. Por defecto es --no-overwrite."
 
 msgid "The generator name to store in the MANIFEST file. The default is \"Drush archive-dump\"."
-msgstr ""
+msgstr "El nombre del generador a almacenar en el archivo MANIFEST. El valor por defecto es \"Drush archive-dump\"."
 
 msgid "The generator version number to store in the MANIFEST file. The default is 8.3.2."
-msgstr ""
+msgstr "El número de la versión del generador a almacenar en el archivo MANIFEST. El valor por defecto es 8.3.2."
 
 msgid "Only print the destination of the archive. Useful for scripts that don't pass --destination."
-msgstr ""
+msgstr "Sólo imprime el destino del archivo. Útil para los scripts que no pasan --destination."
 
 msgid "Preserve symbolic links."
-msgstr ""
+msgstr "Preservar enlaces simbólicos."
 
 msgid "Exclude Drupal core, so the backup only contains the site specific stuff."
-msgstr ""
+msgstr "Excluya el núcleo de Drupal, para que la copia de seguridad sólo contenga las cosas específicas del sitio."
 
+#, fuzzy
 msgid "Options passed thru to the tar command."
-msgstr ""
+msgstr "Opciones pasadas al comando tar."
 
 msgid "Write an archive containing 3 sites in it."
-msgstr ""
+msgstr "Escriba un archivo que contenga 3 sitios en él."
 
 msgid "Save archive containing all sites in a multi-site."
-msgstr ""
+msgstr "Guardar el archivo que contiene todos los sitios de un multisitio."
 
 msgid "Save archive to custom location."
-msgstr ""
+msgstr "Guardar el archivo en una ubicación personalizada."
 
 msgid "Omits any .git directories found in the tree as well as sites/default/files."
-msgstr ""
+msgstr "Omite cualquier directorio .git que se encuentre en el árbol, así como sites/default/files."
 
+#, fuzzy
 msgid "Placeholder %files is replaced with the real path for the current site, and that path is excluded."
-msgstr ""
+msgstr "El marcador de posición %files se sustituye por la ruta real del sitio actual, y esa ruta se excluye."
 
 msgid "Expand a site archive into a Drupal web site."
-msgstr ""
+msgstr "Ampliar un archivo de sitio en un sitio web de Drupal."
 
 msgid "The site archive file that should be expanded."
-msgstr ""
+msgstr "El archivo del sitio que debe ser expandido."
 
 msgid "Optional. Which site within the archive you want to restore. Defaults to all."
-msgstr ""
+msgstr "Opcional. Qué sitio dentro del archivo quiere restaurar. Por defecto, todos."
 
 msgid "Specify where the Drupal site should be expanded, including the docroot. Defaults to the current working directory."
-msgstr ""
+msgstr "Especifica dónde debe expandirse el sitio de Drupal, incluyendo el docroot. Por defecto, el directorio de trabajo actual."
 
 msgid "An optional table prefix to use during restore."
-msgstr ""
+msgstr "Un prefijo opcional de la tabla a utilizar durante la restauración."
 
 msgid "A Drupal 6 style database URL indicating the target for database restore. If not provided, the archived settings.php is used."
-msgstr ""
+msgstr "Una URL de la base de datos estilo Drupal 6 que indica el objetivo de la restauración de la base de datos. Si no se proporciona, se utiliza el archivo settings.php."
 
 msgid "Account to use when creating the new database. Optional."
-msgstr ""
+msgstr "Cuenta a utilizar al crear la nueva base de datos. Es opcional."
 
 msgid "Password for the \"db-su\" account. Optional."
-msgstr ""
+msgstr "Contraseña de la cuenta \"db-su\". Es opcional."
 
 msgid "Allow drush to overwrite any files in the destination. Default is --no-overwrite."
-msgstr ""
+msgstr "Permitir que drush sobrescriba cualquier archivo en el destino. Por defecto es --no-overwrite."
 
 msgid "Restore the files and databases for all sites in the archive."
-msgstr ""
+msgstr "Restaurar los archivos y las bases de datos de todos los sitios del archivo."
 
 msgid "Restore the files and database for example.com site."
-msgstr ""
+msgstr "Restaurar los archivos y la base de datos del sitio ejemplo.com."
 
 msgid "Restore archive to a custom location."
-msgstr ""
+msgstr "Restaurar el archivo en una ubicación personalizada."
 
 msgid "Restore archive to a new database (and customize settings.php to point there.)."
-msgstr ""
+msgstr "Restaurar el archivo en una nueva base de datos (y personalizar settings.php para que apunte allí)."
 
 msgid "Available: "
-msgstr ""
+msgstr "Disponible: "
 
 msgid "Default is @default."
-msgstr ""
+msgstr "Por defecto es @default."
 
 msgid "Fetch a cached object and display it."
-msgstr ""
+msgstr "Recupera un objeto en caché y lo muestra."
 
 msgid "The id of the object to fetch."
-msgstr ""
+msgstr "El id del objeto a recuperar."
 
 msgid "Optional. The cache bin to fetch from."
-msgstr ""
+msgstr "Opcional. El contenedor de caché del que se va a obtener información."
 
 msgid "Select output format. Available: print-r, json, var_export, yaml. Default is print-r."
-msgstr ""
+msgstr "Seleccione el formato de salida. Disponible: print-r, json, var_export, yaml. Por defecto es print-r."
 
 msgid "Fields to output."
-msgstr ""
+msgstr "Campos de salida."
 
 msgid "Specify how elements in a list should be separated. In lists of lists, this applies to the elements in the inner lists."
-msgstr ""
+msgstr "Especifica cómo deben separarse los elementos de una lista. En las listas de listas, esto se aplica a los elementos de las listas interiores."
 
 msgid "In nested lists of lists, specify how the outer lists (\"lines\") should be separated."
-msgstr ""
+msgstr "En las listas anidadas de listas, especifique cómo deben separarse las listas exteriores (\"líneas\")."
 
 msgid "Add field labels before first line of data. Default is on; use --no-field-labels to disable."
-msgstr ""
+msgstr "Añade etiquetas de campo antes de la primera línea de datos. Por defecto está activado; utilice --no-field-labels para desactivarlo."
 
 msgid "Output via php print_r function."
-msgstr ""
+msgstr "Salida a través de la función php print_r."
 
 msgid "Javascript Object Notation."
-msgstr ""
+msgstr "Javascript Object Notation."
 
 msgid "A serialized php string."
-msgstr ""
+msgstr "Una cadena php serializada."
 
 msgid "An array in executable php format."
-msgstr ""
+msgstr "Un array en formato php ejecutable."
 
 msgid "Yaml output format."
-msgstr ""
+msgstr "Formato de salida Yaml."
 
 msgid "Display the data for the cache id \"schema\" from the \"cache\" bin."
-msgstr ""
+msgstr "Muestra los datos del identificador de caché \"schema\" de la papelera \"cache\"."
 
 msgid "Display the data for the cache id \"update_available_releases\" from the \"update\" bin."
-msgstr ""
+msgstr "Muestra los datos del identificador de caché \"update_available_releases\" de la papelera \"update\"."
 
 msgid "Clear a specific cache, or all drupal caches."
-msgstr ""
+msgstr "Borrar una caché específica, o todas las cachés de drupal."
 
 msgid "The particular cache to clear. Omit this argument to choose from available caches."
-msgstr ""
+msgstr "La caché concreta que se va a borrar. Omita este argumento para elegir entre las cachés disponibles."
 
 msgid "Cache an object expressed in JSON or var_export() format."
-msgstr ""
+msgstr "Almacena un objeto expresado en formato JSON o var_export()."
 
 msgid "The id of the object to set."
-msgstr ""
+msgstr "El id del objeto a establecer."
 
 msgid "The object to set in the cache. Use '-' to read the object from STDIN."
-msgstr ""
+msgstr "El objeto a establecer en la caché. Utilice '-' para leer el objeto desde STDIN."
 
 msgid "Optional. The cache bin to store the object in."
-msgstr ""
+msgstr "Opcional. La ubicación de la caché donde almacenar el objeto."
 
 msgid "Optional. CACHE_PERMANENT, CACHE_TEMPORARY, or a Unix timestamp."
-msgstr ""
+msgstr "Opcional. CACHE_PERMANENT, CACHE_TEMPORARY, o una marca de tiempo Unix."
 
 msgid "An array of cache tags."
-msgstr ""
+msgstr "Una array de etiquetas de caché."
 
 msgid "Format to parse the object. Use \"string\" for string (default), and \"json\" for JSON."
-msgstr ""
+msgstr "Formato para analizar el objeto. Utiliza \"string\" para cadena (por defecto), y \"json\" para JSON."
 
 msgid "If the object is the result a previous fetch from the cache, only store the value in the \"data\" property of the object in the cache."
-msgstr ""
+msgstr "Si el objeto es el resultado de una obtención anterior de la caché, sólo almacena el valor en la propiedad \"data\" del objeto en la caché."
 
 msgid "Rebuild a Drupal 8 site and clear all its caches."
-msgstr ""
+msgstr "Reconstruir un sitio Drupal 8 y borrar todas sus cachés."
 
 msgid "Open an interactive shell on a Drupal site."
-msgstr ""
+msgstr "Abrir un shell interactivo en un sitio Drupal."
 
 msgid "Use command history based on Drupal version (Default is per site)."
-msgstr ""
+msgstr "Usar el historial de comandos basado en la versión de Drupal (por defecto es por sitio)."
 
 msgid "Changes the working directory of the shell (Default is the project root directory)"
-msgstr ""
+msgstr "Cambia el directorio de trabajo del shell (por defecto es el directorio raíz del proyecto)"
 
 msgid "repl.md"
-msgstr ""
+msgstr "repl.md"
 
 msgid "Display a config value, or a whole configuration object."
-msgstr ""
+msgstr "Muestra un valor de configuración, o un objeto de configuración completo."
 
 msgid "The config object name, for example \"system.site\"."
-msgstr ""
+msgstr "El nombre del objeto de configuración, por ejemplo \"system.site\"."
 
 msgid "The config key, for example \"page.front\". Optional."
-msgstr ""
+msgstr "La clave de configuración, por ejemplo \"page.front\". Opcional."
 
 msgid "The config storage source to read. Additional labels may be defined in settings.php"
-msgstr ""
+msgstr "La fuente de almacenamiento de configuración para leer. Se pueden definir etiquetas adicionales en settings.php"
 
 msgid "Include overridden values."
-msgstr ""
+msgstr "Incluir valores anulados."
 
 msgid "Select output format. Available: yaml, csv, html, json, list, string, table, var_export. Default is yaml."
-msgstr ""
+msgstr "Seleccione el formato de salida. Disponible: yaml, csv, html, json, lista, cadena, tabla, var_export. Por defecto es yaml."
 
 msgid "A configuration file in executable php format. The variable name is \"config\", and the variable keys are taken from the output data array's keys."
-msgstr ""
+msgstr "Un archivo de configuración en formato php ejecutable. El nombre de la variable es \"config\", y las claves de la variable se toman de las claves de la matriz de datos de salida."
 
 msgid "A list of values, one per row, each of which is a comma-separated list of values."
-msgstr ""
+msgstr "Una lista de valores, uno por fila, cada uno de los cuales es una lista de valores separada por comas."
 
 msgid "An HTML representation"
-msgstr ""
+msgstr "Una representación en HTML"
 
 msgid "A list of php exports, labeled with a name."
-msgstr ""
+msgstr "Una lista de exportaciones php, etiquetada con un nombre."
 
 msgid "A simple list of values."
-msgstr ""
+msgstr "Una simple lista de valores."
 
 msgid "A simple string."
-msgstr ""
+msgstr "Una cadena simple."
 
 msgid "A formatted, word-wrapped table."
-msgstr ""
+msgstr "Una tabla formateada y envuelta en palabras."
 
 msgid "A list of php variable assignments."
-msgstr ""
+msgstr "Una lista de asignaciones de variables php."
 
 msgid "Displays the system.site config."
-msgstr ""
+msgstr "Muestra la configuración de system.site."
 
 msgid "gets system.site:page.front value."
-msgstr ""
+msgstr "obtiene el valor system.site:page.front."
 
 msgid "Set config value directly. Does not perform a config import."
-msgstr ""
+msgstr "Establece el valor de la configuración directamente. No realiza una importación de la configuración."
 
 msgid "The config key, for example \"page.front\"."
-msgstr ""
+msgstr "La clave de configuración, por ejemplo \"page.front\"."
 
 msgid "The value to assign to the config key. Use '-' to read from STDIN."
-msgstr ""
+msgstr "El valor a asignar a la clave de configuración. Utilice '-' para leer de STDIN."
 
 msgid "Format to parse the object. Use \"string\" for string (default), and \"yaml\" for YAML."
-msgstr ""
+msgstr "Formato para analizar el objeto. Utiliza \"string\" para cadena (por defecto), y \"yaml\" para YAML."
 
 msgid "The value to assign to the config key (if any)."
-msgstr ""
+msgstr "El valor a asignar a la clave de configuración (si la hay)."
 
 msgid "Sets system.site:page.front to \"node\"."
-msgstr ""
+msgstr "Establece system.site:page.front como \"nodo\"."
 
 msgid "Export configuration to a directory."
-msgstr ""
+msgstr "Exportar la configuración a un directorio."
 
 msgid "A config directory label (i.e. a key in $config_directories array in settings.php). Defaults to 'sync'"
-msgstr ""
+msgstr "Una etiqueta de directorio de configuración (por ejemplo, una clave en el array $config_directories en settings.php). El valor predeterminado es 'sync'."
 
 msgid "Run `git add -p` after exporting. This lets you choose which config changes to sync for commit."
-msgstr ""
+msgstr "Ejecute `git add -p` después de exportar. Esto le permite elegir qué cambios de configuración para sincronizar para confirmar."
 
 msgid "Run `git add -A` and `git commit` after exporting.  This commits everything that was exported without prompting."
-msgstr ""
+msgstr "Ejecuta `git add -A` y `git commit` después de exportar.  Esto confirma todo lo que se ha exportado sin preguntar."
 
 msgid "Commit comment for the exported configuration.  Optional; may only be used with --commit or --push."
-msgstr ""
+msgstr "Comentario de confirmación para la configuración exportada.  Opcional; sólo puede utilizarse con --commit o --push."
 
 msgid "Run `git push` after committing.  Implies --commit."
-msgstr ""
+msgstr "Ejecutar `git push` después de confirmar.  Implica --commit."
 
 msgid "The remote git branch to use to push changes.  Defaults to \"origin\"."
-msgstr ""
+msgstr "La rama remota de git que se utilizará para enviar los cambios.  El valor predeterminado es \"origin\"."
 
 msgid "Make commit on provided working branch. Ignored if used without --commit or --push."
-msgstr ""
+msgstr "Hacer un commit en la rama de trabajo proporcionada. Se ignora si se usa sin --commit o --push."
 
 msgid "An arbitrary directory that should receive the exported files. An alternative to label argument."
-msgstr ""
+msgstr "Un directorio arbitrario que debe recibir los archivos exportados. Una alternativa al argumento de la etiqueta."
 
 msgid "Export configuration; Save files in a backup directory named config-export."
-msgstr ""
+msgstr "Exportar la configuración; guardar los archivos en un directorio de copia de seguridad llamado config-export."
 
 msgid "Import config from a config directory."
-msgstr ""
+msgstr "Importar la configuración desde un directorio de configuración."
 
 msgid "Format for displaying proposed changes. Recognized values: list, diff. Defaults to list."
-msgstr ""
+msgstr "Formato para mostrar los cambios propuestos. Valores reconocidos: lista, diff. Por defecto, lista."
 
 msgid "An arbitrary directory that holds the configuration files. An alternative to label argument"
-msgstr ""
+msgstr "Un directorio arbitrario que contiene los archivos de configuración. Una alternativa al argumento de la etiqueta"
 
 msgid "Allows for partial config imports from the source directory. Only updates and new configs will be processed with this flag (missing configs will not be deleted)."
-msgstr ""
+msgstr "Permite la importación parcial de configuraciones desde el directorio de origen. Sólo se procesarán las actualizaciones y las nuevas configuraciones con esta bandera (las configuraciones que falten no se eliminarán)."
 
 msgid "Import configuration; do not remove missing configuration."
-msgstr ""
+msgstr "Importar la configuración; no eliminar la configuración que falta."
 
 msgid "List config names by prefix."
-msgstr ""
+msgstr "Lista de nombres de configuración por prefijo."
 
 msgid "The config prefix. For example, \"system\". No prefix will return all names in the system."
-msgstr ""
+msgstr "El prefijo de configuración. Por ejemplo, \"sistema\". Si no hay prefijo, se devolverán todos los nombres del sistema."
 
 msgid "Select output format. Available: list, json, var_export, yaml. Default is list."
-msgstr ""
+msgstr "Seleccione el formato de salida. Disponible: list, json, var_export, yaml. Por defecto, lista."
 
 msgid "Return a list of all system config names."
-msgstr ""
+msgstr "Devuelve una lista de todos los nombres de configuración del sistema."
 
 msgid "Return a list of all image styles."
-msgstr ""
+msgstr "Devuelve una lista de todos los estilos de imagen."
 
 msgid "Return all config names as json."
-msgstr ""
+msgstr "Devuelve todos los nombres de configuración como json."
 
 msgid "Open a config file in a text editor. Edits are imported into active configuration after closing editor."
-msgstr ""
+msgstr "Abrir un archivo de configuración en un editor de texto. Las modificaciones se importan a la configuración activa después de cerrar el editor."
 
 msgid "Edit the image style configurations."
-msgstr ""
+msgstr "Editar las configuraciones de estilo de imagen."
 
 msgid "Choose a config file to edit."
-msgstr ""
+msgstr "Elija un archivo de configuración para editar."
 
 msgid "Edit the second file in the choice list."
-msgstr ""
+msgstr "Edite el segundo archivo de la lista de elección."
 
 msgid "Return to shell prompt as soon as the editor window opens."
-msgstr ""
+msgstr "Vuelve al prompt del shell en cuanto se abra la ventana del editor."
 
 msgid "Delete a configuration object."
-msgstr ""
+msgstr "Eliminar un objeto de configuración."
 
 msgid "A config key to clear, for example \"page.front\"."
-msgstr ""
+msgstr "Una clave de configuración para borrar, por ejemplo \"page.front\"."
 
 msgid "Export and transfer config from one environment to another."
-msgstr ""
+msgstr "Exportar y transferir la configuración de un entorno a otro."
 
 msgid "A site-alias or the name of a subdirectory within /sites whose config you want to copy from."
-msgstr ""
+msgstr "Un alias de sitio o el nombre de un subdirectorio dentro de /sites cuya configuración desea copiar."
 
 msgid "A site-alias or the name of a subdirectory within /sites whose config you want to replace."
-msgstr ""
+msgstr "Un alias de sitio o el nombre de un subdirectorio dentro de /sites cuya configuración desea reemplazar."
 
 msgid "Validate that there are no git uncommitted changes before proceeding"
-msgstr ""
+msgstr "Validar que no hay cambios no comprometidos en git antes de proceder"
 
 msgid "Where to run the rsync command; defaults to the local site. Can also be \"source\" or \"destination\"."
-msgstr ""
+msgstr "Dónde ejecutar el comando rsync; por defecto en el sitio local. También puede ser \"origen\" o \"destino\"."
 
 msgid "Export config from @prod and transfer to @stage."
-msgstr ""
+msgstr "Exportar la configuración de @prod y transferirla a @stage."
 
 msgid "Export config from @prod and transfer to the 'vcs' config directory of current site."
-msgstr ""
+msgstr "Exportar la configuración de @prod y transferirla al directorio de configuración 'vcs' del sitio actual."
 
 msgid "List config types"
-msgstr ""
+msgstr "Lista de tipos de configuración"
 
 msgid "Select output format. Available: list, csv, html, json, string, table, var_export, yaml. Default is list."
-msgstr ""
+msgstr "Seleccione el formato de salida. Disponible: lista, csv, html, json, cadena, tabla, var_export, yaml. Por defecto es lista."
 
 msgid "Display a list of config items that did not come from your installed modules, themes, or install profile"
-msgstr ""
+msgstr "Muestra una lista de elementos de configuración que no provienen de sus módulos instalados, temas o perfil de instalación"
 
 msgid "The type of config to report on. See config-list-types to list them. You can also use system.all for all types, or system.simple for simple config."
-msgstr ""
+msgstr "El tipo de configuración sobre el que informar. Vea config-list-types para listarlos. También puede utilizar system.all para todos los tipos, o system.simple para la configuración simple."
 
 msgid "Displays the added config report for action config."
-msgstr ""
+msgstr "Muestra el informe de configuración añadido para la acción config."
 
 msgid "Display a list of config items from your installed modules, themes, or install profile that are not currently in your active config"
-msgstr ""
+msgstr "Muestra una lista de elementos de configuración de sus módulos instalados, temas o perfil de instalación que no están actualmente en su configuración activa"
 
 msgid "Run the report for: module, theme, profile, or \"type\" for config entity type."
-msgstr ""
+msgstr "Ejecute el informe para: módulo, tema, perfil, o \"tipo\" para configurar el tipo de entidad."
 
 msgid "The machine name of the module, theme, etc. to report on. See config-list-types to list types for config entities; you can also use system.all for all types, or system.simple for simple config."
-msgstr ""
+msgstr "El nombre de la máquina del módulo, tema, etc. sobre el que hay que informar. Ver config-list-types para listar los tipos de entidades de configuración; también puede usar system.all para todos los tipos, o system.simple para la configuración simple."
 
 msgid "Displays the missing config report for action config."
-msgstr ""
+msgstr "Muestra el informe de configuración faltante para la acción config."
 
 msgid "Display a list of optional config items from your installed modules, themes, or install profile that are not currently in your active config"
-msgstr ""
+msgstr "Muestra una lista de elementos de configuración opcionales de sus módulos instalados, temas o perfil de instalación que no están actualmente en su configuración activa"
 
 msgid "Displays the inactive config report for action config."
-msgstr ""
+msgstr "Muestra el informe de configuración inactiva para la acción config."
 
 msgid "Display a list of config items that differ from the versions provided by your installed modules, themes, or install profile. See config-diff to show what the differences are."
-msgstr ""
+msgstr "Muestra una lista de elementos de configuración que difieren de las versiones proporcionadas por sus módulos instalados, temas o perfil de instalación. Vea config-diff para mostrar cuáles son las diferencias."
 
 msgid "Displays the differing config report for action config."
-msgstr ""
+msgstr "Muestra el informe de configuración diferente para la configuración de la acción."
 
 msgid "Display line-by-line differences for one config item between your active config and the version currently being provided by an installed module, theme, or install profile"
-msgstr ""
+msgstr "Mostrar las diferencias línea por línea de un elemento de configuración entre su configuración activa y la versión proporcionada actualmente por un módulo, tema o perfil de instalación instalado"
 
 msgid "The config item to diff. See config-different-report to list config items that are different."
-msgstr ""
+msgstr "El elemento de configuración a diferenciar. Ver config-different-report para listar los elementos de configuración que son diferentes."
 
 msgid "Displays the config differences for the search block in the Bartik theme."
-msgstr ""
+msgstr "Muestra las diferencias de configuración para el bloque de búsqueda en el tema Bartik."
 
 msgid "Revert one config item in active storage to the version provided by an installed module, theme, or install profile."
 msgstr ""
