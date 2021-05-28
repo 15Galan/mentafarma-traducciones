@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-26 13:44+0200\n"
+"PO-Revision-Date: 2021-05-28 14:06+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -80047,28 +80047,28 @@ msgid "In case the <a href=\"@href\" target=\"_blank\">redirect module</a> is en
 msgstr ""
 
 msgid "Limit breadcrumb trail segments"
-msgstr ""
+msgstr "Limitar los segmentos del sendero de migas de pan"
 
 msgid "Limit the number of displayed breadcrumb trail segments."
-msgstr ""
+msgstr "Limitar el número de segmentos de migas de pan mostrados."
 
 msgid "Breadcrumb segment count"
-msgstr ""
+msgstr "Recuento de segmentos de migas de pan"
 
 msgid "Number of breadcrumb trail segments to display"
-msgstr ""
+msgstr "Número de segmentos del camino de migas de pan a mostrar"
 
 msgid "Truncate the page's title to a maximum number."
-msgstr ""
+msgstr "Truncar el título de la página a un número máximo."
 
 msgid "Example: if you set it to 10, from <em>Long page title</em> will be <em>Long pa...</em>"
-msgstr ""
+msgstr "Ejemplo: si lo pones a 10, de <em>Título de la página largo</em> pasará a ser <em>Largo pa...</em>."
 
 msgid "Set the limit of truncation"
-msgstr ""
+msgstr "Establecer el límite de truncamiento"
 
 msgid "The truncated page's title will have 3 dots in its end."
-msgstr ""
+msgstr "El título de la página truncada tendrá 3 puntos al final."
 
 msgid "field_breadcrumb_title"
 msgstr ""
@@ -80077,7 +80077,7 @@ msgid "100"
 msgstr ""
 
 msgid "Advanced Entity Tokens"
-msgstr ""
+msgstr "Tokens de entidades avanzadas"
 
 msgid "Cuidado de la Piel"
 msgstr ""
@@ -80116,19 +80116,19 @@ msgid "Canastillas"
 msgstr ""
 
 msgid "Reveals all of Drupal's entities to the token system by using their IDs"
-msgstr ""
+msgstr "Revela todas las entidades de Drupal al sistema de tokens utilizando sus IDs"
 
 msgid "Allow users to define custom tokens to use thoughout the site"
-msgstr ""
+msgstr "Permitir a los usuarios definir tokens personalizados para usar en todo el sitio"
 
 msgid "Provides an iconpicker widget for Font Awesome"
-msgstr ""
+msgstr "Proporciona un widget iconpicker para Font Awesome"
 
 msgid "<strong>ATTENTION!!!</strong> The default Contact webform, included with the Webform module, has been updated to send the confirmation email to an authenticated user's email address."
-msgstr ""
+msgstr "<strong>¡Atención!!!</strong> El formulario web de Contacto por defecto, incluido con el módulo Webform, ha sido actualizado para enviar el email de confirmación a la dirección de correo electrónico de un usuario autentificado."
 
 msgid "<a href=\":href\">Learn more</a>"
-msgstr ""
+msgstr "<a href=\":href\">Saber más</a>"
 
 msgid "Medias y Calcetines"
 msgstr ""
@@ -80158,10 +80158,10 @@ msgid "Estreñimiento y Cólicos"
 msgstr ""
 
 msgid "AET Description"
-msgstr ""
+msgstr "Descripción de AET"
 
 msgid "Reference a @entity_name entity by using it's @id_key"
-msgstr ""
+msgstr "Referenciar una entidad @entity_name utilizando su @id_key"
 
 msgid "The URL for administrators to view the order."
 msgstr "La URL para que los administradores vean el pedido."
@@ -80430,10 +80430,10 @@ msgid "Administer Bulk Update Fields"
 msgstr "Administrar campos de actualización masiva"
 
 msgid "Exclude Bulk Update Fields"
-msgstr ""
+msgstr "Excluir campos de actualización masiva"
 
 msgid "Allows a user to bulk update fields from one value to another."
-msgstr ""
+msgstr "Permite a un usuario actualizar de forma masiva los campos de un valor a otro."
 
 msgid "Allows a user to exclude fields."
 msgstr "Permite a un usuario excluir campos."
@@ -80442,7 +80442,7 @@ msgid "View list content exported and import it via backend"
 msgstr "Ver el contenido de la lista exportado e importarlo a través de backend"
 
 msgid "Are you sure you want to alter @count_fields fields on @count_entities entities?"
-msgstr ""
+msgstr "¿Está seguro de que quiere modificar los campos @count_fields en las entidades @count_entities?"
 
 msgid "Updating Fields..."
 msgstr "Actualizando campos ..."
@@ -80666,7 +80666,7 @@ msgid "Enable Better Search on search pages"
 msgstr "Activar Better Search on páginas de busqueda"
 
 msgid "If true, the Drupal search pages will be altered by this module."
-msgstr ""
+msgstr "Si es verdadero, las páginas de búsqueda de Drupal serán alteradas por este módulo."
 
 msgid "Hide the submit button on search pages"
 msgstr "Ocultar el botón enviar en las páginas de búsqueda"
@@ -80681,37 +80681,37 @@ msgid "Better Search settings"
 msgstr "Configuracioón Better Search"
 
 msgid "The submission of the current form can cause the deletion of entities that are still used, backup all data first."
-msgstr ""
+msgstr "La presentación del formulario actual puede provocar la eliminación de las entidades que aún se utilizan, haga primero una copia de seguridad de todos los datos."
 
 msgid "Delete orphaned composite entities revisions that are no longer referenced. If there are no revisions left, the entity will be deleted as long as it is not used."
-msgstr ""
+msgstr "Elimina las revisiones de las entidades compuestas huérfanas a las que ya no se hace referencia. Si no quedan revisiones, la entidad se eliminará mientras no se utilice."
 
 msgid "Select the entity types to check for orphans"
-msgstr ""
+msgstr "Seleccione los tipos de entidades que deben comprobar si hay huérfanos"
 
 msgid "Delete orphaned composite revisions"
-msgstr ""
+msgstr "Eliminar las revisiones compuestas huérfanas"
 
 msgid "The name of the Honeypot form field. It's usually most effective to use a generic name like email, homepage, or link, but this should be changed if it interferes with fields that are already in your forms. Must not contain spaces or special characters."
-msgstr ""
+msgstr "El nombre del campo del formulario Honeypot. Suele ser más eficaz utilizar un nombre genérico como correo electrónico, página de inicio o enlace, pero debería cambiarse si interfiere con los campos que ya están en sus formularios. No debe contener espacios ni caracteres especiales."
 
 msgid "Honeypot Configuration"
-msgstr ""
+msgstr "Configuración del Honeypot"
 
 msgid "The specifications provide the documentation on some of Drupal's apis following <a href=':openapi_spec'>OpenAPI (aka Swagger)</a> standards."
-msgstr ""
+msgstr "Las especificaciones proporcionan la documentación sobre algunas de las apis de Drupal siguiendo los estándares <a href=':openapi_spec'>OpenAPI (aka Swagger)</a>."
 
 msgid "These json files can be used in tools such as the <a href=\":swagger_editor\">Swagger Editor</a> to provide a more detailed version of the API documentation or <a href=\":swagger_codegen\">Swagger Codegen</a> to create an api client."
-msgstr ""
+msgstr "Estos archivos json pueden utilizarse en herramientas como <a href=\":swagger_editor\">Swagger Editor</a> para proporcionar una versión más detallada de la documentación de la API o <a href=\":swagger_codegen\">Swagger Codegen</a> para crear un cliente api."
 
 msgid "Please visit the <a href=':openapi_ui_link'>OpenAPI UI module</a> for information on these interfaces and to discover others."
-msgstr ""
+msgstr "Visite el módulo <a href=':openapi_ui_link'>OpenAPI UI</a> para obtener información sobre estas interfaces y descubrir otras."
 
 msgid "Specification"
 msgstr "Especificación"
 
 msgid "Explore"
-msgstr ""
+msgstr "Explorar"
 
 msgid "View/Download"
 msgstr "Ver descarga"
@@ -80825,40 +80825,41 @@ msgid "commerce_shipping"
 msgstr "commerce_shipping"
 
 msgid "username_enumeration_prevention"
-msgstr ""
+msgstr "username_enumeration_prevention"
 
+#, fuzzy
 msgid "Standalone media URL"
 msgstr ""
 
 msgid "Allow users to access @media-entities at /media/{id}."
-msgstr ""
+msgstr "Permitir a los usuarios acceder a las entidades @media en /media/{id}."
 
 msgid "A local file system path where temporary files will be stored. This directory should not be accessible over the web. This must be changed in settings.php."
-msgstr ""
+msgstr "Una ruta del sistema de archivos local donde se almacenarán los archivos temporales. Este directorio no debe ser accesible a través de la web. Esto debe ser cambiado en settings.php."
 
 msgid "<strong>Sophron map.</strong> Use this map for maximum compatibility with Drupal, still increasing the number of MIME types and file extensions identified."
-msgstr ""
+msgstr "<strong>Mapa Sophron.</strong> Utilice este mapa para obtener la máxima compatibilidad con Drupal, aumentando aún el número de tipos MIME y extensiones de archivo identificados."
 
 msgid "<strong>MimeMap default map.</strong> Use this map for maximum compatibility with Apache and Freedesktop projects, accepting differences versus current Drupal mappings."
-msgstr ""
+msgstr "<strong>Mapa Mime por defecto.</strong> Utilice este mapa para obtener la máxima compatibilidad con los proyectos Apache y Freedesktop, aceptando las diferencias frente a los mapeos actuales de Drupal."
 
 msgid "<strong>Custom map.</strong> Use this option to select a custom built mapping class."
-msgstr ""
+msgstr "<strong>Mapa personalizado.</strong> Utilice esta opción para seleccionar una clase de mapa construida a medida."
 
 msgid "Select the map to use."
 msgstr "Seleccione el mapa a utilizar."
 
 msgid "A fully qualified PHP class name. The map class must extend from \\FileEye\\MimeMap\\Map\\AbstractMap."
-msgstr ""
+msgstr "Un nombre de clase PHP completamente calificado. La clase de mapa debe extender desde \\FileEye\\MimeMap\\Map\\AbstractMap."
 
 msgid "Mapping commands"
 msgstr "Mapeo de comandos"
 
 msgid "The commands below alter the default MIME type mapping. More information in the module's README.md file."
-msgstr ""
+msgstr "Los siguientes comandos modifican la asignación de tipos MIME por defecto. Más información en el archivo README.md del módulo."
 
 msgid "Manage additional MIME types and mapping issues."
-msgstr ""
+msgstr "Gestionar los tipos MIME adicionales y los problemas de asignación."
 
 msgid "MIME Type"
 msgstr "Tipo MIME"
@@ -80867,10 +80868,10 @@ msgid "Aliases"
 msgstr "Alias"
 
 msgid "List of MIME types and their file extensions."
-msgstr ""
+msgstr "Lista de tipos MIME y sus extensiones de archivo."
 
 msgid "List of file extensions and their MIME types."
-msgstr ""
+msgstr "Lista de extensiones de archivos y sus tipos MIME."
 
 msgid "Sophron - MIME Types"
 msgstr "Sophron - MIME Tipos"
@@ -80897,22 +80898,22 @@ msgid "Nerviosismo y Sueño Niños"
 msgstr "Nerviosismo y Sueño Niños"
 
 msgid "Enable transforming for uploaded images."
-msgstr ""
+msgstr "Activar la transformación de las imágenes cargadas."
 
 msgid "File extensions for transforming"
-msgstr ""
+msgstr "Extensiones de archivos para transformar"
 
 msgid "Case #@num:"
-msgstr ""
+msgstr "Caso #@num:"
 
 msgid "Add one more case"
-msgstr ""
+msgstr "Añade un caso más"
 
 msgid "Apply styles to uploaded files:"
-msgstr ""
+msgstr "Aplicar estilos a los archivos cargados:"
 
 msgid "Settings for transforming of uploaded images"
-msgstr ""
+msgstr "Ajustes para la transformación de las imágenes cargadas"
 
 msgid "Salud Íntima"
 msgstr ""
@@ -81023,67 +81024,67 @@ msgid "Nutricosmética Ocular"
 msgstr ""
 
 msgid "Productos para Lentes"
-msgstr ""
+msgstr "Productos para Lentes"
 
 msgid "Sprays y Lociones Anticaída"
-msgstr ""
+msgstr "Sprays y Lociones Anticaída"
 
 msgid "Data export"
 msgstr "Exportación de datos"
 
 msgid "Pastas Dientes Infantiles"
-msgstr ""
+msgstr "Pastas Dientes Infantiles"
 
 msgid "Field settings (@on_label / @off_label)"
 msgstr "Opciones del campo (@on_label / @off_label)"
 
 msgid "(@export_format)"
-msgstr ""
+msgstr "(@export_format)"
 
 msgid "Change the way rows are processed."
-msgstr ""
+msgstr "Cambiar la forma de procesar las filas."
 
 msgid "no limit"
-msgstr ""
+msgstr "sin límite"
 
 msgid "The maximum amount of rows to export."
-msgstr ""
+msgstr "La cantidad máxima de filas a exportar."
 
 msgid "Export settings"
 msgstr "Opciones de exportación"
 
 msgid "Reaction Rule"
-msgstr ""
+msgstr "Regla de reacción"
 
 msgid "Rules component"
 msgstr "Componente de Rules"
 
 msgid "Reaction rules administration overview."
-msgstr ""
+msgstr "Resumen de la administración de las normas de reacción."
 
 msgid "Indicates the character used to delimit fields. Defaults to a comma (<code>,</code>). For tab-separation use <code>\\t</code> characters."
-msgstr ""
+msgstr "Indica el carácter utilizado para delimitar los campos. Por defecto es una coma (<code>,</code>). Para la separación por tabulación, utilice los caracteres <code>\\t</code>."
 
 msgid "Indicates the character used for field enclosure. Defaults to a double quote (<code>\"</code>)."
-msgstr ""
+msgstr "Indica el carácter utilizado para el cierre del campo. El valor predeterminado es una comilla doble (<código>\"</código>)."
 
 msgid "Escape character"
 msgstr "Teclas de escape"
 
 msgid "Indicates the character used for escaping. Defaults to a backslash (<code>\\</code>)."
-msgstr ""
+msgstr "Indica el carácter utilizado para el escape. Por defecto es una barra invertida (<code>\\</code>)."
 
 msgid "Strip HTML"
-msgstr ""
+msgstr "Desmontar el HTML"
 
 msgid "Strips HTML tags from CSV cell values."
-msgstr ""
+msgstr "Elimina las etiquetas HTML de los valores de las celdas del CSV."
 
 msgid "Trim whitespace"
 msgstr "Quitar espacios en blanco"
 
 msgid "Trims whitespace from beginning and end of CSV cell values."
-msgstr ""
+msgstr "Recorta los espacios en blanco del principio y el final de los valores de las celdas del CSV."
 
 msgid "UTF-8"
 msgstr "UTF-8"
@@ -81122,64 +81123,64 @@ msgid "The filename that will be suggested to the browser for downloading purpos
 msgstr "El nombre de archivo que se sugerirá al explorador para fines de descarga. Puede incluir patrones de reemplazo de la lista siguiente."
 
 msgid "Store file in public files directory"
-msgstr ""
+msgstr "Almacenar el archivo en el directorio de archivos públicos"
 
 msgid "Check this if you want to store the export files in the public:// files directory instead of the private:// files directory."
-msgstr ""
+msgstr "Marque esta opción si desea almacenar los archivos de exportación en el directorio public:// files en lugar del directorio private:// files."
 
 msgid "Download immediately"
-msgstr ""
+msgstr "Descarga inmediata"
 
 msgid "Check this if you want to download the file immediately after it is created. Does <strong>NOT</strong> work for JSON data exports."
-msgstr ""
+msgstr "Marque esta opción si desea descargar el archivo inmediatamente después de su creación. No <strong>funciona</strong> para las exportaciones de datos JSON."
 
 msgid "File Storage/Download Settings"
-msgstr ""
+msgstr "Configuración de almacenamiento/descarga de archivos"
 
 msgid "Custom redirect path"
-msgstr ""
+msgstr "Ruta de redirección personalizada"
 
 msgid "Check this if you want to configure a custom redirect path."
-msgstr ""
+msgstr "Marque esta opción si desea configurar una ruta de redireccionamiento personalizada."
 
 msgid "Redirect to this display"
-msgstr ""
+msgstr "Redirigir a esta pantalla"
 
 msgid "Select the display to redirect to after batch finishes. If None is selected the user will be redirected to the front page."
-msgstr ""
+msgstr "Seleccione la pantalla a la que se redirigirá una vez finalizado el lote. Si se selecciona Ninguno, el usuario será redirigido a la página principal."
 
 msgid "Enter custom path to redirect user after batch finishes."
-msgstr ""
+msgstr "Introduzca la ruta personalizada para redirigir al usuario una vez finalizado el lote."
 
 msgid "Include query string parameters on redirect"
-msgstr ""
+msgstr "Incluir parámetros de cadena de consulta en la redirección"
 
 msgid "Check this if you want to include query string parameters on redirect."
-msgstr ""
+msgstr "Marque esta opción si desea incluir parámetros de cadena de consulta en la redirección."
 
 msgid "(@filename)"
-msgstr ""
+msgstr "(@filename)"
 
 msgid "The data export icon will be available only to the selected displays."
-msgstr ""
+msgstr "El icono de exportación de datos sólo estará disponible para las pantallas seleccionadas."
 
 msgid "Download @format"
-msgstr ""
+msgstr "Descargar @formato"
 
 msgid "Invalid extension (webp) specified for the image 'convert' operation"
-msgstr ""
+msgstr "Extensión inválida (webp) especificada para la operación de \"conversión\" de imágenes"
 
 msgid "Manage preferred URL used to access your site."
-msgstr ""
+msgstr "Gestionar la URL preferida para acceder a su sitio."
 
 msgid "HTTPS/www settings"
-msgstr ""
+msgstr "Configuración de HTTPS/www"
 
 msgid "Slick Text"
-msgstr ""
+msgstr "Texto deslizante"
 
 msgid "Blazy Grid"
-msgstr ""
+msgstr "Rejilla Blazy"
 
 msgid "European Union"
 msgstr "Unión Europea"
@@ -81203,118 +81204,118 @@ msgid "Merchants can verify the tax number after the order has been placed."
 msgstr "Los comerciantes pueden verificar el número de identificación fiscal una vez realizado el pedido."
 
 msgid "Commerce (web services)"
-msgstr ""
+msgstr "Commerce (servicios web)"
 
 msgid "Provides an HTTP interface to interact with Drupal Commerce."
-msgstr ""
+msgstr "Proporciona una interfaz HTTP para interactuar con Drupal Commerce."
 
 msgid "Redirects to HTTPS with or without the \"www\" prefix."
-msgstr ""
+msgstr "Redirige a HTTPS con o sin el prefijo \"www\"."
 
 msgid "This module let's you define custom resources at routes of your choice that use existing resource types."
-msgstr ""
+msgstr "Este módulo le permite definir recursos personalizados en rutas de su elección que utilizan tipos de recursos existentes."
 
 msgid "Boardfy integration for Mentafarma"
-msgstr ""
+msgstr "Integración de Boardfy en Mentafarma"
 
 msgid "Complements the JSON API module with Hypermedia as the Engine of Application State"
-msgstr ""
+msgstr "Complementa el módulo de la API JSON con Hypermedia como motor del estado de la aplicación"
 
 msgid "Please read and understand the options before making any changes."
-msgstr ""
+msgstr "Por favor, lea y comprenda las opciones antes de realizar cualquier cambio."
 
 msgid "Enable redirects"
-msgstr ""
+msgstr "Habilitar los redireccionamientos"
 
 msgid "&bull; Make sure your site is accessible for the options you select before enabling the module.<br>&bull; If you don't have the \"Bypass HTTPS/www redirects\" permission and are on a different domain than what you select, you will be logged out when saving.<br>&bull; Once enabled, avoid making any further changes as it may affect SEO."
-msgstr ""
+msgstr "&bull; Asegúrate de que tu sitio es accesible para las opciones que seleccionas antes de habilitar el módulo.<br>&bull; Si no tienes el permiso \"Bypass HTTPS/www redirects\" y estás en un dominio diferente al que seleccionas, se te cerrará la sesión al guardar.<br>&bull; Una vez habilitado, evita hacer más cambios ya que puede afectar al SEO."
 
 msgid "Without WWW prefix"
-msgstr ""
+msgstr "Sin el prefijo WWW"
 
 msgid "With WWW prefix"
-msgstr ""
+msgstr "Con el prefijo WWW"
 
 msgid "Users will be redirected corresponding to the selected option.<br>Make sure your site is accessible for the option selected."
-msgstr ""
+msgstr "Los usuarios serán redirigidos según la opción seleccionada.<br>Asegúrese de que su sitio es accesible para la opción seleccionada."
 
 msgid "URL prefix redirect"
-msgstr ""
+msgstr "Redirección del prefijo de la URL"
 
 msgid "Enable mixed mode (both HTTP and HTTPS is allowed)."
-msgstr ""
+msgstr "Habilitar el modo mixto (se permite tanto HTTP como HTTPS)."
 
 msgid "Enable HTTPS and redirect all HTTP traffic (force HTTPS)."
-msgstr ""
+msgstr "Habilitar HTTPS y redirigir todo el tráfico HTTP (forzar HTTPS)."
 
 msgid "Before activating HTTPS support you must first configure your server with a valid SSL certificate.<br>For more information, see <a href=\":url\">@url</a>."
-msgstr ""
+msgstr "Antes de activar la compatibilidad con HTTPS, debe configurar su servidor con un certificado SSL válido.<br>Para más información, consulte <a href=\":url\">@url</a>."
 
 msgid "HTTP Secure (HTTPS) redirect"
-msgstr ""
+msgstr "Redirección segura HTTP (HTTPS)"
 
 msgid "Items selected:"
-msgstr ""
+msgstr "Elementos seleccionados:"
 
 msgid "Link Bundle Settings"
-msgstr ""
+msgstr "Configuración del paquete de enlaces"
 
 msgid "Processed %entity_type_id @last_id (@progress of @count)."
-msgstr ""
+msgstr "Procesado %entity_type_id @last_id (@progress of @count)."
 
 msgid "PayPal Checkout (Preferred)"
-msgstr ""
+msgstr "Pago con PayPal (preferido)"
 
 msgid "Administer HTTPS/www redirects"
-msgstr ""
+msgstr "Administrar las redirecciones HTTPS/www"
 
 msgid "Bypass HTTPS/www redirects"
-msgstr ""
+msgstr "Evitar las redirecciones HTTPS/www"
 
 msgid "Boardfy get"
-msgstr ""
+msgstr "El Consejo de Administración recibe"
 
 msgid "Boardfy post"
-msgstr ""
+msgstr "Puesto del Consejo de Administración"
 
 msgid "Administer Rules"
-msgstr ""
+msgstr "Administrar las normas"
 
 msgid "Administer Rules components"
-msgstr ""
+msgstr "Administrar los componentes de las reglas"
 
 msgid "Administer Rules reactions"
-msgstr ""
+msgstr "Administrar las reacciones de las reglas"
 
 msgid "Bypass Rules access control"
 msgstr "Saltarse el control de acceso de Rules"
 
 msgid "View Rules debug log"
-msgstr ""
+msgstr "Ver el registro de depuración de las reglas"
 
 msgid "Allows configuration of HTTPS and www redirects."
-msgstr ""
+msgstr "Permite configurar las redirecciones HTTPS y www."
 
 msgid "Roles with whis permission will not be redirected to the preferred domain."
-msgstr ""
+msgstr "Los roles con permiso para susurrar no serán redirigidos al dominio preferido."
 
 msgid "Administer all Rules configurations and settings."
-msgstr ""
+msgstr "Administrar todas las configuraciones y ajustes de las reglas."
 
 msgid "Administer Rules component configurations and settings."
-msgstr ""
+msgstr "Administrar las configuraciones y ajustes del componente Rules."
 
 msgid "Administer Rules reaction configurations and settings."
-msgstr ""
+msgstr "Administrar las configuraciones y ajustes de la reacción de las reglas."
 
 msgid "Control all configurations regardless of permission restrictions of events, conditions or actions."
-msgstr ""
+msgstr "Controla todas las configuraciones independientemente de las restricciones de permisos de los eventos, condiciones o acciones."
 
 msgid "Access the Rules debug log."
-msgstr ""
+msgstr "Acceda al registro de depuración de reglas."
 
 msgid "Key Overrides"
-msgstr ""
+msgstr "Anulación de teclas"
 
 msgctxt "workflow transition"
 msgid "Place order"
@@ -81322,8 +81323,8 @@ msgstr "Realizar pedido"
 
 msgid "@count webform"
 msgid_plural "@count webforms"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Formulario web @count"
+msgstr[1] "Formularios web @count"
 
 msgctxt "workflow transition"
 msgid "Fulfill order"
@@ -81346,7 +81347,7 @@ msgid "Comment on this @label"
 msgstr "Comentar en esta @label"
 
 msgid "Clone Order"
-msgstr ""
+msgstr "Orden de clonación"
 
 msgctxt "workflow transition"
 msgid "Send shipment"
@@ -81357,10 +81358,10 @@ msgid "Cancel shipment"
 msgstr "Cancelar envío"
 
 msgid "Resend confirmation"
-msgstr ""
+msgstr "Reenviar confirmación"
 
 msgid "Add shipment"
-msgstr ""
+msgstr "Añadir envío"
 
 msgid "("
 msgstr "("
@@ -82583,160 +82584,167 @@ msgid "Could not write to temporary output file for result export (@file). Check
 msgstr "No se pudo escribir en el archivo temporal de salida para la exportación de resultados (@file). Compruebe los permisos."
 
 msgid "mail"
-msgstr ""
+msgstr "correo"
 
 msgid "search_api_db"
 msgstr ""
 
 msgid "Pulsioxímetro"
-msgstr ""
+msgstr "Pulsioxímetro"
 
 msgid "Biblioteca de Paragraphs"
-msgstr ""
+msgstr "Biblioteca de Paragraphs"
 
 msgid "It is recommended to <a href=\":configure-url\">configure</a> JSON:API to only accept all operations if the site requires it. <a href=\":docs\">Learn more about securing your site with JSON:API.</a>"
-msgstr ""
+msgstr "Se recomienda <a href=\":configure-url\">configurar</a> JSON:API para que sólo acepte todas las operaciones si el sitio lo requiere. <a href=\":docs\">Aprenda más sobre la seguridad de su sitio con JSON:API.</a>"
 
 msgid "Granting anonymous users permission to access user\n"
 "        profiles poses a security risk because it allows users who are not logged\n"
 "        into the site to obtain usernames. More information is available in the\n"
 "        module README or on the <a href=\":url\">@link_text</a>"
-msgstr ""
+msgstr "Conceder a los usuarios anónimos permiso para acceder a los perfiles de los usuarios\n"
+"        usuarios plantea un riesgo de seguridad porque permite a los usuarios que no están\n"
+"        en el sitio para obtener los nombres de usuario. Hay más información disponible en el\n"
+"        módulo README o en el <a href=\":url\">@link_text</a>"
 
 msgid "Node is promoted"
-msgstr ""
+msgstr "El nodo es ascendido"
 
 msgid "Node is sticky"
-msgstr ""
+msgstr "El nodo está adherido"
 
 msgid "Product from URL"
 msgstr "Producto de la URL"
 
 msgid "The data to be checked to be empty, specified by using a data selector, e.g. 'node.uid.entity.name.value'."
-msgstr ""
+msgstr "Los datos que deben comprobarse están vacíos, y se especifican utilizando un selector de datos, por ejemplo, \"nodo.uid.entidad.nombre.valor\"."
 
 msgid "IP address is banned"
-msgstr ""
+msgstr "La dirección IP está prohibida"
 
 msgid "Entity is new"
-msgstr ""
+msgstr "La entidad es nueva"
 
 msgid "The data to be compared, specified by using a data selector, e.g. 'node.uid.entity.name.value'."
-msgstr ""
+msgstr "Los datos que se van a comparar, especificados mediante un selector de datos, por ejemplo, \"nodo.uid.entidad.nombre.valor\"."
 
 msgid "Security Review is starting."
-msgstr ""
+msgstr "Comienza la revisión de seguridad."
 
 msgid "An error occurred. Rerun the process or consult the logs."
-msgstr ""
+msgstr "Se ha producido un error. Vuelva a ejecutar el proceso o consulte los registros."
 
 msgid "Performing Security Review"
-msgstr ""
+msgstr "Realización de la revisión de seguridad"
 
 msgid "Progress @current out of @total."
-msgstr ""
+msgstr "Progreso @actual de @total."
 
 msgid "Your web server should not be able to write to your modules directory. This is a security vulnerable. Consult the Security Review file permissions check help for mitigation steps."
-msgstr ""
+msgstr "Su servidor web no debería poder escribir en su directorio de módulos. Esto es un problema de seguridad. Consulte la ayuda de comprobación de permisos de archivos de la Revisión de Seguridad para conocer los pasos de mitigación."
 
 msgid "Review complete"
-msgstr ""
+msgstr "Revisión completa"
 
 msgid "Review results from last run @date"
-msgstr ""
+msgstr "Revisar los resultados de la última ejecución @fecha"
 
 msgid "Here you can review the results from the last run of the checklist. Checks\n"
 "    are not always perfectly correct in their procedure and result. You can keep\n"
 "    a check from running by clicking the 'Skip' link beside it. You can run the\n"
 "    checklist again by expanding the fieldset above."
-msgstr ""
+msgstr "Aquí puede revisar los resultados de la última ejecución de la lista de comprobación. Las comprobaciones\n"
+"    no siempre son perfectamente correctas en su procedimiento y resultado. Puede evitar que\n"
+"    puede evitar que se ejecute una comprobación haciendo clic en el enlace \"Omitir\" que aparece junto a ella. Puede volver a ejecutar la\n"
+"    lista de comprobación ampliando el conjunto de campos anterior."
 
 msgid "Only safe extensions are allowed for uploaded files and images."
-msgstr ""
+msgstr "Sólo se permiten extensiones seguras para los archivos e imágenes subidos."
 
 msgid "Dangerous tags were not found in any submitted content (fields)."
-msgstr ""
+msgstr "No se encontraron etiquetas peligrosas en ningún contenido enviado (campos)."
 
 msgid "Untrusted roles do not have administrative or trusted Drupal permissions."
-msgstr ""
+msgstr "Los roles no confiables no tienen permisos administrativos o de confianza para Drupal."
 
 msgid "Errors are written to the screen."
-msgstr ""
+msgstr "Los errores se escriben en la pantalla."
 
 msgid "The .htaccess file in the files directory is writable."
-msgstr ""
+msgstr "The .htaccess file in the files directory is writable."
 
 msgid "Some files and directories in your install are writable by the server."
-msgstr ""
+msgstr "Algunos archivos y directorios de su instalación pueden ser escritos por el servidor."
 
 msgid "Private files directory is outside the web server root."
-msgstr ""
+msgstr "El directorio de archivos privados está fuera de la raíz del servidor web."
 
 msgid "No sensitive temporary files were found."
-msgstr ""
+msgstr "No se han encontrado archivos temporales sensibles."
 
 msgid "Untrusted users are allowed to input dangerous HTML tags."
-msgstr ""
+msgstr "Los usuarios que no son de confianza pueden introducir etiquetas HTML peligrosas."
 
 msgid "Either $base_url or trusted_host_patterns is set."
-msgstr ""
+msgstr "O bien $base_url o bien trusted_host_patterns están establecidos."
 
 msgid "There are Views that do not provide any access checks."
-msgstr ""
+msgstr "Hay Vistas que no proporcionan ninguna comprobación de acceso."
 
 msgid "There are failed Security Review checks. <a href=\":url\">Review the checklist</a>"
-msgstr ""
+msgstr "Hay controles de revisión de seguridad fallidos. <a href=\":url\">Revisar la lista de control</a>"
 
 msgid "security_review"
 msgstr ""
 
 msgid "Could not load the following items on index %index: @items."
-msgstr ""
+msgstr "No se han podido cargar los siguientes elementos en el índice %index: @items."
 
+#, fuzzy
 msgid "Devel Logging Mailer"
 msgstr ""
 
 msgid "Webform PHP mailer"
-msgstr ""
+msgstr "Formulario web PHP mailer"
 
 msgid "Select the standard plugin for formatting an email before sending it. This plugin implements <a href=\":interface\">@interface</a> and in special the <a href=\":format\">@format</a> function."
-msgstr ""
+msgstr "Seleccione el plugin estándar para formatear un correo electrónico antes de enviarlo. Este plugin implementa <a href=\":interface\">@interface</a> y en especial la función <a href=\":format\">@format</a>."
 
 msgid "Select the standard plugin for sending an email after formatting it. This plugin implements <a href=\":interface\">@interface</a> and in special the <a href=\":mail\">@mail</a> function."
-msgstr ""
+msgstr "Seleccione el plugin estándar para enviar un correo electrónico después de formatearlo. Este plugin implementa <a href=\":interface\">@interface</a> y en especial la función <a href=\":mail\">@mail</a>."
 
 msgid "Theme to render the emails"
-msgstr ""
+msgstr "Tema para la representación de los correos electrónicos"
 
 msgid "Select the theme that will be used to render emails which are configured for this. This can be either the current theme, the default theme, the domain theme or any active theme."
-msgstr ""
+msgstr "Seleccione el tema que se utilizará para representar los correos electrónicos configurados para ello. Puede ser el tema actual, el tema por defecto, el tema del dominio o cualquier tema activo."
 
 msgid "Default Mail System"
-msgstr ""
+msgstr "Sistema de correo por defecto"
 
 msgid "The key is used to identify specific mails if the module sends more than one. Leave empty to use the configuration for all mails sent by the selected module."
-msgstr ""
+msgstr "La clave se utiliza para identificar correos específicos si el módulo envía más de uno. Déjelo vacío para utilizar la configuración para todos los correos enviados por el módulo seleccionado."
 
 msgid "Formatter plugin"
-msgstr ""
+msgstr "Plugin del formateador"
 
 msgid "Sender plugin"
-msgstr ""
+msgstr "Plugin del remitente"
 
 msgid "No specific configuration yet."
-msgstr ""
+msgstr "Todavía no hay una configuración específica."
 
 msgid "Module-specific configuration"
-msgstr ""
+msgstr "Configuración específica del módulo"
 
 msgid "Configure the Mail System"
-msgstr ""
+msgstr "Configurar el sistema de correo"
 
 msgid "Thanks for installing SMTP Authentication Support"
-msgstr ""
+msgstr "Gracias por instalar el soporte de autenticación SMTP"
 
 msgid "Server settings on <a href=\"@url_settings\">SMTP Authentication Support</a>"
-msgstr ""
+msgstr "Ajustes del servidor en <a href=\"@url_settings\">Soporte de autenticación de SMTP</a>"
 
 msgid "SMTP Authentication"
 msgstr "Autenticación SMTP"
@@ -82820,142 +82828,143 @@ msgid "Sending mail to: @to"
 msgstr "Enviando correo a: @to"
 
 msgid "SMTP module is managed by <a href=\":mailsystem\">the mail system module</a>"
-msgstr ""
+msgstr "El módulo SMTP es gestionado por <a href=\":mailsystem\">el módulo de sistema de correo</a>."
 
 msgid "Disabled fields are overridden in site-specific configuration file."
-msgstr ""
+msgstr "Los campos deshabilitados se anulan en el archivo de configuración específico del sitio."
 
 msgid "The address of your outgoing SMTP backup server. If the primary server can\\'t be found this one will be tried. This is optional."
-msgstr ""
+msgstr "La dirección de su servidor de respaldo SMTP saliente. Si no se puede encontrar el servidor primario, se intentará con éste. Esto es opcional."
 
 msgid "The default SMTP port is 25, if that is being blocked try 80. Gmail uses 465. See :url for more information on configuring for use with Gmail."
-msgstr ""
+msgstr "El puerto SMTP por defecto es el 25, si está bloqueado prueba con el 80. Gmail utiliza el 465. Consulte :url para obtener más información sobre la configuración para su uso con Gmail."
 
 msgid "Enable TLS encryption automatically"
-msgstr ""
+msgstr "Activar automáticamente el cifrado TLS"
 
 msgid "Whether to enable TLS encryption automatically if a server supports it, even if the protocol is not set to \"tls\"."
-msgstr ""
+msgstr "Si se activa el cifrado TLS automáticamente si un servidor lo soporta, incluso si el protocolo no está configurado como \"tls\"."
 
 msgid "Amount of seconds for the SMTP commands to timeout."
-msgstr ""
+msgstr "Cantidad de segundos para el tiempo de espera de los comandos SMTP."
 
+#, fuzzy
 msgid "Turn on the SMTP keep alive feature"
-msgstr ""
+msgstr "Activar la función SMTP keep alive"
 
 msgid "Enabling this option will keep the SMTP connection open instead of it being openned and then closed for each mail"
-msgstr ""
+msgstr "Al activar esta opción, la conexión SMTP se mantendrá abierta en lugar de abrirse y cerrarse para cada correo."
 
 msgid "SMTP password. If you have already entered your password before, you should leave this field blank, unless you want to change the stored password. Please note that this password will be stored as plain-text inside Drupal\\'s core configuration variables."
-msgstr ""
+msgstr "Contraseña SMTP. Si ya ha introducido su contraseña anteriormente, debe dejar este campo en blanco, a menos que quiera cambiar la contraseña almacenada. Tenga en cuenta que esta contraseña se almacenará como texto plano dentro de las variables de configuración del núcleo de Drupal."
 
 msgid "The name that all e-mails will be from. If left blank will use a default of: @name . Some providers (such as Office365) may ignore this field. For more information, please check SMTP module documentation and your email provider documentation."
-msgstr ""
+msgstr "El nombre del que provendrán todos los correos electrónicos. Si se deja en blanco se utilizará el nombre por defecto: @nombre . Algunos proveedores (como Office365) pueden ignorar este campo. Para más información, consulte la documentación del módulo SMTP y la de su proveedor de correo electrónico."
 
 msgid "Allow to send e-mails formatted as HTML"
-msgstr ""
+msgstr "Permitir el envío de correos electrónicos con formato HTML"
 
 msgid "Checking this box will allow HTML formatted e-mails to be sent with the SMTP protocol."
-msgstr ""
+msgstr "Si se marca esta casilla, se podrán enviar correos electrónicos con formato HTML con el protocolo SMTP."
 
 msgid "The hostname to use in the Message-Id and Received headers, and as the default HELO string. Leave blank for using %server_name."
-msgstr ""
+msgstr "El nombre de host a utilizar en las cabeceras Message-Id y Received, y como cadena HELO por defecto. Dejar en blanco para usar %nombre_servidor."
 
 msgid "HELO"
-msgstr ""
+msgstr "HELO"
 
 msgid "The SMTP HELO/EHLO of the message. Defaults to hostname (see above)."
-msgstr ""
+msgstr "El HELO/EHLO SMTP del mensaje. Por defecto es el nombre del host (ver arriba)."
 
 msgid "SMTP client settings"
-msgstr ""
+msgstr "Configuración del cliente SMTP"
 
 msgid "If you receive this message it means your site is capable of using SMTP to send e-mail."
-msgstr ""
+msgstr "Si recibe este mensaje significa que su sitio es capaz de utilizar SMTP para enviar correo electrónico."
 
 msgid "Drupal SMTP test e-mail"
-msgstr ""
+msgstr "Prueba de correo electrónico SMTP de Drupal"
 
 msgid "A test e-mail has been sent to @email via SMTP. You may want to check the log for any error messages."
-msgstr ""
+msgstr "Se ha enviado un correo electrónico de prueba a @email a través de SMTP. Puede comprobar el registro para ver si hay algún mensaje de error."
 
 msgid "The username %value is already taken."
-msgstr ""
+msgstr "El nombre de usuario %value ya está ocupado."
 
 msgid "The URL alias has to start with a slash and cannot end with a slash."
-msgstr ""
+msgstr "El alias de la URL tiene que empezar con una barra y no puede terminar con una barra."
 
 msgid "If multiple email addresses are entered the '@name' will be not included in the email."
-msgstr ""
+msgstr "Si se introducen varias direcciones de correo electrónico, el \"@nombre\" no se incluirá en el correo electrónico."
 
 msgid "This is the \"To:\" email header which will be the person(s) responsible for receiving this webform."
-msgstr ""
+msgstr "Este es el encabezado del correo electrónico \"Para:\" que será la persona(s) responsable(s) de recibir este formulario web."
 
 msgid "Send from (website/domain)"
-msgstr ""
+msgstr "Enviar desde (sitio web/dominio)"
 
 msgid "This is the \"From:\" email header which should come from <em>you</em>.  It should be your brand, company, organization, or website entity."
-msgstr ""
+msgstr "Este es el encabezado del correo electrónico \"De:\" que debe provenir de <em>usted</em>.  Debe ser su marca, empresa, organización o entidad del sitio web."
 
 msgid "Reply to (individual/organization)"
-msgstr ""
+msgstr "Responder a (persona/organización)"
 
 msgid "The \"Reply-To:\" email header is used for replying to the email that is received.  For example, if you collect a customers email, you would want to reply-to them. If you collect a lead generation form and want to reply to the coordinator, you would reply-to them."
-msgstr ""
+msgstr "La cabecera \"Reply-To:\" se utiliza para responder al correo electrónico recibido.  Por ejemplo, si recoge el correo electrónico de un cliente, querrá responderle. Si recoge un formulario de generación de clientes potenciales y desea responder al coordinador, deberá responderle."
 
 msgid "Entered text will be displayed on the handlers administrative page and replace this handler's default description."
-msgstr ""
+msgstr "El texto introducido se mostrará en la página de administración de los manejadores y reemplazará la descripción por defecto de este manejador."
 
 msgid "Administrative notes"
-msgstr ""
+msgstr "Notas administrativas"
 
 msgid "Less than/Equal to"
-msgstr ""
+msgstr "Menos que/igual a"
 
 msgid "Greater than/Equal to"
-msgstr ""
+msgstr "Mayor que/igual que"
 
 msgid "Not between"
-msgstr ""
+msgstr "No entre"
 
 msgid "@form webform sent @title email."
-msgstr ""
+msgstr "@formulario web enviado @title email."
 
 msgid "@title created."
-msgstr ""
+msgstr "@título creado."
 
 msgid "Webform settings %label has been saved."
-msgstr ""
+msgstr "Se ha guardado la configuración del formulario web %label."
 
 msgid "Webform @label handler saved."
-msgstr ""
+msgstr "Manejador de @label del formulario web guardado."
 
 msgid "Webform settings @label has been saved."
-msgstr ""
+msgstr "Se ha guardado la etiqueta de configuración del formulario web."
 
 msgid "SMTP Mailer"
-msgstr ""
+msgstr "Correo SMTP"
 
 msgid "Redirect loop identified at %path for redirect %rid"
-msgstr ""
+msgstr "Bucle de redirección identificado en %ruta para la redirección %rid"
 
 msgid "Display @label"
-msgstr ""
+msgstr "Mostrar @etiqueta"
 
 msgid "The discount percentage amount"
-msgstr ""
+msgstr "El importe del porcentaje de descuento"
 
 msgid "Use one string per line."
-msgstr ""
+msgstr "Utilice una cadena por línea."
 
 msgid "Please specify"
-msgstr ""
+msgstr "Por favor, especifique"
 
 msgid "Please use only lowercase letters, numbers, and underscores."
-msgstr ""
+msgstr "Por favor, utilice sólo letras minúsculas, números y guiones bajos."
 
 msgid "Autorecalculate: Yes"
-msgstr ""
+msgstr "Cálculo automático: Sí"
 
 msgid "Display checkout progress breadcrumb as links"
 msgstr "Mostrar las migas de pan del progreso de la compra como enlaces"
@@ -82964,28 +82973,28 @@ msgid "Let the checkout progress block render the breadcrumb as links."
 msgstr "Dejar que el bloque de progreso de pago represente la ruta de navegación como enlaces."
 
 msgid "Auto recalculate shipping costs when the shipping address changes"
-msgstr ""
+msgstr "Recalcular automáticamente los gastos de envío cuando la dirección de envío cambia"
 
 msgid "The admin-facing name."
-msgstr ""
+msgstr "El nombre para el administrador."
 
 msgid "The user-facing name. If provided, shown on user pages instead of the admin-facing name."
-msgstr ""
+msgstr "El nombre para el usuario. Si se proporciona, se muestra en las páginas de los usuarios en lugar del nombre que se ve en la administración."
 
 msgid "Allow multiple profiles per user"
-msgstr ""
+msgstr "Permitir varios perfiles por usuario"
 
 msgid "Include in user registration form"
-msgstr ""
+msgstr "Incluir en el formulario de registro del usuario"
 
 msgid "Limit the users that can have this profile by role.</br><em>None will indicate that all users can have this profile type.</em>"
-msgstr ""
+msgstr "Limita los usuarios que pueden tener este perfil por rol.</br><em>Ninguno indicará que todos los usuarios pueden tener este tipo de perfil.</em>"
 
 msgid "Allow profiles of this type to be revisioned"
-msgstr ""
+msgstr "Permitir la revisión de perfiles de este tipo"
 
 msgid "Create a new revision when a profile is modified"
-msgstr ""
+msgstr "Crear una nueva revisión cuando se modifica un perfil"
 
 msgid "Profiles of this type represent Commerce customer profiles"
 msgstr "Los perfiles de este tipo representan los perfiles de los clientes de Commerce"
@@ -82994,19 +83003,19 @@ msgid "Used to store the customer's billing or shipping information."
 msgstr "Se utiliza para almacenar la información de facturación o envío del cliente."
 
 msgid "profile type"
-msgstr ""
+msgstr "tipo de perfil"
 
 msgid "This is a private field."
-msgstr ""
+msgstr "Este es un campo privado."
 
 msgid "submission of a value in the honeypot field"
-msgstr ""
+msgstr "presentación de un valor en el campo honeypot"
 
 msgid "Administer SMTP Authentication Support module"
-msgstr ""
+msgstr "Administrar el módulo de soporte de autenticación SMTP"
 
 msgid "Perform administration tasks for SMTP Authentication Support module."
-msgstr ""
+msgstr "Realice las tareas de administración del módulo de soporte de autenticación SMTP."
 
 msgid "There are no enabled @label yet."
 msgstr "Aún no hay @label habilitadas."
@@ -83036,31 +83045,31 @@ msgid "Changing the outline of a book"
 msgstr "Cambiando el contorno de un libro"
 
 msgid "Field Formatters"
-msgstr ""
+msgstr "Formateadores de campos"
 
 msgid "Provides hierarchical term formatters for taxonomy reference fields."
-msgstr ""
+msgstr "Proporciona formateadores de términos jerárquicos para los campos de referencia de la taxonomía."
 
 msgid "SMTP: PHPMailer library"
-msgstr ""
+msgstr "SMTP: Biblioteca PHPMailer"
 
 msgid "SMTP connection"
-msgstr ""
+msgstr "Conexión SMTP"
 
 msgid "SMTP module is enabled but turned off."
-msgstr ""
+msgstr "El módulo SMTP está habilitado pero desactivado."
 
 msgid "Send customer an email confirmation when shipped"
-msgstr ""
+msgstr "Enviar al cliente una confirmación por correo electrónico cuando se envíe"
 
 msgid "Send a copy of the shipment confirmation to this email:"
-msgstr ""
+msgstr "Envíe una copia de la confirmación del envío a este correo electrónico:"
 
 msgid "PHPMailer is located at %path"
-msgstr ""
+msgstr "PHPMailer se encuentra en %ruta"
 
 msgid "Envío de <em class=\"placeholder\">user_register_form</em> bloqueado debido a submission of a value in the honeypot field."
-msgstr ""
+msgstr "Envío de <em class=\"placeholder\">user_register_form</em> bloqueado debido a un envío de un valor en el campo honeypot."
 
 msgid "links"
 msgstr "enlaces"
@@ -83072,52 +83081,52 @@ msgid "Additional options"
 msgstr "Opciones adicionales"
 
 msgid "As a form of hardening your site you should avoid information disclosure. Drupal by default prints errors to the screen and writes them to the log. Error messages disclose the full path to the file where the error occurred."
-msgstr ""
+msgstr "Como forma de endurecer su sitio debe evitar la divulgación de información. Drupal por defecto imprime los errores en la pantalla y los escribe en el registro. Los mensajes de error revelan la ruta completa del archivo donde se produjo el error."
 
 msgid "You have error reporting set to both the screen and the log."
-msgstr ""
+msgstr "Tiene configurado el informe de errores tanto en la pantalla como en el registro."
 
 msgid "Alter error reporting settings."
-msgstr ""
+msgstr "Alterar la configuración de los informes de error."
 
 msgid "Enter the displayed name for the index."
-msgstr ""
+msgstr "Introduzca el nombre mostrado para el índice."
 
 msgid "Select one or more datasources of items that will be stored in this index."
-msgstr ""
+msgstr "Seleccione una o más fuentes de datos de artículos que se almacenarán en este índice."
 
 msgid "Which bundles should be indexed?"
-msgstr ""
+msgstr "¿Qué paquetes deben ser indexados?"
 
 msgid "Configure the %datasource datasource"
-msgstr ""
+msgstr "Configurar la fuente de datos %datasource"
 
 msgid "Index items in the same order in which they were saved"
-msgstr ""
+msgstr "Indexar los elementos en el mismo orden en que fueron guardados"
 
 msgid "The order in which items will be indexed."
-msgstr ""
+msgstr "El orden en que se indexarán los elementos."
 
 msgid "Configure the %plugin tracker"
-msgstr ""
+msgstr "Configurar el rastreador %plugin"
 
 msgid "Default index tracker which uses a simple database table for tracking items."
-msgstr ""
+msgstr "Rastreador de índices por defecto que utiliza una simple tabla de base de datos para el seguimiento de los artículos."
 
 msgid "Select the server this index should use. Indexes cannot be enabled without a connection to a valid, enabled server."
-msgstr ""
+msgstr "Seleccione el servidor que debe utilizar este índice. Los índices no se pueden habilitar sin una conexión a un servidor válido y habilitado."
 
 msgid "Enter a description for the index."
-msgstr ""
+msgstr "Introduzca una descripción para el índice."
 
 msgid "Index items immediately"
-msgstr ""
+msgstr "Indexar los elementos inmediatamente"
 
 msgid "Immediately index new or updated items instead of waiting for the next cron run. This might have serious performance drawbacks and is generally not advised for larger sites."
-msgstr ""
+msgstr "Indexar inmediatamente los elementos nuevos o actualizados en lugar de esperar a la siguiente ejecución del cron. Esto puede tener serios inconvenientes de rendimiento y generalmente no se aconseja para sitios grandes."
 
 msgid "Set how many items will be indexed at once when indexing items during a cron run. \"0\" means that no items will be indexed by cron for this index, \"-1\" means that cron should index all items at once."
-msgstr ""
+msgstr "Establece cuántos elementos se indexarán a la vez cuando se indexen elementos durante una ejecución de cron. \"0\" significa que cron no indexará ningún elemento para este índice, \"-1\" significa que cron debe indexar todos los elementos a la vez."
 
 msgid "Exact match"
 msgstr "Coincidencia exacta"
@@ -84169,13 +84178,16 @@ msgid "Get started with AvaTax"
 msgstr "Empiece a trabajar con AvaTax"
 
 msgid "Allow user to take ownership of  <em>@label</em> cloned entities"
-msgstr ""
+msgstr "Permitir al usuario tomar la propiedad de las entidades clonadas de <em>@label</em>."
 
 msgid "An attempt to send an e-mail message failed, and the following error\n"
 "        message was returned : @exception_message<br /><br />The e-mail carried\n"
 "        the following headers:<br /><br />@headers"
-msgstr ""
+msgstr "Un intento de enviar un mensaje de correo electrónico falló, y se devolvió el siguiente mensaje de error\n"
+"        mensaje de error : @mensaje_de_excepción<br /><br />El correo electrónico llevaba\n"
+"        las siguientes cabeceras:<br /><br />@headers"
 
+#, fuzzy
 msgid "swiftmailer"
 msgstr ""
 
@@ -84184,157 +84196,163 @@ msgid "<ul>\n"
 "        <li>Remove quotes around phrases to search for each word individually. <em>bike shed</em> will often show more results than <em>&quot;bike shed&quot;</em>.</li>\n"
 "        <li>Consider loosening your query with <em>OR</em>. <em>bike OR shed</em> will often show more results than <em>bike shed</em>.</li>\n"
 "        </ul>"
-msgstr ""
+msgstr "<ul>\n"
+"        <li>Comprueba si tu ortografía es correcta.</li>.\n"
+"        <li>Quita las comillas de las frases para buscar cada palabra por separado. <em>cobertizo para bicicletas</em> suele mostrar más resultados que <em>&quot;cobertizo para bicicletas&quot;</em>.</li> <li>\n"
+"        <li>Considere la posibilidad de aflojar su consulta con <em>OR</em>. <em>bicicleta O cobertizo</em> a menudo mostrará más resultados que <em>cobertizo para bicicletas</em>.</li> <li>\n"
+"        </ul>"
 
 msgid "Lubricantes y Geles Masaje"
-msgstr ""
+msgstr "Lubricantes y Geles Masaje"
 
 msgid "<p>The data type of a field determines how it can be used for searching and filtering. The boost is used to give additional weight to certain fields, for example titles or tags.</p> <p>For information about the data types available for indexing, see the <a href=\":url\">data types table</a> at the bottom of the page.</p>"
-msgstr ""
+msgstr "<p>El tipo de datos de un campo determina cómo se puede utilizar para la búsqueda y el filtrado. El impulso se utiliza para dar un peso adicional a ciertos campos, por ejemplo, los títulos o las etiquetas.</p> <p>Para obtener información sobre los tipos de datos disponibles para la indexación, consulte la <a href=\":url\">tabla de tipos de datos</a> al final de la página.</p>"
 
 msgid "Contains numeric, typically non-integer values."
-msgstr ""
+msgstr "Contiene valores numéricos, normalmente no enteros."
 
 msgid "Boolean fields can only have one of two values: true or false."
-msgstr ""
+msgstr "Los campos booleanos sólo pueden tener uno de dos valores: verdadero o falso."
 
 msgid "Fulltext fields are analyzed fields which are made available for fulltext search. This data type should be used for any fields (usually with free text input by users) which you want to search for individual words."
-msgstr ""
+msgstr "Los campos de texto completo son campos analizados que están disponibles para la búsqueda de texto completo. Este tipo de datos debe utilizarse para cualquier campo (normalmente con entrada de texto libre por parte de los usuarios) en el que se desee buscar palabras individuales."
 
 msgid "Represents points in time."
-msgstr ""
+msgstr "Representa puntos en el tiempo."
 
 msgid "String fields are used for short, keyword-like character strings where you only want to find complete field values, not individual words."
-msgstr ""
+msgstr "Los campos de cadena se utilizan para cadenas de caracteres cortas, similares a palabras clave, en las que sólo se desea encontrar valores de campo completos, no palabras individuales."
 
 msgid "The data types which can be used for indexing fields in this index. Whether a type is supported depends on the backend of the index's server. If a type is not supported, the fallback type that will be used instead is shown, too."
-msgstr ""
+msgstr "Los tipos de datos que pueden utilizarse para indexar campos en este índice. El hecho de que un tipo esté soportado depende del backend del servidor del índice. Si un tipo no está soportado, también se muestra el tipo alternativo que se utilizará en su lugar."
 
 msgid "Manage fields for search index %label"
-msgstr ""
+msgstr "Gestionar los campos para el índice de búsqueda %label"
 
 msgid "Language (with fallback)"
-msgstr ""
+msgstr "Idioma (con retroceso)"
 
 msgid "Rendered item"
-msgstr ""
+msgstr "Elemento renderizado"
 
 msgid "Ignore characters"
-msgstr ""
+msgstr "Ignorar caracteres"
 
 msgid "Type-specific boosting"
-msgstr ""
+msgstr "Potenciación específica del tipo"
 
 msgid "Reverse entity references"
-msgstr ""
+msgstr "Referencias de entidades inversas"
 
 msgid "Stopwords"
-msgstr ""
+msgstr "Palabras clave"
 
+#, fuzzy
 msgid "Stemmer"
 msgstr ""
 
+#, fuzzy
 msgid "Configure processors which will pre- and post-process data at index and search time. Find more information on the <a href=\":url\" target=\"_blank\">processors documentation page</a>."
-msgstr ""
+msgstr "Configure los procesos que pre y postprocesarán los datos en el momento de la indexación y la búsqueda. Para más información, consulte la página de documentación de los procesadores <a href=\":url\" target=\"_blank\">."
 
 msgid "Adds a highlighted excerpt to results and highlights returned fields."
-msgstr ""
+msgstr "Añade un extracto resaltado a los resultados y resalta los campos devueltos."
 
 msgid "Exclude inactive users and unpublished entities (which have a \"Published\" state) from being indexed."
-msgstr ""
+msgstr "Excluir de la indexación a los usuarios inactivos y a las entidades no publicadas (que tienen un estado \"Publicado\")."
 
 msgid "Strips HTML tags from fulltext fields and decodes HTML entities. Use this processor when indexing HTML data – for example, node bodies for certain text formats. The processor also allows to boost (or ignore) the contents of specific elements."
-msgstr ""
+msgstr "Elimina las etiquetas HTML de los campos de texto completo y descodifica las entidades HTML. Utilice este procesador cuando indexe datos HTML, por ejemplo, cuerpos de nodos para determinados formatos de texto. El procesador también permite potenciar (o ignorar) el contenido de elementos específicos."
 
 msgid "Makes searches case-insensitive on selected fields."
-msgstr ""
+msgstr "Hace que las búsquedas no distingan entre mayúsculas y minúsculas en los campos seleccionados."
 
 msgid "Configure types of characters which should be ignored for searches."
-msgstr ""
+msgstr "Configurar los tipos de caracteres que deben ser ignorados en las búsquedas."
 
 msgid "Allows indexing of entities that link to the indexed entity."
-msgstr ""
+msgstr "Permite la indexación de las entidades que enlazan con la entidad indexada."
 
 msgid "Stems search terms (for example, <em>talking</em> to <em>talk</em>). Currently, this only acts on English language content. It uses the Porter 2 stemmer algorithm (<a href=\"https://wikipedia.org/wiki/Stemming\">More information</a>). For best results, use after tokenizing."
-msgstr ""
+msgstr "Busca los términos de búsqueda (por ejemplo, <em>hablar</em> a <em>hablar</em>). Actualmente, sólo actúa sobre contenidos en inglés. Utiliza el algoritmo Porter 2 stemmer (<a href=\"https://wikipedia.org/wiki/Stemming\">Más información</a>). Para obtener los mejores resultados, utilícelo después de la tokenización."
 
 msgid "Allows you to define stopwords which will be ignored in searches. <strong>Caution:</strong> Only use after both 'Ignore case' and 'Tokenizer' have run."
-msgstr ""
+msgstr "Permite definir palabras de parada que serán ignoradas en las búsquedas. <strong>Precaución:</strong> Utilizar sólo después de que se hayan ejecutado 'Ignorar caso' y 'Tokenizer'."
 
 msgid "Splits text into individual words for searching."
-msgstr ""
+msgstr "Divide el texto en palabras individuales para la búsqueda."
 
 msgid "Makes searches insensitive to accents and other non-ASCII characters."
-msgstr ""
+msgstr "Hace que las búsquedas sean insensibles a los acentos y otros caracteres no ASCII."
 
 msgid "Adds a boost to indexed items based on their datasource and/or bundle."
-msgstr ""
+msgstr "Añade un impulso a los elementos indexados en función de su fuente de datos y/o paquete."
 
 msgid "Preprocess index"
-msgstr ""
+msgstr "Índice de preprocesamiento"
 
 msgid "Preprocess query"
-msgstr ""
+msgstr "Consulta de preprocesamiento"
 
 msgid "Postprocess query"
-msgstr ""
+msgstr "Consulta de postproceso"
 
 msgid "If the server returns fields"
-msgstr ""
+msgstr "Si el servidor devuelve los campos"
 
 msgid "Highlight returned field data"
-msgstr ""
+msgstr "Resaltar los datos del campo devuelto"
 
 msgid "Select whether returned fields should be highlighted."
-msgstr ""
+msgstr "Seleccione si los campos devueltos deben ser resaltados."
 
 msgid "Highlight partial matches"
-msgstr ""
+msgstr "Resaltar las coincidencias parciales"
 
 msgid "When enabled, matches in parts of words will be highlighted as well."
-msgstr ""
+msgstr "Cuando se activa, las coincidencias en partes de palabras también se resaltan."
 
 msgid "When enabled, an excerpt will be created for searches with keywords, containing all occurrences of keywords in a fulltext field."
-msgstr ""
+msgstr "Si se activa, se creará un fragmento para las búsquedas con palabras clave, que contendrá todas las apariciones de las palabras clave en un campo de texto completo."
 
 msgid "The requested length of the excerpt, in characters"
-msgstr ""
+msgstr "La longitud solicitada del fragmento, en caracteres"
 
 msgid "Exclude certain fulltext fields from being included in the excerpt."
-msgstr ""
+msgstr "Excluir ciertos campos de texto completo de ser incluidos en el fragmento."
 
 msgid "Highlighting prefix"
-msgstr ""
+msgstr "Prefijo de resaltado"
 
 msgid "Text/HTML that will be prepended to all occurrences of search keywords in highlighted text"
-msgstr ""
+msgstr "Texto/HTML que se añadirá a todas las apariciones de las palabras clave de búsqueda en el texto resaltado"
 
 msgid "Highlighting suffix"
-msgstr ""
+msgstr "Sufijo de resaltado"
 
 msgid "Text/HTML that will be appended to all occurrences of search keywords in highlighted text"
-msgstr ""
+msgstr "Texto/HTML que se añadirá a todas las apariciones de las palabras clave de búsqueda en el texto resaltado"
 
 msgid "Enable on all supported fields"
-msgstr ""
+msgstr "Habilitar en todos los campos admitidos"
 
 msgid "Enable this processor for all supported fields. This will also automatically update the setting when new supported fields are added to the index."
-msgstr ""
+msgstr "Habilite este proceso para todos los campos admitidos. Esto también actualizará automáticamente la configuración cuando se añadan nuevos campos compatibles al índice."
 
 msgid "Enable this processor on the following fields"
-msgstr ""
+msgstr "Habilite este proceso en los siguientes campos"
 
 msgid "Note: The Search API currently doesn't support per-field keywords processing, so this setting will be ignored when preprocessing search keywords. It is therefore usually recommended that you enable the processor for all fields that you intend to use as fulltext search fields, to avoid undesired consequences."
-msgstr ""
+msgstr "Nota: Actualmente, la API de búsqueda no admite el procesamiento de palabras clave por campo, por lo que esta configuración se ignorará al preprocesar las palabras clave de búsqueda. Por lo tanto, normalmente se recomienda habilitar el procesador para todos los campos que se pretendan utilizar como campos de búsqueda de texto completo, para evitar consecuencias no deseadas."
 
 msgid "Specify special boost values for certain HTML elements, in <a href=\":url\">YAML file format</a>. The boost values of nested elements are multiplied, elements not mentioned will have the default boost value of 1. Assign a boost of 0 to ignore the text content of that HTML element."
-msgstr ""
+msgstr "Especifica valores boost especiales para ciertos elementos HTML, en formato <a href=\":url\">archivo YAML</a>. Los valores boost de los elementos anidados se multiplican, los elementos no mencionados tendrán el valor boost por defecto de 1. Asigne un boost de 0 para ignorar el contenido de texto de ese elemento HTML."
 
 msgid "Strip by regular expression"
-msgstr ""
+msgstr "Eliminación por expresión regular"
 
 msgid "Specify characters which should be removed from fulltext fields and search strings, as a <a href=\":url\">PCRE regular expression</a>."
-msgstr ""
+msgstr "Especifica los caracteres que deben eliminarse de los campos de texto completo y de las cadenas de búsqueda, como una <a href=\":url\">expresión regular PCRE</a>."
 
 msgid "Punctuation, Connector Characters"
 msgstr "Puntuación, caracteres del conector"
@@ -84349,13 +84367,13 @@ msgid "Punctuation, Final quote Characters"
 msgstr "Puntuación, caracteres de citas de cierre"
 
 msgid "Punctuation, Initial quote Characters"
-msgstr ""
+msgstr "Puntuación, comillas iniciales"
 
 msgid "Punctuation, Other Characters"
-msgstr ""
+msgstr "Puntuación, Otros caracteres"
 
 msgid "Punctuation, Open Characters"
-msgstr ""
+msgstr "Puntuación, caracteres abiertos"
 
 msgid "Other, Control Characters"
 msgstr "Otro, control de caractéres"
@@ -84400,7 +84418,7 @@ msgid "Ignored character properties"
 msgstr "Propiedades de carácter ignoradas"
 
 msgid "Strip by character property"
-msgstr ""
+msgstr "Eliminar por propiedad de carácter"
 
 msgid "Specify <a href=\":url\">Unicode character properties</a> of characters to be ignored."
 msgstr "Especifique <a href=\":url\"> propiedades de caracteres Unicode </a> de los caracteres que se ignorarán."
@@ -84551,13 +84569,13 @@ msgid "security"
 msgstr "seguridad"
 
 msgid "Resolved price"
-msgstr ""
+msgstr "Precio resuelto"
 
 msgid "This module enables users to login by email address."
-msgstr ""
+msgstr "Este módulo permite a los usuarios iniciar sesión por dirección de correo electrónico."
 
 msgid "Provides an \"add to cart\" confirmation screen."
-msgstr ""
+msgstr "Proporciona una pantalla de confirmación de \"añadir a la cesta\"."
 
 msgid "Add to cart confirmation"
 msgstr "Confirmación de adición a la cesta"
@@ -84733,7 +84751,7 @@ msgid "To create a list, provide a token for a multiple value field, or a comma-
 msgstr "Para crear una lista, proporcione un token para un campo de valor múltiple, o una lista de valores separada por comas."
 
 msgid "OR Provide the machine name of the view, and the machine name of the display, separated by a colon, i.e. 'view_name:display_id'. This will create a <a href=':url'>Summary View</a> list, which assumes each list item contains the url to a view page for the entity. The view rows should contain content (like teaser views) rather than fields for this to work correctly."
-msgstr ""
+msgstr "O Proporcione el nombre de la máquina de la vista, y el nombre de la máquina de la pantalla, separados por dos puntos, es decir, 'nombre_de_la_vista:id_de_la_pantalla'. Esto creará una lista <a href=':url'>Vista de resumen</a>, que asume que cada elemento de la lista contiene la url a una página de vista para la entidad. Para que esto funcione correctamente, las filas de la vista deben contener contenido (como las vistas de teaser) en lugar de campos."
 
 msgid "The end of the availability of the product or service included in the offer."
 msgstr "El fin de la disponibilidad del producto o servicio incluido en la oferta."
@@ -84748,7 +84766,7 @@ msgid "representativeOfPage"
 msgstr ""
 
 msgid "True or False, whether this element is accessible for free."
-msgstr ""
+msgstr "Verdadero o Falso, si este elemento es accesible de forma gratuita."
 
 msgid "List of class names of the parts of the web page that are not free, i.e. '.first-class', '.second-class'. Do NOT surround class names with quotation marks!"
 msgstr "Lista de nombres de clase de las partes de la página web que no son libres, es decir, '.first-class', '.second-class'. ¡NO rodee los nombres de las clases con comillas!"
