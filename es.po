@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-27 17:44+0200\n"
+"PO-Revision-Date: 2021-05-28 18:49+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -45891,376 +45891,376 @@ msgid "Displays the config differences for the search block in the Bartik theme.
 msgstr "Muestra las diferencias de configuración para el bloque de búsqueda en el tema Bartik."
 
 msgid "Revert one config item in active storage to the version provided by an installed module, theme, or install profile."
-msgstr ""
+msgstr "Revertir un elemento de configuración en el almacenamiento activo a la versión proporcionada por un módulo, tema o perfil de instalación instalado."
 
 msgid "The config item to revert. See config-different-report to list config items that are different."
-msgstr ""
+msgstr "El elemento de configuración a revertir. Ver config-different-report para listar los elementos de configuración que son diferentes."
 
 msgid "Revert the config for the search block in the Bartik theme to the version provided by the install profile."
-msgstr ""
+msgstr "Revertir la configuración del bloque de búsqueda en el tema Bartik a la versión proporcionada por el perfil de instalación."
 
 msgid "Import a missing or inactive config item provided by an installed module, theme, or install profile. Be sure that requirements are met."
-msgstr ""
+msgstr "Importar un elemento de configuración faltante o inactivo proporcionado por un módulo, tema o perfil de instalación instalado. Asegúrese de que se cumplen los requisitos."
 
 msgid "The name of the config item to import (usually the ID you would see in the user interface). See config-missing-report to list config items that are missing, and config-inactive-report to list config items that are inactive."
-msgstr ""
+msgstr "El nombre del elemento de configuración que se va a importar (normalmente el ID que se ve en la interfaz de usuario). Vea config-missing-report para listar los elementos de configuración que faltan, y config-inactive-report para listar los elementos de configuración que están inactivos."
 
 msgid "Import the config for the search block in the Bartik theme from the version provided by the install profile."
-msgstr ""
+msgstr "Importe la configuración del bloque de búsqueda en el tema Bartik desde la versión proporcionada por el perfil de instalación."
 
 msgid "Revert a set of config items to the versions provided by installed modules, themes, or install profiles. A set is all differing items from one extension, or one type of configuration."
-msgstr ""
+msgstr "Revertir un conjunto de elementos de configuración a las versiones proporcionadas por los módulos, temas o perfiles de instalación instalados. Un conjunto son todos los elementos diferentes de una extensión, o un tipo de configuración."
 
 msgid "Type of set to revert: \"module\" for all items from a module, \"theme\" for all items from a theme, \"profile\" for all items from the install profile, or \"type\" for all items of one config entity type. See config-different-report to list config items that are different."
-msgstr ""
+msgstr "Tipo de conjunto a revertir: \"módulo\" para todos los elementos de un módulo, \"tema\" para todos los elementos de un tema, \"perfil\" para todos los elementos del perfil de instalación, o \"tipo\" para todos los elementos de un tipo de entidad config. Ver config-different-report para listar los elementos de configuración que son diferentes."
 
 msgid "The machine name of the module, theme, etc. to revert items of. All items in the corresponding config-different-report will be reverted."
-msgstr ""
+msgstr "El nombre de la máquina del módulo, tema, etc. para revertir elementos. Se revertirán todos los elementos del informe config-different correspondiente."
 
 msgid "Revert all differing config items of type action."
-msgstr ""
+msgstr "Revertir todos los elementos de configuración diferentes del tipo de acción."
 
 msgid "Display release notes in HTML rather than plain text."
-msgstr ""
+msgstr "Mostrar las notas de publicación en HTML en lugar de en texto plano."
 
 msgid "Show drush version."
-msgstr ""
+msgstr "Mostrar la versión de drush."
 
 msgid "Print just the version number, and nothing else."
-msgstr ""
+msgstr "Imprime sólo el número de versión, y nada más."
 
 msgid "Select output format. Available: json, string, var_export, yaml. Default is key-value."
-msgstr ""
+msgstr "Seleccione el formato de salida. Disponible: json, string, var_export, yaml. Por defecto es clave-valor."
 
 msgid "Run all cron hooks in all active modules for specified site."
-msgstr ""
+msgstr "Ejecuta todos los ganchos cron en todos los módulos activos para el sitio especificado."
 
 msgid "Apply any database updates required (as with running update.php)."
-msgstr ""
+msgstr "Aplicar cualquier actualización de la base de datos que se requiera (como al ejecutar update.php)."
 
 msgid "Run automatic entity schema updates at the end of any update hooks. Defaults to --no-entity-updates."
-msgstr ""
+msgstr "Ejecuta actualizaciones automáticas del esquema de entidades al final de cualquier gancho de actualización. Por defecto, --no-entity-updates."
 
 msgid "Apply pending entity schema updates."
-msgstr ""
+msgstr "Aplicar las actualizaciones pendientes del esquema de entidades."
 
 msgid "Compile all Twig template(s)."
-msgstr ""
+msgstr "Compilar todas las plantillas Twig."
 
 msgid "List any pending database updates."
-msgstr ""
+msgstr "Enumerar las actualizaciones pendientes de la base de datos."
 
 msgid "Select output format. Available: table, csv, html, json, list, var_export, yaml. Default is table."
-msgstr ""
+msgstr "Seleccione el formato de salida. Disponible: tabla, csv, html, json, lista, var_export, yaml. Por defecto es tabla."
 
 msgid "Edit drushrc, site alias, and Drupal settings.php files."
-msgstr ""
+msgstr "Edite los archivos drushrc, site alias y Drupal settings.php."
 
 msgid "A substring for filtering the list of files. Omit this argument to choose from loaded files."
-msgstr ""
+msgstr "Una subcadena para filtrar la lista de archivos. Omita este argumento para elegir entre los archivos cargados."
 
 msgid "Pick from a list of config/alias/settings files. Open selected in editor."
-msgstr ""
+msgstr "Elija de una lista de archivos de configuración/alias/ajustes. Abrir el seleccionado en el editor."
 
 msgid "Edit the global configuration file."
-msgstr ""
+msgstr "Editar el archivo de configuración global."
 
 msgid "Edit a particular alias file."
-msgstr ""
+msgstr "Editar un archivo de alias en particular."
 
 msgid "Edit settings.php for the current Drupal site."
-msgstr ""
+msgstr "Editar settings.php para el sitio Drupal actual."
 
 msgid "Provides a birds-eye view of the current Drupal installation, if any."
-msgstr ""
+msgstr "Proporciona una vista de pájaro de la instalación actual de Drupal, si la hay."
 
 msgid "Optional.  The status item line(s) to display."
-msgstr ""
+msgstr "Opcional.  La(s) línea(s) de la posición de estado a mostrar."
 
 msgid "Show database password.  Defaults to --no-show-passwords."
-msgstr ""
+msgstr "Mostrar la contraseña de la base de datos.  Por defecto, --no-show-passwords."
 
 msgid "Show all file paths and drush aliases in the report, even if there are a lot."
-msgstr ""
+msgstr "Mostrar todas las rutas de archivos y alias de drush en el informe, incluso si hay muchos."
 
 msgid "One or more projects that should be added to the path list"
-msgstr ""
+msgstr "Uno o varios proyectos que deben añadirse a la lista de rutas"
 
 msgid "Select output format. Available: json, list, var_export, yaml. Default is key-value."
-msgstr ""
+msgstr "Seleccione el formato de salida. Disponible: json, list, var_export, yaml. Por defecto es clave-valor."
 
 msgid "Show all status lines that contain version information."
-msgstr ""
+msgstr "Muestra todas las líneas de estado que contienen información sobre la versión."
 
 msgid "A list key=value items separated by line breaks."
-msgstr ""
+msgstr "Una lista de elementos clave=valor separados por saltos de línea."
 
 msgid "Emit just the drush version with no label."
-msgstr ""
+msgstr "Emitir sólo la versión drush sin etiqueta."
 
 msgid "Emit just the sync Config directory with no label."
-msgstr ""
+msgstr "Emitir sólo el directorio sync Config sin etiqueta."
 
 msgid "Provides information about things that may be wrong in your Drupal installation, if any."
-msgstr ""
+msgstr "Proporciona información sobre las cosas que pueden estar mal en su instalación de Drupal, si hay alguna."
 
 msgid "Only show status report messages with a severity greater than or equal to the specified value."
-msgstr ""
+msgstr "Mostrar sólo los mensajes de informe de estado con una gravedad mayor o igual al valor especificado."
 
 msgid "Comma-separated list of requirements to remove from output. Run with --pipe to see key values to use."
-msgstr ""
+msgstr "Lista separada por comas de los requisitos a eliminar de la salida. Ejecutar con --pipe para ver los valores clave a utilizar."
 
 msgid "Show all status lines from the Status Report admin page."
-msgstr ""
+msgstr "Mostrar todas las líneas de estado de la página de administración del Informe de Estado."
 
 msgid "Show only the red lines from the Status Report admin page."
-msgstr ""
+msgstr "Mostrar sólo las líneas rojas de la página de administración del Informe de Estado."
 
 msgid "Print out a short report in JSON format, where severity 2=error, 1=warning, and 0/-1=OK"
-msgstr ""
+msgstr "Imprime un breve informe en formato JSON, donde la gravedad 2=error, 1=advertencia, y 0/-1=OK"
 
 msgid "Evaluate arbitrary php code after bootstrapping Drupal (if available)."
-msgstr ""
+msgstr "Evaluar código php arbitrario después de arrancar Drupal (si está disponible)."
 
 msgid "PHP code"
-msgstr ""
+msgstr "Código PHP"
 
 msgid "Select output format. Available: var_export, csv, html, json, list, string, table, yaml. Default is var_export."
-msgstr ""
+msgstr "Seleccione el formato de salida. Disponible: var_export, csv, html, json, list, string, table, yaml. Por defecto es var_export."
 
 msgid "Sets the hello variable using Drupal API."
-msgstr ""
+msgstr "Establece la variable hello utilizando la API de Drupal."
 
 msgid "Loads node with nid 1 and then prints its title."
-msgstr ""
+msgstr "Carga el nodo con nid 1 y luego imprime su título."
 
 msgid "Copies a file whose path is determined by an environment's variable. Note the use of double quotes so the variable $HOME gets replaced by its value."
-msgstr ""
+msgstr "Copia un archivo cuya ruta está determinada por una variable de entorno. Observe el uso de comillas dobles para que la variable $HOME sea reemplazada por su valor."
 
 msgid "Rebuild node access permissions."
-msgstr ""
+msgstr "Reconstruir los permisos de acceso al nodo."
 
 msgid "Run php script(s)."
-msgstr ""
+msgstr "Ejecutar script(s) php."
 
 msgid "Optional. The file you wish to execute (without extension). If omitted, list files ending in .php in the current working directory and specified script-path. Some might not be real drush scripts. Beware."
-msgstr ""
+msgstr "Opcional. El archivo que desea ejecutar (sin extensión). Si se omite, lista los archivos que terminan en .php en el directorio de trabajo actual y en la ruta de scripts especificada. Algunos podrían no ser verdaderos scripts de drush. Tenga cuidado."
 
 msgid "Additional paths to search for scripts, separated by : (Unix-based systems) or ; (Windows)."
-msgstr ""
+msgstr "Rutas adicionales para buscar scripts, separadas por : (sistemas basados en Unix) o ; (Windows)."
 
 msgid "Run scratch.php script. See commands/core directory."
-msgstr ""
+msgstr "Ejecute el script scratch.php. Ver directorio commands/core."
 
 msgid "Run script from specified paths"
-msgstr ""
+msgstr "Ejecutar el script desde las rutas especificadas"
 
 msgid "List all available scripts."
-msgstr ""
+msgstr "Enumera todos los guiones disponibles."
 
 msgid "Execute php code with a full Drupal bootstrap directly from a shell script."
-msgstr ""
+msgstr "Ejecuta código php con un bootstrap completo de Drupal directamente desde un script de shell."
 
 msgid "Execute a shell command. Usually used with a site alias."
-msgstr ""
+msgstr "Ejecuta un comando del shell. Normalmente se utiliza con un alias de sitio."
 
 msgid "The shell command to be executed."
-msgstr ""
+msgstr "El comando del shell que se va a ejecutar."
 
 msgid "Escape parameters before executing them with the shell. Default is escape; use --no-escape to disable."
-msgstr ""
+msgstr "Escapar los parámetros antes de ejecutarlos con el shell. Por defecto es escape; use --no-escape para deshabilitarlo."
 
 msgid "A string of extra options that will be passed to the ssh command (e.g. \"-p 100\")"
-msgstr ""
+msgstr "Una cadena de opciones adicionales que se pasarán al comando ssh (por ejemplo, \"-p 100\")"
 
 msgid "Create a tty (e.g. to run an interactive program)."
-msgstr ""
+msgstr "Crear una tty (por ejemplo, para ejecutar un programa interactivo)."
 
 msgid "Command string already escaped; do not add additional quoting."
-msgstr ""
+msgstr "La cadena de comandos ya está escapada; no añada comillas adicionales."
 
 msgid "Retrieve latest code from git"
-msgstr ""
+msgstr "Recuperar el último código desde git"
 
 msgid "Rsync the Drupal tree to/from another server using ssh."
-msgstr ""
+msgstr "Rsync el árbol de Drupal a/desde otro servidor usando ssh."
 
 msgid "May be rsync path or site alias. See rsync documentation and example.aliases.drushrc.php."
-msgstr ""
+msgstr "Puede ser la ruta de rsync o el alias del sitio. Consulte la documentación de rsync y example.aliases.drushrc.php."
 
 msgid "The unary flags to pass to rsync; --mode=rultz implies rsync -rultz.  Default is -akz."
-msgstr ""
+msgstr "Las banderas unarias a pasar a rsync; --mode=rultz implica rsync -rultz.  Por defecto es -akz."
 
 msgid "Excludes settings.php from being rsynced.  Default."
-msgstr ""
+msgstr "Excluye settings.php de ser rsynced.  Por defecto."
 
 msgid "Allow settings.php to be rsynced. Default is to exclude settings.php."
-msgstr ""
+msgstr "Permitir que settings.php sea rsynced. Por defecto se excluye settings.php."
 
 msgid "Include special version control directories (e.g. .svn).  Default is to exclude vcs files."
-msgstr ""
+msgstr "Incluir directorios especiales de control de versiones (por ejemplo, .svn).  Por defecto se excluyen los archivos vcs."
 
 msgid "Exclude the files directory."
-msgstr ""
+msgstr "Excluir el directorio de archivos."
 
 msgid "Exclude all directories in \"sites/\" except for \"sites/all\"."
-msgstr ""
+msgstr "Excluye todos los directorios en \"sites/\" excepto \"sites/all\"."
 
 msgid "Exclude all directories in \"sites/\" except for \"sites/all\" and the site directory for the site being synced.  Note: if the site directory is different between the source and destination, use --exclude-sites followed by \"drush rsync @from:%site @to:%site\""
-msgstr ""
+msgstr "Excluye todos los directorios en \"sites/\" excepto \"sites/all\" y el directorio del sitio que se está sincronizando.  Nota: si el directorio del sitio es diferente entre el origen y el destino, utilice --exclude-sites seguido de \"drush rsync @from:%site @to:%site\""
 
 msgid "List of paths to exclude, seperated by : (Unix-based systems) or ; (Windows)."
-msgstr ""
+msgstr "Lista de rutas a excluir, separadas por : (sistemas basados en Unix) o ; (Windows)."
 
 msgid "List of paths to include, seperated by : (Unix-based systems) or ; (Windows)."
-msgstr ""
+msgstr "Lista de rutas a incluir, separadas por : (sistemas basados en Unix) o ; (Windows)."
 
 msgid "Replace {rsync-option-name} with the rsync option (or option='value') that you would like to pass through to rsync. Examples include --delete, --exclude=*.sql, --filter='merge /etc/rsync/default.rules', etc. See the rsync documentation for a complete explanation of all the rsync options and values."
-msgstr ""
+msgstr "Sustituya {rsync-option-name} por la opción de rsync (o option='value') que desea pasar a rsync. Los ejemplos incluyen --delete, --exclude=*.sql, --filter='merge /etc/rsync/default.rules', etc. Vea la documentación de rsync para una explicación completa de todas las opciones y valores de rsync."
 
 msgid "Set to the version of rsync you are using to signal Drush to go into backwards-compatibility mode when using very old versions of rsync. For example, --rsync-version=2.6.8 or earlier will cause Drush to avoid the --remove-source-files flag."
-msgstr ""
+msgstr "Establezca la versión de rsync que está utilizando para indicar a Drush que entre en modo de compatibilidad con versiones anteriores cuando utilice versiones muy antiguas de rsync. Por ejemplo, --rsync-version=2.6.8 o anterior hará que Drush evite la bandera --remove-source-files."
 
 msgid "Rsync Drupal root from Drush alias dev to the alias stage. Either or both may be remote."
-msgstr ""
+msgstr "Rsync Drupal raíz de Drush alias dev a la etapa de alias. Cualquiera de los dos, o ambos, pueden ser remotos."
 
 msgid "Rsync all files in the current directory to the 'img' directory in the file storage folder on the Drush alias stage."
-msgstr ""
+msgstr "Rsync todos los archivos en el directorio actual al directorio 'img' en la carpeta de almacenamiento de archivos en la etapa de alias de Drush."
 
 msgid "Simulate Rsync Drupal root from the Drush alias dev to the alias stage (one of which must be local), excluding all files that match the filter '*.sql' and delete all files on the destination that are no longer on the source."
-msgstr ""
+msgstr "Simular la raíz de Drupal Rsync desde el alias dev de Drush a la etapa de alias (uno de los cuales debe ser local), excluyendo todos los archivos que coinciden con el filtro '*.sql' y eliminar todos los archivos en el destino que ya no están en la fuente."
 
 msgid "Return the filesystem path for modules/themes and other key folders."
-msgstr ""
+msgstr "Devuelve la ruta del sistema de archivos para los módulos/temas y otras carpetas clave."
 
 msgid "A module/theme name, or special names like root, files, private, or an alias : path alias string such as @alias:%files. Defaults to root."
-msgstr ""
+msgstr "Un nombre de módulo/tema, o nombres especiales como root, files, private, o un alias : cadena de alias de ruta como @alias:%files. El valor predeterminado es root."
 
 msgid "The portion of the evaluated path to return.  Defaults to 'path'; 'name' returns the site alias of the target."
-msgstr ""
+msgstr "La porción de la ruta evaluada a devolver.  Por defecto es 'path'; 'name' devuelve el alias del sitio del objetivo."
 
 msgid "Reject any target that specifies a remote site."
-msgstr ""
+msgstr "Rechaza cualquier objetivo que especifique un sitio remoto."
 
 msgid "Navigate into the devel module directory"
-msgstr ""
+msgstr "Navegue en el directorio del módulo devel"
 
 msgid "Navigate to the root of your Drupal site"
-msgstr ""
+msgstr "Navegue hasta la raíz de su sitio Drupal"
 
 msgid "Navigate to the files directory."
-msgstr ""
+msgstr "Navegue hasta el directorio de archivos."
 
 msgid "Print the path to the files directory on the site @alias."
-msgstr ""
+msgstr "Imprime la ruta del directorio de archivos en el sitio @alias."
 
 msgid "Open devel module in your editor (customize 'edit' for your editor)"
-msgstr ""
+msgstr "Abra el módulo devel en su editor (personalice 'edit' para su editor)"
 
 msgid "Process operations in the specified batch set"
-msgstr ""
+msgstr "Procesar las operaciones en el conjunto de lotes especificado"
 
 msgid "The batch id that will be processed."
-msgstr ""
+msgstr "La identificación del lote que se procesará."
 
 msgid "Perform update functions"
-msgstr ""
+msgstr "Realizar funciones de actualización"
 
 msgid "The batch id that will be processed"
-msgstr ""
+msgstr "La identificación del lote que se procesará"
 
 msgid "All global options"
-msgstr ""
+msgstr "Todas las opciones globales"
 
 msgid "Default @type engine."
-msgstr ""
+msgstr "Motor @type por defecto."
 
 msgid "Download, install, serve and login to Drupal with minimal configuration and dependencies."
-msgstr ""
+msgstr "Descargue, instale, sirva y entre en Drupal con una configuración y dependencias mínimas."
 
 msgid "Short name for the site to be created - used as a directory name and as sqlite file name. Optional - if omitted timestamped \"quick-drupal\" directory will be used instead."
-msgstr ""
+msgstr "Nombre corto para el sitio a crear - utilizado como nombre de directorio y como nombre de archivo sqlite. Opcional - si se omite, se utilizará el directorio \"quick-drupal\" en su lugar."
 
 msgid "A list of projects to download into the new site. If projects contain extensions (modules or themes) with the same name they will be enabled by default. See --enable option to control this behaviour further."
-msgstr ""
+msgstr "Una lista de proyectos para descargar en el nuevo sitio. Si los proyectos contienen extensiones (módulos o temas) con el mismo nombre, se habilitarán por defecto. Vea la opción --enable para controlar más este comportamiento."
 
 msgid "Drupal core to download. Defaults to \"drupal\" (latest stable version)."
-msgstr ""
+msgstr "Núcleo de Drupal para descargar. Por defecto es \"drupal\" (última versión estable)."
 
 msgid "Use an existing Drupal root, specified with --root. Overrides --core. Defaults to true when run from an existing site."
-msgstr ""
+msgstr "Utiliza una raíz de Drupal existente, especificada con --root. Anula a --core. Por defecto es true cuando se ejecuta desde un sitio existente."
 
 msgid "The install profile to use. Defaults to standard."
-msgstr ""
+msgstr "El perfil de instalación a utilizar. Por defecto es el estándar."
 
 msgid "Specific extensions (modules or themes) to enable. By default, extensions with the same name as requested projects will be enabled automatically."
-msgstr ""
+msgstr "Extensiones específicas (módulos o temas) a habilitar. Por defecto, las extensiones con el mismo nombre que los proyectos solicitados se habilitarán automáticamente."
 
 msgid "Host IP address and port number to bind to and path to open in web browser (hyphen to clear a default path), all elements optional. See runserver examples for shorthand."
-msgstr ""
+msgstr "Dirección IP del host y número de puerto a enlazar y ruta a abrir en el navegador web (guión para borrar una ruta por defecto), todos los elementos son opcionales. Vea los ejemplos de runserver para abreviar."
 
 msgid "Avoid starting runserver (and browser) for the created Drupal site."
-msgstr ""
+msgstr "Evite iniciar el servidor de ejecución (y el navegador) para el sitio Drupal creado."
 
 msgid "Runserver option: If opening a web browser, which browser to user (defaults to operating system default). Use --no-browser to avoid opening a browser."
-msgstr ""
+msgstr "Opción Runserver: Si se abre un navegador web, qué navegador utilizar (por defecto, el predeterminado del sistema operativo). Utilice --no-browser para evitar que se abra un navegador."
 
 msgid "Overrides \"name\" argument."
-msgstr ""
+msgstr "Anula el argumento \"nombre\"."
 
 msgid "Makefile to use. Makefile must specify which version of Drupal core to build."
-msgstr ""
+msgstr "Makefile a utilizar. El Makefile debe especificar qué versión del núcleo de Drupal debe construirse."
 
 msgid "Path to Drupal root."
-msgstr ""
+msgstr "Ruta a la raíz de Drupal."
 
 msgid "Download option: Show release notes after each project is downloaded."
-msgstr ""
+msgstr "Opción de descarga: Mostrar las notas de la versión después de descargar cada proyecto."
 
 msgid "Download option: Only useful for install profiles. Possible values: 'full', 'projects', 'profile-only'."
-msgstr ""
+msgstr "Opción de descarga: Sólo es útil para los perfiles de instalación. Valores posibles: 'completo', 'proyectos', 'sólo perfil'."
 
 msgid "Download option: Select the version to download interactively from a list of available releases."
-msgstr ""
+msgstr "Opción de descarga: Seleccione la versión que desea descargar de forma interactiva de una lista de versiones disponibles."
 
 msgid "Download option: Skip automatic downloading of libraries (c.f. devel)."
-msgstr ""
+msgstr "Opción de descarga: Omitir la descarga automática de bibliotecas (c.f. devel)."
 
 msgid "Download option: Returns a list of the names of the extensions (modules and themes) contained in the downloaded projects."
-msgstr ""
+msgstr "Opción de descarga: Devuelve una lista con los nombres de las extensiones (módulos y temas) que contienen los proyectos descargados."
 
 msgid "Site install option: A Drupal 6 style database URL. Only required for initial install - not re-install."
-msgstr ""
+msgstr "Opción de instalación del sitio: Una URL de base de datos estilo Drupal 6. Solo se requiere para la instalación inicial, no para la reinstalación."
 
 msgid "Site install option: An optional table prefix to use for initial install.  Can be a key-value array of tables/prefixes in a drushrc file (not the command line)."
-msgstr ""
+msgstr "Opción de instalación del sitio: Un prefijo de tabla opcional para usar en la instalación inicial.  Puede ser una matriz clave-valor de tablas/prefijos en un archivo drushrc (no en la línea de comandos)."
 
 msgid "Site install option: Account to use when creating a new database. Must have Grant permission (mysql only). Optional."
-msgstr ""
+msgstr "Opción de instalación del sitio: Cuenta a utilizar cuando se crea una nueva base de datos. Debe tener permiso de concesión (sólo mysql). Opcional."
 
 msgid "Site install option: Password for the \"db-su\" account. Optional."
-msgstr ""
+msgstr "Opción de instalación del sitio: Contraseña de la cuenta \"db-su\". Opcional."
 
 msgid "Site install option: uid1 name. Defaults to admin"
-msgstr ""
+msgstr "Opción de instalación del sitio: nombre uid1. Por defecto es admin"
 
 msgid "Site install option: uid1 pass. Defaults to a randomly generated password. If desired, set a fixed password in drushrc.php."
-msgstr ""
+msgstr "Opción de instalación del sitio: uid1 pass. El valor predeterminado es una contraseña generada aleatoriamente. Si lo desea, establezca una contraseña fija en drushrc.php."
 
 msgid "Site install option: uid1 email. Defaults to admin@example.com"
-msgstr ""
+msgstr "Opción de instalación del sitio: email uid1. Por defecto, admin@example.com"
 
 msgid "Site install option: A short language code. Sets the default site language. Language files must already be present. You may use download command to get them."
-msgstr ""
+msgstr "Opción de instalación del sitio: uid1 pass. El valor predeterminado es una contraseña generada aleatoriamente. Si lo desea, establezca una contraseña fija en drushrc.php."
 
 msgid "Site install option: Defaults to clean; use --no-clean-url to disable. Note that Drupal 8 and later requires clean."
-msgstr ""
+msgstr "Opción de instalación del sitio: Por defecto, limpia; utilice --no-clean-url para desactivarla. Tenga en cuenta que Drupal 8 y posteriores requieren clean."
 
 msgid "Site install option: Defaults to Site-Install"
-msgstr ""
+msgstr "Opción de instalación del sitio: Por defecto, instalación en el sitio"
 
 msgid "Site install option: From: for system mailings. Defaults to admin@example.com"
-msgstr ""
+msgstr "Opción de instalación del sitio: De: para los correos del sistema. Por defecto, admin@example.com"
 
 msgid "Site install option: A path pointing to a full set of configuration which should be imported after installation."
 msgstr ""
