@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-28 18:49+0200\n"
+"PO-Revision-Date: 2021-06-02 11:24+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -43825,13 +43825,13 @@ msgid "#HEXHEX"
 msgstr "#HEXHEX"
 
 msgid "Catalog (370×370)"
-msgstr "Catalog (370×370)"
+msgstr "Catálogo (370×370)"
 
 msgid "Product (570×570)"
 msgstr "Producto (570×570)"
 
 msgid "Products"
-msgstr "Products"
+msgstr "Productos"
 
 msgid "Brands"
 msgstr "Marcas"
@@ -46263,757 +46263,757 @@ msgid "Site install option: From: for system mailings. Defaults to admin@example
 msgstr "Opción de instalación del sitio: De: para los correos del sistema. Por defecto, admin@example.com"
 
 msgid "Site install option: A path pointing to a full set of configuration which should be imported after installation."
-msgstr ""
+msgstr "Opción de instalación del sitio: Una ruta que apunta a un conjunto completo de configuración que debe importarse después de la instalación."
 
 msgid "Runserver option: Key-value array of variables to override in the $conf array for the running site. By default disables drupal_http_request_fails to avoid errors on Windows (which supports only one connection at a time). Comma delimited list of name=value pairs (or array in drushrc)."
-msgstr ""
+msgstr "Opción Runserver: Matriz de valores clave de variables a anular en la matriz $conf para el sitio en ejecución. Por defecto deshabilita drupal_http_request_fails para evitar errores en Windows (que sólo soporta una conexión a la vez). Lista delimitada por comas de pares nombre=valor (o matriz en drushrc)."
 
 msgid "Runserver option: A default addr:port/path to use for any values not specified as an argument."
-msgstr ""
+msgstr "Opción Runserver: Un addr:port/path por defecto a utilizar para cualquier valor no especificado como argumento."
 
 msgid "Runserver option: Resolve hostnames/IPs using DNS/rDNS (if possible) to determine binding IPs and/or human friendly hostnames for URLs and browser."
-msgstr ""
+msgstr "Opción Runserver: Resolver nombres de host/IPs usando DNS/rDNS (si es posible) para determinar IPs vinculantes y/o nombres de host amigables para las URLs y el navegador."
 
 msgid "Backup all project files before updates."
-msgstr ""
+msgstr "Haga una copia de seguridad de todos los archivos del proyecto antes de las actualizaciones."
 
 msgid "Quickly add/remove/commit your project changes to Bazaar."
-msgstr ""
+msgstr "Añada/elimine/confirme rápidamente los cambios de tu proyecto en Bazaar."
 
 msgid "Quickly add/remove/commit your project changes to Subversion."
-msgstr ""
+msgstr "Añada/elimine/confirme rápidamente los cambios de su proyecto en Subversion."
 
 msgid "Cache release XML and tarballs or git clones. Git clones use git's --reference option. Defaults to 1 for downloads, and 0 for git."
-msgstr ""
+msgstr "Caché de la versión XML y de los tarballs o clones de git. Los clones git utilizan la opción --reference de git. El valor predeterminado es 1 para las descargas y 0 para git."
 
 msgid "Download project packages using wget or curl."
-msgstr ""
+msgstr "Descargue los paquetes del proyecto utilizando wget o curl."
 
 msgid "Use git.drupalcode.org to checkout and update projects."
-msgstr ""
+msgstr "Utilice git.drupalcode.org para obtener y actualizar los proyectos."
 
 msgid "The base URL which provides project release history in XML. Defaults to http://updates.drupal.org/release-history."
-msgstr ""
+msgstr "La URL base que proporciona el historial de publicaciones del proyecto en XML. El valor predeterminado es http://updates.drupal.org/release-history."
 
 msgid "Work with development releases solely."
-msgstr ""
+msgstr "Trabajar únicamente con versiones de desarrollo."
 
 msgid "Download and install stable release of Drupal into a timestamped directory, start server, and open the site logged in as admin."
-msgstr ""
+msgstr "Descargue e instale la versión estable de Drupal en un directorio con marca de tiempo, inicie el servidor y abra el sitio iniciando sesión como administrador."
 
 msgid "Fire up dev release of Drupal site with minimal install profile."
-msgstr ""
+msgstr "Activar la versión de desarrollo del sitio de Drupal con un perfil de instalación mínimo."
 
 msgid "Fire up stable release (using the cache) of Drupal site called \"testsite\", download and enable devel module, start a server on port 8081 and open /admin in firefox."
-msgstr ""
+msgstr "Inicie la versión estable (usando el caché) del sitio Drupal llamado \"testsite\", descargue y habilite el módulo devel, inicie un servidor en el puerto 8081 y abra /admin en firefox."
 
 msgid "Download and install the \"Commerce Kickstart\" distribution/install profile, display watchdog messages on the server console."
-msgstr ""
+msgstr "Descargue e instale el perfil de distribución/instalación \"Commerce Kickstart\", muestre los mensajes de vigilancia en la consola del servidor."
 
 msgid "Create and install a site from a makefile."
-msgstr ""
+msgstr "Crear e instalar un sitio desde un makefile."
 
 msgid "Output formatting options selection and use."
-msgstr ""
+msgstr "Selección y uso de las opciones de formato de salida."
 
 msgid "Exports a single entity"
-msgstr ""
+msgstr "Exporta una sola entidad"
 
 msgid "The entity type to export."
-msgstr ""
+msgstr "El tipo de entidad a exportar."
 
 msgid "The ID of the entity to export."
-msgstr ""
+msgstr "El tipo de entidad a exportar."
 
 msgid "Write out the exported content to a file instead of stdout"
-msgstr ""
+msgstr "Escribir el contenido exportado a un archivo en lugar de stdout"
 
 msgid "Exports an entity and all its referenced entities."
-msgstr ""
+msgstr "Exporta una entidad y todas sus entidades referenciadas."
 
 msgid "Folder to export to, entities are grouped by entity type into directories."
-msgstr ""
+msgstr "Carpeta a la que exportar, las entidades se agrupan por tipo de entidad en directorios."
 
 msgid "Exports all the content defined in a module info file."
-msgstr ""
+msgstr "Exporta todo el contenido definido en un archivo de información del módulo."
 
 msgid "Exports all content from any appropriate entity types."
-msgstr ""
+msgstr "Exporta todo el contenido de cualquier tipo de entidad apropiada."
 
 msgid "Entity types and/or bundles to exclude"
-msgstr ""
+msgstr "Tipos de entidades y/o paquetes a excluir"
 
 msgid "El nombre del módulo."
-msgstr ""
+msgstr "El nombre del módulo."
 
 msgid "Export all content entities on the site into the current directory."
-msgstr ""
+msgstr "Exporta todas las entidades de contenido del sitio al directorio actual."
 
 msgid "Export all content entities into the specified directory."
-msgstr ""
+msgstr "Exporta todas las entidades de contenido al directorio especificado."
 
 msgid "Export all content entities except taxonomy terms."
-msgstr ""
+msgstr "Exportar todas las entidades de contenido excepto los términos de la taxonomía."
 
 msgid "Export all content entities except the node bundles 'page' and 'blog'."
-msgstr ""
+msgstr "Exporta todas las entidades de contenido excepto los paquetes de nodos \"página\" y \"blog\"."
 
 msgid "Export all content entities except the node bundle 'page' and users."
-msgstr ""
+msgstr "Exporta todas las entidades de contenido excepto el paquete de nodos \"página\" y los usuarios."
 
 msgid "Uninstall, and Install a list of projects."
-msgstr ""
+msgstr "Desinstalar, e Instalar una lista de proyectos."
 
 msgid "A space-separated list of project names."
-msgstr ""
+msgstr "Una lista de nombres de proyectos separada por espacios."
 
 msgid "List available tokens"
-msgstr ""
+msgstr "Lista de tokens disponibles"
 
 msgid "List implementations of a given hook and explore the source of the selected one."
-msgstr ""
+msgstr "Enumera las implementaciones de un determinado gancho y explora la fuente del seleccionado."
 
 msgid "The name of the hook to explore (e.g. \"menu\" for hook_menu())."
-msgstr ""
+msgstr "El nombre del gancho a explorar (por ejemplo, \"menú\" para hook_menu())."
 
 msgid "List implementations of hook_cron()."
-msgstr ""
+msgstr "Lista de implementaciones de hook_cron()."
 
 msgid "List implementations of a given event and explore source of specified one."
-msgstr ""
+msgstr "Enumera las implementaciones de un evento determinado y explora el origen del mismo."
 
 msgid "The name of the event to explore. If omitted, a list of events is shown."
-msgstr ""
+msgstr "El nombre del evento a explorar. Si se omite, se muestra una lista de eventos."
 
 msgid "Pick a Kernel event, then pick an implementation, and then view its source code."
-msgstr ""
+msgstr "Elija un evento del Kernel, luego elija una implementación, y luego vea su código fuente."
 
 msgid "Pick a terminate subscribers and view its source code."
-msgstr ""
+msgstr "Elija un suscriptor de terminación y vea su código fuente."
 
 msgid "Show the source of specified function or method."
-msgstr ""
+msgstr "Muestra la fuente de la función o método especificado."
 
 msgid "The name of the function or method to view."
-msgstr ""
+msgstr "El nombre de la función o el método a visualizar."
 
 msgid "Output just the filename of the function or method"
-msgstr ""
+msgstr "Imprimir sólo el nombre de archivo de la función o del método"
 
 msgid "Specify how the filename should be printed. Available placeholders are @startline, @endline and @file"
-msgstr ""
+msgstr "Especifica cómo debe imprimirse el nombre del archivo. Los marcadores de posición disponibles son @startline, @endline y @file"
 
 msgid "View the source code for function \"drupal_set_breadcrumb\""
-msgstr ""
+msgstr "Ver el código fuente de la función \"drupal_set_breadcrumb\""
 
 msgid "Edit the file that contains the function \"user_access\""
-msgstr ""
+msgstr "Editar el archivo que contiene la función \"user_access\""
 
 msgid "View the source code for method load in the class NodeController"
-msgstr ""
+msgstr "Ver el código fuente del método load en la clase NodeController"
 
 msgid "Get a list of available container services."
-msgstr ""
+msgstr "Obtenga una lista de los servicios de contenedores disponibles."
 
 msgid "A prefix to filter the service list by."
-msgstr ""
+msgstr "Un prefijo por el que filtrar la lista de servicios."
 
 msgid "Gets a list of all available container services"
-msgstr ""
+msgstr "Obtiene una lista de todos los servicios de contenedores disponibles"
 
 msgid "Get all services containing \"plugin.manager\""
-msgstr ""
+msgstr "Obtener todos los servicios que contienen \"plugin.manager\""
 
 msgid "Generate a UUID."
-msgstr ""
+msgstr "Generar un UUID."
 
 msgid "Select output format. Available: string, csv, html, json, list, table, var_export, yaml. Default is string."
-msgstr ""
+msgstr "Seleccione el formato de salida. Disponible: cadena, csv, html, json, lista, tabla, var_export, yaml. Por defecto es string."
 
 msgid "Outputs a Universally Unique IDentifier."
-msgstr ""
+msgstr "Da salida a un Identificador Único Universal (UUID)."
 
 msgid "Create users."
-msgstr ""
+msgstr "Crear usuarios."
 
 msgid "Number of users to generate."
-msgstr ""
+msgstr "Número de usuarios a generar."
 
 msgid "Delete all users before generating new ones."
-msgstr ""
+msgstr "Eliminar todos los usuarios antes de generar otros nuevos."
 
 msgid "A comma delimited list of role IDs which should be granted to the new users. No need to specify authenticated user role."
-msgstr ""
+msgstr "Una lista delimitada por comas de los IDs de rol que deben ser concedidos a los nuevos usuarios. No es necesario especificar el rol de usuario autenticado."
 
 msgid "Specify a password to be set for all generated users."
-msgstr ""
+msgstr "Especifique una contraseña para todos los usuarios generados."
 
 msgid "Create terms in specified vocabulary."
-msgstr ""
+msgstr "Crear términos en el vocabulario especificado."
 
 msgid "Number of terms to insert. Defaults to 10."
-msgstr ""
+msgstr "Número de términos a insertar. El valor predeterminado es 10."
 
 msgid "Delete all terms in specified vocabulary before generating."
-msgstr ""
+msgstr "Elimina todos los términos del vocabulario especificado antes de generarlo."
 
 msgid "A comma-delimited list of machine names for the vocabularies where terms will be created."
-msgstr ""
+msgstr "Una lista delimitada por comas de nombres de máquinas para los vocabularios donde se crearán los términos."
 
 msgid "An integer representing interval for insertion rate logging. Defaults to 1000"
-msgstr ""
+msgstr "Un entero que representa el intervalo para el registro de la tasa de inserción. El valor predeterminado es 1000"
 
 msgid "Returns the list of generated terms, one per line."
-msgstr ""
+msgstr "Devuelve la lista de términos generados, uno por línea."
 
 msgid "Create vocabularies."
-msgstr ""
+msgstr "Crear vocabularios."
 
 msgid "Number of vocabularies to create. Defaults to 1."
-msgstr ""
+msgstr "Número de vocabularios a crear. El valor predeterminado es 1."
 
 msgid "Delete all vocabularies before generating."
-msgstr ""
+msgstr "Borrar todos los vocabularios antes de generar."
 
 msgid "Returns the list of generated vocabularies, one per line."
-msgstr ""
+msgstr "Devuelve la lista de vocabularios generados, uno por línea."
 
 msgid "Create content."
-msgstr ""
+msgstr "Crear contenidos."
 
 msgid "Number of nodes to generate."
-msgstr ""
+msgstr "Número de nodos a generar."
 
 msgid "Maximum number of comments to generate."
-msgstr ""
+msgstr "Número máximo de comentarios a generar."
 
 msgid "Delete all content before generating new content."
-msgstr ""
+msgstr "Borrar todo el contenido antes de generar nuevo contenido."
 
 msgid "A comma delimited list of content types to create. Defaults to page,article."
-msgstr ""
+msgstr "Una lista delimitada por comas de los tipos de contenido a crear. Por defecto, página, artículo."
 
 msgid "A comma delimited list of fields to omit when generating random values"
-msgstr ""
+msgstr "Una lista delimitada por comas de los campos que se deben omitir al generar los valores aleatorios"
 
 msgid "A comma-separated list of language codes"
-msgstr ""
+msgstr "Una lista separada por comas de los códigos de idioma"
 
 msgid "Create menus and menu items."
-msgstr ""
+msgstr "Crear menús y elementos de menú."
 
 msgid "Number of menus to generate. Defaults to 2."
-msgstr ""
+msgstr "Número de menús a generar. El valor predeterminado es 2."
 
 msgid "Number of links to generate. Defaults to 50."
-msgstr ""
+msgstr "Número de enlaces a generar. El valor predeterminado es 50."
 
 msgid "Max link depth. Defaults to 3"
-msgstr ""
+msgstr "Profundidad máxima del enlace. Por defecto, 3"
 
 msgid "Max width of first level of links. Defaults to 8."
-msgstr ""
+msgstr "Ancho máximo del primer nivel de enlaces. El valor predeterminado es 8."
 
 msgid "Delete all previously generated menus and links before generating new menus and links."
-msgstr ""
+msgstr "Borrar todos los menús y enlaces generados anteriormente antes de generar nuevos menús y enlaces."
 
 msgid "Returns the list of generated menus, one per line."
-msgstr ""
+msgstr "Devuelve la lista de menús generados, uno por línea."
 
 msgid "README.md"
-msgstr ""
+msgstr "README.md"
 
 msgid "git bisect and Drush may be used together to find the commit an error was introduced in."
-msgstr ""
+msgstr "git bisect y Drush pueden usarse juntos para encontrar la confirmación en la que se introdujo un error."
 
 msgid "Bashrc customization examples for Drush."
-msgstr ""
+msgstr "Ejemplos de personalización de Bashrc para Drush."
 
 msgid "Configuration overview with examples from example.drushrc.php."
-msgstr ""
+msgstr "Resumen de configuración con ejemplos de example.drushrc.php."
 
 msgid "Drupal configuration export instructions, including customizing configuration by environment."
-msgstr ""
+msgstr "Instrucciones de exportación de la configuración de Drupal, incluyendo la personalización de la configuración por entorno."
 
 msgid "Site aliases overview on creating your own aliases for commonly used Drupal sites with examples from example.aliases.drushrc.php."
-msgstr ""
+msgstr "Visión general de los alias de sitio sobre la creación de sus propios alias para los sitios de Drupal de uso común con ejemplos de example.aliases.drushrc.php."
 
 msgid "php.ini or drush.ini configuration to set PHP values for use with Drush."
-msgstr ""
+msgstr "Configuración php.ini o drush.ini para establecer los valores de PHP para su uso con Drush."
 
 msgid "Bastion server configuration: remotely operate on a Drupal sites behind a firewall."
-msgstr ""
+msgstr "Configuración del servidor Bastion: operar remotamente en un sitio Drupal detrás de un firewall."
 
 msgid "Bootstrap explanation: how Drush starts up and prepares the Drupal environment for use with the command."
-msgstr ""
+msgstr "Explicación de Bootstrap: cómo arranca Drush y prepara el entorno de Drupal para su uso con el comando."
 
 msgid "Crontab instructions for running your Drupal cron tasks via `drush cron`."
-msgstr ""
+msgstr "Instrucciones de Crontab para ejecutar sus tareas cron de Drupal a través de `drush cron`."
 
 msgid "Shell script overview on writing simple sequences of Drush statements."
-msgstr ""
+msgstr "Visión general de los scripts de shell para escribir secuencias simples de sentencias Drush."
 
 msgid "Shell alias overview on creating your own aliases for commonly used Drush commands."
-msgstr ""
+msgstr "Visión general de los scripts de shell para escribir secuencias simples de sentencias Drush."
 
 msgid "Drush command instructions on creating your own Drush commands."
-msgstr ""
+msgstr "Instrucciones para crear sus propios comandos Drush."
 
 msgid "Error code list containing all identifiers used with drush_set_error."
-msgstr ""
+msgstr "Lista de códigos de error que contiene todos los identificadores utilizados con drush_set_error."
 
 msgid "Drush API"
-msgstr ""
+msgstr "Drush API"
 
 msgid "Contexts overview explaining how Drush manages command line options and configuration file settings."
-msgstr ""
+msgstr "Visión general de los contextos que explican cómo Drush gestiona las opciones de la línea de comandos y los ajustes del archivo de configuración."
 
 msgid "Example Drush script."
-msgstr ""
+msgstr "Ejemplo de script de Drush."
 
 msgid "Example Drush command file."
-msgstr ""
+msgstr "Ejemplo de archivo de comandos Drush."
 
 msgid "Example Drush commandfile that extends sql-sync to enable development modules in the post-sync hook."
-msgstr ""
+msgstr "Ejemplo de archivo de comandos de Drush que extiende sql-sync para habilitar los módulos de desarrollo en el hook post-sync."
 
 msgid "Example Drush commandfile that extends sql-sync to allow transfer of the sql dump file via http rather than ssh and rsync."
-msgstr ""
+msgstr "Ejemplo de archivo de comandos de Drush que extiende sql-sync para permitir la transferencia del archivo de volcado sql a través de http en lugar de ssh y rsync."
 
 msgid "Example policy file."
-msgstr ""
+msgstr "Ejemplo de archivo de política."
 
 msgid "Strict option handling, and how commands that use it differ from regular Drush commands."
-msgstr ""
+msgstr "Manejo de opciones estrictas, y cómo los comandos que lo utilizan difieren de los comandos regulares de Drush."
 
 msgid "Create a basic template and configuration file for a new Display Suite layout."
-msgstr ""
+msgstr "Cree una plantilla básica y un archivo de configuración para un nuevo diseño de Display Suite."
 
 msgid "Name for your layout."
-msgstr ""
+msgstr "Nombre para su diseño."
 
 msgid "Regions for your layout, comma-separated."
-msgstr ""
+msgstr "Regiones para su diseño, separadas por comas."
 
 msgid "Set this to true if you want to include a CSS file for your layout."
-msgstr ""
+msgstr "Establece esto como verdadero si quieres incluir un archivo CSS para tu diseño."
 
 msgid "Set this to true if you want to include a preview image for your layout."
-msgstr ""
+msgstr "Establezca esta opción como verdadera si desea incluir una imagen de vista previa para su diseño."
 
 msgid "Create a layout with a few example regions."
-msgstr ""
+msgstr "Cree un diseño con algunas regiones de ejemplo."
 
 msgid "Create a layout with custom regions."
-msgstr ""
+msgstr "Crear un diseño con regiones personalizadas."
 
 msgid "Create a layout with an included CSS file."
-msgstr ""
+msgstr "Cree un diseño con un archivo CSS incluido."
 
 msgid "Create a Display Suite plugin"
-msgstr ""
+msgstr "Cree un diseño con un archivo CSS incluido."
 
 msgid "Name for your Display Suite field class"
-msgstr ""
+msgstr "Crear un plugin de Display Suite"
 
 msgid "Name for your class."
-msgstr ""
+msgstr "Nombre para su clase."
 
 msgid "Name of the entity"
-msgstr ""
+msgstr "Nombre de la entidad"
 
 msgid "Create a field with only a render function"
-msgstr ""
+msgstr "Crear un campo con sólo una función de representación"
 
 msgid "Create a field for the user entity"
-msgstr ""
+msgstr "Crear un campo para la entidad de usuario"
 
 msgid "Recreate all entity usage statistics."
-msgstr ""
+msgstr "Recrea todas las estadísticas de uso de las entidades."
 
 msgid "Create fields and instances. Returns urls for field editing."
-msgstr ""
+msgstr "Crea campos e instancias. Devuelve urls para la edición de campos."
 
 msgid "Content type (for nodes). Name of bundle to attach fields to. Required."
-msgstr ""
+msgstr "Tipo de contenido (para nodos). Nombre del paquete al que se adjuntan los campos. Obligatorio."
 
 msgid "Comma delimited triple in the form: field_name,field_type,widget_name. If widget_name is omitted, the default widget will be used. Separate multiple fields by space. If omitted, a wizard will prompt you."
-msgstr ""
+msgstr "Un triple delimitado por comas con la forma: field_name,field_type,widget_name. Si se omite widget_name, se utilizará el widget por defecto. Separe los campos múltiples con un espacio. Si se omite, un asistente le preguntará."
 
 msgid "Type of entity (e.g. node, user, comment). Defaults to node."
-msgstr ""
+msgstr "Tipo de entidad (por ejemplo, nodo, usuario, comentario). Por defecto es un nodo."
 
 msgid "Define new article fields via interactive prompts."
-msgstr ""
+msgstr "Definir nuevos campos de artículos a través de avisos interactivos."
 
 msgid "Define new article fields and then open field edit form for refinement."
-msgstr ""
+msgstr "Defina nuevos campos de artículo y luego abra el formulario de edición de campos para perfeccionarlos."
 
 msgid "Create two new fields."
-msgstr ""
+msgstr "Cree dos nuevos campos."
 
 msgid "Return URL for field editing web page."
-msgstr ""
+msgstr "Devuelve la URL de la página web de edición de campos."
 
 msgid "Name of field that needs updating."
-msgstr ""
+msgstr "Nombre del campo que necesita ser actualizado."
 
 msgid "Quickly navigate to a field edit web page."
-msgstr ""
+msgstr "Navegue rápidamente a una página web de edición de campos."
 
 msgid "Delete a field and its instances."
-msgstr ""
+msgstr "Eliminar un campo y sus instancias."
 
 msgid "Name of field to delete."
-msgstr ""
+msgstr "Nombre del campo a eliminar."
 
 msgid "Only delete the instance attached to this bundle. If omitted, admin can choose to delete one instance or whole field."
-msgstr ""
+msgstr "Eliminar sólo la instancia adjunta a este paquete. Si se omite, el administrador puede elegir eliminar una instancia o todo el campo."
 
 msgid "Disambiguate a particular bundle from identically named bundles. Usually not needed."
-msgstr ""
+msgstr "Desambiguar un paquete particular de paquetes con nombres idénticos. Normalmente no es necesario."
 
 msgid "Delete the city field and any instances it might have."
-msgstr ""
+msgstr "Borra el campo de la ciudad y las instancias que pueda tener."
 
 msgid "Delete the city instance on the article bundle"
-msgstr ""
+msgstr "Eliminar la instancia de la ciudad en el paquete de artículos"
 
 msgid "Clone a field and all its instances."
-msgstr ""
+msgstr "Clona un campo y todas sus instancias."
 
 msgid "Name of field that will be cloned"
-msgstr ""
+msgstr "Nombre del campo que se clonará"
 
 msgid "Name of new, cloned field."
-msgstr ""
+msgstr "Nombre del nuevo campo clonado."
 
 msgid "Copy 'tags' field into a new field 'labels' field which has same instances."
-msgstr ""
+msgstr "Copiar el campo 'tags' en un nuevo campo 'labels' que tiene las mismas instancias."
 
 msgid "Clone field and then open field edit forms for refinement."
-msgstr ""
+msgstr "Clone el campo y luego abra los formularios de edición del campo para refinarlo."
 
 msgid "View information about fields, field_types, and widgets."
-msgstr ""
+msgstr "Ver información sobre campos, field_types y widgets."
 
 msgid "Recognized values: fields, types. If omitted, a choice list appears."
-msgstr ""
+msgstr "Valores reconocidos: campos, tipos. Si se omite, aparece una lista de opciones."
 
 msgid "Show a table which lists all field types and their available widgets"
-msgstr ""
+msgstr "Mostrar una tabla que enumere todos los tipos de campo y sus widgets disponibles"
 
 msgid "Import Google Analytics fields."
-msgstr ""
+msgstr "Importar campos de Google Analytics."
 
 msgid "Import Google Analytics fields for Google Analytics Reports module."
-msgstr ""
+msgstr "Importar campos de Google Analytics para el módulo de informes de Google Analytics."
 
 msgid "Print this help message. See `drush help help` for more options."
-msgstr ""
+msgstr "Imprime este mensaje de ayuda. Ver `drush help help` para más opciones."
 
 msgid "A command name, or command alias."
-msgstr ""
+msgstr "Un nombre de comando, o alias de comando."
 
 msgid "Sort commands in alphabetical order. Drush waits for full bootstrap before printing any commands when this option is used."
-msgstr ""
+msgstr "Ordena los comandos en orden alfabético. Drush espera el arranque completo antes de imprimir cualquier comando cuando se utiliza esta opción."
 
 msgid "Restrict command list to those commands defined in the specified file. Omit value to choose from a list of names."
-msgstr ""
+msgstr "Restringe la lista de comandos a los comandos definidos en el archivo especificado. Omita el valor para elegir entre una lista de nombres."
 
 msgid "List all commands."
-msgstr ""
+msgstr "Enumera todos los comandos."
 
 msgid "Show only commands defined in devel_generate.drush.inc"
-msgstr ""
+msgstr "Mostrar sólo los comandos definidos en devel_generate.drush.inc"
 
 msgid "Show help for one command."
-msgstr ""
+msgstr "Mostrar la ayuda de un comando."
 
 msgid "Show help for one command using an alias."
-msgstr ""
+msgstr "Mostrar la ayuda para un comando usando un alias."
 
 msgid "Show an HTML page detailing all available commands."
-msgstr ""
+msgstr "Muestra una página HTML que detalla todos los comandos disponibles."
 
 msgid "All available comamnds, in a machine parseable format."
-msgstr ""
+msgstr "Todos los comamnds disponibles, en un formato parseable por la máquina."
 
 msgid "Print help for a single command"
-msgstr ""
+msgstr "Imprimir la ayuda de un solo comando"
 
 msgid "Flush all derived images for a given style."
-msgstr ""
+msgstr "Descarga todas las imágenes derivadas de un estilo determinado."
 
 msgid "An image style machine name. If not provided, user may choose from a list of names."
-msgstr ""
+msgstr "Un nombre de máquina de estilo de imagen. Si no se proporciona, el usuario puede elegir de una lista de nombres."
 
 msgid "Flush all derived images"
-msgstr ""
+msgstr "Tirar todas las imágenes derivadas"
 
 msgid "Pick an image style and then delete its images."
-msgstr ""
+msgstr "Elija un estilo de imagen y luego elimine sus imágenes."
 
 msgid "Delete all thumbnail images."
-msgstr ""
+msgstr "Eliminar todas las imágenes en miniatura."
 
 msgid "Flush all derived images. They will be regenerated on the fly."
-msgstr ""
+msgstr "Borra todas las imágenes derivadas. Se regenerarán sobre la marcha."
 
 msgid "Create an image derivative."
-msgstr ""
+msgstr "Crear un derivado de la imagen."
 
 msgid "An image style machine name."
-msgstr ""
+msgstr "Un nombre de máquina de estilo de imagen."
 
 msgid "Path to a source image. Optionally prepend stream wrapper scheme."
-msgstr ""
+msgstr "Ruta a una imagen de origen. Opcionalmente se puede añadir un esquema de envoltura de flujo."
 
 msgid "Save thumbnail sized derivative of logo image."
-msgstr ""
+msgstr "Guarda un derivado en miniatura de la imagen del logotipo."
 
 msgid "Enrich the bash startup file with completion and aliases. Copy .drushrc file to ~/.drush"
-msgstr ""
+msgstr "Enriquecer el archivo de inicio de bash con la finalización y los alias. Copiar el archivo .drushrc en ~/.drush"
 
 msgid "Open the new config file in an editor."
-msgstr ""
+msgstr "Abra el nuevo archivo de configuración en un editor."
 
 msgid "Always add Drush to the $PATH in the user's .bashrc file, even if it is already in the $PATH. Use --no-add-path to skip updating .bashrc with the Drush $PATH. Default is to update .bashrc only if Drush is not already in the $PATH."
-msgstr ""
+msgstr "Siempre agregue Drush al $PATH en el archivo .bashrc del usuario, incluso si ya está en el $PATH. Utilice --no-add-path para omitir la actualización de .bashrc con el $PATH de Drush. Por defecto se actualiza .bashrc sólo si Drush no está ya en el $PATH."
 
 msgid "Enrich Bash and open drush config file in editor."
-msgstr ""
+msgstr "Enriquece Bash y abre el archivo de configuración de drush en el editor."
 
 msgid "Sanitize nodes of invalid block content."
-msgstr ""
+msgstr "Sanear los nodos de contenido de bloques no válidos."
 
 msgid "Whether to rebuild cache prior to sanitization. Specify \"true\" or \"false\". Defaults to \"true\""
-msgstr ""
+msgstr "Si se reconstruye la caché antes de la desinfección. Especifique \"true\" o \"false\". El valor predeterminado es \"true\"."
 
 msgid "A specific node ID to sanitize."
-msgstr ""
+msgstr "Un ID de nodo específico para sanear."
 
 msgid "Sanitize all nodes on site."
-msgstr ""
+msgstr "Desinfectar todos los nodos in situ."
 
 msgid "Sanitizes node with NID of 3."
-msgstr ""
+msgstr "Sanea el nodo con NID de 3."
 
 msgid "Lists registered library information."
-msgstr ""
+msgstr "Enumera la información de la biblioteca registrada."
 
 msgid "Checks for available translation updates."
-msgstr ""
+msgstr "Comprueba las actualizaciones de traducción disponibles."
 
 msgid "Updates the available translations."
-msgstr ""
+msgstr "Actualiza las traducciones disponibles."
 
 msgid "A comma-separated list of language codes to update. If omitted, all translations will be updated."
-msgstr ""
+msgstr "Una lista separada por comas de los códigos de idioma a actualizar. Si se omite, se actualizarán todas las traducciones."
 
 msgid "Turns a makefile into a working Drupal codebase."
-msgstr ""
+msgstr "Convierte un makefile en una base de código de Drupal que funciona."
 
 msgid "Filename of the makefile to use for this build."
-msgstr ""
+msgstr "Nombre del archivo makefile a utilizar para esta construcción."
 
 msgid "The path at which to build the makefile."
-msgstr ""
+msgstr "La ruta en la que se construye el makefile."
 
 msgid "Print the make API version and exit."
-msgstr ""
+msgstr "Imprime la versión de la API de make y sale."
 
 msgid "Set the number of concurrent projects that will be processed at the same time. The default is 1."
-msgstr ""
+msgstr "Establezca el número de proyectos concurrentes que se procesarán al mismo tiempo. El valor predeterminado es 1."
 
 msgid "Specify a path under which modules and themes should be placed. Defaults to sites/all for Drupal 6,7 and the corresponding directory in the Drupal root for Drupal 8 and above."
-msgstr ""
+msgstr "Especifica una ruta bajo la cual se deben colocar los módulos y temas. Por defecto es sites/all para Drupal 6, 7 y el directorio correspondiente en la raíz de Drupal para Drupal 8 y superiores."
 
 msgid "Force a complete build even if errors occur."
-msgstr ""
+msgstr "Forzar una construcción completa incluso si se producen errores."
 
 msgid "Ignore md5 checksums for downloads."
-msgstr ""
+msgstr "Ignora las sumas de comprobación md5 para las descargas."
 
 msgid "Output an md5 hash of the current build after completion. Use --md5=print to print to stdout."
-msgstr ""
+msgstr "Muestra un hash md5 de la compilación actual tras su finalización. Utilice --md5=print para imprimir en la salida estándar."
 
 msgid "The default location to load the XML update information from."
-msgstr ""
+msgstr "La ubicación por defecto para cargar la información de actualización XML."
 
 msgid "Do not build a codebase. Makes the `build path` argument optional."
-msgstr ""
+msgstr "No construir una base de código. Hace que el argumento `build path` sea opcional."
 
 msgid "Do not use the pm-download caching (defaults to cache enabled)."
-msgstr ""
+msgstr "No utilice la caché pm-download (por defecto la caché está activada)."
 
 msgid "Leave temporary build directories in place instead of cleaning up after completion."
-msgstr ""
+msgstr "Dejar los directorios de construcción temporales en su lugar en lugar de limpiarlos después de la finalización."
 
 msgid "Do not require a Drupal core project to be specified."
-msgstr ""
+msgstr "No requiere que se especifique un proyecto del núcleo de Drupal."
 
 msgid "Do not recurse into the makefiles of any downloaded projects; you can also set [do_recursion] = 0 on a per-project basis in the makefile."
-msgstr ""
+msgstr "No recursar en los makefiles de cualquier proyecto descargado; también puede establecer [do_recursion] = 0 en base a cada proyecto en el makefile."
 
 msgid "Do not write a PATCHES.txt file in the directory of each patched project."
-msgstr ""
+msgstr "No escriba un archivo PATCHES.txt en el directorio de cada proyecto parcheado."
 
 msgid "Do not modify .info files when cloning from Git."
-msgstr ""
+msgstr "No modifique los archivos .info al clonar desde Git."
 
 msgid "Force a modification of .info files when cloning from Git even if repository isn't hosted on Drupal.org."
-msgstr ""
+msgstr "Forzar una modificación de los archivos .info al clonar desde Git, incluso si el repositorio no está alojado en Drupal.org."
 
 msgid "Do not inject project info into .info files when cloning from Git."
-msgstr ""
+msgstr "No inyectar información del proyecto en los archivos .info al clonar desde Git."
 
 msgid "Overwrite existing directories. Default is to merge."
-msgstr ""
+msgstr "Sobrescribir los directorios existentes. Por defecto es fusionar."
 
 msgid "Prepare the built site for installation. Generate a properly permissioned settings.php and files directory."
-msgstr ""
+msgstr "Prepare el sitio construido para la instalación. Generar un directorio settings.php y archivos con los permisos adecuados."
 
 msgid "Generate a tar archive of the build. The output filename will be [build path].tar.gz."
-msgstr ""
+msgstr "Genera un archivo tar de la construcción. El nombre del archivo de salida será [build path].tar.gz."
 
 msgid "Run a temporary test build and clean up."
-msgstr ""
+msgstr "Ejecute una construcción de prueba temporal y limpie."
 
 msgid "Retrieve translations for the specified comma-separated list of language(s) if available for all projects."
-msgstr ""
+msgstr "Recupera las traducciones de la lista de idiomas especificada, separada por comas, si están disponibles para todos los proyectos."
 
 msgid "Preserves VCS directories, like .git, for projects downloaded using such methods."
-msgstr ""
+msgstr "Conserva los directorios VCS, como el .git, para los proyectos descargados con estos métodos."
 
 msgid "How to download files. Should be autodetected, but this is an override if it doesn't work. Options are \"curl\" and \"make\" (a native download method)."
-msgstr ""
+msgstr "Cómo descargar los archivos. Debería ser autodetectado, pero esto es una anulación si no funciona. Las opciones son \"curl\" y \"make\" (un método de descarga nativo)."
 
 msgid "Restrict the make to this comma-separated list of projects. To specify all projects, pass *."
-msgstr ""
+msgstr "Restringe el make a esta lista de proyectos separada por comas. Para especificar todos los proyectos, pase *."
 
 msgid "Restrict the make to this comma-separated list of libraries. To specify all libraries, pass *."
-msgstr ""
+msgstr "Restringe el make a esta lista de bibliotecas separada por comas. Para especificar todas las bibliotecas, pase *."
 
 msgid "Restrict the make options to a comma-separated list. Defaults to unrestricted."
-msgstr ""
+msgstr "Restringe las opciones de make a una lista separada por comas. El valor predeterminado es sin restricciones."
 
 msgid "Generate a makefile, based on the one passed in, with all versions *resolved*. Defaults to printing to the terminal, but an output file may be provided."
-msgstr ""
+msgstr "Genera un makefile, basado en el pasado, con todas las versiones *resueltas*. Por defecto se imprime en el terminal, pero se puede proporcionar un archivo de salida."
 
 msgid "For makefile entries which use git for downloading, this option will utilize shallow clones where possible (ie. by using the git-clone's depth=1 option). If the \"working-copy\" option is not desired, this option will significantly speed up makes which involve modules stored in very large git repos. In fact, if \"working-copy\" option is enabled, this option cannot be used."
-msgstr ""
+msgstr "Para las entradas de makefile que utilizan git para la descarga, esta opción utilizará clones poco profundos cuando sea posible (es decir, utilizando la opción depth=1 de git-clone). Si no se desea la opción \"working-copy\", esta opción acelerará significativamente las marcas que implican módulos almacenados en repos de git muy grandes. De hecho, si la opción \"working-copy\" está activada, esta opción no puede utilizarse."
 
 msgid "Generate a lockfile for this build and copy it into the codebase (at sites/all/drush/platform.lock). An alternate path (relative to the Drupal root) can also be specified"
-msgstr ""
+msgstr "Generar un archivo de bloqueo para esta construcción y copiarlo en la base de código (en sites/all/drush/platform.lock). También se puede especificar una ruta alternativa (relativa a la raíz de Drupal)"
 
 msgid "The format for generated lockfiles. Options are \"yaml\" or \"ini\". Defaults to \"yaml\"."
-msgstr ""
+msgstr "El formato de los archivos de bloqueo generados. Las opciones son \"yaml\" o \"ini\". Por defecto es \"yaml\"."
 
 msgid "Return project info for use by core-quick-drupal."
-msgstr ""
+msgstr "Devuelve la información del proyecto para su uso por core-quick-drupal."
 
 msgid "A list of makefiles to include at build-time."
-msgstr ""
+msgstr "Una lista de makefiles para incluir en el tiempo de construcción."
 
 msgid "A list of makefiles to that can override values in other makefiles."
-msgstr ""
+msgstr "Una lista de makefiles que pueden anular los valores de otros makefiles."
 
 msgid "Build the example.make makefile in the example directory."
-msgstr ""
+msgstr "Construye el makefile example.make en el directorio example."
 
 msgid "Build an installation profile within an existing Drupal site"
-msgstr ""
+msgstr "Construir un perfil de instalación dentro de un sitio Drupal existente"
 
 msgid "Build the remote example.make makefile in the example directory."
-msgstr ""
+msgstr "Construye el makefile remoto example.make en el directorio example."
 
 msgid "Write a new makefile to example.lock. All project versions will be resolved."
-msgstr ""
+msgstr "Escriba un nuevo makefile en example.lock. Se resolverán todas las versiones del proyecto."
 
 msgid "Generate a makefile from the current Drupal site."
-msgstr ""
+msgstr "Generar un makefile del sitio actual de Drupal."
 
 msgid "Exclude all version numbers (default is include all version numbers) or optionally specify a list of projects to exclude from versioning"
-msgstr ""
+msgstr "Excluir todos los números de versión (por defecto se incluyen todos los números de versión) o especificar opcionalmente una lista de proyectos para excluirlos del control de versiones"
 
 msgid "Include a specific list of projects, while all other projects remain unversioned in the makefile (so implies --exclude-versions)"
-msgstr ""
+msgstr "Incluir una lista específica de proyectos, mientras que todos los demás proyectos permanecen sin versionar en el makefile (lo que implica --exclude-versions)"
 
 msgid "The format for generated makefile. Options are \"yaml\" or \"ini\". Defaults to \"yaml\"."
-msgstr ""
+msgstr "El formato del makefile generado. Las opciones son \"yaml\" o \"ini\". Por defecto es \"yaml\"."
 
 msgid "Generate a makefile with ALL projects versioned (should a project have a known version number)"
-msgstr ""
+msgstr "Generar un makefile con TODOS los proyectos versionados (si un proyecto tiene un número de versión conocido)"
 
 msgid "Generate a makefile with NO projects versioned"
-msgstr ""
+msgstr "Generar un makefile sin proyectos versionados"
 
 msgid "Generate a makefile with ALL projects versioned EXCEPT core, Views and CCK"
-msgstr ""
+msgstr "Generar un makefile con TODOS los proyectos versionados EXCEPTO core, Views y CCK"
 
 msgid "Generate a makefile with NO projects versioned EXCEPT Admin Menu, OG and CTools."
-msgstr ""
+msgstr "Generar un makefile con NINGÚN proyecto versionado EXCEPTO Admin Menu, OG y CTools."
 
 msgid "Convert a legacy makefile into another format. Defaults to converting .make => .make.yml."
-msgstr ""
+msgstr "Convierte un archivo makefile heredado a otro formato. Por defecto convierte .make => .make.yml."
 
 msgid "Filename of the makefile to convert."
-msgstr ""
+msgstr "Nombre del archivo makefile a convertir."
 
 msgid "The format to which the make file should be converted. Accepted values include make, composer, and yml."
-msgstr ""
+msgstr "El formato al que se debe convertir el archivo make. Los valores aceptados incluyen make, composer y yml."
 
 msgid "Convert example.make to composer.json"
-msgstr ""
+msgstr "Convertir example.make a composer.json"
 
 msgid "Convert example.make to example.make.yml"
-msgstr ""
+msgstr "Convertir ejemplo.make a ejemplo.make.yml"
 
 msgid "Convert composer.lock example.make"
-msgstr ""
+msgstr "Convertir composer.lock ejemplo.make"
 
 msgid "The temporary working directory to use"
-msgstr ""
+msgstr "The temporary working directory to use"
 
 msgid "Name of a temporary file containing json-encoded output of make_projects()."
-msgstr ""
+msgstr "Nombre de un archivo temporal que contiene la salida codificada en json de make_projects()."
 
 msgid "An array of projects already being processed."
-msgstr ""
+msgstr "Una serie de proyectos que ya se están tramitando."
 
 msgid "Process a makefile and outputs an equivalent makefile with projects version resolved to latest available."
-msgstr ""
+msgstr "Procesa un makefile y produce un makefile equivalente con la versión del proyecto resuelta a la última disponible."
 
 msgid "Save to a file. If not provided, the updated makefile will be dumped to stdout."
-msgstr ""
+msgstr "Guardar en un archivo. Si no se proporciona, el makefile actualizado se volcará a stdout."
 
 msgid "Backend to obtain available updates. Available: drush, drupal. Default is drush."
-msgstr ""
+msgstr "Backend para obtener las actualizaciones disponibles. Disponible: drush, drupal. Por defecto es drush."
 
 msgid "Check for updates of disabled modules and themes."
-msgstr ""
+msgstr "Comprueba las actualizaciones de los módulos y temas desactivados."
 
 msgid "Only update modules that have security updates available."
-msgstr ""
+msgstr "Actualice sólo los módulos que tengan actualizaciones de seguridad disponibles."
 
 msgid "Check available updates without update.module."
-msgstr ""
+msgstr "Comprueba las actualizaciones disponibles sin update.module."
 
 msgid "Check available updates with update.module."
-msgstr ""
+msgstr "Compruebe las actualizaciones disponibles con update.module."
 
 msgid "Process a makefile and outputs an equivalent makefile with projects version *resolved*. Respects pinned versions."
-msgstr ""
+msgstr "Procesa un makefile y emite un makefile equivalente con la versión del proyecto *resuelta*. Respeta las versiones ancladas."
 
 msgid "Save to a file. If not provided, the lockfile will be dumped to stdout."
-msgstr ""
+msgstr "Guardar en un archivo. Si no se proporciona, el archivo de bloqueo se volcará a stdout."
 
 msgid "Drush Make overview with examples"
-msgstr ""
+msgstr "Drush Make resumen con ejemplos"
 
 msgid "Drush Make example makefile"
-msgstr ""
+msgstr "Drush Make ejemplo makefile"
 
 msgid "List the patches that should be applied to the site."
 msgstr ""
