@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2021-04-30 17:26+0200\n"
-"PO-Revision-Date: 2021-05-28 14:06+0200\n"
+"PO-Revision-Date: 2021-06-02 11:31+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -77330,25 +77330,25 @@ msgid "Insectos"
 msgstr ""
 
 msgid "Piernas cansadas"
-msgstr ""
+msgstr "Piernas cansadas"
 
 msgid "Pies"
-msgstr ""
+msgstr "Pies"
 
 msgid "Protección Covid"
-msgstr ""
+msgstr "Protección Covid"
 
 msgid "Familia 1"
-msgstr ""
+msgstr "Familia 1"
 
 msgid "Familia 2"
-msgstr ""
+msgstr "Familia 2"
 
 msgid "Familia 3"
-msgstr ""
+msgstr "Familia 3"
 
 msgid "Familia 4"
-msgstr ""
+msgstr "Familia 4"
 
 msgid "Administer fancy login"
 msgstr ""
@@ -77375,43 +77375,43 @@ msgid "%type_name: Edit any block content"
 msgstr ""
 
 msgid "Administer block content types"
-msgstr ""
+msgstr "Administrar los tipos de contenido en bloque"
 
 msgid "View restricted block content"
-msgstr ""
+msgstr "Ver el contenido del bloque restringido"
 
 msgid "Maintain the types of block content available."
-msgstr ""
+msgstr "Actualizar los tipos de contenido de los bloques disponibles."
 
 msgid "View full list on the Block Content overview page ignoring the create/update/delete filter."
-msgstr ""
+msgstr "Ver la lista completa en la página de resumen de contenidos bloqueados ignorando el filtro crear/actualizar/borrar."
 
 msgid "Salud"
-msgstr ""
+msgstr "Salud"
 
 msgid "Nutrición y herbolistería"
-msgstr ""
+msgstr "Nutrición y herbolistería"
 
 msgid "bebé y mamá"
-msgstr ""
+msgstr "bebé y mamá"
 
 msgid "Nutrición y herboristería"
-msgstr ""
+msgstr "Nutrición y herboristería"
 
 msgid "Dermocosmética"
-msgstr ""
+msgstr "Dermocosmética"
 
 msgid "Dental"
-msgstr ""
+msgstr "Dental"
 
 msgid "Higiene"
-msgstr ""
+msgstr "Higiene"
 
 msgid "Botiquín y ortopedia"
-msgstr ""
+msgstr "Botiquín y ortopedia"
 
 msgid "Solar"
-msgstr ""
+msgstr "Solar"
 
 msgid "This gives a summary about how many items are known for this index, and how many have been indexed in their latest version. Items that are not indexed yet cannot be found by searches."
 msgstr ""
@@ -77441,229 +77441,229 @@ msgid "This will queue all items on this index for reindexing. Previously indexe
 msgstr ""
 
 msgid "This will remove all indexed content for this index from the search server and queue it for reindexing. Searches on this index will not return any results until items are reindexed."
-msgstr ""
+msgstr "Esto eliminará todo el contenido indexado para este índice del servidor de búsqueda y lo pondrá en cola para su reindexación. Las búsquedas en este índice no devolverán ningún resultado hasta que los elementos sean reindexados."
 
 msgid "Fields indexed in this index"
-msgstr ""
+msgstr "Campos indexados en este índice"
 
 msgid "This page lists which fields are indexed in this index, grouped by datasource. (Datasource-independent fields are listed under \"General\".) Indexed fields can be used to add filters or sorting to views or other search displays based on the index. Fields with type \"Fulltext\" can also be used for fulltext searching."
-msgstr ""
+msgstr "Esta página enumera los campos indexados en este índice, agrupados por fuente de datos. (Los campos independientes de la fuente de datos se enumeran en \"General\"). Los campos indexados pueden utilizarse para añadir filtros u ordenar las vistas u otras visualizaciones de búsqueda basadas en el índice. Los campos de tipo \"Texto completo\" también pueden utilizarse para la búsqueda de texto completo."
 
 msgid "The internal ID to use for this field. Can safely be ignored by inexperienced users in most cases. Changing a field's machine name requires reindexing of the index."
-msgstr ""
+msgstr "El ID interno a utilizar para este campo. En la mayoría de los casos, los usuarios inexpertos pueden ignorarla. Cambiar el nombre de la máquina de un campo requiere reindexar el índice."
 
 msgid "Property path"
-msgstr ""
+msgstr "Ruta de la propiedad"
 
 msgid "The internal relationship linking the indexed item to the field, with links being separated by colons (:). This can be useful information for advanced users, but can otherwise be ignored."
-msgstr ""
+msgstr "La relación interna que vincula el elemento indexado con el campo, con enlaces separados por dos puntos (:). Esto puede ser una información útil para los usuarios avanzados, pero por lo demás se puede ignorar."
 
 msgid "The data type to use when indexing the field. Determines how a field can be used in searches. For information on the available types, see the <a href=\"#search-api-data-types-table\">\"Data types\" box</a> at the bottom of the page."
-msgstr ""
+msgstr "El tipo de datos que se utilizará al indexar el campo. Determina cómo se puede utilizar un campo en las búsquedas. Para obtener información sobre los tipos disponibles, consulte el cuadro <a href=\"#search-api-data-types-table\">\"Tipos de datos\"</a> en la parte inferior de la página."
 
 msgid "Only applicable for fulltext fields. Determines how \"important\" the field is compared to other fulltext fields, to influence scoring of fulltext searches."
-msgstr ""
+msgstr "Sólo aplicable a los campos de texto completo. Determina la \"importancia\" del campo en comparación con otros campos de texto completo, para influir en la puntuación de las búsquedas de texto completo."
 
 msgid "Some fields have additional configuration available, in which case an \"Edit\" link is displayed in the \"Operations\" column."
-msgstr ""
+msgstr "Algunos campos tienen una configuración adicional disponible, en cuyo caso se muestra un enlace \"Editar\" en la columna \"Operaciones\"."
 
 msgid "Removes a field from the index again. (Note: Sometimes, a field is required (for example, by a processor) and cannot be removed.)"
-msgstr ""
+msgstr "Vuelve a eliminar un campo del índice. (Nota: A veces, un campo es necesario (por ejemplo, por un proceso) y no se puede eliminar)."
 
 msgid "This saves all changes made to the fields for this index. Until this button is pressed, all added, changed or removed fields will only be stored temporarily and not effect the actual index used in the rest of the site."
-msgstr ""
+msgstr "Esto guarda todos los cambios realizados en los campos para este índice. Hasta que se pulse este botón, todos los campos añadidos, modificados o eliminados sólo se almacenarán temporalmente y no afectarán al índice real utilizado en el resto del sitio."
 
 msgid "If you have made changes to the index's fields but not yet saved them, the \"Cancel\" link lets you discard those changes."
-msgstr ""
+msgstr "Si ha realizado cambios en los campos del índice pero aún no los ha guardado, el enlace \"Cancelar\" le permite descartar esos cambios."
 
 msgid "Adding or editing an index"
-msgstr ""
+msgstr "Añadir o editar un índice"
 
 msgid "This form can be used to edit an existing index or add a new index to your site. Indexes define a set of data that will be indexed and can then be searched."
-msgstr ""
+msgstr "Este formulario se puede utilizar para editar un índice existente o añadir un nuevo índice a su sitio. Los índices definen un conjunto de datos que serán indexados y en los que se podrá buscar."
 
 msgid "Enter a name to identify this index. For example, \"Content index\". This will only be displayed in the admin user interface."
-msgstr ""
+msgstr "Introduzca un nombre para identificar este índice. Por ejemplo, \"Índice de contenido\". Esto sólo se mostrará en la interfaz de usuario del administrador."
 
 msgid "Datasources define the types of items that will be indexed in this index. By default, all content entities (like content, comments and taxonomy terms) will be available here, but modules can also add their own."
-msgstr ""
+msgstr "Los orígenes de datos definen los tipos de elementos que se indexarán en este índice. Por defecto, todas las entidades de contenido (como el contenido, los comentarios y los términos de taxonomía) estarán disponibles aquí, pero los módulos también pueden añadir las suyas propias."
 
 msgid "An index's tracker is the system that keeps track of which items there are available for the index, and which of them still need to be indexed. Changing the tracker of an existing index will lead to reindexing of all items."
-msgstr ""
+msgstr "El rastreador de un índice es el sistema que lleva la cuenta de los elementos que están disponibles para el índice y de los que aún deben ser indexados. Si se cambia el rastreador de un índice existente, se reindexarán todos los elementos."
 
 msgid "The search server that the index should use for indexing and searching. If no server is selected here, the index cannot be enabled. An index can only have one server, but a server can have any number of indexes."
-msgstr ""
+msgstr "El servidor de búsqueda que el índice debe utilizar para indexar y buscar. Si no se selecciona ningún servidor aquí, el índice no puede ser activado. Un índice sólo puede tener un servidor, pero un servidor puede tener cualquier número de índices."
 
 msgid "Optionally, enter a description to explain the function of the index in more detail. This will only be displayed in the admin user interface."
-msgstr ""
+msgstr "Opcionalmente, introduzca una descripción para explicar la función del índice con más detalle. Esto sólo se mostrará en la interfaz de usuario del administrador."
 
 msgid "These options allow more detailed configuration of index behavior, but can usually safely be ignored by inexperienced users."
-msgstr ""
+msgstr "Estas opciones permiten una configuración más detallada del comportamiento del índice, pero normalmente pueden ser ignoradas con seguridad por los usuarios inexpertos."
 
 msgid "Processors customize different aspects of an index's functionality. They can keep items from being indexed, change how certain fields are indexed and influence searches."
-msgstr ""
+msgstr "Los procesadores personalizan diferentes aspectos de la funcionalidad de un índice. Pueden impedir que se indexen elementos, cambiar la forma en que se indexan determinados campos e influir en las búsquedas."
 
 msgid "This lists all processors available for this index and lets you choose the ones that should be active. (Note: Some processors cannot be disabled.)"
-msgstr ""
+msgstr "Enumera todos los procesos disponibles para este índice y le permite elegir los que deben estar activos. (Nota: Algunos procesos no se pueden desactivar)."
 
 msgid "This shows you which enabled processors will be active in the different parts of the indexing/searching workflow, and lets you re-arrange them. This should usually not be necessary, and only be used by advanced users as some processors will lead to unexpected results when used in the wrong order."
-msgstr ""
+msgstr "Muestra qué procesadores habilitados estarán activos en las diferentes partes del flujo de trabajo de indexación/búsqueda, y permite reordenarlos. Por lo general, esto no debería ser necesario, y sólo debe ser utilizado por los usuarios avanzados, ya que algunos procesadores conducirán a resultados inesperados cuando se utilizan en el orden equivocado."
 
 msgid "Information about a server"
-msgstr ""
+msgstr "Información sobre un servidor"
 
 msgid "This page shows a summary of a search server."
-msgstr ""
+msgstr "Esta página muestra un resumen de un servidor de búsqueda."
 
 msgid "Shows whether the server is currently enabled or disabled."
-msgstr ""
+msgstr "Muestra si el servidor está actualmente activado o desactivado."
 
 msgid "Backend class"
-msgstr ""
+msgstr "Clase Backend"
 
 msgid "The backend plugin used for this server. The backend plugin determines how items are indexed and searched – for example, using the database or an Apache Solr server."
-msgstr ""
+msgstr "El plugin de backend utilizado para este servidor. El plugin de backend determina cómo se indexan y buscan los elementos - por ejemplo, utilizando la base de datos o un servidor Apache Solr."
 
 msgid "Lists all search indexes that are attached to this server."
-msgstr ""
+msgstr "Enumera todos los índices de búsqueda que están conectados a este servidor."
 
 msgid "Delete all indexed data"
-msgstr ""
+msgstr "Borrar todos los datos indexados"
 
 msgid "This will permanently remove all data currently indexed on this server for indexes that aren't read-only. Items are queued for reindexing. Until reindexing occurs, searches for the affected indexes will not return any results."
-msgstr ""
+msgstr "Esto eliminará permanentemente todos los datos actualmente indexados en este servidor para los índices que no son de sólo lectura. Los elementos se ponen en cola para su reindexación. Hasta que se produzca la reindexación, las búsquedas de los índices afectados no devolverán ningún resultado."
 
 msgid "Add or edit a Search API server"
-msgstr ""
+msgstr "Añadir o editar un servidor de la API de búsqueda"
 
 msgid "Adding or editing a Server"
-msgstr ""
+msgstr "Añadir o editar un servidor"
 
 msgid "This form can be used to edit an existing server or add a new server to your site. Servers will hold your indexed data."
-msgstr ""
+msgstr "Este formulario se puede utilizar para editar un servidor existente o añadir un nuevo servidor a su sitio. Los servidores contendrán sus datos indexados."
 
 msgid "Enter a name to identify this server. For example, \"Solr server\". This will only be displayed in the admin user interface."
-msgstr ""
+msgstr "Introduzca un nombre para identificar este servidor. Por ejemplo, \"servidor Solr\". Esto sólo se mostrará en la interfaz de usuario del administrador."
 
 msgid "Optionally, enter a description to explain the function of the server in more detail. This will only be displayed in the admin user interface."
-msgstr ""
+msgstr "Opcionalmente, introduzca una descripción para explicar la función del servidor con más detalle. Esto sólo se mostrará en la interfaz de usuario del administrador."
 
 msgid "Server backend"
-msgstr ""
+msgstr "Servidor backend"
 
 msgid "Servers can be based on different technologies. These are called \"backends\". A server uses exactly one backend and cannot change it later. You can make the \"Database\" backend available by enabling the \"Database Search\" module. Another very common backend is <a href=\"https://www.drupal.org/project/search_api_solr\">\"Solr\"</a>, which requires to be set up separately."
-msgstr ""
+msgstr "Los servidores pueden basarse en diferentes tecnologías. Éstas se denominan \"backends\". Un servidor utiliza exactamente un backend y no puede cambiarlo posteriormente. Puede hacer que el backend \"Base de datos\" esté disponible habilitando el módulo \"Búsqueda en la base de datos\". Otro backend muy común es <a href=\"https://www.drupal.org/project/search_api_solr\">\"Solr\"</a>, que requiere ser configurado por separado."
 
 msgid "Medicamentos"
-msgstr ""
+msgstr "Medicamentos"
 
 msgid "Indexed @num items for index %name."
-msgstr ""
+msgstr "Índice @num elementos para el índice %nombre."
 
 msgid "Ortopedia"
-msgstr ""
+msgstr "Ortopedia"
 
 msgid "Botiquín"
-msgstr ""
+msgstr "Botiquín"
 
 msgid "SALUD"
-msgstr ""
+msgstr "SALUD"
 
 msgid "NUTRICIÓN Y HERBORISTERÍA"
-msgstr ""
+msgstr "NUTRICIÓN Y HERBORISTERÍA"
 
 msgid "BEBÉ Y MAMÁ"
-msgstr ""
+msgstr "BEBÉ Y MAMÁ"
 
 msgid "DERMOCOSMÉTICA"
-msgstr ""
+msgstr "DERMOCOSMÉTICA"
 
 msgid "DENTAL"
-msgstr ""
+msgstr "DENTAL"
 
 msgid "HIGIENE"
-msgstr ""
+msgstr "HIGIENE"
 
 msgid "ORTOPEDIA"
-msgstr ""
+msgstr "ORTOPEDIA"
 
 msgid "SOLAR"
-msgstr ""
+msgstr "SOLAR"
 
 msgid "BOTIQUÍN"
-msgstr ""
+msgstr "BOTIQUÍN"
 
 msgid "FAMILIA 3"
-msgstr ""
+msgstr "FAMILIA 3"
 
 msgid "FAMILIA 4"
-msgstr ""
+msgstr "FAMILIA 4"
 
 msgid "MEDICAMENTOS"
-msgstr ""
+msgstr "MEDICAMENTOS"
 
 msgid "The entity subqueue %label has been updated."
-msgstr ""
+msgstr "Se ha actualizado la subcola de entidades %label."
 
 msgid "Indexed @count new @type items."
 msgstr ""
 
 msgid "Delete Entity Queue"
-msgstr ""
+msgstr "Borrar la cola de entidades"
 
 msgid "Add Entity Queue"
-msgstr ""
+msgstr "Añadir cola de entidades"
 
 msgid "Globally disabled the settings"
-msgstr ""
+msgstr "Desactivar globalmente los ajustes"
 
 msgid "API url"
-msgstr ""
+msgstr "URL de la API"
 
 msgid "drupalSettings variables"
-msgstr ""
+msgstr "Variables de drupalSettings"
 
 msgid "Defines different drupalSettings variable.Each settings in new line.eg:<br/>application_id|343434434<br/> you can get those variables in js.eg drupalSettings.social_media.application_id"
-msgstr ""
+msgstr "Define diferentes variables drupalSettings.Cada configuración en nueva línea.eg:<br/>application_id|3434434<br/>puedes obtener esas variables en js.eg drupalSettings.social_media.application_id"
 
 msgid "Drupal library"
-msgstr ""
+msgstr "Biblioteca Drupal"
 
 msgid "Add drupal custom library.eg: social_media/facebook"
-msgstr ""
+msgstr "Añade la librería personalizada de drupal.eg: social_media/facebook"
 
 msgid "Text of the link"
-msgstr ""
+msgstr "Texto del enlace"
 
 msgid "If it is checked default image will be loaded. Make service name with icon name. eg:facebook_share.svg"
-msgstr ""
+msgstr "Si está marcada, se cargará la imagen por defecto. Haga el nombre del servicio con el nombre del icono. eg:facebook_share.svg"
 
 msgid "Alternative image link"
-msgstr ""
+msgstr "Enlace de imagen alternativa"
 
 msgid "If you want to have your custom image, give image path."
-msgstr ""
+msgstr "Si quieres tener tu imagen personalizada, da la ruta de la imagen."
 
 msgid "Order of share button"
-msgstr ""
+msgstr "Orden del botón de compartir"
 
 msgid "Order of the share link to render"
-msgstr ""
+msgstr "Orden de representación del enlace compartido"
 
 msgid "Defines different attributes of link. Each attribute in new line.eg:<br/>target|blank<br/> class|facebook-share js-share"
-msgstr ""
+msgstr "Define diferentes atributos del enlace. Cada atributo en una nueva línea.eg:<br/>target|blank<br/> class|facebook-share js-share"
 
 msgid "@social_media settings"
 msgstr ""
 
 msgid "To include Hashtags format your URL like this: https://twitter.com/intent/tweet?url=[current-page:url]&text=[text to tweet]&hashtags=[comma separated list of hashtags, with no # on them]"
-msgstr ""
+msgstr "Para incluir los hashtags, formatea tu URL de la siguiente manera: https://twitter.com/intent/tweet?url=[página actual:url]&text=[texto a tuitear]&hashtags=[lista de hashtags separados por comas, sin # en ellos]."
 
 msgid "Enable forward instead for client email service"
-msgstr ""
+msgstr "Activar el reenvío en lugar del servicio de correo electrónico del cliente"
 
 msgid "If it is checked then forward email form will open as model dialog."
-msgstr ""
+msgstr "Si está marcada, el formulario de reenvío de correo electrónico se abrirá como un modelo de diálogo."
 
 msgid "Model dialog"
 msgstr ""
@@ -77672,2086 +77672,2091 @@ msgid "Separate page"
 msgstr "Página separada"
 
 msgid "Choose how you want to show forward email form"
-msgstr ""
+msgstr "Elige cómo quieres mostrar el formulario de reenvío de correo electrónico"
 
 msgid "default set as dialog popup, you can change it to show in separate page"
-msgstr ""
+msgstr "por defecto se establece como diálogo emergente, puede cambiarlo para que se muestre en una página separada"
 
 msgid "Importing"
-msgstr ""
+msgstr "Importando"
 
 msgid "Transforming of uploaded images"
-msgstr ""
+msgstr "Transformación de las imágenes cargadas"
 
 msgid "Allows to transform any image which will be uploaded on the site."
-msgstr ""
+msgstr "Permite transformar cualquier imagen que se cargue en el sitio."
 
 msgid "Aceites"
-msgstr ""
+msgstr "Aceites"
 
 msgid "Agua micelar"
-msgstr ""
+msgstr "Agua micelar"
 
 msgid "Ansiedad e Insomnio"
-msgstr ""
+msgstr "Ansiedad e Insomnio"
 
 msgid "Aparato Digestivo"
-msgstr ""
+msgstr "Aparato Digestivo"
 
 msgid "Acidez y Reflujo"
-msgstr ""
+msgstr "Acidez y Reflujo"
 
 msgid "Antidiarreico y Colón irritable"
-msgstr ""
+msgstr "Antidiarreico y Colón irritable"
 
 msgid "Estimulantes Apetito"
-msgstr ""
+msgstr "Estimulantes Apetito"
 
 msgid "Flora intestinal"
-msgstr ""
+msgstr "Flora intestinal"
 
 msgid "Gases"
-msgstr ""
+msgstr "Gases"
 
 msgid "Mala digestión e Intolerancias"
-msgstr ""
+msgstr "Mala digestión e Intolerancias"
 
 msgid "Aparato Urinario"
-msgstr ""
+msgstr "Aparato Urinario"
 
 msgid "Incontinencia"
-msgstr ""
+msgstr "Incontinencia"
 
 msgid "Infecciones urinarias"
-msgstr ""
+msgstr "Infecciones urinarias"
 
 msgid "Próstata"
-msgstr ""
+msgstr "Próstata"
 
 msgid "Articular y Muscular"
-msgstr ""
+msgstr "Articular y Muscular"
 
 msgid "Complementos alimenticios"
-msgstr ""
+msgstr "Complementos alimenticios"
 
 msgid "Dolor e Inflamación"
-msgstr ""
+msgstr "Dolor e Inflamación"
 
 msgid "Accesorios Bebé"
-msgstr ""
+msgstr "Accesorios Bebé"
 
 msgid "Accesorios y Juguetes"
-msgstr ""
+msgstr "Accesorios y Juguetes"
 
 msgid "Biberones y Tetinas"
-msgstr ""
+msgstr "Biberones y Tetinas"
 
 msgid "180 ml"
-msgstr ""
+msgstr "180 ml"
 
 msgid "240 ml"
-msgstr ""
+msgstr "240 ml"
 
 msgid "360 ml"
-msgstr ""
+msgstr "360 ml"
 
 msgid "Tetinas"
-msgstr ""
+msgstr "Tetinas"
 
 msgid "Canastillas y Neceseres"
-msgstr ""
+msgstr "Canastillas y Neceseres"
 
 msgid "Chupetes"
-msgstr ""
+msgstr "Chupetes"
 
 msgid "0-6 meses"
-msgstr ""
+msgstr "0-6 meses"
 
 msgid "18 meses"
-msgstr ""
+msgstr "18 meses"
 
 msgid "6-18 meses"
-msgstr ""
+msgstr "6-18 meses"
 
 msgid "Esterilización y Limpieza"
-msgstr ""
+msgstr "Esterilización y Limpieza"
 
 msgid "Alimentación del Bebé"
-msgstr ""
+msgstr "Alimentación del Bebé"
 
 msgid "Accesorios Alimentación"
-msgstr ""
+msgstr "Accesorios Alimentación"
 
 msgid "Complementos Alimentación"
-msgstr ""
+msgstr "Complementos Alimentación"
 
 msgid "Infusiones, Zumos y Galletas"
-msgstr ""
+msgstr "Infusiones, Zumos y Galletas"
 
 msgid "Leches Crecimiento 3 y 4 (+12 meses)"
-msgstr ""
+msgstr "Leches Crecimiento 3 y 4 (+12 meses)"
 
 msgid "Leches Especiales y Tratamiento"
-msgstr ""
+msgstr "Leches Especiales y Tratamiento"
 
 msgid "Leches de Continuación 2 (+6 meses)"
-msgstr ""
+msgstr "Leches de Continuación 2 (+6 meses)"
 
 msgid "Leches de Inicio 1 (0-6 meses)"
-msgstr ""
+msgstr "Leches de Inicio 1 (0-6 meses)"
 
 msgid "Papillas"
-msgstr ""
+msgstr "Papillas"
 
 msgid "Potitos y Batidos"
-msgstr ""
+msgstr "Potitos y Batidos"
 
 msgid "Aparatos Electrónicos"
-msgstr ""
+msgstr "Aparatos Electrónicos"
 
 msgid "Antimosquitos"
-msgstr ""
+msgstr "Antimosquitos"
 
 msgid "Calientabiberones"
-msgstr ""
+msgstr "Calientabiberones"
 
 msgid "Esterilizadores"
-msgstr ""
+msgstr "Esterilizadores"
 
 msgid "Humidificadores y Difusores"
-msgstr ""
+msgstr "Humidificadores y Difusores"
 
 msgid "Sacaleches"
-msgstr ""
+msgstr "Sacaleches"
 
 msgid "Vigilabebés"
-msgstr ""
+msgstr "Vigilabebés"
 
 msgid "Cuidados de la Mamá"
-msgstr ""
+msgstr "Cuidados de la Mamá"
 
 msgid "Accesorios Lactancia"
-msgstr ""
+msgstr "Accesorios Lactancia"
 
 msgid "Antiestrías y Reafirmantes"
-msgstr ""
+msgstr "Antiestrías y Reafirmantes"
 
 msgid "Complementos Gestación"
-msgstr ""
+msgstr "Complementos Gestación"
 
 msgid "Fajas y Bragas"
-msgstr ""
+msgstr "Fajas y Bragas"
 
 msgid "Senos y Pezón"
-msgstr ""
+msgstr "Senos y Pezón"
 
 msgid "Cuidados del Bebé"
-msgstr ""
+msgstr "Cuidados del Bebé"
 
 msgid "Colonías"
-msgstr ""
+msgstr "Colonías"
 
 msgid "Cuidado Cabello"
-msgstr ""
+msgstr "Cuidado Cabello"
 
 msgid "Cuidado Culito"
-msgstr ""
+msgstr "Cuidado Culito"
 
 msgid "Cuidado Facial"
-msgstr ""
+msgstr "Cuidado Facial"
 
 msgid "Cuidado Piel"
-msgstr ""
+msgstr "Cuidado Piel"
 
 msgid "Higiene Nasal"
-msgstr ""
+msgstr "Higiene Nasal"
 
 msgid "Pañales y Toallitas"
-msgstr ""
+msgstr "Pañales y Toallitas"
 
 msgid "Primeros Dientes"
-msgstr ""
+msgstr "Primeros Dientes"
 
 msgid "Protección Solar Primer Año"
-msgstr ""
+msgstr "Protección Solar Primer Año"
 
 msgid "Vitaminas y Complementos"
-msgstr ""
+msgstr "Vitaminas y Complementos"
 
 msgid "Barritas y Geles"
-msgstr ""
+msgstr "Barritas y Geles"
 
 msgid "Cardiovascular"
-msgstr ""
+msgstr "Cardiovascular"
 
 msgid "Cardioprotectores"
-msgstr ""
+msgstr "Cardioprotectores"
 
 msgid "Colesterol"
-msgstr ""
+msgstr "Colesterol"
 
 msgid "Tensión Alta"
-msgstr ""
+msgstr "Tensión Alta"
 
 msgid "Cera"
-msgstr ""
+msgstr "Cera"
 
 msgid "Circulación"
-msgstr ""
+msgstr "Circulación"
 
 msgid "Hemorroides"
-msgstr ""
+msgstr "Hemorroides"
 
 msgid "Piernas cansadas y Varices"
-msgstr ""
+msgstr "Piernas cansadas y Varices"
 
 msgid "Complejos Vitamínicos"
-msgstr ""
+msgstr "Complejos Vitamínicos"
 
 msgid "Actividad Física"
-msgstr ""
+msgstr "Actividad Física"
 
 msgid "Actividad Metal y Memoria"
-msgstr ""
+msgstr "Actividad Metal y Memoria"
 
 msgid "Defensas"
-msgstr ""
+msgstr "Defensas"
 
 msgid "Deportistas"
-msgstr ""
+msgstr "Deportistas"
 
 msgid "Jaleas"
-msgstr ""
+msgstr "Jaleas"
 
 msgid "Madurez"
-msgstr ""
+msgstr "Madurez"
 
 msgid "Niños"
-msgstr ""
+msgstr "Niños"
 
 msgid "Ojos y Oido"
-msgstr ""
+msgstr "Ojos y Oido"
 
 msgid "Cosmética Corporal"
-msgstr ""
+msgstr "Cosmética Corporal"
 
 msgid "Anticelulíticas"
-msgstr ""
+msgstr "Anticelulíticas"
 
 msgid "Cuello y Escote"
-msgstr ""
+msgstr "Cuello y Escote"
 
 msgid "Depilación"
-msgstr ""
+msgstr "Depilación"
 
 msgid "Exfoliantes"
-msgstr ""
+msgstr "Exfoliantes"
 
 msgid "Hidratación"
-msgstr ""
+msgstr "Hidratación"
 
 msgid "Cremas"
-msgstr ""
+msgstr "Cremas"
 
 msgid "Lociones"
-msgstr ""
+msgstr "Lociones"
 
 msgid "Reafirmantes"
-msgstr ""
+msgstr "Reafirmantes"
 
 msgid "Reductores y Antiestrias"
-msgstr ""
+msgstr "Reductores y Antiestrias"
 
 msgid "Cosmética Facial"
-msgstr ""
+msgstr "Cosmética Facial"
 
 msgid "Aguas Termales"
-msgstr ""
+msgstr "Aguas Termales"
 
 msgid "Antiedad"
-msgstr ""
+msgstr "Antiedad"
 
 msgid "Ampollas"
-msgstr ""
+msgstr "Ampollas"
 
 msgid "Booster"
-msgstr ""
+msgstr "Booster"
 
 msgid "Contorno de ojos"
-msgstr ""
+msgstr "Contorno de ojos"
 
 msgid "Crema"
-msgstr ""
+msgstr "Crema"
 
 msgid "Loción y Gel"
-msgstr ""
+msgstr "Loción y Gel"
 
 msgid "Exfoliación"
-msgstr ""
+msgstr "Exfoliación"
 
 msgid "Serum"
-msgstr ""
+msgstr "Serum"
 
 msgid "Maquillaje"
-msgstr ""
+msgstr "Maquillaje"
 
 msgid "AFTAS Y LESIONES BUCALES"
-msgstr ""
+msgstr "AFTAS Y LESIONES BUCALES"
 
 msgid "Colutorios Aftas"
-msgstr ""
+msgstr "Colutorios Aftas"
 
 msgid "Gel Aftas"
-msgstr ""
+msgstr "Gel Aftas"
 
 msgid "Spray Aftas"
-msgstr ""
+msgstr "Spray Aftas"
 
 msgid "BLANQUEADORES"
-msgstr ""
+msgstr "BLANQUEADORES"
 
 msgid "Colutorios Blanqueadores"
-msgstr ""
+msgstr "Colutorios Blanqueadores"
 
 msgid "Kits Blanqueadores"
-msgstr ""
+msgstr "Kits Blanqueadores"
 
 msgid "Packs Blanqueadores"
-msgstr ""
+msgstr "Packs Blanqueadores"
 
 msgid "Pastas de dientes Blanqueadora"
-msgstr ""
+msgstr "Pastas de dientes Blanqueadora"
 
 msgid "BOCA SECA"
-msgstr ""
+msgstr "BOCA SECA"
 
 msgid "Colutorios Boca Seca"
-msgstr ""
+msgstr "Colutorios Boca Seca"
 
 msgid "Packs Boca Seca"
-msgstr ""
+msgstr "Packs Boca Seca"
 
 msgid "Pastas de dientes Boca Seca"
-msgstr ""
+msgstr "Pastas de dientes Boca Seca"
 
 msgid "CEPILLOS DE DIENTES"
-msgstr ""
+msgstr "CEPILLOS DE DIENTES"
 
 msgid "Duros"
-msgstr ""
+msgstr "Duros"
 
 msgid "Medios"
-msgstr ""
+msgstr "Medios"
 
 msgid "Suaves"
-msgstr ""
+msgstr "Suaves"
 
 msgid "CEPILLOS ELÉCTRICOS"
-msgstr ""
+msgstr "CEPILLOS ELÉCTRICOS"
 
 msgid "DENTADURAS Y FÉRULAS"
-msgstr ""
+msgstr "DENTADURAS Y FÉRULAS"
 
 msgid "Fijadores"
-msgstr ""
+msgstr "Fijadores"
 
 msgid "DIENTES SENSIBLES"
-msgstr ""
+msgstr "DIENTES SENSIBLES"
 
 msgid "Colutorios Dientes Sensibles"
-msgstr ""
+msgstr "Colutorios Dientes Sensibles"
 
 msgid "Packs Dientes Sensibles"
-msgstr ""
+msgstr "Packs Dientes Sensibles"
 
 msgid "Pastas Dientes Sensibles"
-msgstr ""
+msgstr "Pastas Dientes Sensibles"
 
 msgid "ENCÍAS"
-msgstr ""
+msgstr "ENCÍAS"
 
 msgid "Colutorios Encías"
-msgstr ""
+msgstr "Colutorios Encías"
 
 msgid "Geles Encías"
-msgstr ""
+msgstr "Geles Encías"
 
 msgid "Packs Encías"
-msgstr ""
+msgstr "Packs Encías"
 
 msgid "Pastas de dientes Encías"
-msgstr ""
+msgstr "Pastas de dientes Encías"
 
 msgid "HALITOSIS"
-msgstr ""
+msgstr "HALITOSIS"
 
 msgid "Colutorios Halitosis"
-msgstr ""
+msgstr "Colutorios Halitosis"
 
 msgid "Packs Halitosis"
-msgstr ""
+msgstr "Packs Halitosis"
 
 msgid "Pastas de dientes Halitosis"
-msgstr ""
+msgstr "Pastas de dientes Halitosis"
 
 msgid "Spray Halitosis"
-msgstr ""
+msgstr "Spray Halitosis"
 
 msgid "HIGIENE INTERDENTAL"
-msgstr ""
+msgstr "HIGIENE INTERDENTAL"
 
 msgid "Cepillos Interdentales"
-msgstr ""
+msgstr "Cepillos Interdentales"
 
 msgid "Linguales"
-msgstr ""
+msgstr "Linguales"
 
 msgid "Sedas, Cintas, Hilos"
-msgstr ""
+msgstr "Sedas, Cintas, Hilos"
 
 msgid "Cepillos Infantiles"
-msgstr ""
+msgstr "Cepillos Infantiles"
 
 msgid "Colutorios Infantiles"
-msgstr ""
+msgstr "Packs Infantiles"
 
 msgid "Packs Infantiles"
-msgstr ""
+msgstr "Packs Infantiles"
 
 msgid "Pastas de dientes Infantiles"
-msgstr ""
+msgstr "Pastas de dientes Infantiles"
 
 msgid "IRRIGADORES"
-msgstr ""
+msgstr "IRRIGADORES"
 
 msgid "NATURALES"
-msgstr ""
+msgstr "NATURALES"
 
 msgid "Cepillos Naturales"
-msgstr ""
+msgstr "Cepillos Naturales"
 
 msgid "Colutorios Naturales"
-msgstr ""
+msgstr "Packs Naturales"
 
 msgid "Packs Naturales"
-msgstr ""
+msgstr "Packs Naturales"
 
 msgid "Pastas de Dientes Naturales"
-msgstr ""
+msgstr "Pastas de Dientes Naturales"
 
 msgid "ORTODONCIA"
-msgstr ""
+msgstr "ORTODONCIA"
 
 msgid "Cepillos Ortodoncia"
-msgstr ""
+msgstr "Cepillos Ortodoncia"
 
 msgid "Ceras Ortodoncia"
-msgstr ""
+msgstr "Ceras Ortodoncia"
 
 msgid "Colutorios Ortodoncia"
-msgstr ""
+msgstr "Colutorios Ortodoncia"
 
 msgid "Packs Ortodoncia"
-msgstr ""
+msgstr "Packs Ortodoncia"
 
 msgid "Pastas de dientes Ortodoncia"
-msgstr ""
+msgstr "Pastas de dientes Ortodoncia"
 
 msgid "PACKS Y PROMOCIONES"
-msgstr ""
+msgstr "PACKS Y PROMOCIONES"
 
 msgid "USO DIARIO"
-msgstr ""
+msgstr "USO DIARIO"
 
 msgid "Colutorios Uso Diario"
-msgstr ""
+msgstr "Colutorios Uso Diario"
 
 msgid "Packs Uso Diario"
-msgstr ""
+msgstr "Packs Uso Diario"
 
 msgid "Pastas de dientes Uso Diario"
-msgstr ""
+msgstr "Pastas de dientes Uso Diario"
 
 msgid "VIAJE"
-msgstr ""
+msgstr "VIAJE"
 
 msgid "Espumas"
-msgstr ""
+msgstr "Espumas"
 
 msgid "Estreñimiento"
-msgstr ""
+msgstr "Estreñimiento"
 
 msgid "Laxante"
-msgstr ""
+msgstr "Laxante"
 
 msgid "Regulador"
-msgstr ""
+msgstr "Regulador"
 
 msgid "Físico"
-msgstr ""
+msgstr "Físico"
 
 msgid "INTIMA"
-msgstr ""
+msgstr "INTIMA"
 
 msgid "Higiene Diaria"
-msgstr ""
+msgstr "Higiene Diaria"
 
 msgid "Irritaciones y Trastornos"
-msgstr ""
+msgstr "Irritaciones y Trastornos"
 
 msgid "Menstruación"
-msgstr ""
+msgstr "Menstruación"
 
 msgid "Sequedad y Reparación"
-msgstr ""
+msgstr "Sequedad y Reparación"
 
 msgid "Leches limpiadoras"
-msgstr ""
+msgstr "Leches limpiadoras"
 
 msgid "MASCOTAS"
-msgstr ""
+msgstr "MASCOTAS"
 
 msgid "Manicura"
-msgstr ""
+msgstr "Manicura"
 
 msgid "Mareos"
-msgstr ""
+msgstr "Mareos"
 
 msgid "Mixto"
-msgstr ""
+msgstr "Mixto"
 
 msgid "NUTRICIÓN Y HERBORISTERIA"
-msgstr ""
+msgstr "NUTRICIÓN Y HERBORISTERIA"
 
 msgid "Aceites Grasos y Omegas"
-msgstr ""
+msgstr "Aceites Grasos y Omegas"
 
 msgid "Caramelos y Chicles"
-msgstr ""
+msgstr "Caramelos y Chicles"
 
 msgid "Coenzimas y Antioxidantes"
-msgstr ""
+msgstr "Coenzimas y Antioxidantes"
 
 msgid "Colágenos y Complementos"
-msgstr ""
+msgstr "Colágenos y Complementos"
 
 msgid "Colágeno en comprimidos"
-msgstr ""
+msgstr "Colágeno en comprimidos"
 
 msgid "Colágeno en polvo"
-msgstr ""
+msgstr "Colágeno en polvo"
 
 msgid "Colágeno en sobres y líquido"
-msgstr ""
+msgstr "Colágeno en sobres y líquido"
 
 msgid "Packs y Promociones"
-msgstr ""
+msgstr "Packs y Promociones"
 
 msgid "Dieta y Detox"
-msgstr ""
+msgstr "Dieta y Detox"
 
 msgid "Bloqueantes e Inhibidores"
-msgstr ""
+msgstr "Bloqueantes e Inhibidores"
 
 msgid "Complementos Dieta"
-msgstr ""
+msgstr "Complementos Dieta"
 
 msgid "Depurativos y Detoxificantes"
-msgstr ""
+msgstr "Depurativos y Detoxificantes"
 
 msgid "Drenantes"
-msgstr ""
+msgstr "Drenantes"
 
 msgid "Edulcorantes"
-msgstr ""
+msgstr "Edulcorantes"
 
 msgid "Quemagrasas"
-msgstr ""
+msgstr "Quemagrasas"
 
 msgid "Saciantes y Perdida de apetito"
-msgstr ""
+msgstr "Saciantes y Perdida de apetito"
 
 msgid "Sustitutivos"
-msgstr ""
+msgstr "Sustitutivos"
 
 msgid "Nutrición y Sustitutivos"
-msgstr ""
+msgstr "Nutrición y Sustitutivos"
 
 msgid "Alimentación Adultos"
-msgstr ""
+msgstr "Alimentación Adultos"
 
 msgid "Alimentación Infantil"
-msgstr ""
+msgstr "Alimentación Infantil"
 
 msgid "Infusiones"
-msgstr ""
+msgstr "Infusiones"
 
 msgid "Plantas Medicinales"
-msgstr ""
+msgstr "Plantas Medicinales"
 
 msgid "Aceites Esenciales"
-msgstr ""
+msgstr "Aceites Esenciales"
 
 msgid "Combinaciones"
-msgstr ""
+msgstr "Combinaciones"
 
 msgid "Monoplantas"
-msgstr ""
+msgstr "Monoplantas"
 
 msgid "Probióticos"
-msgstr ""
+msgstr "Probióticos"
 
 msgid "Alergias/Atopía"
-msgstr ""
+msgstr "Alergias/Atopía"
 
 msgid "Bebés"
-msgstr ""
+msgstr "Bebés"
 
 msgid "Bucodental"
-msgstr ""
+msgstr "Bucodental"
 
 msgid "Confort urinario"
-msgstr ""
+msgstr "Confort urinario"
 
 msgid "Crohn/H Pilory"
-msgstr ""
+msgstr "Crohn/H Pilory"
 
 msgid "Flora Intestinal"
-msgstr ""
+msgstr "Flora Intestinal"
 
 msgid "Antibióticos"
-msgstr ""
+msgstr "Antibióticos"
 
 msgid "Antidiarreico"
-msgstr ""
+msgstr "Antidiarreico"
 
 msgid "Viajero"
-msgstr ""
+msgstr "Viajero"
 
 msgid "Flora Vaginal"
-msgstr ""
+msgstr "Flora Vaginal"
 
 msgid "Prebioticos"
-msgstr ""
+msgstr "Prebioticos"
 
 msgid "Vitaminas y Minerales"
-msgstr ""
+msgstr "Vitaminas y Minerales"
 
 msgid "Minerales"
-msgstr ""
+msgstr "Minerales"
 
 msgid "Monovitaminas"
-msgstr ""
+msgstr "Monovitaminas"
 
 msgid "Natación"
-msgstr ""
+msgstr "Natación"
 
 msgid "PIES"
-msgstr ""
+msgstr "PIES"
 
 msgid "Hidratación y Reparación"
-msgstr ""
+msgstr "Hidratación y Reparación"
 
 msgid "Pedicura"
-msgstr ""
+msgstr "Pedicura"
 
 msgid "Sudor y Olor"
-msgstr ""
+msgstr "Sudor y Olor"
 
 msgid "Uñas y Hongos"
-msgstr ""
+msgstr "Uñas y Hongos"
 
 msgid "PRODUCTOS DESTACADOS"
-msgstr ""
+msgstr "PRODUCTOS DESTACADOS"
 
 msgid "Pastillas jabón (pan)"
-msgstr ""
+msgstr "Pastillas jabón (pan)"
 
 msgid "Perfumes"
-msgstr ""
+msgstr "Perfumes"
 
 msgid "Pestañas y Cejas"
-msgstr ""
+msgstr "Pestañas y Cejas"
 
 msgid "Picaduras - urticarias"
-msgstr ""
+msgstr "Picaduras - urticarias"
 
 msgid "Piernas Cansadas y Varices"
-msgstr ""
+msgstr "Piernas Cansadas y Varices"
 
 msgid "Antivaricosos"
-msgstr ""
+msgstr "Antivaricosos"
 
 msgid "Sistema Circulatorio"
-msgstr ""
+msgstr "Sistema Circulatorio"
 
 msgid "Presbicia"
-msgstr ""
+msgstr "Presbicia"
 
 msgid "Proteinas y Aminoácidos"
-msgstr ""
+msgstr "Proteinas y Aminoácidos"
 
 msgid "Químico"
-msgstr ""
+msgstr "Químico"
 
 msgid "REGALOS"
-msgstr ""
+msgstr "REGALOS"
 
 msgid "Raíz"
-msgstr ""
+msgstr "Raíz"
 
 msgid "farmacia online"
-msgstr ""
+msgstr "farmacia online"
 
 msgid "Anunciados en Google Shopping"
-msgstr ""
+msgstr "Anunciados en Google Shopping"
 
 msgid "Farmacia"
-msgstr ""
+msgstr "Farmacia"
 
 msgid "BOTIQUÍN Y ORTOPEDIA"
-msgstr ""
+msgstr "BOTIQUÍN Y ORTOPEDIA"
 
 msgid "ACCESORIOS ORTOPEDIA"
-msgstr ""
+msgstr "ACCESORIOS ORTOPEDIA"
 
 msgid "Accesorios Ortopedia"
-msgstr ""
+msgstr "Accesorios Ortopedia"
 
 msgid "CUIDADO CORPORAL"
-msgstr ""
+msgstr "CUIDADO CORPORAL"
 
 msgid "ELEMENTOS DE PROTECCIÓN"
-msgstr ""
+msgstr "ELEMENTOS DE PROTECCIÓN"
 
 msgid "HERIDAS Y LESIONES"
-msgstr ""
+msgstr "HERIDAS Y LESIONES"
 
 msgid "ORTESIS Y PRENDAS"
-msgstr ""
+msgstr "ORTESIS Y PRENDAS"
 
 msgid "Ortesis y Prendas"
-msgstr ""
+msgstr "Ortesis y Prendas"
 
 msgid "Hombre"
-msgstr ""
+msgstr "Hombre"
 
 msgid "Labial"
-msgstr ""
+msgstr "Labial"
 
 msgid "Manos y Uñas"
-msgstr ""
+msgstr "Manos y Uñas"
 
 msgid "Nutricosmética"
-msgstr ""
+msgstr "Nutricosmética"
 
 msgid "Ojos"
-msgstr ""
+msgstr "Ojos"
 
 msgid "Tratamiento Piel"
-msgstr ""
+msgstr "Tratamiento Piel"
 
 msgid "CABELLO"
-msgstr ""
+msgstr "CABELLO"
 
 msgid "HIGIENE CORPORAL"
-msgstr ""
+msgstr "HIGIENE CORPORAL"
 
 msgid "LOS MÁS VENDIDOS"
-msgstr ""
+msgstr "LOS MÁS VENDIDOS"
 
 msgid "PROMOCIONES DESTACADAS FARMACIA"
-msgstr ""
+msgstr "PROMOCIONES DESTACADAS FARMACIA"
 
 msgid "REGALOS FARMACIA 365 ONLINE"
-msgstr ""
+msgstr "REGALOS FARMACIA 365 ONLINE"
 
 msgid "Aftersun/Postsolares"
-msgstr ""
+msgstr "Aftersun/Postsolares"
 
 msgid "Corporal"
-msgstr ""
+msgstr "Corporal"
 
 msgid "Deporte"
-msgstr ""
+msgstr "Deporte"
 
 msgid "Facial"
-msgstr ""
+msgstr "Facial"
 
 msgid "Infantil"
-msgstr ""
+msgstr "Infantil"
 
 msgid "Nutricosmética Solar"
-msgstr ""
+msgstr "Nutricosmética Solar"
 
 msgid "Pieles con Problemas"
-msgstr ""
+msgstr "Pieles con Problemas"
 
 msgid "Alergia"
-msgstr ""
+msgstr "Alergia"
 
 msgid "Nasal"
-msgstr ""
+msgstr "Nasal"
 
 msgid "Ocular"
-msgstr ""
+msgstr "Ocular"
 
 msgid "Oral"
-msgstr ""
+msgstr "Oral"
 
 msgid "Tópico"
-msgstr ""
+msgstr "Tópico"
 
 msgid "Anticaida Capilar"
-msgstr ""
+msgstr "Anticaida Capilar"
 
 msgid "Antitabaquismo"
-msgstr ""
+msgstr "Antitabaquismo"
 
 msgid "Circulatorio"
-msgstr ""
+msgstr "Circulatorio"
 
 msgid "Control de Peso"
-msgstr ""
+msgstr "Control de Peso"
 
 msgid "Adelgazantes - control de grasas"
-msgstr ""
+msgstr "Adelgazantes - control de grasas"
 
 msgid "Antiobesidad"
-msgstr ""
+msgstr "Antiobesidad"
 
 msgid "Para ganar peso"
-msgstr ""
+msgstr "Para ganar peso"
 
 msgid "Dolor, inflamación y fiebre"
-msgstr ""
+msgstr "Dolor, inflamación y fiebre"
 
 msgid "Analgésicos"
-msgstr ""
+msgstr "Analgésicos"
 
 msgid "Articular-muscular tópico"
-msgstr ""
+msgstr "Articular-muscular tópico"
 
 msgid "Dolor- inflamación-fiebre"
-msgstr ""
+msgstr "Dolor- inflamación-fiebre"
 
 msgid "Huesos y dolores articulares"
-msgstr ""
+msgstr "Huesos y dolores articulares"
 
 msgid "Ginecológicos"
-msgstr ""
+msgstr "Ginecológicos"
 
 msgid "Gripe y resfriado"
-msgstr ""
+msgstr "Gripe y resfriado"
 
 msgid "Anticatarrales - antigripales"
-msgstr ""
+msgstr "Anticatarrales - antigripales"
 
 msgid "Balsámicos"
-msgstr ""
+msgstr "Balsámicos"
 
 msgid "Congestión Nasal"
-msgstr ""
+msgstr "Congestión Nasal"
 
 msgid "Garganta - afonia"
-msgstr ""
+msgstr "Garganta - afonia"
 
 msgid "Mucolíticos - expectorantes"
-msgstr ""
+msgstr "Mucolíticos - expectorantes"
 
 msgid "Tos"
-msgstr ""
+msgstr "Tos"
 
 msgid "Insomnio y mareos"
-msgstr ""
+msgstr "Insomnio y mareos"
 
 msgid "Insomnio"
-msgstr ""
+msgstr "Insomnio"
 
 msgid "Oído"
-msgstr ""
+msgstr "Oído"
 
 msgid "Pediatria"
-msgstr ""
+msgstr "Pediatria"
 
 msgid "Catarros"
-msgstr ""
+msgstr "Catarros"
 
 msgid "Congestion e higiene nasal"
-msgstr ""
+msgstr "Congestion e higiene nasal"
 
 msgid "Digestivo-apetito"
-msgstr ""
+msgstr "Digestivo-apetito"
 
 msgid "Fiebre-dolor"
-msgstr ""
+msgstr "Fiebre-dolor"
 
 msgid "Piel"
-msgstr ""
+msgstr "Piel"
 
 msgid "Acne"
-msgstr ""
+msgstr "Acne"
 
 msgid "Antiifecciosos Tópicos"
-msgstr ""
+msgstr "Antiifecciosos Tópicos"
 
 msgid "Antisépticos - heridas"
-msgstr ""
+msgstr "Antisépticos - heridas"
 
 msgid "Antisépticos y Desinfectantes"
-msgstr ""
+msgstr "Antisépticos y Desinfectantes"
 
 msgid "Callicidas"
-msgstr ""
+msgstr "Callicidas"
 
 msgid "Callicidas - verrugas"
-msgstr ""
+msgstr "Callicidas - verrugas"
 
 msgid "Dermatitis atópica y pañal"
-msgstr ""
+msgstr "Dermatitis atópica y pañal"
 
 msgid "Herpes"
-msgstr ""
+msgstr "Herpes"
 
 msgid "Hongos"
-msgstr ""
+msgstr "Hongos"
 
 msgid "Quemaduras"
-msgstr ""
+msgstr "Quemaduras"
 
 msgid "Salud Bucal"
-msgstr ""
+msgstr "Salud Bucal"
 
 msgid "Aftas"
-msgstr ""
+msgstr "Aftas"
 
 msgid "Antiseptico bucal"
-msgstr ""
+msgstr "Antiseptico bucal"
 
 msgid "Dolor Dental"
-msgstr ""
+msgstr "Dolor Dental"
 
 msgid "Salud Ocular"
-msgstr ""
+msgstr "Salud Ocular"
 
 msgid "Higiene Ocular"
-msgstr ""
+msgstr "Higiene Ocular"
 
 msgid "Lubricantes-lágrimas artificiales"
-msgstr ""
+msgstr "Lubricantes-lágrimas artificiales"
 
 msgid "Tratamientos Oculares"
-msgstr ""
+msgstr "Tratamientos Oculares"
 
 msgid "Tension Arterial"
-msgstr ""
+msgstr "Tension Arterial"
 
 msgid "Trastornos Digestivos"
-msgstr ""
+msgstr "Trastornos Digestivos"
 
 msgid "Acidez"
-msgstr ""
+msgstr "Acidez"
 
 msgid "Antidiarreicos"
-msgstr ""
+msgstr "Antidiarreicos"
 
 msgid "Antiflatulentos"
-msgstr ""
+msgstr "Antiflatulentos"
 
 msgid "Laxantes"
-msgstr ""
+msgstr "Laxantes"
 
 msgid "Vitaminas - minerales"
-msgstr ""
+msgstr "Vitaminas - minerales"
 
 msgid "Cansancio Circulatorio"
-msgstr ""
+msgstr "Cansancio Circulatorio"
 
 msgid "Complejos vitamínicos y minerales"
-msgstr ""
+msgstr "Complejos vitamínicos y minerales"
 
 msgid "Estimulantes del sistema nervioso"
-msgstr ""
+msgstr "Estimulantes del sistema nervioso"
 
 msgid "Inmunoestimuladores"
-msgstr ""
+msgstr "Inmunoestimuladores"
 
 msgid "Rehidratantes y Recuperadores"
-msgstr ""
+msgstr "Rehidratantes y Recuperadores"
 
 msgid "Cuidados de la Piel"
-msgstr ""
+msgstr "Cuidados de la Piel"
 
 msgid "Atopía"
-msgstr ""
+msgstr "Atopía"
 
 msgid "Tratamiento"
-msgstr ""
+msgstr "Tratamiento"
 
 msgid "Cicatrices"
-msgstr ""
+msgstr "Cicatrices"
 
 msgid "Irritación y Picor"
-msgstr ""
+msgstr "Irritación y Picor"
 
 msgid "Regeneradores de la Piel"
-msgstr ""
+msgstr "Regeneradores de la Piel"
 
 msgid "Verrugas"
-msgstr ""
+msgstr "Verrugas"
 
 msgid "Fertilidad"
-msgstr ""
+msgstr "Fertilidad"
 
 msgid "Fertilidad Femenina"
-msgstr ""
+msgstr "Fertilidad Femenina"
 
 msgid "Fertilidad Masculina"
-msgstr ""
+msgstr "Fertilidad Masculina"
 
 msgid "Test Ovulación"
-msgstr ""
+msgstr "Test Ovulación"
 
 msgid "Salud Infantil"
-msgstr ""
+msgstr "Salud Infantil"
 
 msgid "Apetito"
-msgstr ""
+msgstr "Apetito"
 
 msgid "Diarrea y Cólicos"
-msgstr ""
+msgstr "Diarrea y Cólicos"
 
 msgid "Aparato Respiratorio"
-msgstr ""
+msgstr "Aparato Respiratorio"
 
 msgid "Congestión nasal"
-msgstr ""
+msgstr "Congestión nasal"
 
 msgid "Cámaras y Nebulizadores"
-msgstr ""
+msgstr "Cámaras y Nebulizadores"
 
 msgid "Resfriado y Mocos"
-msgstr ""
+msgstr "Resfriado y Mocos"
 
 msgid "Tos y Garganta"
-msgstr ""
+msgstr "Tos y Garganta"
 
 msgid "Golpes"
-msgstr ""
+msgstr "Golpes"
 
 msgid "Heridas"
-msgstr ""
+msgstr "Heridas"
 
 msgid "Piojos"
-msgstr ""
+msgstr "Piojos"
 
 msgid "Nerviosismo, Sueño"
-msgstr ""
+msgstr "Nerviosismo, Sueño"
 
 msgid "Salud Mujer"
-msgstr ""
+msgstr "Salud Mujer"
 
 msgid "Embarazo"
-msgstr ""
+msgstr "Embarazo"
 
 msgid "Test embarazo"
-msgstr ""
+msgstr "Test embarazo"
 
 msgid "Menopausia"
-msgstr ""
+msgstr "Menopausia"
 
 msgid "Salud íntima"
-msgstr ""
+msgstr "Salud íntima"
 
 msgid "Gafas"
-msgstr ""
+msgstr "Gafas"
 
 msgid "Liquido Lentillas"
-msgstr ""
+msgstr "Liquido Lentillas"
 
 msgid "Ojos Irritados"
-msgstr ""
+msgstr "Ojos Irritados"
 
 msgid "Ojos secos y Lágrimas"
-msgstr ""
+msgstr "Ojos secos y Lágrimas"
 
 msgid "Salud Sexual"
-msgstr ""
+msgstr "Salud Sexual"
 
 msgid "Preservativos"
-msgstr ""
+msgstr "Preservativos"
 
 msgid "Vigorizantes y Falta de deseo"
-msgstr ""
+msgstr "Vigorizantes y Falta de deseo"
 
 msgid "Falta de deseo"
-msgstr ""
+msgstr "Falta de deseo"
 
 msgid "Salud y Bienestar"
-msgstr ""
+msgstr "Salud y Bienestar"
 
 msgid "Sistema Respiratorio"
-msgstr ""
+msgstr "Sistema Respiratorio"
 
 msgid "Descongestivos nasales"
-msgstr ""
+msgstr "Descongestivos nasales"
 
 msgid "Garganta"
-msgstr ""
+msgstr "Garganta"
 
 msgid "Resfriados y Mocos"
-msgstr ""
+msgstr "Resfriados y Mocos"
 
 msgid "Tiras nasales y Ronquido"
-msgstr ""
+msgstr "Tiras nasales y Ronquido"
 
 msgid "Silicona"
-msgstr ""
+msgstr "Silicona"
 
 msgid "Sol"
-msgstr ""
+msgstr "Sol"
 
 msgid "Tónicos"
-msgstr ""
+msgstr "Tónicos"
 
 msgid "Rolled back 1 item - done with '@name'"
 msgid_plural "Rolled back @numitems items - done with '@name'"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Retrocedió 1 elemento - hecho con '@nombre'"
+msgstr[1] "Retroceder los artículos de @numitems - hecho con '@nombre'"
 
 msgid "Canastillas y Neceseres Ac"
-msgstr ""
+msgstr "Canastillas y Neceseres Ac"
 
 msgid "+18 meses"
-msgstr ""
+msgstr "+18 meses"
 
 msgid "Accesorios Chupes"
-msgstr ""
+msgstr "Accesorios Chupes"
 
 msgid "Almohadilas"
-msgstr ""
+msgstr "Almohadilas"
 
 msgid "Analítica y Jeringas"
-msgstr ""
+msgstr "Analítica y Jeringas"
 
 msgid "Cámaras e Inhaladores"
-msgstr ""
+msgstr "Cámaras e Inhaladores"
 
 msgid "Movilidad"
-msgstr ""
+msgstr "Movilidad"
 
 msgid "Pulxiómetro"
-msgstr ""
+msgstr "Pulxiómetro"
 
 msgid "Ronquido y respiración"
-msgstr ""
+msgstr "Ronquido y respiración"
 
 msgid "Tensiómetros"
-msgstr ""
+msgstr "Tensiómetros"
 
 msgid "Termómetros"
-msgstr ""
+msgstr "Termómetros"
 
 msgid "Tests Diagnóstico"
-msgstr ""
+msgstr "Tests Diagnóstico"
 
 msgid "Antipiojos"
-msgstr ""
+msgstr "Peine Lendrera"
 
 msgid "Peine Lendrera"
-msgstr ""
+msgstr "Peine Lendrera"
 
 msgid "Prevención"
-msgstr ""
+msgstr "Prevención"
 
 msgid "Dolor muscular y articular"
-msgstr ""
+msgstr "Dolor muscular y articular"
 
 msgid "Cremas y sprays"
-msgstr ""
+msgstr "Cremas y sprays"
 
 msgid "Parches y bolsas"
-msgstr ""
+msgstr "Parches y bolsas"
 
 msgid "Aparatos eléctricos"
-msgstr ""
+msgstr "Aparatos eléctricos"
 
 msgid "Picaduras"
-msgstr ""
+msgstr "Picaduras"
 
 msgid "Repelentes"
-msgstr ""
+msgstr "Repelentes"
 
 msgid "Mareo"
-msgstr ""
+msgstr "Mareo"
 
 msgid "Mareo Adultos"
-msgstr ""
+msgstr "Mareo Adultos"
 
 msgid "Mareo Niños"
-msgstr ""
+msgstr "Mareo Niños"
 
 msgid "Accesorios Protección"
-msgstr ""
+msgstr "Accesorios Protección"
 
 msgid "Desinfectantes"
-msgstr ""
+msgstr "Desinfectantes"
 
 msgid "Geles Hidroalcohólicos"
-msgstr ""
+msgstr "Geles Hidroalcohólicos"
 
 msgid "Mascarillas Protección"
-msgstr ""
+msgstr "Mascarillas Protección"
 
 msgid "Tapones de Oido"
-msgstr ""
+msgstr "Tapones de Oido"
 
 msgid "Espuma y Poliuretano"
-msgstr ""
+msgstr "Espuma y Poliuretano"
 
 msgid "Gasas y Esparadrapos"
-msgstr ""
+msgstr "Gasas y Esparadrapos"
 
 msgid "Golpes Bot"
-msgstr ""
+msgstr "Golpes Bot"
 
 msgid "Pies/Compeed"
-msgstr ""
+msgstr "Pies/Compeed"
 
 msgid "Reparadoras y Regeneradoras"
-msgstr ""
+msgstr "Reparadoras y Regeneradoras"
 
 msgid "Tiritas y Apósitos"
-msgstr ""
+msgstr "Tiritas y Apósitos"
 
 msgid "Vendas y Accesorios"
-msgstr ""
+msgstr "Vendas y Accesorios"
 
 msgid "Calcetines"
-msgstr ""
+msgstr "Calcetines"
 
 msgid "Fajas"
-msgstr ""
+msgstr "Fajas"
 
 msgid "Lesiones Cuerpo"
-msgstr ""
+msgstr "Lesiones Cuerpo"
 
 msgid "Lesiones de Pie"
-msgstr ""
+msgstr "Lesiones de Pie"
 
 msgid "Medias"
-msgstr ""
+msgstr "Medias"
 
 msgid "Plantillas"
-msgstr ""
+msgstr "Plantillas"
 
 msgid "Cofres y Packs"
-msgstr ""
+msgstr "Cofres y Packs"
 
 msgid "Aceites Hidratación Corporal"
-msgstr ""
+msgstr "Aceites Hidratación Corporal"
 
 msgid "Cremas Hidratación Corporal"
-msgstr ""
+msgstr "Cremas Hidratación Corporal"
 
 msgid "Lociones Hidratación Corporal"
-msgstr ""
+msgstr "Lociones Hidratación Corporal"
 
 msgid "Ampollas Antiedad"
-msgstr ""
+msgstr "Ampollas Antiedad"
 
 msgid "Booster Antiedad"
-msgstr ""
+msgstr "Booster Antiedad"
 
 msgid "Contorno Ojos Antiedad"
-msgstr ""
+msgstr "Contorno Ojos Antiedad"
 
 msgid "Crema Antiedad"
-msgstr ""
+msgstr "Crema Antiedad"
 
 msgid "Loción/Gel Antiedad"
-msgstr ""
+msgstr "Loción/Gel Antiedad"
 
 msgid "Serum Antiedad"
-msgstr ""
+msgstr "Serum Antiedad"
 
 msgid "Ampollas Hidratación Facial"
-msgstr ""
+msgstr "Ampollas Hidratación Facial"
 
 msgid "Booster Hidratación Facial"
-msgstr ""
+msgstr "Booster Hidratación Facial"
 
 msgid "Contorno de ojos Hidratación Facial"
-msgstr ""
+msgstr "Contorno de ojos Hidratación Facial"
 
 msgid "Crema Hidratación Facial"
-msgstr ""
+msgstr "Crema Hidratación Facial"
 
 msgid "Loción/Gel Hidratación Facial"
-msgstr ""
+msgstr "Loción/Gel Hidratación Facial"
 
 msgid "Serum Hidratación Facial"
-msgstr ""
+msgstr "Serum Hidratación Facial"
 
 msgid "Limpieza Facial"
-msgstr ""
+msgstr "Limpieza Facial"
 
 msgid "Afeitado"
-msgstr ""
+msgstr "Afeitado"
 
 msgid "Antiedad Hombre"
-msgstr ""
+msgstr "Antiedad Hombre"
 
 msgid "Contorno Ojos Antiedad Hombre"
-msgstr ""
+msgstr "Contorno Ojos Antiedad Hombre"
 
 msgid "Crema Antiedad Hombre"
-msgstr ""
+msgstr "Crema Antiedad Hombre"
 
 msgid "Hidratación Hombre"
-msgstr ""
+msgstr "Hidratación Hombre"
 
 msgid "Cosméticos Labial"
-msgstr ""
+msgstr "Cosméticos Labial"
 
 msgid "Hidratación Labial"
-msgstr ""
+msgstr "Hidratación Labial"
 
 msgid "Labial Infantil"
-msgstr ""
+msgstr "Labial Infantil"
 
 msgid "Labial Solar"
-msgstr ""
+msgstr "Labial Solar"
 
 msgid "Reparación Labial"
-msgstr ""
+msgstr "Reparación Labial"
 
 msgid "Laca de Uñas"
-msgstr ""
+msgstr "Laca de Uñas"
 
 msgid "Nutritivas y Fortalecedores"
-msgstr ""
+msgstr "Nutritivas y Fortalecedores"
 
 msgid "Quitaesmaltes"
-msgstr ""
+msgstr "Quitaesmaltes"
 
 msgid "Antioxidantes y Antiedad"
-msgstr ""
+msgstr "Antioxidantes y Antiedad"
 
 msgid "Capilar y Uñas"
-msgstr ""
+msgstr "Capilar y Uñas"
 
 msgid "Nutricosmética Corporal"
-msgstr ""
+msgstr "Nutricosmética Corporal"
 
 msgid "Bolsas y Ojeras"
-msgstr ""
+msgstr "Bolsas y Ojeras"
 
 msgid "Hidratación Ojos"
-msgstr ""
+msgstr "Hidratación Ojos"
 
 msgid "Limpieza Ojos"
-msgstr ""
+msgstr "Limpieza Ojos"
 
 msgid "Maquillaje Ojos"
-msgstr ""
+msgstr "Maquillaje Ojos"
 
 msgid "Acné"
-msgstr ""
+msgstr "Acné"
 
 msgid "Exfoliante Acné"
-msgstr ""
+msgstr "Exfoliante Acné"
 
 msgid "Hidratante Acné"
-msgstr ""
+msgstr "Hidratante Acné"
 
 msgid "Limpieza Acné"
-msgstr ""
+msgstr "Limpieza Acné"
 
 msgid "Tratamiento Acné"
-msgstr ""
+msgstr "Tratamiento Acné"
 
 msgid "Atopía y Dermatitis"
-msgstr ""
+msgstr "Atopía y Dermatitis"
 
 msgid "Despigmentante y Manchas"
-msgstr ""
+msgstr "Despigmentante y Manchas"
 
 msgid "Pieles sensibles e Intolerantes"
-msgstr ""
+msgstr "Pieles sensibles e Intolerantes"
 
 msgid "Rosacea y Cuperosis"
-msgstr ""
+msgstr "Rosacea y Cuperosis"
 
 msgid "Hidratante Rosacea"
-msgstr ""
+msgstr "Hidratante Rosacea"
 
 msgid "Limpieza Rosacea"
-msgstr ""
+msgstr "Limpieza Rosacea"
 
 msgid "Tratamiento Rosacea"
-msgstr ""
+msgstr "Tratamiento Rosacea"
 
 msgid "Accesorios Cabello"
-msgstr ""
+msgstr "Accesorios Cabello"
 
 msgid "Acondicionador"
-msgstr ""
+msgstr "Acondicionador"
 
 msgid "Anticaída"
-msgstr ""
+msgstr "Anticaída"
 
 msgid "Ampollas Anticaída"
-msgstr ""
+msgstr "Ampollas Anticaída"
 
 msgid "Champú Anticaída"
-msgstr ""
+msgstr "Champú Anticaída"
 
 msgid "Cápsulas Anticaída"
-msgstr ""
+msgstr "Cápsulas Anticaída"
 
 msgid "Loción Anticaída"
-msgstr ""
+msgstr "Loción Anticaída"
 
 msgid "Spray Anticaída"
-msgstr ""
+msgstr "Spray Anticaída"
 
 msgid "Champú"
-msgstr ""
+msgstr "Champú"
 
 msgid "Anticaida"
-msgstr ""
+msgstr "Anticaspa"
 
 msgid "Anticaspa"
-msgstr ""
+msgstr "Anticaspa"
 
 msgid "Cabello Graso"
-msgstr ""
+msgstr "Cabello Graso"
 
 msgid "Cabello Seco"
-msgstr ""
+msgstr "Cabello Seco"
 
 msgid "Cabello teñido"
-msgstr ""
+msgstr "Cabello teñido"
 
 msgid "Vitalidad y Brillo"
-msgstr ""
+msgstr "Vitalidad y Brillo"
 
 msgid "Uso frecuente"
-msgstr ""
+msgstr "Uso frecuente"
 
 msgid "Uso en seco"
-msgstr ""
+msgstr "Uso en seco"
 
 msgid "Dermatitis y Atopía"
-msgstr ""
+msgstr "Dermatitis y Atopía"
 
 msgid "Densidad"
-msgstr ""
+msgstr "Densidad"
 
 msgid "Tintes"
-msgstr ""
+msgstr "Tintes"
 
 msgid "Solares"
-msgstr ""
+msgstr "Solares"
 
 msgid "Mascarillas y Serum"
-msgstr ""
+msgstr "Mascarillas y Serum"
 
 msgid "Menstruación Hig"
-msgstr ""
+msgstr "Menstruación Hig"
 
 msgid "Accesorios Higiene"
-msgstr ""
+msgstr "Accesorios Higiene"
 
 msgid "Desodorantes"
-msgstr ""
+msgstr "Desodorantes"
 
 msgid "Desodorante Crema"
-msgstr ""
+msgstr "Desodorante Crema"
 
 msgid "Desodorante Rollon"
-msgstr ""
+msgstr "Desodorante Rollon"
 
 msgid "Desodorante Spray"
-msgstr ""
+msgstr "Desodorante Spray"
 
 msgid "Hipersudoración"
-msgstr ""
+msgstr "Hipersudoración"
 
 msgid "Gel de Baño"
-msgstr ""
+msgstr "Gel de Baño"
 
 msgid "Gel Piel atópica"
-msgstr ""
+msgstr "Gel Piel atópica"
 
 msgid "Gel Piel normal"
-msgstr ""
+msgstr "Gel Piel normal"
 
 msgid "Gel Piel seca y muy seca"
-msgstr ""
+msgstr "Gel Piel seca y muy seca"
 
 msgid "Gel Piel sensible"
-msgstr ""
+msgstr "Gel Piel sensible"
 
 msgid "Hidratación Corporal"
-msgstr ""
+msgstr "Hidratación Corporal"
 
 msgid "Piel muy seca"
-msgstr ""
+msgstr "Piel muy seca"
 
 msgid "Piel normal"
-msgstr ""
+msgstr "Piel normal"
 
 msgid "Piel seca"
-msgstr ""
+msgstr "Piel seca"
 
 msgid "Piel sensible"
-msgstr ""
+msgstr "Piel sensible"
 
 msgid "Nariz y Oido"
-msgstr ""
+msgstr "Nariz y Oido"
 
 msgid "Limpieza Nariz y Oido"
-msgstr ""
+msgstr "Limpieza Nariz y Oido"
 
 msgid "Tapones de cera"
-msgstr ""
+msgstr "Tapones de cera"
 
 msgid "Promociones"
-msgstr ""
+msgstr "Promociones"
 
 msgid "Deportistas Vit"
-msgstr ""
+msgstr "Deportistas Vit"
 
 msgid "Defensas Vit"
-msgstr ""
+msgstr "Defensas Vit"
 
 msgid "Probióticos Inf"
-msgstr ""
+msgstr "Probióticos Inf"
 
 msgid "Defensas Inf"
-msgstr ""
+msgstr "Defensas Inf"
 
 msgid "Resfriado y Mocos Inf"
-msgstr ""
+msgstr "Resfriado y Mocos Inf"
 
 msgid "Complementos alimenticios Emb"
-msgstr ""
+msgstr "Complementos alimenticios Emb"
 
 msgid "Niños Gafas"
-msgstr ""
+msgstr "Niños Gafas"
 
 msgid "Flora intestinal AD"
-msgstr ""
+msgstr "Flora intestinal AD"
 
 msgid "Incontinencia S"
-msgstr ""
+msgstr "Incontinencia S"
 
 msgid "Tabaquismo"
-msgstr ""
+msgstr "Tabaquismo"
 
 msgid "Calmantes Piel e Hidratación"
-msgstr ""
+msgstr "Calmantes Piel e Hidratación"
 
 msgid "Quemaduras y Eritemas"
-msgstr ""
+msgstr "Quemaduras y Eritemas"
 
 msgid "Cosméticos Solares Coporales"
-msgstr ""
+msgstr "Cosméticos Solares Coporales"
 
 msgid "Packs Familiares"
-msgstr ""
+msgstr "Packs Familiares"
 
 msgid "Potenciadores Bronceado y Autobronceadores"
-msgstr ""
+msgstr "Potenciadores Bronceado y Autobronceadores"
 
 msgid "Protección Corporal Alta"
-msgstr ""
+msgstr "Protección Corporal Alta"
 
 msgid "Protección Corporal Media y Baja"
-msgstr ""
+msgstr "Protección Corporal Media y Baja"
 
 msgid "Solares Cabello"
-msgstr ""
+msgstr "Solares Cabello"
 
 msgid "Sticks y Barras"
-msgstr ""
+msgstr "Sticks y Barras"
 
 msgid "Corporal Deportistas"
-msgstr ""
+msgstr "Corporal Deportistas"
 
 msgid "Facial Deportistas"
-msgstr ""
+msgstr "Facial Deportistas"
 
 msgid "Sticks contorno"
-msgstr ""
+msgstr "Sticks contorno"
 
 msgid "Cosméticos Solares"
-msgstr ""
+msgstr "Cosméticos Solares"
 
 msgid "Labiales con Protección"
-msgstr ""
+msgstr "Labiales con Protección"
 
 msgid "Packs Promocionales"
-msgstr ""
+msgstr "Packs Promocionales"
 
 msgid "Protección Facial Alta"
-msgstr ""
+msgstr "Protección Facial Alta"
 
 msgid "Protección Facial Media y Baja"
-msgstr ""
+msgstr "Protección Facial Media y Baja"
 
 msgid "Protección Facial Total"
-msgstr ""
+msgstr "Protección Facial Total"
 
 msgid "Protección Media"
-msgstr ""
+msgstr "Protección Media"
 
 msgid "Postsolares y Aftersuns"
-msgstr ""
+msgstr "Postsolares y Aftersuns"
 
 msgid "Solar Bebés Infantil"
-msgstr ""
+msgstr "Solar Bebés Infantil"
 
 msgid "Solar Corporal Infantil"
-msgstr ""
+msgstr "Solar Corporal Infantil"
 
 msgid "Solar Facial Infantil"
-msgstr ""
+msgstr "Solar Facial Infantil"
 
 msgid "Potenciadores Bronceado"
-msgstr ""
+msgstr "Potenciadores Bronceado"
 
 msgid "Preparación Bronceado"
-msgstr ""
+msgstr "Preparación Bronceado"
 
 msgid "Protectores Solares"
-msgstr ""
+msgstr "Protectores Solares"
 
 msgid "Solar  Sensibles e Intolerantes"
-msgstr ""
+msgstr "Solar  Sensibles e Intolerantes"
 
 msgid "Solar Acné"
-msgstr ""
+msgstr "Solar Acné"
 
 msgid "Solar Atopía"
-msgstr ""
+msgstr "Solar Atopía"
 
 msgid "Solar Manchas"
-msgstr ""
+msgstr "Solar Manchas"
 
 msgid "Solar Rosácea y Cuperosis"
-msgstr ""
+msgstr "Solar Rosácea y Cuperosis"
 
 msgid "FAMILIA 1"
-msgstr ""
+msgstr "FAMILIA 1"
 
 msgid "FAMILIA 2"
-msgstr ""
+msgstr "FAMILIA 2"
 
 msgid "Fichero CSV de actualización"
-msgstr ""
+msgstr "Fichero CSV de actualización"
 
 msgid "updateForm"
 msgstr ""
 
 msgid "Open @mime in new window"
-msgstr ""
+msgstr "Abrir @mime en una nueva ventana"
 
 msgid "document"
-msgstr ""
+msgstr "documento"
 
 msgid "The file %value already exists. Enter a unique file URI."
-msgstr ""
+msgstr "El archivo %valor ya existe. Introduzca un URI de archivo único."
 
 msgid "que va. nada"
-msgstr ""
+msgstr "que va. nada"
 
 msgid "Carritos"
-msgstr ""
+msgstr "Carritos"
 
 msgid "Private file system is set."
-msgstr ""
+msgstr "El sistema de archivos privado está configurado."
 
 msgid "se ha hecho correctamente la actualización"
-msgstr ""
+msgstr "se ha hecho correctamente la actualización"
 
 msgid "Actualizar precios y stock desde Farmatic"
-msgstr ""
+msgstr "Actualizar precios y stock desde Farmatic"
 
 msgid "Label / Description"
-msgstr ""
+msgstr "Etiqueta / Descripción"
 
 msgid "Secure"
-msgstr ""
+msgstr "Asegure"
 
 msgid "All meta tags in the \"@group\" group."
-msgstr ""
+msgstr "Todas las metaetiquetas del grupo \"@group\"."
 
 msgid "The <a href='https://ogp.me/'>Open Graph meta tags</a> are used to control how Facebook, Pinterest, LinkedIn and other social networking sites interpret the site's content.<br><br>The Facebook <a href='https://developers.facebook.com/tools/debug/'>Sharing Debugger</a> lets you preview how your content will look when it's shared to Facebook and debug any issues with your Open Graph tags."
-msgstr ""
+msgstr "Las metaetiquetas <a href='https://ogp.me/'>Open Graph</a> se utilizan para controlar cómo Facebook, Pinterest, LinkedIn y otras redes sociales interpretan el contenido del sitio.<br><br>El <a href='https://developers.facebook.com/tools/debug/'>Sharing Debugger</a> de Facebook te permite previsualizar cómo se verá tu contenido cuando se comparta en Facebook y depurar cualquier problema con tus etiquetas Open Graph."
 
 msgid "A set of meta tags specially for controlling advanced functionality with <a href=':fb'>Facebook</a>.<br><br>The Facebook <a href='https://developers.facebook.com/tools/debug/'>Sharing Debugger</a> lets you preview how your content will look when it's shared to Facebook and debug any issues with your Open Graph tags."
-msgstr ""
+msgstr "Un conjunto de metaetiquetas especialmente para controlar la funcionalidad avanzada con <a href=':fb'>Facebook</a>.<br><br>El <a href='https://developers.facebook.com/tools/debug/'>Depurador de compartición</a> de Facebook te permite previsualizar cómo se verá tu contenido cuando se comparta en Facebook y depurar cualquier problema con tus etiquetas Open Graph."
 
 msgid "Vertical tabs"
-msgstr ""
+msgstr "Pestañas verticales"
 
 msgid "Height (feet/inches)"
-msgstr ""
+msgstr "Altura (pies/pulgadas)"
 
 msgid "Sign above"
-msgstr ""
+msgstr "Firma superior"
 
 msgid "I agree to the {terms of service}."
-msgstr ""
+msgstr "Acepto las {condiciones de servicio}."
 
+#, fuzzy
 msgid "Ext:"
 msgstr ""
 
 msgid "Original Image"
-msgstr ""
+msgstr "Imagen original"
 
 msgid "Enter a part of the element type to filter by."
-msgstr ""
+msgstr "Introduzca una parte del tipo de elemento para filtrar."
 
 msgid "Edit configuration"
-msgstr ""
+msgstr "Editar la configuración"
 
 msgid "@total elements"
-msgstr ""
+msgstr "@total de elementos"
 
 msgid "Label/Description"
-msgstr ""
+msgstr "Etiqueta/Descripción"
 
 msgid "Class hierarchy"
-msgstr ""
+msgstr "Jerarquía de clases"
 
 msgid "Webform info"
-msgstr ""
+msgstr "Información del formulario web"
 
 msgid "Element info"
-msgstr ""
+msgstr "Información sobre el elemento"
 
 msgid "Integrated by"
-msgstr ""
+msgstr "\n"
+"Integrado por"
 
 msgid "API Docs"
-msgstr ""
+msgstr "Documentos de la API"
 
 msgid "Provides a form element for selecting a language."
-msgstr ""
+msgstr "Proporciona un elemento de formulario para seleccionar un idioma."
 
 msgid "Provides a form element to enter a machine name, which is validated to ensure that the name is unique and does not contain disallowed characters."
-msgstr ""
+msgstr "Proporciona un elemento de formulario para introducir un nombre de máquina, que se valida para garantizar que el nombre es único y no contiene caracteres no permitidos."
 
 msgid "Provides a form element for uploading and saving a file."
-msgstr ""
+msgstr "Proporciona un elemento de formulario para cargar y guardar un archivo."
 
 msgid "Provides a form element for entering a password, with hidden text."
-msgstr ""
+msgstr "Proporciona un elemento de formulario para introducir una contraseña, con texto oculto."
 
 msgid "Provides a form element for double-input of passwords."
-msgstr ""
+msgstr "Proporciona un elemento de formulario para la doble introducción de contraseñas."
 
 msgid "Provides a vertical tabs element."
-msgstr ""
+msgstr "Proporciona un elemento de pestañas verticales."
 
 msgid "Provides a form element for uploading and saving an audio file."
-msgstr ""
+msgstr "Proporciona un elemento de formulario para cargar y guardar un archivo de audio."
 
 msgid "Provides a form element for uploading and saving a document."
-msgstr ""
+msgstr "Proporciona un elemento de formulario para cargar y guardar un documento."
 
 msgid "Provides a form element to collect height in feet and inches."
-msgstr ""
+msgstr "Proporciona un elemento de formulario para recoger la altura en pies y pulgadas."
 
 msgid "Provides a form element for uploading and saving an image file."
-msgstr ""
+msgstr "Proporciona un elemento de formulario para cargar y guardar un archivo de imagen."
 
 msgid "Provides an element to render a table row."
-msgstr ""
+msgstr "Proporciona un elemento para representar una fila de la tabla."
 
 msgid "Provides a form element for uploading and saving a video file."
-msgstr ""
+msgstr "Proporciona un elemento de formulario para cargar y guardar un archivo de vídeo."
 
 msgid "Provides an element to display multiple form elements as a page in a multi-step form wizard."
-msgstr ""
+msgstr "Proporciona un elemento para mostrar múltiples elementos de formulario como una página en un asistente de formulario de varios pasos.Proporciona un elemento para mostrar múltiples elementos de formulario como una página en un asistente de formulario de varios pasos."
 
 msgid "Below are elements that are available but do not have a Webform Element integration plugin."
-msgstr ""
+msgstr "A continuación se muestran los elementos que están disponibles pero que no tienen un plugin de integración de elementos de formulario web."
 
 msgid "Additional elements"
-msgstr ""
+msgstr "Elementos adicionales"
 
 msgid "Below are all available element properties with translatable properties in <strong>bold</strong>."
-msgstr ""
+msgstr "A continuación se muestran todas las propiedades de elementos disponibles con propiedades traducibles en <strong>negrita</strong>."
 
 msgid "Webform plugins: Elements"
-msgstr ""
+msgstr "Plugins del formulario web: Elementos"
 
 msgid "Migration from multiple CSV files."
-msgstr ""
+msgstr "Migración desde múltiples archivos CSV."
 
 msgid "Transform uploaded image"
-msgstr ""
+msgstr "Transformar la imagen subida"
 
 msgid "Custom module for updating price for mentafarma e-commerce"
-msgstr ""
+msgstr "Módulo personalizado de actualización de precios para el e-commerce de mentafarma"
 
 msgid "CKEditor Media Embed plugin settings page"
-msgstr ""
+msgstr "Página de configuración del plugin CKEditor Media Embed"
 
 msgid "<b>Warning!</b> Blazy Filter is useless and broken when you enable <b>Media embed</b> or <b>Display embedded entities</b>. You can disable Blazy Filter in favor of Blazy formatter embedded inside <b>Media embed</b> or <b>Display embedded entities</b> instead. However it might be useful for User Generated Contents (UGC) where Entity/Media Embed are likely more for privileged users, authors, editors, admins, alike. Or when Entity/Media Embed is disabled. Or when editors prefer pasting embed codes from video providers rather than creating media entities."
-msgstr ""
+msgstr "<b>¡Atención!</b> Blazy Filter es inútil y se rompe cuando se habilita <b>Media embed</b> o <b>Display embedded entities</b>. Puede desactivar el Filtro Blazy en favor del formateador Blazy incrustado dentro de <b>Media embed</b> o <b>Mostrar entidades incrustadas</b> en su lugar. Sin embargo, podría ser útil para los contenidos generados por el usuario (UGC), donde la entidad/incrustación de medios es probablemente más para los usuarios privilegiados, autores, editores, administradores, por igual. O cuando la incrustación de entidades/medios está desactivada. O cuando los editores prefieren pegar los códigos de incrustación de los proveedores de vídeo en lugar de crear entidades multimedia."
 
 msgid "Media Embed"
-msgstr ""
+msgstr "Incorporación de medios"
 
 msgid "Text direction from left to right"
-msgstr ""
+msgstr "Dirección del texto de izquierda a derecha"
 
 msgid "Text direction from right to left"
-msgstr ""
+msgstr "Dirección del texto de derecha a izquierda"
 
 msgid "Semantic Media Embed"
-msgstr ""
+msgstr "Incorporación de medios semánticos"
 
 msgid "Insert from Media Library"
-msgstr ""
+msgstr "Insertar desde la biblioteca de medios"
 
 msgid "Token browser"
-msgstr ""
+msgstr "Navegador de tokens"
 
 msgid "Embedded media"
-msgstr ""
+msgstr "Medios incorporados"
 
 msgid "Enable auto embed"
-msgstr ""
+msgstr "Activar la incrustación automática"
 
 msgid "When enabled to a Media embed plugin, media resource URLs pasted into the editing area are turned into an embed resource using the selected plugin."
-msgstr ""
+msgstr "Cuando se activa un plugin de incrustación de medios, las URL de recursos multimedia pegadas en el área de edición se convierten en un recurso incrustado utilizando el plugin seleccionado."
 
 msgid "Auto Embed"
 msgstr ""
 
 msgid "Settings for the Media Embed and Semantic Media Embed plugins are located on the @link."
-msgstr ""
+msgstr "La configuración de los plugins Media Embed y Semantic Media Embed se encuentra en el @link."
 
 msgid "Media Embed Base"
-msgstr ""
+msgstr "Base de inserción de medios"
 
 msgid "- Select profile -"
-msgstr ""
+msgstr "- Seleccionar perfil -"
 
 msgid "Select a linkit profile"
-msgstr ""
+msgstr "Seleccione un perfil de linkit"
 
 msgid "Select the linkit profile you wish to use with this text format."
-msgstr ""
+msgstr "Seleccione el perfil de linkit que desea utilizar con este formato de texto."
 
 msgid "Token types"
-msgstr ""
+msgstr "Tipos de token"
 
 msgid "Optionally restrict the token types to show in the browser. Select none to show all."
-msgstr ""
+msgstr "Opcionalmente, restrinja los tipos de fichas que se mostrarán en el navegador. Seleccione ninguno para mostrar todos."
 
 msgid "Display embedded entities"
-msgstr ""
+msgstr "Visualizar entidades incrustadas"
 
 msgid "Embeds entities using data attributes: data-entity-type, data-entity-uuid, and data-view-mode. Should usually run as the last filter, since it does not contain user input."
-msgstr ""
+msgstr "Incrusta entidades utilizando atributos de datos: data-entity-type, data-entity-uuid y data-view-mode. Normalmente debería ejecutarse como el último filtro, ya que no contiene la entrada del usuario."
 
 msgid "Correct URLs with Pathologic"
-msgstr ""
+msgstr "Corregir URLs con Pathologic"
 
 msgid "Convert Oembed tags to media embeds"
-msgstr ""
+msgstr "Convertir las etiquetas de Oembed en incrustaciones multimedia"
 
 msgid "The provider specified as the @link will be used."
-msgstr ""
+msgstr "Se utilizará el proveedor especificado como @link."
 
 msgid "Image Resize Filter: Resize images based on their given height and width attributes"
-msgstr ""
+msgstr "Filtro de redimensionamiento de imágenes: Cambia el tamaño de las imágenes en función de sus atributos de altura y anchura."
 
 msgid "Analyze the &lt;img&gt; tags and compare the given height and width attributes to the actual file. If the file dimensions are different than those given in the &lt;img&gt; tag, the image will be copied and the src attribute will be updated to point to the resized image."
-msgstr ""
+msgstr "Analiza las etiquetas &lt;img&gt; y compara los atributos de altura y anchura dados con el archivo real. Si las dimensiones del archivo son diferentes a las dadas en la etiqueta &lt;img&gt;, se copiará la imagen y se actualizará el atributo src para que apunte a la imagen redimensionada."
 
 msgid "Ace Filter"
-msgstr ""
+msgstr "Filtro Ace"
 
 msgid "Use &lt;ace&gt; and &lt;/ace&gt; tags to show it with syntax highlighting.\n"
 " * Add attributes to <ace> tag to control formatting."
-msgstr ""
+msgstr "Utilice las etiquetas &lt;ace&gt; y &lt;/ace&gt; para mostrarlo con resaltado de sintaxis.\n"
+" * Añadir atributos a la etiqueta <ace> para controlar el formato."
 
 msgid "Image Resize Filter: Link images derivates to source"
-msgstr ""
+msgstr "Filtro de redimensionamiento de imágenes: Enlazar imágenes derivadas a la fuente"
 
 msgid "Link an image derivate to its source (original) image."
-msgstr ""
+msgstr "Vincular una imagen derivada a su imagen de origen (original)."
 
 msgid "Lazyload inline images, or video iframes using Blazy."
-msgstr ""
+msgstr "Carga perezosa de imágenes en línea, o iframes de video usando Blazy."
 
 msgid "Mailchimp Campaign filter"
-msgstr ""
+msgstr "Filtro de campaña de Mailchimp"
 
 msgid "Replaces global and entity tokens with their values"
-msgstr ""
+msgstr "Sustituye los tokens globales y de entidad por sus valores"
 
 msgid "Lazy-load images and iframes"
-msgstr ""
+msgstr "Lazy-load images and iframes"
 
 msgid "<a href=':url'>Configure options</a>"
-msgstr ""
+msgstr "<a href=':url'>Configurar opciones</a>"
 
 msgid "Embed media"
 msgstr "Insertar medios"
 
 msgid "Embeds media items using a custom tag, <code>&lt;drupal-media&gt;</code>. If used in conjunction with the 'Align/Caption' filters, make sure this filter is configured to run after them."
-msgstr ""
+msgstr "Incrusta elementos multimedia utilizando una etiqueta personalizada, <code>&lt;drupal-media&gt;</code>. Si se utiliza junto con los filtros 'Align/Caption', asegúrese de que este filtro está configurado para ejecutarse después de ello"
 
 msgid "In most cases, Pathologic should be the <em>last</em> filter in the &ldquo;Filter processing order&rdquo; list."
-msgstr ""
+msgstr "En la mayoría de los casos, Pathologic debería ser el <em>last</em> filtro en la lista de &ldquo;Orden de procesamiento de los filtros&rdquo;."
 
 msgid "Use global Pathologic settings"
-msgstr ""
+msgstr "Utilizar la configuración global de Pathologic"
 
 msgid "Use custom settings for this text format"
-msgstr ""
+msgstr "Utilice la configuración personalizada para este formato de texto"
 
 msgid "Settings source"
-msgstr ""
+msgstr "Fuente de los ajustes"
 
 msgid "Select whether Pathologic should use the <a href=\":config\">global Pathologic settings</a> or custom &ldquo;local&rdquo; settings when filtering text in this text format."
-msgstr ""
+msgstr "Seleccione si Pathologic debe utilizar la <a href=\":config\">configuración global de Pathologic</a> o la configuración &ldquo;local&rdquo; personalizada al filtrar el texto en este formato de texto."
 
 msgid "Full URL (<code>http://example.com/foo/bar</code>)"
-msgstr ""
+msgstr "URL completa (<code>http://example.com/foo/bar</code>)"
 
 msgid "Protocol relative URL (<code>//example.com/foo/bar</code>)"
-msgstr ""
+msgstr "Protocolo de URL relativa (<code>//ejemplo.com/foo/bar</code>)"
 
 msgid "Path relative to server root (<code>/foo/bar</code>)"
-msgstr ""
+msgstr "Ruta relativa a la raíz del servidor (<code>/foo/bar</code>)"
 
 msgid "Processed URL format"
-msgstr ""
+msgstr "Formato de la URL procesada"
 
 msgid "The <em>Full URL</em> option is best for stopping broken images and links in syndicated content (such as in RSS feeds), but will likely lead to problems if your site is accessible by both HTTP and HTTPS. Paths output with the <em>Protocol relative URL</em> option will avoid such problems, but feed readers and other software not using up-to-date standards may be confused by the paths. The <em>Path relative to server root</em> option will avoid problems with sites accessible by both HTTP and HTTPS with no compatibility concerns, but will absolutely not fix broken images and links in syndicated content."
-msgstr ""
+msgstr "La opción <em>URL completa</em> es la mejor para detener las imágenes y los enlaces rotos en el contenido sindicado (como en los canales RSS), pero probablemente dará problemas si su sitio es accesible tanto por HTTP como por HTTPS. Las rutas de salida con la opción <em>Ruta relativa al protocolo</em> evitarán estos problemas, pero los lectores de feeds y otro software que no utilice los estándares actualizados pueden confundirse con las rutas. La opción <em>Ruta relativa a la raíz del servidor</em> evitará problemas con sitios accesibles tanto por HTTP como por HTTPS sin problemas de compatibilidad, pero no arreglará en absoluto las imágenes y los enlaces rotos en el contenido sindicado."
 
 msgid "All base paths for this site"
-msgstr ""
+msgstr "Todas las rutas de base para este sitio"
 
 msgid "If this site is or was available at more than one base path or URL, enter them here, separated by line breaks. For example, if this site is live at <code>http://example.com/</code> but has a staging version at <code>http://dev.example.org/staging/</code>, you would enter both those URLs here. If confused, please read <a href=\":docs\" target=\"_blank\">Pathologic&rsquo;s documentation</a> for more information about this option and what it affects."
-msgstr ""
+msgstr "Si este sitio está o estuvo disponible en más de una ruta base o URL, introdúzcalas aquí, separadas por saltos de línea. Por ejemplo, si este sitio está disponible en <code>http://example.com/</code> pero tiene una versión de prueba en <code>http://dev.example.org/staging/</code>, deberá introducir ambas URLs aquí. Si está confundido, por favor lea <a href=\":docs\" target=\"_blank\">Documentación de Pathologic</a> para más información sobre esta opción y a qué afecta."
 
 msgid "Custom settings for this text format"
-msgstr ""
+msgstr "Ajustes personalizados para este formato de texto"
 
 msgid "These settings are ignored if &ldquo;Use global Pathologic settings&rdquo; is selected above."
-msgstr ""
+msgstr "Estos ajustes se ignoran si &ldquo;Usar ajustes globales de Patología&rdquo; se selecciona arriba."
 
 msgid "Locally"
-msgstr ""
+msgstr "Localmente"
 
 msgid "On remote servers (note: this copies <em>all</em> remote images locally)"
-msgstr ""
+msgstr "En servidores remotos (nota: esto copia <em>all</em> las imágenes remotas localmente)"
 
 msgid "Resize images stored"
-msgstr ""
+msgstr "Cambiar el tamaño de las imágenes almacenadas"
 
 msgid "This option will determine which images will be analyzed for &lt;img&gt; tag differences. Enabling resizing of remote images can have performance impacts, as all images in the filtered text needs to be transferred via HTTP each time the filter cache is cleared."
-msgstr ""
+msgstr "Esta opción determinará qué imágenes se analizarán en busca de diferencias de etiquetas &lt;img&gt;. Activar el cambio de tamaño de las imágenes remotas puede tener impactos en el rendimiento, ya que todas las imágenes del texto filtrado deben ser transferidas vía HTTP cada vez que se borra la caché del filtro."
 
 msgid "The syntax that will be highlighted."
-msgstr ""
+msgstr "La sintaxis que será destacará."
 
 msgid "The height of the editor in either pixels or percents."
-msgstr ""
+msgstr "La altura del editor en píxeles o porcentajes."
 
 msgid "The width of the editor in either pixels or percents."
-msgstr ""
+msgstr "La anchura del editor en píxeles o porcentajes."
 
 msgid "The the font size of the editor."
-msgstr ""
+msgstr "El tamaño de la fuente del editor."
 
 msgid "Show line numbers"
-msgstr ""
+msgstr "Mostrar números de línea"
 
 msgid "Show print margin (80 chars)"
-msgstr ""
+msgstr "Mostrar el margen de impresión (80 caracteres)"
 
 msgid "Show invisible characters (whitespaces, EOL...)"
-msgstr ""
+msgstr "Mostrar caracteres invisibles (espacios en blanco, EOL...)"
 
 msgid "Toggle word wrapping"
-msgstr ""
+msgstr "Alternar la envoltura de palabras"
 
 msgid "Video iframe"
-msgstr ""
+msgstr "Iframe video"
 
 msgid "Enable HTML tags"
-msgstr ""
+msgstr "Activar etiquetas HTML"
 
 msgid "Recommended placement after Align / Caption images. To disable Blazy per individual item, add attribute <code>data-unblazy</code>."
-msgstr ""
+msgstr "Recommended placement after Align / Caption images. To disable Blazy per individual item, add attribute <code>data-unblazy</code>."
 
 msgid "Image to iframe"
-msgstr ""
+msgstr "Imagen para iframe"
 
 msgid "Image to @lightbox"
-msgstr ""
+msgstr "Imagen de @lightbox"
 
 msgid "<ul><li><b>Image to iframe</b> will hide iframe behind image till toggled.</li><li><b>Image to lightbox</b> (Colorbox, Photobox, PhotoSwipe) <b>requires</b> a grid to build the gallery correctly. Add <code>data-column=\"1 3 4\"</code> or <code>data-grid=\"1 3 4\"</code> to the first image/ iframe only.</li></ul>"
-msgstr ""
+msgstr "<ul><li><b>Imagen a iframe</b> ocultará el iframe detrás de la imagen hasta que se active.</li><li><b>Imagen a lightbox</b> (Colorbox, Photobox, PhotoSwipe) <b>requiere</b> una cuadrícula para construir la galería correctamente. Añade <code>data-column=\"1 3 4\"</code> o <code>data-grid=\"1 3 4\"</code> a la primera imagen/ iframe solamente.</li></ul>."
 
 msgid "Trust data URI"
-msgstr ""
+msgstr "Datos de confianza URI"
 
 msgid "Enable to support the use of data URI. Leave it unchecked if unsure, or never use data URI."
-msgstr ""
+msgstr "Habilitar para apoyar el uso de URI de datos. Déjelo sin marcar si no está seguro, o no utilice nunca el URI de datos"
 
 msgid "Replace empty values"
-msgstr ""
+msgstr "Reemplazar valores vacíos"
 
 msgid "Remove tokens from text if they cannot be replaced with a value"
-msgstr ""
+msgstr "Eliminar los tokens del texto si no se pueden sustituir por un valor"
 
 msgid "The view mode that an embedded media item should be displayed in by default. This can be overridden using the <code>data-view-mode</code> attribute."
-msgstr ""
+msgstr "El modo de vista en el que un elemento multimedia incrustado debe mostrarse por defecto. Se puede anular con el atributo <code>data-view-mode</code>."
 
 msgid "Media types selectable in the Media Library"
-msgstr ""
+msgstr "Tipos de medios seleccionables en la biblioteca de medios"
 
 msgid "If none are selected, all will be allowed."
-msgstr ""
+msgstr "Si no se selecciona ninguna, se permitirán todas."
 
 msgid "View modes selectable in the 'Edit media' dialog"
-msgstr ""
+msgstr "Modos de visualización seleccionables en el cuadro de diálogo \"Editar medios\"."
 
 msgid "If two or more view modes are selected, users will be able to update the view mode that an embedded media item should be displayed in after it has been embedded.  If less than two view modes are selected, media will be embedded using the default view mode and no view mode options will appear after a media item has been embedded."
-msgstr ""
+msgstr "Si se seleccionan dos o más modos de visualización, los usuarios podrán actualizar el modo de visualización en el que debe mostrarse un elemento multimedia incrustado después de haberlo hecho.  Si se seleccionan menos de dos modos de visualización, los medios se incrustarán utilizando el modo de visualización predeterminado y no aparecerán opciones de modo de visualización después de que se haya incrustado un elemento multimedia.\n"
+"\n"
+"Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator"
 
 msgid "Insert Font Awesome Icon"
-msgstr ""
+msgstr "Insertar icono de Font Awesome"
 
 msgid "Se ha realizado correctamente la actualización de precios y stock"
-msgstr ""
+msgstr "Se ha realizado correctamente la actualización de precios y stock"
 
 msgid "Actualizador"
-msgstr ""
+msgstr "Actualizador"
 
 msgid "Provides a user interface for selecting applicable tax rates on the product variation."
-msgstr ""
+msgstr "Proporciona una interfaz de usuario para seleccionar los tipos impositivos aplicables a la variación del producto."
 
 msgid "Applies to administration pages"
-msgstr ""
+msgstr "Se aplica a las páginas de administración"
 
 msgid "Uncheck to disable Easy breadcrumb for administration pages and routes like this one."
-msgstr ""
+msgstr "Desmarque esta opción para desactivar el \"Easy breadcrumb\" para las páginas de administración y las rutas como ésta."
 
 msgid "Include invalid paths alias as plain-text segments"
 msgstr "Incluir los alias de URLs invalidos como segmentos de texto plano"
@@ -79760,114 +79765,118 @@ msgid "Include the invalid paths alias as plain-text segments in the breadcrumb.
 msgstr "Incluir los alias de URLs invalidos como segmentos de texto plano en el breadcrumb."
 
 msgid "Include the current page as a segment in the breadcrumb"
-msgstr ""
+msgstr "Incluir la página actual como un segmento en el breadcrumb"
 
 msgid "Include the current page as the last segment in the breadcrumb."
-msgstr ""
+msgstr "Incluir la página actual como último segmento del breadcrumb."
 
 msgid "Remove repeated identical segments"
-msgstr ""
+msgstr "Eliminar segmentos idénticos repetidos"
 
 msgid "Remove segments of the breadcrumb that are identical."
-msgstr ""
+msgstr "Eliminar los segmentos de la miga de pan que son idénticos."
 
 msgid "Include the front page as a segment in the breadcrumb"
 msgstr "Incluir la portada como un segmento en el breadcrumb"
 
 msgid "Include the front page as the first segment in the breadcrumb."
-msgstr ""
+msgstr "Título para el segmento de la página principal en el breadcrumb"
 
 msgid "Title for the front page segment in the breadcrumb"
-msgstr ""
+msgstr "Título para el segmento de la página principal en el breadcrumb"
 
 msgid "Text to be displayed as the front page segment. This field works together with the \"Include the front page as a segment in the breadcrumb\"-option."
-msgstr ""
+msgstr "Texto que se mostrará como segmento de la página principal. Este campo funciona junto con la opción \"Incluir la página principal como un segmento en el breadcrumb\"."
 
 msgid "Use the real page title when available"
-msgstr ""
+msgstr "Utilice el título real de la página cuando esté disponible"
 
 msgid "Use the real page title when it is available instead of always deducing it from the URL."
-msgstr ""
+msgstr "Utilice el título real de la página cuando esté disponible en lugar de deducirlo siempre de la URL."
 
 msgid "Use menu title when available"
-msgstr ""
+msgstr "Utilice el título del menú cuando esté disponible"
 
 msgid "Use menu title instead of raw path component. The real page title setting above will take presidence over this setting. So, one or the other, but not both."
-msgstr ""
+msgstr "Utilizar el título del menú en lugar del componente de la ruta cruda. La configuración del título real de la página anterior prevalecerá sobre esta configuración. Por lo tanto, uno o el otro, pero no ambos."
 
 msgid "Use page title as fallback for menu title"
-msgstr ""
+msgstr "Utilizar el título de la página como alternativa si no se encuentra el título del menú. Esta opción funciona cuando no se utiliza el \"título real de la página\" anterior."
 
 msgid "Use page title as fallback if menu title cannot be found. This option works when not using \"real page title\" above."
-msgstr ""
+msgstr "Utilizar el título de la página como alternativa si no se encuentra el título del menú. Esta opción funciona cuando no se utiliza el \"título real de la página\" anterior."
 
 msgid "Use site title as the front page segment"
-msgstr ""
+msgstr "Utilizar el título del sitio como segmento de la página principal"
 
 msgid "Use site title as the front page segment. This field works together with the \"Include the front page as a segment in the breadcrumb\"-option."
-msgstr ""
+msgstr "Utilizar el título del sitio como segmento de la página principal. Este campo funciona junto con la opción \"Incluir la página principal como un segmento en el breadcrumb\"."
 
 msgid "Add current breadcrumb as structured data."
-msgstr ""
+msgstr "Añadir la miga de pan actual como datos estructurados."
 
 msgid "Check to have the current breadcrumb trail added as <a href=\"@href\" target=\"_blank\">structured data</a> in JSON-LD to the HTML <code><head></code>."
-msgstr ""
+msgstr "Comprueba que el rastro de migas de pan actual se añade como <a href=\"@href\" target=\"_blank\">datos estructurados</a> en JSON-LD al HTML <code><head></code>."
 
 msgid "Paths to be excluded while generating segments"
-msgstr ""
+msgstr "Rutas que deben excluirse al generar segmentos"
 
 msgid "Enter a line separated list of paths to be excluded while generating the segments.\n"
 "\t\t\tPaths may use simple regex, i.e.: report/2[0-9][0-9][0-9]."
-msgstr ""
+msgstr "Introduzca una lista separada por líneas de las rutas que deben excluirse al generar los segmentos.\n"
+"\t\t\tLas rutas pueden utilizar regex simple, es decir: report/2[0-9][0-9][0-9]."
 
 msgid "Titles to be replaced while generating segments"
-msgstr ""
+msgstr "Títulos que se sustituyen al generar segmentos"
 
 msgid "Enter a line separated list of titles with their replacements separated by ::.<br>\n"
 "\t\t\tFor example TITLE::DIFFERENT_TITLE<br>This field works together with the option \"Use the real page title when available\" option."
-msgstr ""
+msgstr "Introduzca una lista de títulos separada por líneas con sus sustituciones separadas por ::.<br>\n"
+"\t\t\tPor ejemplo TITLE::DIFFERENT_TITLE<br>Este campo funciona junto con la opción \"Usar el título real de la página cuando esté disponible\"."
 
 msgid "Paths to replace with custom breadcrumbs"
-msgstr ""
+msgstr "Rutas para reemplazar con migas de pan personalizadas"
 
 msgid "Enter a line separated list of internal paths followed by breadcrumb pattern. Separate crumbs from their path with a vertical bar (\"|\"). Separate crumbs with double-colon (\"::\"). Omit the URL to display an unlinked crumb. Fields will be trimmed to remove extra start/end spaces, so you can use them to help format your input, if desired. Replaced Titles will not be processed on custom paths. Excluded paths listed here will have breadcrumbs added. Examples (with and without extra spacing):<br><code>/news/archive/site_launched  ::  News | /news  ::  Archive | /news/archive  ::  Site Launched<br>/your/path::LinkedCrumb1|url1::LinkedCrumb2|url2::UnlinkedCrumb3</code><br><p>It is also possible to express the path to be matched as a <a href=\"https://www.php.net/manual/en/book.pcre.php\" target=\"_blank\">regex expression</a>. \"regex!\" must be added to the start of the path to match in order for it to be interpreted as regex:<br><code>regex!/news/archive/\\d{4} ::  News | /news  ::  Archive | /news/archive</code><p>Expressions can even include matching groups which can be referenced in the path of a segment path:<br><code>regex!/groups/([^/]*)/info :: Groups | /groups :: Group | /groups/$1</code></p>"
-msgstr ""
+msgstr "Introduzca una lista de rutas internas separada por líneas y seguida de un patrón de migas de pan. Separe las migas de su ruta con una barra vertical (\"|\"). Separe las migas con dos puntos (\"::\"). Omita la URL para mostrar una miga no enlazada. Los campos serán recortados para eliminar los espacios extra de inicio/fin, por lo que puede utilizarlos para ayudar a formatear su entrada, si lo desea. Los títulos sustituidos no se procesarán en las rutas personalizadas. Las rutas excluidas que aparecen aquí tendrán migas de pan añadidas. Ejemplos (con y sin espacio extra):<br><code>/news/archive/site_launched :: News | /news ::  Archivo | /noticias/archivo :: Lanzamiento del sitio<br>/su/ruta::LinkedCrumb1|url1::LinkedCrumb2|url2::UnlinkedCrumb3</code><br><p>También es posible expresar la ruta a comparar como una <a href=\"https://www.php.net/manual/en/book.pcre.php\" target=\"_blank\">expresión regex</a>. \"¡regex!\" debe añadirse al inicio de la ruta a comparar para que se interprete como regex:<br><code>¡regex!/noticias/archivo/\\d{4} ::  Noticias | /noticias ::  Archivo | /noticias/archivo</code><p>Las expresiones pueden incluso incluir grupos coincidentes a los que se puede hacer referencia en la ruta de un segmento:<br><code>¡regex!/grupos/([^/]*)/info :: Grupos | /grupos :: Grupo | /grupos/$1</code></p>\n"
+"\n"
+"Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator"
 
 msgid "Display the front page segment on the front page"
-msgstr ""
+msgstr "Mostrar el segmento de portada en la página principal"
 
 msgid "If checked, the Home segment will be displayed on the front page."
-msgstr ""
+msgstr "Si está marcada, el segmento de Inicio se mostrará en la página principal."
 
 msgid "Make the current page title segment a link"
-msgstr ""
+msgstr "Convertir el segmento del título de la página actual en un enlace"
 
 msgid "Prints the page title segment as a link. This option works together with the \"Include the current page as a segment in the breadcrumb\"-option."
-msgstr ""
+msgstr "Imprime el segmento del título de la página como un enlace. Esta opción funciona junto con la opción \"Incluir la página actual como un segmento en el breadcrumb\"."
 
 msgid "Make the language path prefix a segment"
-msgstr ""
+msgstr "Hacer que el prefijo de la ruta lingüística sea un segmento"
 
 msgid "On multilingual sites where a path prefix (\"/en\") is used, add this in the breadcrumb."
-msgstr ""
+msgstr "En los sitios multilingües en los que se utiliza un prefijo de ruta (\"/es\"), añádalo en la miga de pan."
 
 msgid "Use absolute path for Breadcrumb links"
-msgstr ""
+msgstr "Utilizar la ruta absoluta para los enlaces Breadcrumb"
 
 msgid "By selecting, absolute paths will be used (default: false) instead of relative."
-msgstr ""
+msgstr "Si se selecciona, se utilizarán las rutas absolutas (por defecto: false) en lugar de las relativas."
 
 msgid "Hide link to home page if it's the only breadcrumb item"
-msgstr ""
+msgstr "Ocultar el enlace a la página de inicio si es el único elemento del breadcrumb"
 
 msgid "Hide the breadcrumb when it only links to the home page and nothing more. <br> <strong>Note: If the homepage path is a \"/\" then this feature has an uncertain behavior.</strong>"
-msgstr ""
+msgstr "Oculta la miga de pan cuando sólo enlaza con la página de inicio y nada más. <br> <strong>Nota: Si la ruta de la página de inicio es un \"/\" entonces esta función tiene un comportamiento incierto.</strong>."
 
 msgid "Add parent hierarchy"
-msgstr ""
+msgstr "Añadir jerarquía de padres"
 
 msgid "Add all taxonomy parents in the crumb for current term."
-msgstr ""
+msgstr "Añadir todos los padres de la taxonomía en la miga para el término actual."
 
 msgid "Capitalize the first letter of each word in the segment"
 msgstr "Poner en mayúscula la primera letra de cada palabra en el segmento"
@@ -79876,10 +79885,10 @@ msgid "Only capitalize the first letter of each segment"
 msgstr "Poner en mayúscula sólo la primera letra de cada segmento"
 
 msgid "Capitalize all the letters of each word in the segment"
-msgstr ""
+msgstr "Escriba todas las letras de cada palabra del segmento en mayúsculas"
 
 msgid "Capitalize only the words that are set below"
-msgstr ""
+msgstr "Escriba en mayúsculas sólo las palabras que se indican a continuación"
 
 msgid "Transformation mode for the segments' titles"
 msgstr "Modo para la transformación de los títulos de los segmentos"
@@ -79891,160 +79900,160 @@ msgid "Words to be ignored by the 'capitalizator'"
 msgstr "Palabras a ser ignoradas por el 'conversor a mayúsculas'"
 
 msgid "Enter a space separated list of words to be ignored by the 'capitalizator'. This will be applied only to the words not at the beginning of each segment. E.g.: of and."
-msgstr ""
+msgstr "Introduzca una lista, separada por espacios, de palabras que serán ignoradas por el 'capitalizador'. Esto se aplicará sólo a las palabras que no estén al principio de cada segmento. Por ejemplo: de y."
 
 msgid "Words to be forced to capitalized by the 'capitalizator'"
-msgstr ""
+msgstr "Palabras que deben ser forzadas a escribirse en mayúsculas por el 'capitalizador'"
 
 msgid "Enter a space separated list of words to be forced by the 'capitalizator'. This will be applied only to the words that are listed. This field is case sensitive. E.g.: if you want to capitalize your brand's name."
-msgstr ""
+msgstr "Introduzca una lista, separada por espacios, de palabras que deben ser forzadas por el 'capitalizador'. Esto se aplicará sólo a las palabras que aparecen en la lista. Este campo distingue entre mayúsculas y minúsculas. Por ejemplo: si quiere poner en mayúsculas el nombre de su marca."
 
 msgid "Use case sensitivity when matching words to be forced to capitalization."
-msgstr ""
+msgstr "Utilizar la sensibilidad a las mayúsculas y minúsculas cuando se busquen palabras para forzar las mayúsculas."
 
 msgid "If checked, it matches drupal with drupal, druPAL with druPAL. Unchecked, it matches drupal with Drupal, drupal with druPAL."
-msgstr ""
+msgstr "Si está marcada, coincide drupal con drupal, druPAL con druPAL. Sin marcar, coincide drupal con Drupal, drupal con druPAL."
 
 msgid "Make the first letters of each segment capitalized."
-msgstr ""
+msgstr "Las primeras letras de cada segmento deben ir en mayúsculas."
 
 msgid "Easy Breadcrumb"
 msgstr ""
 
 msgid "Ha ocurrido un error, contacte con Prodigia support."
-msgstr ""
+msgstr "Ha ocurrido un error, contacte con Prodigia support."
 
 msgid "Resultados de la búsqueda"
-msgstr ""
+msgstr "Resultados de la búsqueda"
 
 msgid "Select product variation"
-msgstr ""
+msgstr "Seleccione la variación del producto"
 
 msgid "Create stock transaction"
-msgstr ""
+msgstr "Crear una operación de stock"
 
 msgid "The title of the purchased entity."
-msgstr ""
+msgstr "El título de la entidad adquirida."
 
 msgid "The stock level of the item."
-msgstr ""
+msgstr "El nivel de existencias del artículo."
 
 msgid "The quantity requested."
-msgstr ""
+msgstr "La cantidad solicitada."
 
 msgid "The quantity already in cart."
-msgstr ""
+msgstr "La cantidad que ya está en la cesta."
 
 msgid "Available tokens:"
-msgstr ""
+msgstr "Tokens disponibles:"
 
 msgid "@data"
-msgstr ""
+msgstr "@data"
 
 msgid "Message text"
 msgstr "Texto del mensaje"
 
 msgid "Configure Commerce Stock Enforcement"
-msgstr ""
+msgstr "Configurar la aplicación del stock de comercio"
 
 msgid "Location ID"
-msgstr ""
+msgstr "Identificación de la ubicación"
 
 msgid "Add stock location"
-msgstr ""
+msgstr "Añadir ubicación del stock"
 
 msgid "Add stock location type"
-msgstr ""
+msgstr "Añadir tipo de localización de existencias"
 
 msgid "Label for the stock location type."
-msgstr ""
+msgstr "Etiqueta para el tipo de ubicación del stock."
 
 msgid "Price with Cost"
-msgstr ""
+msgstr "Precio con coste"
 
 msgid "Provides a link to stock transaction form."
-msgstr ""
+msgstr "Proporciona un enlace al formulario de transacción de acciones."
 
 msgid "transaction form"
-msgstr ""
+msgstr "formulario de transacción"
 
 msgid "Please use the @transaction to create any stock transactions."
-msgstr ""
+msgstr "Por favor, utilice la @transaction para crear cualquier transacción de acciones."
 
 msgid "Receive stock"
-msgstr ""
+msgstr "Recibir las existencias"
 
 msgid "Sell stock"
-msgstr ""
+msgstr "Vender stock"
 
 msgid "Return stock"
-msgstr ""
+msgstr "Acciones de retorno"
 
 msgid "Move stock"
-msgstr ""
+msgstr "Mover el stock"
 
 msgid "Zone/Bins"
-msgstr ""
+msgstr "Zona/Cubos"
 
 msgid "The location zone (bins)"
-msgstr ""
+msgstr "La zona de ubicación (bins)"
 
 msgid "Source location"
-msgstr ""
+msgstr "Ubicación de la fuente"
 
 msgid "Target Location"
-msgstr ""
+msgstr "Ubicación del objetivo"
 
 msgid "Move target"
-msgstr ""
+msgstr "Mover el objetivo"
 
 msgid "Optional user"
-msgstr ""
+msgstr "Usuario opcional"
 
 msgid "Optional order number"
-msgstr ""
+msgstr "Número de pedido opcional"
 
 msgid "A note for the transaction"
-msgstr ""
+msgstr "Nota para la transacción"
 
 msgid "Create stock transaction for :product_variation"
-msgstr ""
+msgstr "Crear transacción de stock para :product_variation"
 
 msgid "Default transaction note"
-msgstr ""
+msgstr "Nota de transacción por defecto"
 
 msgid "Use this as default transaction note."
-msgstr ""
+msgstr "Utilícela como nota de transacción por defecto."
 
 msgid "Allow custom note per transaction."
-msgstr ""
+msgstr "Permitir una nota personalizada por transacción."
 
 msgid "Only stock levels that are multiples of the selected step will be allowed. Maximum precision is 2 (0.01)."
-msgstr ""
+msgstr "Sólo se permitirán niveles de stock que sean múltiplos del paso seleccionado. La precisión máxima es 2 (0,01)."
 
 msgid "Set the absolute stock level. We don't recommend using this widget. Read the docs to learn why."
-msgstr ""
+msgstr "Establezca el nivel de existencias absoluto. No recomendamos usar este widget. Lea la documentación para saber por qué."
 
 msgid "Absolute stock level settings"
-msgstr ""
+msgstr "Ajustes absolutos del nivel de existencias"
 
 msgid "Sets the stock level. Current stock level: @stock_level. Note: Under the hood we create a transaction. Setting the absolute stock level may end in unexpected results. Learn more about transactional inventory management in the docs."
-msgstr ""
+msgstr "Establece el nivel de existencias. Nivel de stock actual: @stock_level. Nota: Bajo el capó creamos una transacción. Establecer el nivel de stock absoluto puede terminar en resultados inesperados. Aprenda más sobre la gestión transaccional del inventario en los documentos."
 
 msgid "There are no disabled @label."
 msgstr "No hay ninguna @label deshabilitada."
 
 msgid "Alternative title field name for breadcrumb"
-msgstr ""
+msgstr "Nombre alternativo del campo del título para el breadcrumb"
 
 msgid "This field name is to be added in the entity to display the alternative title in the breadcrumb."
-msgstr ""
+msgstr "Este nombre de campo debe añadirse en la entidad para mostrar el título alternativo en el breadcrumb."
 
 msgid "Follow redirects."
-msgstr ""
+msgstr "Sigue los redireccionamientos."
 
 msgid "In case the <a href=\"@href\" target=\"_blank\">redirect module</a> is enabled, follow the configured redirects"
-msgstr ""
+msgstr "En caso de que el módulo <a href=\"@href\" target=\"_blank\">redirección</a> esté activado, siga las redirecciones configuradas"
 
 msgid "Limit breadcrumb trail segments"
 msgstr "Limitar los segmentos del sendero de migas de pan"
@@ -80071,49 +80080,49 @@ msgid "The truncated page's title will have 3 dots in its end."
 msgstr "El título de la página truncada tendrá 3 puntos al final."
 
 msgid "field_breadcrumb_title"
-msgstr ""
+msgstr "field_breadcrumb_title"
 
 msgid "100"
-msgstr ""
+msgstr "100"
 
 msgid "Advanced Entity Tokens"
 msgstr "Tokens de entidades avanzadas"
 
 msgid "Cuidado de la Piel"
-msgstr ""
+msgstr "Cuidado de la Piel"
 
 msgid "Cuidado del Cabello"
-msgstr ""
+msgstr "Cuidado del Cabello"
 
 msgid "Cuidado del Culito"
-msgstr ""
+msgstr "Cuidado del Culito"
 
 msgid "Leches de Inicio 1"
-msgstr ""
+msgstr "Leches de Inicio 1"
 
 msgid "Leches de Continuación 2"
-msgstr ""
+msgstr "Leches de Continuación 2"
 
 msgid "Leches Crecimiento 3 y 4"
-msgstr ""
+msgstr "Leches Crecimiento 3 y 4"
 
 msgid "Cereales y Papillas"
-msgstr ""
+msgstr "Cereales y Papillas"
 
 msgid "Potitos y Postres"
-msgstr ""
+msgstr "Potitos y Postres"
 
 msgid "Galletas, Zumos y Batidos"
-msgstr ""
+msgstr "Infusiones y Complementos Alimentación"
 
 msgid "Infusiones y Complementos Alimentación"
-msgstr ""
+msgstr "Infusiones y Complementos Alimentación"
 
 msgid "Limpieza y Esterilización"
-msgstr ""
+msgstr "Limpieza y Esterilización"
 
 msgid "Canastillas"
-msgstr ""
+msgstr "Canastillas"
 
 msgid "Reveals all of Drupal's entities to the token system by using their IDs"
 msgstr "Revela todas las entidades de Drupal al sistema de tokens utilizando sus IDs"
@@ -80131,31 +80140,31 @@ msgid "<a href=\":href\">Learn more</a>"
 msgstr "<a href=\":href\">Saber más</a>"
 
 msgid "Medias y Calcetines"
-msgstr ""
+msgstr "Medias y Calcetines"
 
 msgid "Otros accesorios"
-msgstr ""
+msgstr "Otros accesorios"
 
 msgid "Garganta y Nariz"
-msgstr ""
+msgstr "Garganta y Nariz"
 
 msgid "Tos y Resfriados"
-msgstr ""
+msgstr "Tos y Resfriados"
 
 msgid "Colesterol y Cardioprotectores"
-msgstr ""
+msgstr "Colesterol y Cardioprotectores"
 
 msgid "Antidiarreico y Flora intestinal"
-msgstr ""
+msgstr "Antidiarreico y Flora intestinal"
 
 msgid "Colón Irritable"
-msgstr ""
+msgstr "Colón Irritable"
 
 msgid "Diarrea y Flora Intestinal"
-msgstr ""
+msgstr "Diarrea y Flora Intestinal"
 
 msgid "Estreñimiento y Cólicos"
-msgstr ""
+msgstr "Estreñimiento y Cólicos"
 
 msgid "AET Description"
 msgstr "Descripción de AET"
@@ -80804,7 +80813,7 @@ msgid "Sorry, we only have %qty in stock and you've asked for %qty_asked."
 msgstr ""
 
 msgid "Sorry, we only have %qty in stock and you already added %qty_o to your cart."
-msgstr ""
+msgstr "Lo sentimos, sólo tenemos % de stock y ya has añadido % de cantidad_o a tu cesta."
 
 msgid "Complementos Alimenticios"
 msgstr "Complementos Alimenticios"
@@ -80916,112 +80925,112 @@ msgid "Settings for transforming of uploaded images"
 msgstr "Ajustes para la transformación de las imágenes cargadas"
 
 msgid "Salud Íntima"
-msgstr ""
+msgstr "Salud Íntima"
 
 msgid "Actividad Mental y Memoria"
-msgstr ""
+msgstr "Actividad Mental y Memoria"
 
 msgid "Ojos y Oído"
-msgstr ""
+msgstr "Ojos y Oído"
 
 msgid "Accesorios y Otros"
-msgstr ""
+msgstr "Accesorios y Otros"
 
 msgid "Metatag display extender"
-msgstr ""
+msgstr "Extensión de la pantalla Metatag"
 
 msgid "Falta Deseo y Vigorizantes"
-msgstr ""
+msgstr "Falta Deseo y Vigorizantes"
 
 msgid "Cuidados Bebé"
-msgstr ""
+msgstr "Cuidados Bebé"
 
 msgid "Pastillas Jabón (pan)"
-msgstr ""
+msgstr "Pastillas Jabón (pan)"
 
 msgid "Agua Micelar"
-msgstr ""
+msgstr "Agua Micelar"
 
 msgid "Fluidos"
-msgstr ""
+msgstr "Fluidos"
 
 msgid "Contornos de Ojos"
-msgstr ""
+msgstr "Contornos de Ojos"
 
 msgid "Hidratación Facial"
-msgstr ""
+msgstr "Hidratación Facial"
 
 msgid "Contorno de Ojos"
-msgstr ""
+msgstr "Contorno de Ojos"
 
 msgid "Exfoliantes Faciales"
-msgstr ""
+msgstr "Exfoliantes Faciales"
 
 msgid "Mascarillas Faciales"
-msgstr ""
+msgstr "Mascarillas Faciales"
 
 msgid "Cremas Corporales"
-msgstr ""
+msgstr "Cremas Corporales"
 
 msgid "Lociones Corporales"
-msgstr ""
+msgstr "Lociones Corporales"
 
 msgid "Aceites Corporales"
-msgstr ""
+msgstr "Aceites Corporales"
 
 msgid "Exfoliantes Corporales"
-msgstr ""
+msgstr "Exfoliantes Corporales"
 
 msgid "Rosacea, Cuperosis"
-msgstr ""
+msgstr "Rosacea, Cuperosis"
 
 msgid "Cejas y Pestañas"
-msgstr ""
+msgstr "Cejas y Pestañas"
 
 msgid "Hidratación y Reparación Manos"
-msgstr ""
+msgstr "Hidratación y Reparación Manos"
 
 msgid "Fortalecedores de Uñas"
-msgstr ""
+msgstr "Fortalecedores de Uñas"
 
 msgid "Hidratación y Reparación Labios"
-msgstr ""
+msgstr "Hidratación y Reparación Labios"
 
 msgid "Cosmético Labial"
-msgstr ""
+msgstr "Cosmético Labial"
 
 msgid "Labiales Infantiles"
-msgstr ""
+msgstr "Labiales Infantiles"
 
 msgid "Antiedad y Antioxidante"
-msgstr ""
+msgstr "Antiedad y Antioxidante"
 
 msgid "Cabello y Uñas"
-msgstr ""
+msgstr "Cabello y Uñas"
 
 msgid "Cremas y Leches Corporales"
-msgstr ""
+msgstr "Cremas y Leches Corporales"
 
 msgid "Lociones y Geles Corporales"
-msgstr ""
+msgstr "Lociones y Geles Corporales"
 
 msgid "Cremas y Leches"
-msgstr ""
+msgstr "Cremas y Leches"
 
 msgid "Lociones y Geles"
-msgstr ""
+msgstr "Lociones y Geles"
 
 msgid "Sequedad y Irritación"
-msgstr ""
+msgstr "Sequedad y Irritación"
 
 msgid "Colirios Humectantes"
-msgstr ""
+msgstr "Colirios Humectantes"
 
 msgid "Colirios Descongestivos"
-msgstr ""
+msgstr "Colirios Descongestivos"
 
 msgid "Nutricosmética Ocular"
-msgstr ""
+msgstr "Nutricosmética Ocular"
 
 msgid "Productos para Lentes"
 msgstr "Productos para Lentes"
@@ -84701,7 +84710,7 @@ msgid "Bottom Right"
 msgstr "Inferior Derecha"
 
 msgid "Library: %property"
-msgstr ""
+msgstr "Biblioteca: %property"
 
 msgctxt "layout_region"
 msgid "First above"
@@ -84720,7 +84729,7 @@ msgid "Second below"
 msgstr "Segundo por debajo"
 
 msgid "Description: %property"
-msgstr ""
+msgstr "Descripción: %property"
 
 msgid "The hero is a large block that typically appears at the top of the page and contains a large full-bleed image and a title. Typically found on homepages and marketing pages."
 msgstr "El héroe es un gran bloque que suele aparecer en la parte superior de la página y contiene una gran imagen a todo color y un título. Suele aparecer en las páginas de inicio y de marketing."
